@@ -1,5 +1,6 @@
 ---
 title: 'Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex'
+layout: post
 
 ---
 ## Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex
