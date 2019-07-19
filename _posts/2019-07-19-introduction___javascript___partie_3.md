@@ -3,7 +3,6 @@ title: Introduction à Javascript – Partie 3
 layout: post
 
 ---
-
 ![2019-07-05-814110.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-814110.jpg)
 
 ## Introduction à Javascript – Partie 3
@@ -17,7 +16,10 @@ Après avoir appris les bases de JS durant les 2 ateliers précédents, nous all
 * Durée de l’atelier : 2 heures.
 * Cible : Débutants.
 
-### À propos de JavaScript
+### À propos de Jav
+<!--more-->
+
+aScript
 
 A ses début l’usage de ce langage de programmation semblait limité à enrichir l’expérience web via des scripts ; il est devenu essentiel à l’Internet d’aujourd’hui et est utilisé pour réaliser des applications complexes comme des suites bureautiques, du traitement d’images ou des moteurs 3D. Notons aussi son implémentation côté serveur avec Node JS.
 
