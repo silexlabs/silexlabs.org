@@ -3,7 +3,6 @@ title: 'Vim à vie #1 : Pourquoi et comment ?'
 layout: post
 
 ---
-
 ![2019-07-05-747294.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png)
 
 ## Vim à vie #1 : Pourquoi et comment ?
@@ -13,6 +12,10 @@ layout: post
 Vim c’est différent. Parce que c’est mieux.
 
 Avec une telle intro, il ne devrait pas y avoir de fanboy d’emacs ou Eclipse ! Mais la question reste : pourquoi, en 2018, des gens s’obstinent à utiliser un éditeur de texte dans une console ? Pire, pourquoi le revendiquent-ils ?
+
+
+<!--more-->
+
 
 ### À propos de Vim
 
