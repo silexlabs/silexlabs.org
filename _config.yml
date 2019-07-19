@@ -1,3 +1,6 @@
 
 paginate: 2
 paginate_path: "/page/:num/"
+
+plugins:
+- jekyll-sitemap
