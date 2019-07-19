@@ -1,5 +1,6 @@
 ---
 title: 'Vim à vie #1 : Pourquoi et comment ?'
+layout: post
 
 ---
 
