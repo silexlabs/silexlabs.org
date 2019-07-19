@@ -1,6 +1,7 @@
 
-paginate: 2
+paginate: 10
 paginate_path: "/page/:num/"
 
 plugins:
 - jekyll-sitemap
+- jekyll-paginate
