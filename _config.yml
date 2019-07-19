@@ -5,3 +5,5 @@ paginate_path: "/page/:num/"
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
+
+excerpt_separator: "<!--more-->"
