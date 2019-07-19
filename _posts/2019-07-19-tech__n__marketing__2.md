@@ -1,8 +1,8 @@
 ---
 title: 'Tech ‘n’ Marketing #2'
+layout: post
 
 ---
-
 ![2019-07-05-549346.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-549346.png)
 
 ## Tech ‘n’ Marketing #2
