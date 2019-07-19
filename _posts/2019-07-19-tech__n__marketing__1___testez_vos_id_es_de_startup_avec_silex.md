@@ -3,7 +3,6 @@ title: 'Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex'
 layout: post
 
 ---
-
 ![2019-07-05-953330.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-953330.jpg)
 
 
@@ -14,6 +13,8 @@ layout: post
 ### Une landing page pour tester votre idée
 
 Pour tester une idée de startup, rien de tel que de créer une « landing page » ou site vitrine, pour proposer aux gens votre futur service.
+
+<!--more-->
 
 Cet atelier est le 1er d’une série de 3 ateliers destinés aux débutants Silex. Cette série est axée sur l’utilisation de Silex avec des outils de marketing gratuits, utiles pour toute personne ou structure qui veut trouver plus de client, gagner en visibilité.
 
