@@ -1,9 +1,11 @@
 
 paginate: 10
-paginate_path: "/page/:num/"
+paginate_path: "/:num"
 
 plugins:
 - jekyll-sitemap
 - jekyll-paginate
 
 excerpt_separator: "<!--more-->"
+
+baseurl: "/silexlabs.org"
