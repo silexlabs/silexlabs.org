@@ -13,6 +13,8 @@ Oui, il est possible de faire du marketing quand on est dans la tech ! Il existe
 
 Pour naviguer dans cet océan de possibilité, notre équipe est là pour vous donner le cap.
 
+<!--more-->
+
 ### Résumé des épisodes précédents
 
 Lors du dernier atelier, nous avons vu comment créer une landing page avec le créateur de site web Silex avec une gestion de mailing list via MailChimp et un formulaire de contact avec FormSpree.
