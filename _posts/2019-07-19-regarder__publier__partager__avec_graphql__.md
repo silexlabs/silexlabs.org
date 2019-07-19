@@ -1,5 +1,5 @@
 ---
-{}
+title: 'Regarder, publier, partager… avec GraphQL !'
 
 ---
 ![2019-07-05-904443.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-904443.jpg)
