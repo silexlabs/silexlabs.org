@@ -3,7 +3,6 @@ title: 'Apéropensource #49'
 layout: post
 
 ---
-
 ![2019-07-05-788180.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-788180.png)
 
 ## Apéropensource #49
@@ -13,6 +12,9 @@ layout: post
 ### Le but des apéros
 
 L’idée est juste de discuter. Nous pouvons parler évidemment d’opensource mais également de vos projets, de vos idées et des technologies en vogue. Quelle est pour vous la techno du printemps ? La montée de température fait-elle bourgeonner des idées dans votre tête ? On veut votre avis !
+
+<!--more-->
+
 
 ### Les objectifs d’un apéropensource
 
