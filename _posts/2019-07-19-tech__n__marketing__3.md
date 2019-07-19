@@ -13,6 +13,8 @@ Oui, il est possible de faire du marketing quand on est dans la tech ! Il existe
 
 Pour naviguer dans cet océan de possibilité, notre équipe est là pour vous donner le cap.
 
+<!--more-->
+
 ### Résumé des épisodes précédents
 
 Lors du dernier atelier, nous avons adapter la landing page au mobile et aux Facebook Pages et nous avons aborder le SEO.
