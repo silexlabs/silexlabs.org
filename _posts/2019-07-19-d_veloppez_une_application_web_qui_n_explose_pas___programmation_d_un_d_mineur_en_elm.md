@@ -5,7 +5,6 @@ title: >-
 layout: post
 
 ---
-
 ![2019-07-05-131129.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-131129.png)
 
 ## Développez une application web qui n’explose pas – Programmation d’un démineur en Elm
@@ -16,7 +15,11 @@ layout: post
 ### Qu’est ce que Elm ?
 
 Elm (https://elm-lang.org/ ) est un langage permettant de créer des applications web fiables. Le plus étonnant est que cette fiabilité est obtenue avec un très faible nombre de concepts, faisant de Elm un langage rapide à apprendre.
-Au programme
+
+<!--more-->
+
+### Au programme
+
 
 Nous verrons à quel point « The Elm Architecture » rend la conception d’application web d’une facilité déconcertante, grâce à un modèle de circulation des données à sens unique (ayant inspiré le célèbre Redux de React).
 
