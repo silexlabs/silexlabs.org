@@ -1,7 +1,7 @@
 ---
-title: A propos
+title: A propos de Silex Labs
 layout: page
-nav: true
+nav: à propos
 ---
 ## Présentation de Silex Labs
 
