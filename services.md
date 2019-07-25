@@ -1,7 +1,8 @@
 ---
-title: Services
+title: Activités proposées par Silex Labs 
 layout: page
-
+nav: Services
+lang: en
 ---
 Here is a list of the services provided by [Silex Labs](https://www.silexlabs.org/silexlabs/ "Silex Labs non profit organization") to open source communities.
 
