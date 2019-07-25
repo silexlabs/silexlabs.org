@@ -17,8 +17,10 @@ En payant l’adhésion de 15€ vous deviendrez membre de Silex Labs pour l’a
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">  
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">  
-<input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_paynowCC_LG.gif" type="image">     <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">Si vous le souhaitez vous pouvez aussi donner un peu plus et ainsi faire un don pour soutenir l’association (vos dons sont déductibles de vos impôts à 66%).  
-![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)</form>
+<input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_paynowCC_LG.gif" type="image">     <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image"></form>
+
+Si vous le souhaitez vous pouvez aussi donner un peu plus et ainsi faire un don pour soutenir l’association (vos dons sont déductibles de vos impôts à 66%).  
+![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
 
 **NOS OBJECTIFS**
 
