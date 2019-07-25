@@ -58,7 +58,8 @@ Beaucoup de nos événements sont gratuits mais si vous souhaitez avoir accès �
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">  
 <input name="hosted_button_id" type="hidden" value="VY5MXUNYUDVKA">  
 <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">  
-![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)</form>
+</form>
+![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
 
 **RESTONS CONNECTÉS**
 
