@@ -2,7 +2,7 @@
 {% for item in site.pages %}
   {% if item.nav and item.url != '/2/' %}
     <li>
-      <a class="{% if item.url == page.url %}page-link-active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+      <a class="{% if item.url == page.url %}page-link-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
     </li>
   {% endif %}
 {% endfor %}
