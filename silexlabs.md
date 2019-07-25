@@ -1,6 +1,6 @@
 ---
 title: About Silex Labs
-layout: post
+layout: page
 
 ---
 ## Présentation de Silex Labs
