@@ -25,9 +25,11 @@
         <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 silex-container-content container-element website-width" style=""><a href="{{ site.url }}{{site.baseurl}}/" data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" style=""><img src="{{ site.url }}{{ site.baseurl }}/assets/silexlabs.org_.2015.png" class="silex-element-content"></a><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" style=""><div class="silex-element-content normal">
 <span class="prodotype-published">
   {% for item in site.pages %}
+  {% if item.nav %}
     <li class="{% if item.url == page.url %}active{% endif %}">
       <a href="{{ item.url }}">{{ item.title }}</a>
     </li>
+  {% endif %}
 {% endfor %}
 </span>
 </div></div></div>
