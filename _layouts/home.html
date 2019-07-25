@@ -26,7 +26,7 @@
 <span class="prodotype-published">
   <ul>
 {% for item in site.pages %}
-  {% if item.nav %}
+  {% if item.nav &amp;&amp; item.nav.url != '/2/' %}
     <li class="{% if item.url == page.url %}active{% endif %}">
       <a href="{{ item.url }}">{{ item.title }}</a>
     </li>
