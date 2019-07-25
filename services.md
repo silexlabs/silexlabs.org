@@ -1,80 +1,13 @@
 ---
 title: Services
+layout: page
 
 ---
 Here is a list of the services provided by [Silex Labs](https://www.silexlabs.org/silexlabs/ "Silex Labs non profit organization") to open source communities.
 
-<span style="font-size: 13px;">The services provided by Silex Labs to open source communities are provided for free. To attend the events though, you might need to</span> [be a member]( https://www.silexlabs.org/silexlabs/join/  "Join Silex Labs")<span style="font-size: 13px;">.</span>
+The services provided by Silex Labs to open source communities are provided for free. To attend the events though, you might need to</span> [be a member]( https://www.silexlabs.org/silexlabs/join/  "Join Silex Labs").
 
-![](https://www.silexlabs.org/wp-content/uploads/2013/04/bandeau-certifs5.png "bandeau-certifs")
-
-<div style="display: inline-block;">
-
-<div id="attachment_138117" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/badge_organization6.png "badge_organization")
-
-Organization effort
-
-</div>
-
-<div id="attachment_138118" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/evangelization.png "evangelization")
-
-Evangelization
-
-</div>
-
-</div>
-
-We have recently launched a [certification program for AmfPHP](https://www.silexlabs.org/silexlabs/get-certified/ "certification program for AmfPHP").
-
-It gives us the opportunity to be in touch with motivated users, and professional service provider for our projects. We advertise them so that they give the professional touch needed for mainstream open source projects. And we make sure that they have all the information to evangelize the project and talk about Silex Labs.
-
-## ![](https://www.silexlabs.org/wp-content/uploads/2013/04/documentation.png "documentation")
-
-<div style="display: inline-block;">
-
-<div id="attachment_138120" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/badge_organization7.png "badge_organization")
-
-Organization effort
-
-</div>
-
-<div id="attachment_138121" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/training.png "training")
-
-Training
-
-</div>
-
-</div>
-
-Silex Labs has produced the [120 pages of documentation for Silex](https://www.silexlabs.org/silex/docs-silex/user-guide-silex/ "Silex user guide"). It has been handled by [Isabelle](https://www.silexlabs.org/members/koala "Isabelle Barros") and [Franck](https://www.silexlabs.org/members/franck "Franck Moutardier"). We have written and translated all these pages, with the help of several freelancers, companies and contributors.
-
-The idea is also to organize documentation and translation workshops, encourage library developers to write comments and generate documentation out of it. Some of the schools we are [partners](https://www.silexlabs.org/partners/) make their students work on this matter in the as part of their studies.
-
-In the same vein, we like to centralize and structure data proliferating all over the web into one place, to help new users embrace the projects. This is why you will find here, on the Silex Labs community platform, sections dedicated to [Silex](https://silexlabs.org/silex/ "Silex project"), [AmfPHP](https://silexlabs.org/amfphp/ "AmfPHP project") and [Haxe](https://silexlabs.org/haxe/ "the Haxe project on Silex Labs"), with a generic overview of each individual part of the project, its upstream and downstream projects, and links to the official sites and source of information.
-
-![](https://www.silexlabs.org/wp-content/uploads/2013/04/flow_of_events.png "flow_of_events")
-
-<div style="display: inline-block;">
-
-<div id="attachment_138122" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/networking.png "networking")
-
-Networking
-
-</div>
-
-<div id="attachment_138123" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/evangelization1.png "evangelization")
-
-Evangelization
-
-</div>
-
-<div id="attachment_138124" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/event1.png "Federating event")
-
-Federating event
-
-</div>
-
-</div>
+## A flow of events
 
 Since 2009, we have organized [events, conferences and parties](https://www.silexlabs.org/category/the-blog/blog-silex-labs/sl-events/ "Silex Labs events"), when a new version of one of our project is released, workshops for developers and decision-makers, and a lot more.
 
@@ -88,78 +21,7 @@ We write articles regularly when a project has a spotlight, like when [Silex rea
 
 BCBG in partnership with [Mediabox training center](http://www.mediabox.fr/).
 
-## ![](https://www.silexlabs.org/wp-content/uploads/2013/04/workshops_and_conferences.png "workshops_and_conferences")
-
-<div style="display: inline-block;">
-
-<div id="attachment_138126" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/training1.png "training")
-
-Training
-
-</div>
-
-<div id="attachment_138127" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/communication.png "Promotion")
-
-Promotion
-
-</div>
-
-<div id="attachment_138128" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/networking1.png "networking")
-
-Networking
-
-</div>
-
-</div>
-
-Silex Labs has gathered a lot of people these past years, through workshops and trainings. The audience is made of students and people from other communities, which are key targets to us, potential contributors, users and prescribers. It is very important to give them access to our software and to help them reach a comprehension level at which they are able to decide or not to go further.
-
-*   [the PTT series of Silex woksops at IESA multimedia](https://www.silexlabs.org/130679/the-blog/ateliers-silex-a-liesa-multimedia-le-retour-des-ptt/)
-*   [Haxeteliers](https://www.silexlabs.org/137619/the-blog/blog-silex-labs/haxeteliers-haxe-initiation-paris/?#concept), Haxe workshops in partnership with a training center and a multimedia school
-*   the [Silex workshops at Cifacom](https://www.silexlabs.org/131479/the-blog/blog-silex/ateliers-silex-5eme-edition/)
-
-We organize meetings with upstream and downstream projects:
-
-*   conference with OCaml institutions about Haxe – OCaml is an upstream for Haxe, see [Haxe and OCaml united](https://www.silexlabs.org/132591/the-blog/haxe-and-ocaml-united/) and [the followup](https://www.silexlabs.org/133239/the-blog/haxe-and-ocaml-united-followup/) which gave birth to a [working group about Haxe and OCaml](https://www.silexlabs.org/groups/labs/haxe-community-meetings/haxe-ocaml-mix/)
-*   Haxe NME workshop – NME is a downstream project for Haxe the article about [Haxe workshops](https://www.silexlabs.org/133148/the-blog/haxe-workshop/) and [the followup](https://www.silexlabs.org/133445/the-blog/haxe-workshop-le-feedback/)
-*   conference about the [open source cross-platform tools NME and Cocktail](https://www.silexlabs.org/136735/the-blog/multi-plateforme-sans-concession-silex-labs-a-lepita/) – which are based on Haxe, at the engineering school Epita
-
-As well as « cross-communities » parties and conferences in order to to promote synergies:
-
-*   [Tec Tec Tec party](http://community.silexlabs.org/sl-party/) with 100+ people from the amfPHP and Silex communities
-*   meetup, with 50+ people in Paris, [meeting to support Silex Labs initiative](https://www.silexlabs.org/2482/the-blog/silex-labs-organisation/)
-*   [Silex Labs general meeting](https://www.silexlabs.org/136339/the-blog/silex-labs-assemblee-generale-2012/) with 40+ people each year
-*   conference [Being a free software editor in France in 2012](https://www.silexlabs.org/136383/the-blog/etre-editeur-de-logiciel-libre-en-france-en-2012/) organized with several other non profit organizations
-*   [an article about our different activities and news](http://www.blog.elimak.com/2012/08/my-parisian-summer-haxe-js-cocktail-the-wonderful-life-in-the-capital/)
-
-And finally, we have been co-publishing articles to relay our message
-
-*   article [Cocktail, for an open bar community!](http://sdjournal.org/cmake-ctest-cpack-and-cdash-effective-cross-plathorm-development-tools/) in SDJ, distributed to 10,000 IT professionals
-*   [the developper Developer Economics 2013 with Vision Mobile](http://www.visionmobile.com/product/developer-economics-2013-the-tools-report/)
-
-## ![](https://www.silexlabs.org/wp-content/uploads/2013/04/haxe_conferences.png "haxe_conferences")
-
-<div style="display: inline-block;">
-
-<div id="attachment_138130" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/badge_organization8.png "Organization effort")
-
-Organization effort
-
-</div>
-
-<div id="attachment_138124" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/event1.png "Federating event")
-
-Federating event
-
-</div>
-
-<div id="attachment_138128" style="width: 103px" class="wp-caption alignleft">![](https://www.silexlabs.org/wp-content/uploads/2013/04/networking1.png "networking")
-
-Networking
-
-</div>
-
-</div>
+## Workshops and conferences
 
 The WWX2012 is a good example of what we do for the Haxe community. We have made this event a celebration for the contributers and for the users, showing off to the prospects and prescribers.
 
