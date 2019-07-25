@@ -22,7 +22,9 @@
   border-radius: initial;
   width: 100%;
 }
-.section-element > .silex-element-content > * {
+/* prevent-auto-z-index is to let the components handle their z-index */
+.section-element > .silex-element-content > *:not(.prevent-auto-z-index) {
+  /* put the elements of a section on top of sections bellow */
   z-index: 10;
 }
 .silex-element-content {
@@ -208,4 +210,17 @@ body.silex-publish .prodotype-runtime-strict {
 }
 .silex-component-button button {
   width: 100%;
+}
+/* full-width component*/
+div.editable-style.full-width-section {
+  min-height: 100px;
+}
+
+div.editable-style.full-width-section>.editable-style {
+  position: static;
+  min-width: 100%;
+}
+
+div.editable-style.full-width-section>.editable-style.silex-element-content {
+  display: none;
 }
