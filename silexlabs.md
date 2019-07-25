@@ -84,8 +84,6 @@ et bien sur venez participer aux évènements !
 
 * * *
 
-[Version française ici](#a-propos-de-silex-labs)
-
 ## What is Silex Labs ?
 
 ### Our goal
