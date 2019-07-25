@@ -112,9 +112,14 @@ You can make a donation too, we will use it to organize workshops:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">  
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">  
+
 <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_paynowCC_LG.gif" type="image"> <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">
 
+
+</form>
+
 * * *
+
 
 **Liens / Links**
 
@@ -132,5 +137,3 @@ We supports [several projects](https://www.silexlabs.org/labs/ "Silex Labs proje
 Our projects are documented in order to be usable by other people in other places. We intend to mix communities of different projects and mix people from different places and professional backgrounds.
 
 In the page about [Silex Labs services](https://www.silexlabs.org/silexlabs/services/), you will find examples of what we do for open source projects since 2009 with a growing team of volunteers and tech enthusiasts from all kind of professional backgrounds.
-
-</form>
