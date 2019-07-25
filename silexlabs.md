@@ -1,5 +1,5 @@
 ---
-title: silexlabs
+title: About Silex Labs
 layout: page
 
 ---
