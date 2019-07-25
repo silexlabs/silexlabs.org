@@ -3,6 +3,7 @@ title: A propos de Silex Labs
 layout: page
 nav: à propos
 description: A propos de l'association Silex Labs, pour la diversité dans les métiers du numériques
+lang: fr
 ---
 ## Présentation de Silex Labs
 
