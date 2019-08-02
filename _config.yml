@@ -6,6 +6,6 @@ plugins:
 - jekyll-sitemap
 - jekyll-paginate
 
-excerpt_separator: "<!--more-->"
+excerpt_separator: "<!-- more -->"
 
 baseurl: "/silexlabs.org"
