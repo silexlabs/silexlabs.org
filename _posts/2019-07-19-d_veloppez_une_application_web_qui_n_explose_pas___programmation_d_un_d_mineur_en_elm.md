@@ -16,7 +16,7 @@ layout: post
 
 Elm (https://elm-lang.org/ ) est un langage permettant de créer des applications web fiables. Le plus étonnant est que cette fiabilité est obtenue avec un très faible nombre de concepts, faisant de Elm un langage rapide à apprendre.
 
-<!--more-->
+<!-- more -->
 
 ### Au programme
 

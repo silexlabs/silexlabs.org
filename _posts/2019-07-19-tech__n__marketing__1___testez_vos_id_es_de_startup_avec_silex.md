@@ -14,7 +14,7 @@ layout: post
 
 Pour tester une idée de startup, rien de tel que de créer une « landing page » ou site vitrine, pour proposer aux gens votre futur service.
 
-<!--more-->
+<!-- more -->
 
 Cet atelier est le 1er d’une série de 3 ateliers destinés aux débutants Silex. Cette série est axée sur l’utilisation de Silex avec des outils de marketing gratuits, utiles pour toute personne ou structure qui veut trouver plus de client, gagner en visibilité.
 

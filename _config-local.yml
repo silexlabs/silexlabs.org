@@ -1,0 +1,12 @@
+
+paginate: 10
+paginate_path: "/:num"
+
+plugins:
+- jekyll-sitemap
+- jekyll-paginate
+
+excerpt_separator: "<!-- more -->"
+
+baseurl: /silexlabs.org
+url: http://localhost:4000

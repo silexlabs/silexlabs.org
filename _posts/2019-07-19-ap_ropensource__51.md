@@ -13,7 +13,7 @@ layout: post
 ### Le but des apéros
 
 L’idée est juste de discuter. Nous pouvons parler évidemment d’opensource mais également de vos projets, de vos idées et des technologies en vogue. Au mois de mai, fais ce qu’il te plait, alors l’été arrivant, pour le 51ème, tournée de pastis !
-<!--more-->
+<!-- more -->
 ### Témoignages
 
 La mission de Silex Labs est de lutter contre la fracture numérique en faisant la promotion des technologies libres et de la contribution. Pour cela nous vous aidons à découvrir les métiers du web, à vous ré-orienter et à vous transmettre notre savoir.

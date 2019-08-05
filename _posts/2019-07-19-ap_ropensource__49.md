@@ -13,7 +13,7 @@ layout: post
 
 L’idée est juste de discuter. Nous pouvons parler évidemment d’opensource mais également de vos projets, de vos idées et des technologies en vogue. Quelle est pour vous la techno du printemps ? La montée de température fait-elle bourgeonner des idées dans votre tête ? On veut votre avis !
 
-<!--more-->
+<!-- more -->
 
 
 ### Les objectifs d’un apéropensource

@@ -14,7 +14,7 @@ Pour le 50éme apéro Open Source Silex Labs est heureux de vous convier chez no
 
 Inutile de les présenter il s’agit juste du premier site de petites annonces en France, la team est top et elle nous accueille dans ses locaux pour cette cinquantième.
 
-<!--more-->
+<!-- more -->
 
 
 ### Au Programme

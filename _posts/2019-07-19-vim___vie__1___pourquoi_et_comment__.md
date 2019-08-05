@@ -14,7 +14,7 @@ Vim c’est différent. Parce que c’est mieux.
 Avec une telle intro, il ne devrait pas y avoir de fanboy d’emacs ou Eclipse ! Mais la question reste : pourquoi, en 2018, des gens s’obstinent à utiliser un éditeur de texte dans une console ? Pire, pourquoi le revendiquent-ils ?
 
 
-<!--more-->
+<!-- more -->
 
 
 ### À propos de Vim
@@ -42,7 +42,7 @@ Nous apprendrons ensuite à configurer Vim selon nos usages puis nous regarderon
 Chaque participant repartira avec son .vimrc et un profond dégoût pour les éditeurs graphiques !
 
 ![2019-07-05-140463.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-140463.jpg)
-  
+
 ### Inscriptions
 
 [Eventbrite - Vim à vie - Pourquoi et comment ?]()

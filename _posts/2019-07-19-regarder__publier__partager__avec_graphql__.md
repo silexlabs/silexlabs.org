@@ -9,7 +9,7 @@ title: 'Regarder, publier, partager… avec GraphQL !'
 > 11 juin 2018 @ 19:00 - 21:00
 
 De nos jours, les API sont partout : vos réseaux sociaux, votre banque et votre vie amoureuse en dépendent. Il est donc intéressant de comprendre comment cet écosystème évolue et arrive à s’adapter à des contraintes aussi diverses.
-<!--more-->
+<!-- more -->
 Après l’avènement du SOAP il y a une vingtaine d’années, une période de transition avec le JSON-RPC, le REST est l’acteur numéro 1 du monde des API. Mais depuis quelques années, un nouveau challenger est présent : le GraphQL !
 
 ### Au programme

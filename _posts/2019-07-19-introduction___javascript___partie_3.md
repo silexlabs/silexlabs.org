@@ -16,7 +16,7 @@ Après avoir appris les bases de JS durant les 2 ateliers précédents, nous all
 * Durée de l’atelier : 2 heures.
 * Cible : Débutants.
 
-<!--more-->
+<!-- more -->
 
 
 ### À propos de JavaScript
@@ -26,7 +26,7 @@ A ses début l’usage de ce langage de programmation semblait limité à enrich
 ### Pré-requis
 
 Avoir suivi les ateliers du 19/02 et 15/03 ou voir les supports de ces ateliers.
-Une connaissance minimum d’HTML et CSS; Voir si besoin 
+Une connaissance minimum d’HTML et CSS; Voir si besoin
 http://fr.html.net/tutorials/html/
 
 Venir avec son ordinateur en ayant installé si besoin, un éditeur de texte comme Flashdevelop (windows only), Sublime text, Visual Studio Code
