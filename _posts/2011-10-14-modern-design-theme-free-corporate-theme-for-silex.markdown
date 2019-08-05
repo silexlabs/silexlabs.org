@@ -1,37 +1,22 @@
 ---
-author: lexa
+author: "lexa"
 comments: false
-date: 2011-10-14 15:41:13+00:00
-excerpt: "Modern Design Theme is a free corporate theme for SilexThis\
-  \ Silex theme has been made in order to test the beta version of Silex v1.6.3. I\
-  \ share it with you because it is very simple and easy to customize with your content.\
-  <img class=\"aligncenter size-large wp-image-130524\" title=\"Free-Fictional-Design-Studio-Layout\"\
-  \ src=\"https://www.silexlabs.org/wp-content/uploads/2011/10/Free-Fictional-Design-Studio-Layout-677x541.jpg\"\
-  \ alt=\"\" width=\"677\" height=\"541\" />I have found the design in\
-  \ the great article <a href=\"http://www.noupe.com/design/20-high-quality-extraordinary-free-web-psd-templates.html\"\
-  >20 High Quality, Extraordinary &amp; Free Web PSD Templates</a> by Kendra Gaines.\
-  \ It took me 1 hour to make it a Silex site, starting from the <a href=\"http://webdesignfan.com/free-modern-design-studio-psd-template/\"\
-  >psd template provided by the author</a>. The license of this theme is the same\
-  \ as the license of the design (which I could not find... hum).Here\
-  \ is the <a href=\"http://silexprod.com/modern-design/\">online demo of this great\
-  \ theme</a>, which you can <a href=\"https://www.silexlabs.org/silex/tutorials-silex/install-new-items-for-your-silex-server/\"\
-  >install from within your manager</a> (after <a href=\"http://projects.silexlabs.org/?/silex/flash.cms/download\"\
-  >downloading Silex</a>)."
-layout: post
-link: https://www.silexlabs.org/modern-design-theme-free-corporate-theme-for-silex/
-slug: modern-design-theme-free-corporate-theme-for-silex
-title: Modern Design Theme
+date: "2011-10-14T15:41:13.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/modern-design-theme-free-corporate-theme-for-silex/"
+slug: "modern-design-theme-free-corporate-theme-for-silex"
+title: "Modern Design Theme"
 wordpress_id: 130523
-categories:
-- "Themes"
----
+categories: ["Themes"]
 
+---
 Modern Design Theme is a free corporate theme for Silex
 
-				This Silex theme has been made in order to test the beta version of Silex v1.6.3. I share it with you because it is very simple and easy to customize with your content.
+This Silex theme has been made in order to test the beta version of Silex v1.6.3. I share it with you because it is very simple and easy to customize with your content.
 
-				![](https://www.silexlabs.org/wp-content/uploads/2011/10/Free-Fictional-Design-Studio-Layout-677x541.jpg)
+![](https://www.silexlabs.org/wp-content/uploads/2011/10/Free-Fictional-Design-Studio-Layout-677x541.jpg)
 
-				I have found the design in the great article [20 High Quality, Extraordinary & Free Web PSD Templates](http://www.noupe.com/design/20-high-quality-extraordinary-free-web-psd-templates.html) by Kendra Gaines. It took me 1 hour to make it a Silex site, starting from the [psd template provided by the author](http://webdesignfan.com/free-modern-design-studio-psd-template/). The license of this theme is the same as the license of the design (which I could not find... hum).
+I have found the design in the great article [20 High Quality, Extraordinary & Free Web PSD Templates](http://www.noupe.com/design/20-high-quality-extraordinary-free-web-psd-templates.html) by Kendra Gaines. It took me 1 hour to make it a Silex site, starting from the [psd template provided by the author](http://webdesignfan.com/free-modern-design-studio-psd-template/). The license of this theme is the same as the license of the design (which I could not find... hum).
 
-				Here is the [online demo of this great theme](http://silexprod.com/modern-design/), which you can [install from within your manager](https://www.silexlabs.org/silex/tutorials-silex/install-new-items-for-your-silex-server/) (after [downloading Silex](http://projects.silexlabs.org/?/silex/flash.cms/download)).
+Here is the [online demo of this great theme](http://silexprod.com/modern-design/), which you can [install from within your manager](https://www.silexlabs.org/silex/tutorials-silex/install-new-items-for-your-silex-server/) (after [downloading Silex](http://projects.silexlabs.org/?/silex/flash.cms/download)).
+

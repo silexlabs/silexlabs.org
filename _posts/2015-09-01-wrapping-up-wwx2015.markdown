@@ -1,301 +1,28 @@
 ---
-author: anto
+author: "anto"
 comments: true
-date: 2015-09-01 07:18:19+00:00
-excerpt: "<h1><img class=\" size-full wp-image-204909 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/wrapping-bandeau3.png\"\
-  \ alt=\"wrapping-bandeau3\" width=\"608\" height=\"140\" /></h1>If you\
-  \ didn’t already know about this, Silex Labs organized the World Wide Haxe Conference\
-  \ 2015 aka WWX2015, the international conference on <a href=\"http://haxe.org/\"\
-  >Haxe</a> the free cross-platform language from the 29th May to the 1st of June\
-  \ 2015.We’d like to thanks once again <a href=\"https://www.mozilla.org/en-US/contact/spaces/paris/\"\
-  >Mozilla Paris</a> for hosting us so well in his magnificent building, symbol of\
-  \ the free software development!The WWX2015 brought together about 100\
-  \ participants from 17 countries for 4 days of conferences and workshops and the\
-  \ famous Silex Labs festive evenings.More than 1500 people followed\
-  \ the live stream of the conference on air.mozilla.org and on the official website\
-  \ <a href=\"http://wwx.silexlabs.org/\">wwx.silexlabs.org</a>. All of these people\
-  \ didn’t just sit there and watch, they also shout to the world their love for Haxe,\
-  \ with nearly 1800 tweets between Saturday and Sunday and a lot of photos. A true\
-  \ great community!Aside from the official talks and workshops, it was\
-  \ a great opportunity to create interactions between the members of the community\
-  \ by visiting paris, partying in a french bistro and having a croissant with your\
-  \ coffee every morning.<h1><img class=\"alignnone wp-image-204913 aligncenter\"\
-  \ src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/group2-687x366.png\"\
-  \ alt=\"group2\" width=\"530\" height=\"282\" /></h1><h3><b>WWX2015 Videos</b></h3>\
-  As Mozilla Paris let us use their video equipment, the live stream was a\
-  \ much better quality, compare to the previous year. But if you were unable to see\
-  \ it live, the videos will be posted soon on <a href=\"https://www.youtube.com/user/Silexlabs\"\
-  >Silex Labs YouTube channel</a>!Here are the videos of the WWX2015,\
-  \ watch it share it like it and spread the word!<ul><li class=\"\
-  entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/10-years-of-haxe-10-things-i-like/\"\
-  \ target=\"_blank\">Nicolas Cannasse \"10 years of Haxe / 10 things I like\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"\
-  ><a href=\"https://www.silexlabs.org/you-dont-know-flashdevelop/\" target=\"_blank\"\
-  >Philippe Elsass \"You don't know FlashDevelop - tips and future\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"\
-  https://www.silexlabs.org/cross-platform-game-development-with-the-gameduell-duelltool/\"\
-  \ target=\"_blank\">S. Otto and R. Campos \"Cross-platform game development with\
-  \ the GameDuell DuellTool\"</a></li><li class=\"entry-title\" title=\"\
-  10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/prospects-for-using-go-libraries-in-haxe/\"\
-  \ target=\"_blank\">Elliott Stoneham \"Prospects for using Go libraries in Haxe\"\
-  </a></li><li class=\"entry-title\" title=\"10 years of Haxe / 10 things\
-  \ I like\"><a href=\"https://www.silexlabs.org/haxe-for-the-web-getting-things-done/\"\
-  \ target=\"_blank\">Juraj Kirchheim \"Haxe for the Web: Getting things done\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"\
-  ><a href=\"https://www.silexlabs.org/isomorphic-haxe-using-ufront-to-build-apps-that-work-client-side-or-server-side/\"\
-  \ target=\"_blank\">Jason O’Neil \"Isomorphic Haxe: Using Ufront to build apps that\
-  \ work client side or server side\"</a></li><li class=\"entry-title\"\
-  \ title=\"10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/tivo-activity-haxelib/\"\
-  \ target=\"_blank\">Todd Kulick \"TiVo Activity Haxelib\"</a></li><li\
-  \ class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"\
-  https://www.silexlabs.org/jive-the-renovation-of-aswing/\" target=\"_blank\">Nickolay\
-  \ Grebenshikov \"Jive: the renovation of AsWing\" </a></li><li class=\"\
-  entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/kha/\"\
-  \ target=\"_blank\">Robert Konrad \"KHA\"</a></li><li class=\"entry-title\"\
-  \ title=\"10 years of Haxe / 10 things I like\"><a title=\"WWX2015 Speech: Srikanth\
-  \ Ganapavarapu &quot;Ide Choice at Tivo&quot;\" href=\"https://www.silexlabs.org/ide-choice-at-tivo/\"\
-  \ target=\"_blank\">Srikanth Ganapavarapu \"Ide Choice at Tivo\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"\
-  https://www.silexlabs.org/drakarnage-slapping-data-from-web-servers-right-in-your-gpu/\"\
-  \ target=\"_blank\">David Elahee“Drakarnage: \"Slapping data from web servers right\
-  \ in your GPU”</a></li><li class=\"entry-title\" title=\"10 years of Haxe\
-  \ / 10 things I like\"><a href=\"https://www.silexlabs.org/limeopenfl-for-home-game-consoles/\"\
-  \ target=\"_blank\">Lars Doucet \"Lime/OpenFL for home game consoles\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"\
-  ><a href=\"https://www.silexlabs.org/the-mokick-story/\" target=\"_blank\">Markus\
-  \ Raab \"The MOKICK story\" </a></li><li class=\"entry-title\" title=\"\
-  10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/hxcpp-state-of-the-enum-union/\"\
-  >Hugh Sanderson \"Hxcpp : State of the <del>union</del> enum\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"\
-  https://www.silexlabs.org/haxe-in-the-enterprise-a-case-study/\" target=\"_blank\"\
-  >Alfred Barberena \"Haxe in the enterprise: a case study\"</a></li><li\
-  \ class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"\
-  https://www.silexlabs.org/quaxe-infinity-and-beyond/\" target=\"_blank\">Daniel\
-  \ Glazman \"Quaxe, infinity and beyond\"</a></li><li class=\"entry-title\"\
-  \ title=\"10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/npm-haxe-at-the-heart-of-javascript-ecosystem/\"\
-  \ target=\"_blank\">David Mouton \"NPM, Haxe at the heart of Javascript ecosystem\"\
-  </a></li><li class=\"entry-title\" title=\"10 years of Haxe / 10 things\
-  \ I like\"><a href=\"https://www.silexlabs.org/haxe-at-massive-interactive/\" target=\"\
-  _blank\">Philippe Elsass \"Haxe at Massive Interactive\"</a></li><li class=\"\
-  entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/haxe-evangelism-with-silex-labs/\"\
-  \ target=\"_blank\">Jean-Baptiste Richardet \"Haxe evangelism with Silex Labs\"\
-  </a></li><li class=\"entry-title\" title=\"10 years of Haxe / 10 things\
-  \ I like\"><a href=\"https://www.silexlabs.org/the-tech-behind-evoland-2/\" target=\"\
-  _blank\">Nicolas Cannasse \"The Tech behind Evoland 2 \"</a></li><li class=\"\
-  entry-title\" title=\"10 years of Haxe / 10 things I like\"><a href=\"https://www.silexlabs.org/continuous-integration-for-haxe-projects/\"\
-  \ target=\"_blank\">Andy Li \"Continuous Integration for Haxe projects\"</a></li>\
-  <li class=\"entry-title\" title=\"10 years of Haxe / 10 things I like\"\
-  ><a href=\"https://www.silexlabs.org/a-walk-through-of-haxe-js-kit/\" target=\"\
-  _blank\">Clément Charmet “A walk-through of Haxe JS Kit”</a></li></ul>\
-  &nbsp;If you’d like to compare this year speakers to the previous\
-  \ ones, you can check out those bundles :<a href=\"https://www.youtube.com/playlist?list=PLLW5YfXlahjMXhFDPjVDd9vl-clQpN7vX\"\
-  \ target=\"_blank\">WWX2014 videos</a><a href=\"https://www.youtube.com/playlist?list=PLLW5YfXlahjNa1R5gwjOyKyKD2ImAO60N\"\
-  \ target=\"_blank\">WWX2013 videos</a><a href=\"https://www.youtube.com/playlist?list=PLLW5YfXlahjM3HkuOznq-uKGicI_6dd7k\"\
-  \ target=\"_blank\">WWX2012 videos</a>&nbsp;<h3><b>WWX2015\
-  \ Pictures</b></h3>You need great moments to have great pictures, and\
-  \ this week-end was awesome, so are the photos! Check out our Flickr album and if\
-  \ you still have some pictures left on your phone that you’d like to share, send\
-  \ them to us!<ul><li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157655026419535\"\
-  \ target=\"_blank\">Day 1 Installation see the pics here</a></li></ul>\
-  <h1><img class=\" size-large wp-image-204914 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/welcoming-apero.jpg\"\
-  \ alt=\"welcoming apero\" width=\"546\" height=\"546\" /></h1><ul>\
-  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157655029592122\"\
-  \ target=\"_blank\">Day 2 Conference see the pics here</a></li></ul>\
-  <h1><img class=\" size-large wp-image-204915 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/montage-intro-day1.jpg\"\
-  \ alt=\"montage-intro-day1\" width=\"548\" height=\"548\" /></h1><ul>\
-  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157652725328223\"\
-  \ target=\"_blank\">Day 2 Party see the pics here</a></li></ul>\
-  <img class=\" size-full wp-image-204923 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/party-wwx2015.png\"\
-  \ alt=\"party-wwx2015\" width=\"549\" height=\"547\" /><ul>\
-  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157654643151058\"\
-  \ target=\"_blank\">Day 3 Conference see the pics here</a></li></ul>\
-  <h1><img class=\"alignnone size-large wp-image-204916 aligncenter\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2015/07/closing-apero.jpg\" alt=\"\
-  closing apero\" width=\"541\" height=\"541\" /></h1><ul><li><a\
-  \ href=\"https://www.flickr.com/photos/120854033@N02/sets/72157652719370394\" target=\"\
-  _blank\">Day 4 Workshops see the pics here</a></li></ul><img\
-  \ class=\" size-large wp-image-204917 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/montage-workshops.jpg\"\
-  \ alt=\"montage workshops\" width=\"519\" height=\"519\" />&nbsp;\
-  <h3><b>WWX2015 in figures</b></h3>Let’s break down this WWX in figures:\
-  <ul><li>22 speakers</li><li>10 speeches and 12 lightning\
-  \ talks</li><li>1 day of workshops</li><li>4 workshop animators</li>\
-  <li>100 participants from over 17 countries</li></ul>\
-  (Australia, Brazil, Chile, China, France, Germany, Italy, Malta, Mexico, Netherlands,\
-  \ Portugal, Romania, Russia, Sweden, Spain, United Kingdom, USA)<ul>\
-  <li>~ 1500 live streamers</li><li>~ 1800 tweets: <a href=\"https://storify.com/silexlabs/world-wide-haxe-conference-2015-wwx2015\"\
-  >https://storify.com/silexlabs/world-wide-haxe-conference-2015-wwx2015</a></li>\
-  </ul>&nbsp;<blockquote class=\"twitter-tweet\" lang=\"\
-  fr\"><p dir=\"ltr\" lang=\"en\">Thats what <a href=\"https://twitter.com/hashtag/haxe?src=hash\"\
-  >#haxe</a> can do for your business. Thank you so much for sharing this Alfred!\
-  \ <a href=\"https://twitter.com/hashtag/wwx2015?src=hash\">#wwx2015</a> <a href=\"\
-  http://t.co/qAwPybhySH\">pic.twitter.com/qAwPybhySH</a></p>— josefiene\
-  \ pertosa (@Fiene_P) <a href=\"https://twitter.com/Fiene_P/status/604992553088368640\"\
-  >31 Mai 2015</a></blockquote><script src=\"//platform.twitter.com/widgets.js\"\
-  \ async=\"\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"\
-  \ lang=\"fr\">First day at the Haxe <a href=\"https://twitter.com/hashtag/wwx2015?src=hash\"\
-  >#wwx2015</a> conference went really well. Meeting enthousiasts of the community\
-  \ in person is priceless! — Philippe Elsass (@elsassph) <a href=\"https://twitter.com/elsassph/status/604765572560220162\"\
-  >30 Mai 2015</a></blockquote><script src=\"//platform.twitter.com/widgets.js\"\
-  \ async=\"\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"\
-  \ lang=\"fr\"><p dir=\"ltr\" lang=\"en\">The new <a href=\"https://twitter.com/hashtag/Haxe?src=hash\"\
-  >#Haxe</a> Lib site is up! <a href=\"http://t.co/41GXKgDkWU\">http://t.co/41GXKgDkWU</a>\
-  \ Great work <a href=\"https://twitter.com/jasonaoneil\">@jasonaoneil</a> <a href=\"\
-  https://twitter.com/hashtag/wwx2015?src=hash\">#wwx2015</a></p>— Brendon\
-  \ (@skial) <a href=\"https://twitter.com/skial/status/604571891047768066\">30 Mai\
-  \ 2015</a></blockquote><script src=\"//platform.twitter.com/widgets.js\"\
-  \ async=\"\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"\
-  \ lang=\"fr\">Youngest Haxer checked in <a href=\"https://twitter.com/hashtag/WWX2015?src=hash\"\
-  >#WWX2015</a> <a href=\"http://t.co/F99qzrjBx0\">pic.twitter.com/F99qzrjBx0</a>\
-  \ — David Peek (@DavidPeek) <a href=\"https://twitter.com/DavidPeek/status/604367078376787968\"\
-  >29 Mai 2015</a></blockquote><script src=\"//platform.twitter.com/widgets.js\"\
-  \ async=\"\" charset=\"utf-8\"></script><blockquote class=\"twitter-tweet\"\
-  \ lang=\"fr\"><p dir=\"ltr\" lang=\"en\">The <a href=\"https://twitter.com/hashtag/wwx2015?src=hash\"\
-  >#wwx2015</a> is also being followed in a train in the middle of <a href=\"https://twitter.com/hashtag/india?src=hash\"\
-  >#india</a>. <a href=\"https://twitter.com/hashtag/haxe?src=hash\">#haxe</a> <a\
-  \ href=\"https://twitter.com/hashtag/digitalnomad?src=hash\">#digitalnomad</a> <a\
-  \ href=\"http://t.co/r2YKIfLzcS\">http://t.co/r2YKIfLzcS</a> <a href=\"http://t.co/yWaEfZdxK3\"\
-  >pic.twitter.com/yWaEfZdxK3</a></p>— Raphaël Harmel (@djcodam) <a href=\"\
-  https://twitter.com/djcodam/status/604595217971347456\">30 Mai 2015</a></blockquote>\
-  <script src=\"//platform.twitter.com/widgets.js\" async=\"\" charset=\"\
-  utf-8\"></script><blockquote class=\"twitter-tweet\" lang=\"fr\">\
-  After 4 days of GREAT <a href=\"https://twitter.com/hashtag/wwx2015?src=hash\"\
-  >#wwx2015</a> it's time to leave and to say a BIG THANKS to <a href=\"https://twitter.com/MozillaParis\"\
-  >@MozillaParis</a> for hosting us so well <a href=\"http://t.co/X3xRfkbDvX\">pic.twitter.com/X3xRfkbDvX</a>\
-  \ — Silex Labs (@silexlabs) <a href=\"https://twitter.com/silexlabs/status/605433201495011328\"\
-  >1 Juin 2015</a></blockquote><script src=\"//platform.twitter.com/widgets.js\"\
-  \ async=\"\" charset=\"utf-8\"></script><b>funny figures</b>\
-  <ul><li>50 litres of coffee</li><li>20 litres of rosé</li>\
-  <li>150 litres of beer</li><li>~1000 burst of laughter</li>\
-  <li>2 kg of bourguignon beef</li><li>2 kg of french paté</li>\
-  <li>50 croques monsieur</li><li>15 litres of red wine</li>\
-  <li>10 litres of white wine</li><li>100 litres of water</li>\
-  <li>200 km of walk in paris</li></ul><h3><b>WWXs</b></h3>\
-  Silex Labs is in charge of organizing this conference for the third consecutive\
-  \ year, with an average of one hundred attendees from all around the world: developers,\
-  \ designers, project managers, integrators, business leaders and students from schools\
-  \ and web media with which Silex Labs is in partnership.More than 1,000\
-  \ people follow the live video broadcast each year and the videos from the 3 editions\
-  \ total more than 35,000 views on our YouTube channel. Find the videos from WWX2012\
-  \ and WWX2013 at the following links<a href=\"https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/\"\
-  >https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/</a>\
-  <a href=\"https://www.silexlabs.org/138228/the-blog/remember-wwx2012-register-for-wwx2013/\"\
-  >https://www.silexlabs.org/138228/the-blog/remember-wwx2012-register-for-wwx2013/</a>\
-  <h3><b>WWX2016?</b></h3>Do you like Haxe, the WWX and the world\
-  \ of open source? Your help is always welcome!Regarding the success\
-  \ of the crowd funding campaign we are going to do it again in order to fund this\
-  \ haxeptionnal event. We are open to your suggestions to enable us to continue to\
-  \ organize this event, which seems so important to the Haxe community. Next year,\
-  \ we’d like to include all of the good wills sooner so they’ll have a chance to\
-  \ bring new ideas from the beginning.<h3><b>Special thanks</b></h3>\
-  It would looks like oscars’ speech but we have thousands thanks to do to all\
-  \ the people who took time helping us for the organisation of the WWX2015.\
-  To organize this conference, Silex Labs has united its most motivated Haxe\
-  \ members to form a working group: the “THaxe Force”! Among it we find the President\
-  \ of Silex Labs<a href=\"https://twitter.com/lexoyo\">, Alex Hoyau</a>, co-founder<a\
-  \ href=\"https://twitter.com/superwup\"> Pol Goasdoué</a> and a whole lot of Haxe\
-  \ developers like<a href=\"https://twitter.com/clemenchar\"> Clément Charmet</a>,\
-  \ <a href=\"https://twitter.com/JbIPS\">Jean-Baptiste Richardet</a>, <a href=\"\
-  https://twitter.com/zab0jad\">Thomas Fétiveau</a> and<a href=\"https://twitter.com/arielsom\"\
-  > Ariel Sommeria Klein</a>. These volunteers have donated their time to prepare\
-  \ for this conference since October 2014. Antonin Stephany, project manager at Silex\
-  \ Labs, hosted the working group to ensure that this swarm of ideas was put to good\
-  \ use.&nbsp;Our thanks goes out to the speakers and all\
-  \ the participants for their motivation and collaboration too!Of course\
-  \ we’d like to thanks Nicolas Silva our Mozilla’s sponsor who have been of great\
-  \ help all along the weekend.Special thanks for the communication and\
-  \ visual design to<a href=\"https://fr.linkedin.com/pub/pol-goasdou%C3%A9/19/87b/616\"\
-  > Pol Goasdoué</a>, Nicolas Masson and Emmanuel Waras.Another one to\
-  \ Bruno Celada, our professional photograph who cover the event for us,  © KEP,\
-  \ you can contact him at paraphe [at] paraphe [dot] frand <a href=\"\
-  http://www.scengrafics.com/\">Scengrafics</a> for their saturday night animations.\
-  &nbsp;A big thanks also to the Silex Labs’ staff for helping\
-  \ us for the installation, for welcoming people, taking pictures ...\
-  &nbsp;<ul><li>Pauline Bourmeau</li><li>Bruno Celada</li>\
-  <li>Armen Dabarian</li><li>Dalia Dragan</li><li>Sasha\
-  \ Fydrish</li><li>Pol Goasdoué</li><li>Merlin Grimald</li>\
-  <li>Christophe Hébert</li><li>Nicolas Masson</li><li>Simon\
-  \ Mazière</li><li>Franck Moutardier</li><li>Sebastien Mugnier</li>\
-  <li>Christophe Ondrejec</li><li>Flora Richardet</li>\
-  <li>Jean-Baptiste Richardet</li><li>Chloé Richez</li><li>Sonia\
-  \ Somacha</li><li>Antonin Stephany</li></ul>&nbsp;\
-  <h1><img class=\"alignnone size-large wp-image-204912 aligncenter\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2015/07/sl-team2-687x456.png\" alt=\"\
-  sl-team2\" width=\"607\" height=\"403\" /></h1>Special thanks also to\
-  \ people who couldn’t be there but who are very important for the conference: <a\
-  \ href=\"https://github.com/yanhick\">Yannick Dominguez</a>, Mariannick Cassan and\
-  \ Raphaël Harmel.<h3><b>Sponsors and partners</b></h3>Finally\
-  \ we would like to thank our sponsors and partners:<a href=\"https://www.mozilla.org/\"\
-  >Mozilla</a>, <a href=\"http://www.tivo.com/\">Tivo</a>, <a href=\"http://www.gameduell.com/\"\
-  >GameDuell</a>,<a href=\"http://haxe.org/foundation/\">Haxe Foundation</a>,<a\
-  \ href=\"http://www.massiveinteractive.com/\"> Massive Interactive</a>,\
-  <a href=\"http://www.bayerundpreuss.com/\">Bayer und Preuss</a>, UFO and Wyzapps.\
-  &nbsp;<h1><img class=\"alignnone size-large wp-image-204910\
-  \ aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/wrapping-carre.png\"\
-  \ alt=\"wrapping-carre\" width=\"512\" height=\"512\" /></h1>"
-layout: post
-link: https://www.silexlabs.org/wrapping-up-wwx2015/
-slug: wrapping-up-wwx2015
-title: Wrapping up WWX2015
+date: "2015-09-01T07:18:19.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/wrapping-up-wwx2015/"
+slug: "wrapping-up-wwx2015"
+title: "Wrapping up WWX2015"
 wordpress_id: 204903
-categories:
-- "Blog Haxe"
-- "Compte rendu Vidéo"
-- "The Blog"
-- "Vidéos"
-- "wwx2015"
-tags:
-- "Bayer und Preuss"
-- "c++"
-- "CI"
-- "conference"
-- "Cpp"
-- "cross-platform"
-- "dev"
-- "Evoland"
-- "Gamedev"
-- "GameDuell"
-- "Golang"
-- "Haxe"
-- "Haxe conference"
-- "Haxe foundation"
-- "javaScript"
-- "js"
-- "Kha"
-- "Lime/Openfl"
-- "Massive interactive"
-- "mozilla"
-- "NPM"
-- "openFL"
-- "silex labs"
-- "tivo"
-- "tv"
-- "UFO"
-- "Ufront"
-- "video"
-- "vod"
-- "web"
-- "webdev"
-- "world wide haxe conference"
-- "wwx"
-- "WWX2012"
-- "wwx2013"
-- "wwx2014"
-- "wwx2015"
-- "Wyzapps"
----
+categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
+tags: ["Bayer und Preuss","c++","CI","conference","Cpp","cross-platform","dev","Evoland","Gamedev","GameDuell","Golang","Haxe","Haxe conference","Haxe foundation","javaScript","js","Kha","Lime/Openfl","Massive interactive","mozilla","NPM","openFL","silex labs","tivo","tv","UFO","Ufront","video","vod","web","webdev","world wide haxe conference","wwx","WWX2012","wwx2013","wwx2014","wwx2015","Wyzapps"]
 
+---
 # ![wrapping-bandeau3](https://www.silexlabs.org/wp-content/uploads/2015/07/wrapping-bandeau3.png)
 
 
-				If you didn’t already know about this, Silex Labs organized the World Wide Haxe Conference 2015 aka WWX2015, the international conference on [Haxe](http://haxe.org/) the free cross-platform language from the 29th May to the 1st of June 2015.
+If you didn’t already know about this, Silex Labs organized the World Wide Haxe Conference 2015 aka WWX2015, the international conference on [Haxe](http://haxe.org/) the free cross-platform language from the 29th May to the 1st of June 2015.
 
-				We’d like to thanks once again [Mozilla Paris](https://www.mozilla.org/en-US/contact/spaces/paris/) for hosting us so well in his magnificent building, symbol of the free software development!
+We’d like to thanks once again [Mozilla Paris](https://www.mozilla.org/en-US/contact/spaces/paris/) for hosting us so well in his magnificent building, symbol of the free software development!
 
-				The WWX2015 brought together about 100 participants from 17 countries for 4 days of conferences and workshops and the famous Silex Labs festive evenings.
+The WWX2015 brought together about 100 participants from 17 countries for 4 days of conferences and workshops and the famous Silex Labs festive evenings.
 
-				More than 1500 people followed the live stream of the conference on air.mozilla.org and on the official website [wwx.silexlabs.org](http://wwx.silexlabs.org/). All of these people didn’t just sit there and watch, they also shout to the world their love for Haxe, with nearly 1800 tweets between Saturday and Sunday and a lot of photos. A true great community!
+More than 1500 people followed the live stream of the conference on air.mozilla.org and on the official website [wwx.silexlabs.org](http://wwx.silexlabs.org/). All of these people didn’t just sit there and watch, they also shout to the world their love for Haxe, with nearly 1800 tweets between Saturday and Sunday and a lot of photos. A true great community!
 
-				Aside from the official talks and workshops, it was a great opportunity to create interactions between the members of the community by visiting paris, partying in a french bistro and having a croissant with your coffee every morning.
+Aside from the official talks and workshops, it was a great opportunity to create interactions between the members of the community by visiting paris, partying in a french bistro and having a croissant with your coffee every morning.
 
 
 # ![group2](https://www.silexlabs.org/wp-content/uploads/2015/07/group2-687x366.png)
@@ -306,9 +33,9 @@ tags:
 ### **WWX2015 Videos**
 
 
-				As Mozilla Paris let us use their video equipment, the live stream was a much better quality, compare to the previous year. But if you were unable to see it live, the videos will be posted soon on [Silex Labs YouTube channel](https://www.youtube.com/user/Silexlabs)!
+As Mozilla Paris let us use their video equipment, the live stream was a much better quality, compare to the previous year. But if you were unable to see it live, the videos will be posted soon on [Silex Labs YouTube channel](https://www.youtube.com/user/Silexlabs)!
 
-				Here are the videos of the WWX2015, watch it share it like it and spread the word!
+Here are the videos of the WWX2015, watch it share it like it and spread the word!
 
 
 
@@ -381,13 +108,13 @@ tags:
 
 
 
-				If you’d like to compare this year speakers to the previous ones, you can check out those bundles :
+If you’d like to compare this year speakers to the previous ones, you can check out those bundles :
 
-				[WWX2014 videos](https://www.youtube.com/playlist?list=PLLW5YfXlahjMXhFDPjVDd9vl-clQpN7vX)
+[WWX2014 videos](https://www.youtube.com/playlist?list=PLLW5YfXlahjMXhFDPjVDd9vl-clQpN7vX)
 
-				[WWX2013 videos](https://www.youtube.com/playlist?list=PLLW5YfXlahjNa1R5gwjOyKyKD2ImAO60N)
+[WWX2013 videos](https://www.youtube.com/playlist?list=PLLW5YfXlahjNa1R5gwjOyKyKD2ImAO60N)
 
-				[WWX2012 videos](https://www.youtube.com/playlist?list=PLLW5YfXlahjM3HkuOznq-uKGicI_6dd7k)
+[WWX2012 videos](https://www.youtube.com/playlist?list=PLLW5YfXlahjM3HkuOznq-uKGicI_6dd7k)
 
 
 
@@ -395,7 +122,7 @@ tags:
 ### **WWX2015 Pictures**
 
 
-				You need great moments to have great pictures, and this week-end was awesome, so are the photos! Check out our Flickr album and if you still have some pictures left on your phone that you’d like to share, send them to us!
+You need great moments to have great pictures, and this week-end was awesome, so are the photos! Check out our Flickr album and if you still have some pictures left on your phone that you’d like to share, send them to us!
 
 
 
@@ -427,7 +154,7 @@ tags:
   * [Day 2 Party see the pics here](https://www.flickr.com/photos/120854033@N02/sets/72157652725328223)
 
 
-				![party-wwx2015](https://www.silexlabs.org/wp-content/uploads/2015/07/party-wwx2015.png)
+![party-wwx2015](https://www.silexlabs.org/wp-content/uploads/2015/07/party-wwx2015.png)
 
 
 
@@ -447,7 +174,7 @@ tags:
   * [Day 4 Workshops see the pics here](https://www.flickr.com/photos/120854033@N02/sets/72157652719370394)
 
 
-				![montage workshops](https://www.silexlabs.org/wp-content/uploads/2015/07/montage-workshops.jpg)
+![montage workshops](https://www.silexlabs.org/wp-content/uploads/2015/07/montage-workshops.jpg)
 
 
 
@@ -455,7 +182,7 @@ tags:
 ### **WWX2015 in figures**
 
 
-				Let’s break down this WWX in figures:
+Let’s break down this WWX in figures:
 
 
 
@@ -475,7 +202,7 @@ tags:
   * 100 participants from over 17 countries
 
 
-				(Australia, Brazil, Chile, China, France, Germany, Italy, Malta, Mexico, Netherlands, Portugal, Romania, Russia, Sweden, Spain, United Kingdom, USA)
+(Australia, Brazil, Chile, China, France, Germany, Italy, Malta, Mexico, Netherlands, Portugal, Romania, Russia, Sweden, Spain, United Kingdom, USA)
 
 
   * ~ 1500 live streamers
@@ -493,7 +220,7 @@ tags:
 > Thats what [#haxe](https://twitter.com/hashtag/haxe?src=hash) can do for your business. Thank you so much for sharing this Alfred! [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash) [pic.twitter.com/qAwPybhySH](http://t.co/qAwPybhySH)
 >
 >
-				— josefiene pertosa (@Fiene_P) [31 Mai 2015](https://twitter.com/Fiene_P/status/604992553088368640)</blockquote>
+— josefiene pertosa (@Fiene_P) [31 Mai 2015](https://twitter.com/Fiene_P/status/604992553088368640)</blockquote>
 
 
 
@@ -501,8 +228,8 @@ tags:
 
 
 <blockquote>
-				First day at the Haxe [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash) conference went really well. Meeting enthousiasts of the community in person is priceless! — Philippe Elsass (@elsassph) [30 Mai 2015](https://twitter.com/elsassph/status/604765572560220162)
-				</blockquote>
+First day at the Haxe [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash) conference went really well. Meeting enthousiasts of the community in person is priceless! — Philippe Elsass (@elsassph) [30 Mai 2015](https://twitter.com/elsassph/status/604765572560220162)
+</blockquote>
 
 
 
@@ -515,7 +242,7 @@ tags:
 > The new [#Haxe](https://twitter.com/hashtag/Haxe?src=hash) Lib site is up! [http://t.co/41GXKgDkWU](http://t.co/41GXKgDkWU) Great work [@jasonaoneil](https://twitter.com/jasonaoneil) [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash)
 >
 >
-				— Brendon (@skial) [30 Mai 2015](https://twitter.com/skial/status/604571891047768066)</blockquote>
+— Brendon (@skial) [30 Mai 2015](https://twitter.com/skial/status/604571891047768066)</blockquote>
 
 
 
@@ -523,8 +250,8 @@ tags:
 
 
 <blockquote>
-				Youngest Haxer checked in [#WWX2015](https://twitter.com/hashtag/WWX2015?src=hash) [pic.twitter.com/F99qzrjBx0](http://t.co/F99qzrjBx0) — David Peek (@DavidPeek) [29 Mai 2015](https://twitter.com/DavidPeek/status/604367078376787968)
-				</blockquote>
+Youngest Haxer checked in [#WWX2015](https://twitter.com/hashtag/WWX2015?src=hash) [pic.twitter.com/F99qzrjBx0](http://t.co/F99qzrjBx0) — David Peek (@DavidPeek) [29 Mai 2015](https://twitter.com/DavidPeek/status/604367078376787968)
+</blockquote>
 
 
 
@@ -537,7 +264,7 @@ tags:
 > The [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash) is also being followed in a train in the middle of [#india](https://twitter.com/hashtag/india?src=hash). [#haxe](https://twitter.com/hashtag/haxe?src=hash) [#digitalnomad](https://twitter.com/hashtag/digitalnomad?src=hash) [http://t.co/r2YKIfLzcS](http://t.co/r2YKIfLzcS) [pic.twitter.com/yWaEfZdxK3](http://t.co/yWaEfZdxK3)
 >
 >
-				— Raphaël Harmel (@djcodam) [30 Mai 2015](https://twitter.com/djcodam/status/604595217971347456)</blockquote>
+— Raphaël Harmel (@djcodam) [30 Mai 2015](https://twitter.com/djcodam/status/604595217971347456)</blockquote>
 
 
 
@@ -545,14 +272,14 @@ tags:
 
 
 <blockquote>
-				After 4 days of GREAT [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash) it's time to leave and to say a BIG THANKS to [@MozillaParis](https://twitter.com/MozillaParis) for hosting us so well [pic.twitter.com/X3xRfkbDvX](http://t.co/X3xRfkbDvX) — Silex Labs (@silexlabs) [1 Juin 2015](https://twitter.com/silexlabs/status/605433201495011328)
-				</blockquote>
+After 4 days of GREAT [#wwx2015](https://twitter.com/hashtag/wwx2015?src=hash) it's time to leave and to say a BIG THANKS to [@MozillaParis](https://twitter.com/MozillaParis) for hosting us so well [pic.twitter.com/X3xRfkbDvX](http://t.co/X3xRfkbDvX) — Silex Labs (@silexlabs) [1 Juin 2015](https://twitter.com/silexlabs/status/605433201495011328)
+</blockquote>
 
 
 
 
 
-				**funny figures**
+**funny figures**
 
 
 
@@ -595,45 +322,45 @@ tags:
 ### **WWXs**
 
 
-				Silex Labs is in charge of organizing this conference for the third consecutive year, with an average of one hundred attendees from all around the world: developers, designers, project managers, integrators, business leaders and students from schools and web media with which Silex Labs is in partnership.
+Silex Labs is in charge of organizing this conference for the third consecutive year, with an average of one hundred attendees from all around the world: developers, designers, project managers, integrators, business leaders and students from schools and web media with which Silex Labs is in partnership.
 
-				More than 1,000 people follow the live video broadcast each year and the videos from the 3 editions total more than 35,000 views on our YouTube channel. Find the videos from WWX2012 and WWX2013 at the following links
+More than 1,000 people follow the live video broadcast each year and the videos from the 3 editions total more than 35,000 views on our YouTube channel. Find the videos from WWX2012 and WWX2013 at the following links
 
-				[https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/](https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/)
+[https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/](https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/)
 
-				[https://www.silexlabs.org/138228/the-blog/remember-wwx2012-register-for-wwx2013/](https://www.silexlabs.org/138228/the-blog/remember-wwx2012-register-for-wwx2013/)
+[https://www.silexlabs.org/138228/the-blog/remember-wwx2012-register-for-wwx2013/](https://www.silexlabs.org/138228/the-blog/remember-wwx2012-register-for-wwx2013/)
 
 
 ### **WWX2016?**
 
 
-				Do you like Haxe, the WWX and the world of open source? Your help is always welcome!
+Do you like Haxe, the WWX and the world of open source? Your help is always welcome!
 
-				Regarding the success of the crowd funding campaign we are going to do it again in order to fund this haxeptionnal event. We are open to your suggestions to enable us to continue to organize this event, which seems so important to the Haxe community. Next year, we’d like to include all of the good wills sooner so they’ll have a chance to bring new ideas from the beginning.
+Regarding the success of the crowd funding campaign we are going to do it again in order to fund this haxeptionnal event. We are open to your suggestions to enable us to continue to organize this event, which seems so important to the Haxe community. Next year, we’d like to include all of the good wills sooner so they’ll have a chance to bring new ideas from the beginning.
 
 
 ### **Special thanks**
 
 
-				It would looks like oscars’ speech but we have thousands thanks to do to all the people who took time helping us for the organisation of the WWX2015.
+It would looks like oscars’ speech but we have thousands thanks to do to all the people who took time helping us for the organisation of the WWX2015.
 
-				To organize this conference, Silex Labs has united its most motivated Haxe members to form a working group: the “THaxe Force”! Among it we find the President of Silex Labs[, Alex Hoyau](https://twitter.com/lexoyo), co-founder[ Pol Goasdoué](https://twitter.com/superwup) and a whole lot of Haxe developers like[ Clément Charmet](https://twitter.com/clemenchar), [Jean-Baptiste Richardet](https://twitter.com/JbIPS), [Thomas Fétiveau](https://twitter.com/zab0jad) and[ Ariel Sommeria Klein](https://twitter.com/arielsom). These volunteers have donated their time to prepare for this conference since October 2014. Antonin Stephany, project manager at Silex Labs, hosted the working group to ensure that this swarm of ideas was put to good use.
-
-
-
-				Our thanks goes out to the speakers and all the participants for their motivation and collaboration too!
-
-				Of course we’d like to thanks Nicolas Silva our Mozilla’s sponsor who have been of great help all along the weekend.
-
-				Special thanks for the communication and visual design to[ Pol Goasdoué](https://fr.linkedin.com/pub/pol-goasdou%C3%A9/19/87b/616), Nicolas Masson and Emmanuel Waras.
-
-				Another one to Bruno Celada, our professional photograph who cover the event for us,  © KEP, you can contact him at paraphe [at] paraphe [dot] fr
-
-				and [Scengrafics](http://www.scengrafics.com/) for their saturday night animations.
+To organize this conference, Silex Labs has united its most motivated Haxe members to form a working group: the “THaxe Force”! Among it we find the President of Silex Labs[, Alex Hoyau](https://twitter.com/lexoyo), co-founder[ Pol Goasdoué](https://twitter.com/superwup) and a whole lot of Haxe developers like[ Clément Charmet](https://twitter.com/clemenchar), [Jean-Baptiste Richardet](https://twitter.com/JbIPS), [Thomas Fétiveau](https://twitter.com/zab0jad) and[ Ariel Sommeria Klein](https://twitter.com/arielsom). These volunteers have donated their time to prepare for this conference since October 2014. Antonin Stephany, project manager at Silex Labs, hosted the working group to ensure that this swarm of ideas was put to good use.
 
 
 
-				A big thanks also to the Silex Labs’ staff for helping us for the installation, for welcoming people, taking pictures ...
+Our thanks goes out to the speakers and all the participants for their motivation and collaboration too!
+
+Of course we’d like to thanks Nicolas Silva our Mozilla’s sponsor who have been of great help all along the weekend.
+
+Special thanks for the communication and visual design to[ Pol Goasdoué](https://fr.linkedin.com/pub/pol-goasdou%C3%A9/19/87b/616), Nicolas Masson and Emmanuel Waras.
+
+Another one to Bruno Celada, our professional photograph who cover the event for us,  © KEP, you can contact him at paraphe [at] paraphe [dot] fr
+
+and [Scengrafics](http://www.scengrafics.com/) for their saturday night animations.
+
+
+
+A big thanks also to the Silex Labs’ staff for helping us for the installation, for welcoming people, taking pictures ...
 
 
 
@@ -700,21 +427,22 @@ tags:
 # ![sl-team2](https://www.silexlabs.org/wp-content/uploads/2015/07/sl-team2-687x456.png)
 
 
-				Special thanks also to people who couldn’t be there but who are very important for the conference: [Yannick Dominguez](https://github.com/yanhick), Mariannick Cassan and Raphaël Harmel.
+Special thanks also to people who couldn’t be there but who are very important for the conference: [Yannick Dominguez](https://github.com/yanhick), Mariannick Cassan and Raphaël Harmel.
 
 
 ### **Sponsors and partners**
 
 
-				Finally we would like to thank our sponsors and partners:
+Finally we would like to thank our sponsors and partners:
 
-				[Mozilla](https://www.mozilla.org/), [Tivo](http://www.tivo.com/), [GameDuell](http://www.gameduell.com/),
+[Mozilla](https://www.mozilla.org/), [Tivo](http://www.tivo.com/), [GameDuell](http://www.gameduell.com/),
 
-				[Haxe Foundation](http://haxe.org/foundation/),[ Massive Interactive](http://www.massiveinteractive.com/),
+[Haxe Foundation](http://haxe.org/foundation/),[ Massive Interactive](http://www.massiveinteractive.com/),
 
-				[Bayer und Preuss](http://www.bayerundpreuss.com/), UFO and Wyzapps.
+[Bayer und Preuss](http://www.bayerundpreuss.com/), UFO and Wyzapps.
 
 
 
 
 # ![wrapping-carre](https://www.silexlabs.org/wp-content/uploads/2015/07/wrapping-carre.png)
+

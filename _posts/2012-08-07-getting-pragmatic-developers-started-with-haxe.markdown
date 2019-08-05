@@ -1,85 +1,41 @@
 ---
-author: koala
+author: "koala"
 comments: true
-date: 2012-08-07 08:02:03+00:00
-excerpt: "We’re all happy early adopters of Haxe and know that the quality of Haxe\
-  \ itself and the libraries is great and getting better. But if an “Average Programmer\
-  \ Joe” finds out he could use something called Haxe for his project, is he likely\
-  \ to pick it up? I’ll talk about the issues people are experiencing while starting\
-  \ to use Haxe and what we can do about them to help with Haxe adoption.\
-  <h3><a href=\"https://www.silexlabs.org/132212/the-blog/getting-pragmatic-developers-started-with-haxe-2/attachment/robert-bak/\"\
-  \ rel=\"attachment wp-att-132213\"><img class=\"alignleft size-medium wp-image-132213\"\
-  \ src=\"https://www.silexlabs.org/wp-content/uploads/2012/04/robert-bak1-298x300.png\"\
-  \ alt=\"\" width=\"100\" height=\"100\" /></a>Robert Bak - Instructor / Developer\
-  \ <a href=\"http://robertbak.com/\" target=\"_blank\">Robertbak.com</a></h3>\
-  After a month in my first job as a web app developer I’ve decided there’s\
-  \ a better way to do it and spent all the afternoons of the second month rewriting\
-  \ the company application in Flex. And from the third month till now I’ve been mainly\
-  \ a Flex developer and Instructor and currently starting to teach some Haxe.\
-  Here are the other videos of the <a href=\"http://wwx.haxe.org/\" target=\"\
-  _blank\">WWX</a> :- <a href=\"https://www.silexlabs.org/132111/the-blog/may-the-force-be-with-you-making-a-game-with-awe6/\"\
-  \ target=\"_blank\">AWE6 by Rob Fell</a>- <a href=\"https://www.silexlabs.org/133359/the-blog/haxe-nme-vs-the-world/\"\
-  \ target=\"_blank\">NME vs the World by Philippe Elsass</a>- <a href=\"\
-  https://www.silexlabs.org/133423/the-blog/first-contact-selling-haxe-to-clients-and-developers/\"\
-  \ target=\"_blank\">First Contact : Selling Haxe to clients and developers\
-  </a>- <a href=\"https://www.silexlabs.org/133591/the-blog/hxcpp-%E2%80%93-haxe-girt-by-c/\"\
-  \ target=\"_blank\">HXCPP – Haxe girt by C++ by Hugh Sanderson</a>- <a\
-  \ href=\"https://www.silexlabs.org/133720/the-blog/haxe-3-and-4-%E2%80%93-plans-for-world-domination/\"\
-  \ target=\"_blank\">Haxe 3 and 4 – Plans for World Domination by Nicolas Cannasse\
-  </a>- <a href=\"https://www.silexlabs.org/133823/the-blog/haxejava-and-haxec-practical-examples-and-implementation-details/\"\
-  \ target=\"_blank\">Haxe/Java and Haxe/C#: Practical examples and implementation\
-  \ details by Cauê Waneck</a>- <a href=\"https://www.silexlabs.org/133902/the-blog/cocktail-v1-0-sunrise-cross-platform-uis-with-haxe/\"\
-  \ target=\"_blank\">Cocktail v1.0 Sunrise, cross platform UIs with Haxe by Alex\
-  \ Hoyau &amp; Yannick Dominguez</a>- <a href=\"https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/\"\
-  \ target=\"_blank\">Vector Graphics in the browser with Haxe by Franco Ponticelli\
-  </a>- <a href=\"https://www.silexlabs.org/135169/the-blog/multiplatform-productivity-tool-with-haxe/\"\
-  \ target=\"_blank\">Multiplatform productivity tool with Haxe by Peter Halacsy</a><a\
-  \ href=\"https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/\"\
-  \ target=\"_blank\"></a>- <a href=\"https://www.silexlabs.org/135331/the-blog/haxe-macros-meta-programming-done-right/\"\
-  \ target=\"_blank\">Haxe macros : meta-programming done right by Juraj Kirchheim</a><a\
-  \ href=\"https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/\"\
-  \ target=\"_blank\"></a>- <a href=\"https://www.silexlabs.org/135480/the-blog/britzpetermann-haxe-6/\"\
-  \ target=\"_blank\">Britzpetermann &amp; Haxe by Nico Zimmermann</a><a href=\"https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/\"\
-  \ target=\"_blank\"></a><h2>The video</h2><iframe\
-  \ src=\"http://www.youtube.com/embed/Z_da0kJdxaA\" frameborder=\"0\" width=\"640\"\
-  \ height=\"480\"></iframe>"
-layout: post
-link: https://www.silexlabs.org/getting-pragmatic-developers-started-with-haxe/
-slug: getting-pragmatic-developers-started-with-haxe
-title: Getting pragmatic developers started with Haxe
+date: "2012-08-07T08:02:03.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/getting-pragmatic-developers-started-with-haxe/"
+slug: "getting-pragmatic-developers-started-with-haxe"
+title: "Getting pragmatic developers started with Haxe"
 wordpress_id: 135257
-categories:
-- "Blog Silex Labs"
-- "Silex Labs Events"
-- "The Blog"
-tags:
-- "WWX2012"
----
+categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
+tags: ["WWX2012"]
 
+---
 We’re all happy early adopters of Haxe and know that the quality of Haxe itself and the libraries is great and getting better. But if an “Average Programmer Joe” finds out he could use something called Haxe for his project, is he likely to pick it up? I’ll talk about the issues people are experiencing while starting to use Haxe and what we can do about them to help with Haxe adoption.
 
 
 ### [![](https://www.silexlabs.org/wp-content/uploads/2012/04/robert-bak1-298x300.png)](https://www.silexlabs.org/132212/the-blog/getting-pragmatic-developers-started-with-haxe-2/attachment/robert-bak/)Robert Bak - Instructor / Developer [Robertbak.com](http://robertbak.com/)
 
 
-				After a month in my first job as a web app developer I’ve decided there’s a better way to do it and spent all the afternoons of the second month rewriting the company application in Flex. And from the third month till now I’ve been mainly a Flex developer and Instructor and currently starting to teach some Haxe.
+After a month in my first job as a web app developer I’ve decided there’s a better way to do it and spent all the afternoons of the second month rewriting the company application in Flex. And from the third month till now I’ve been mainly a Flex developer and Instructor and currently starting to teach some Haxe.
 
-				Here are the other videos of the [WWX](http://wwx.haxe.org/) :
-				- [AWE6 by Rob Fell
-				](https://www.silexlabs.org/132111/the-blog/may-the-force-be-with-you-making-a-game-with-awe6/)- [NME vs the World by Philippe Elsass
-				](https://www.silexlabs.org/133359/the-blog/haxe-nme-vs-the-world/)- [First Contact : Selling Haxe to clients and developers
-				](https://www.silexlabs.org/133423/the-blog/first-contact-selling-haxe-to-clients-and-developers/)- [HXCPP – Haxe girt by C++ by Hugh Sanderson](https://www.silexlabs.org/133591/the-blog/hxcpp-%E2%80%93-haxe-girt-by-c/)
-				- [Haxe 3 and 4 – Plans for World Domination by Nicolas Cannasse
-				](https://www.silexlabs.org/133720/the-blog/haxe-3-and-4-%E2%80%93-plans-for-world-domination/)- [Haxe/Java and Haxe/C#: Practical examples and implementation details by Cauê Waneck
-				](https://www.silexlabs.org/133823/the-blog/haxejava-and-haxec-practical-examples-and-implementation-details/)- [Cocktail v1.0 Sunrise, cross platform UIs with Haxe by Alex Hoyau & Yannick Dominguez](https://www.silexlabs.org/133902/the-blog/cocktail-v1-0-sunrise-cross-platform-uis-with-haxe/)
-				- [Vector Graphics in the browser with Haxe by Franco Ponticelli
-				](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)- [Multiplatform productivity tool with Haxe by Peter Halacsy](https://www.silexlabs.org/135169/the-blog/multiplatform-productivity-tool-with-haxe/)[
-				](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)- [Haxe macros : meta-programming done right by Juraj Kirchheim](https://www.silexlabs.org/135331/the-blog/haxe-macros-meta-programming-done-right/)[
-				](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)- [Britzpetermann & Haxe by Nico Zimmermann](https://www.silexlabs.org/135480/the-blog/britzpetermann-haxe-6/)[
-				](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)
+Here are the other videos of the [WWX](http://wwx.haxe.org/) :
+- [AWE6 by Rob Fell
+](https://www.silexlabs.org/132111/the-blog/may-the-force-be-with-you-making-a-game-with-awe6/)- [NME vs the World by Philippe Elsass
+](https://www.silexlabs.org/133359/the-blog/haxe-nme-vs-the-world/)- [First Contact : Selling Haxe to clients and developers
+](https://www.silexlabs.org/133423/the-blog/first-contact-selling-haxe-to-clients-and-developers/)- [HXCPP – Haxe girt by C++ by Hugh Sanderson](https://www.silexlabs.org/133591/the-blog/hxcpp-%E2%80%93-haxe-girt-by-c/)
+- [Haxe 3 and 4 – Plans for World Domination by Nicolas Cannasse
+](https://www.silexlabs.org/133720/the-blog/haxe-3-and-4-%E2%80%93-plans-for-world-domination/)- [Haxe/Java and Haxe/C#: Practical examples and implementation details by Cauê Waneck
+](https://www.silexlabs.org/133823/the-blog/haxejava-and-haxec-practical-examples-and-implementation-details/)- [Cocktail v1.0 Sunrise, cross platform UIs with Haxe by Alex Hoyau & Yannick Dominguez](https://www.silexlabs.org/133902/the-blog/cocktail-v1-0-sunrise-cross-platform-uis-with-haxe/)
+- [Vector Graphics in the browser with Haxe by Franco Ponticelli
+](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)- [Multiplatform productivity tool with Haxe by Peter Halacsy](https://www.silexlabs.org/135169/the-blog/multiplatform-productivity-tool-with-haxe/)[
+](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)- [Haxe macros : meta-programming done right by Juraj Kirchheim](https://www.silexlabs.org/135331/the-blog/haxe-macros-meta-programming-done-right/)[
+](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)- [Britzpetermann & Haxe by Nico Zimmermann](https://www.silexlabs.org/135480/the-blog/britzpetermann-haxe-6/)[
+](https://www.silexlabs.org/134056/the-blog/vector-graphics-in-the-browser-with-haxe/)
 
 
 ## The video
+
 
 
 

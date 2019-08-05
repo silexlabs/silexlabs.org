@@ -1,73 +1,23 @@
 ---
-author: anto
+author: "anto"
 comments: true
-date: 2013-03-28 16:41:18+00:00
-excerpt: "Le premier Haxetelier organisé par <a href=\"https://www.silexlabs.org/\"\
-  >Silex Labs</a> en partenariat avec <a href=\"http://www.intermedia-paris.fr/\"\
-  >Intermedia Paris</a> et <a href=\"http://www.alterway.fr/\">Alterway</a>, s'est\
-  \ déroulé ce 28 mars dans les locaux d'Alterway.Cet atelier a été l'occasion\
-  \ de présenter l'association Silex Labs et ses activités mais surtout de démontrer\
-  \ les usages possibles du langage Haxe grâce aux outils développés par Intermedia Paris\
-  \ et par la communauté Haxe.Yannick Dominguez, lead developeur a présenté\
-  \ aux développeurs 3 targets de Haxe et les a guidés à travers des exemples de code pour qu'ils\
-  \ aient les bases de la programmation Haxe. Retrouvez les supports de cette présentation<a\
-  \ title=\"Haxetelier #1 support de présentation\" href=\"https://github.com/SilexLabsThirdParty/haxe_samples\"\
-  \ target=\"_blank\"> sur github</a>.Raphaël Harmel a présenté les principales\
-  \ librairies Haxe et les avantages qu'elles offrent face à la multiplication actuelle\
-  \ des plateformes et des supports. Vous trouverez ci-dessous la présentation faite\
-  \ par Raphaël Harmel.<iframe src=\"http://www.slideshare.net/slideshow/embed_code/18100354\"\
-  \ width=\"427\" height=\"356\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"\
-  0\" scrolling=\"no\" style=\"border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px\"\
-  \ allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style=\"\
-  margin-bottom:5px\"> <strong> <a href=\"http://www.slideshare.net/SilexLabs/haxetelier-1-initiation-a-haxe\"\
-  \ title=\"Haxetelier #1 initiation à haxe\" target=\"_blank\">Haxetelier #1 initiation\
-  \ à haxe</a> </strong> from <strong><a href=\"http://www.slideshare.net/SilexLabs\"\
-  \ target=\"_blank\">Silex Labs</a></strong> </div>Nous remercions\
-  \ l'ensemble des participants pour leur présence et leur participation active à\
-  \ ce premier Haxetelier. Vos commentaires sont les bienvenus ci-dessous !\
-  Nous remercions Alterway pour leur hospitalité et si vous voulez plus de précisions\
-  \ sur le langage Haxe, rendez-vous sur le blog Planet Libre <a title=\"langage libre\
-  \ multiplateforme Haxe\" href=\"http://www.planet-libre.org/?post_id=13779\" target=\"\
-  _blank\">pour un résumé du langage Haxe.</a>Et pour ceux qui auraient\
-  \ raté ce premier Haxetelier ou qui veulent aller plus loin dans la découverte du\
-  \ langage Haxe, vous pouvez vous inscire dès maintenant au second haxetelier qui\
-  \ aura lieu le jeudi 25 avril de 9H à 12H dans les locaux de l'IESA Multimédia, 5\
-  \ rue saint augustin à Paris.<div><a href=\"http://haxetelier2.eventbrite.fr/\"\
-  ><img class=\"size-full wp-image-137800 aligncenter\" title=\"Inscrivez vous à l'Haxetelier\
-  \ #2\" src=\"https://www.silexlabs.org/wp-content/uploads/2013/03/icone_inscription112.png\"\
-  \ alt=\"\" width=\"130\" height=\"130\" /></a></div><div id=\"magicdomid583\"\
-  ></div><h1 id=\"magicdomid604\" style=\"text-align: center;\"><strong>Haxélérons\
-  \ ensemble !</strong></h1><div></div><div><a href=\"https://www.silexlabs.org/137796/the-blog/resume-haxetelier-1/attachment/photo-1/\"\
-  \ rel=\"attachment wp-att-137825\"><img class=\"aligncenter size-full wp-image-137825\"\
-  \ title=\"Haxetelier #1\" src=\"https://www.silexlabs.org/wp-content/uploads/2013/03/photo-1.jpg\"\
-  \ alt=\"\" width=\"320\" height=\"240\" /></a></div><div></div>\
-  <div></div><div><a href=\"https://www.silexlabs.org/137796/the-blog/resume-haxetelier-1/attachment/photo-2/\"\
-  \ rel=\"attachment wp-att-137824\"><img class=\"size-full wp-image-137824 aligncenter\"\
-  \ title=\"Haxetelier #1\" src=\"https://www.silexlabs.org/wp-content/uploads/2013/03/photo.jpg\"\
-  \ alt=\"\" width=\"640\" height=\"190\" /></a></div>"
-layout: post
-link: https://www.silexlabs.org/resume-haxetelier-1/
-slug: resume-haxetelier-1
-title: 'Résumé Haxetelier #1'
+date: "2013-03-28T16:41:18.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/resume-haxetelier-1/"
+slug: "resume-haxetelier-1"
+title: "Résumé Haxetelier #1"
 wordpress_id: 137796
-categories:
-- "Blog Silex Labs"
-- "Silex Labs Events"
-- "The Blog"
-tags:
-- "Haxe"
-- "haxetelier"
-- "open source"
-- "silex labs"
----
+categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
+tags: ["Haxe","haxetelier","open source","silex labs"]
 
+---
 Le premier Haxetelier organisé par [Silex Labs](https://www.silexlabs.org/) en partenariat avec [Intermedia Paris](http://www.intermedia-paris.fr/) et [Alterway](http://www.alterway.fr/), s'est déroulé ce 28 mars dans les locaux d'Alterway.
 
-				Cet atelier a été l'occasion de présenter l'association Silex Labs et ses activités mais surtout de démontrer les usages possibles du langage Haxe grâce aux outils développés par Intermedia Paris et par la communauté Haxe.
+Cet atelier a été l'occasion de présenter l'association Silex Labs et ses activités mais surtout de démontrer les usages possibles du langage Haxe grâce aux outils développés par Intermedia Paris et par la communauté Haxe.
 
-				Yannick Dominguez, lead developeur a présenté aux développeurs 3 targets de Haxe et les a guidés à travers des exemples de code pour qu'ils aient les bases de la programmation Haxe. Retrouvez les supports de cette présentation[ sur github](https://github.com/SilexLabsThirdParty/haxe_samples).
+Yannick Dominguez, lead developeur a présenté aux développeurs 3 targets de Haxe et les a guidés à travers des exemples de code pour qu'ils aient les bases de la programmation Haxe. Retrouvez les supports de cette présentation[ sur github](https://github.com/SilexLabsThirdParty/haxe_samples).
 
-				Raphaël Harmel a présenté les principales librairies Haxe et les avantages qu'elles offrent face à la multiplication actuelle des plateformes et des supports. Vous trouverez ci-dessous la présentation faite par Raphaël Harmel.
+Raphaël Harmel a présenté les principales librairies Haxe et les avantages qu'elles offrent face à la multiplication actuelle des plateformes et des supports. Vous trouverez ci-dessous la présentation faite par Raphaël Harmel.
 
 
 
@@ -76,11 +26,11 @@ Le premier Haxetelier organisé par [Silex Labs](https://www.silexlabs.org/) en 
 
 
 
-				Nous remercions l'ensemble des participants pour leur présence et leur participation active à ce premier Haxetelier. Vos commentaires sont les bienvenus ci-dessous !
+Nous remercions l'ensemble des participants pour leur présence et leur participation active à ce premier Haxetelier. Vos commentaires sont les bienvenus ci-dessous !
 
-				Nous remercions Alterway pour leur hospitalité et si vous voulez plus de précisions sur le langage Haxe, rendez-vous sur le blog Planet Libre [pour un résumé du langage Haxe.](http://www.planet-libre.org/?post_id=13779)
+Nous remercions Alterway pour leur hospitalité et si vous voulez plus de précisions sur le langage Haxe, rendez-vous sur le blog Planet Libre [pour un résumé du langage Haxe.](http://www.planet-libre.org/?post_id=13779)
 
-				Et pour ceux qui auraient raté ce premier Haxetelier ou qui veulent aller plus loin dans la découverte du langage Haxe, vous pouvez vous inscire dès maintenant au second haxetelier qui aura lieu le jeudi 25 avril de 9H à 12H dans les locaux de l'IESA Multimédia, 5 rue saint augustin à Paris.
+Et pour ceux qui auraient raté ce premier Haxetelier ou qui veulent aller plus loin dans la découverte du langage Haxe, vous pouvez vous inscire dès maintenant au second haxetelier qui aura lieu le jeudi 25 avril de 9H à 12H dans les locaux de l'IESA Multimédia, 5 rue saint augustin à Paris.
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/03/icone_inscription112.png)](http://haxetelier2.eventbrite.fr/)
@@ -111,3 +61,4 @@ Le premier Haxetelier organisé par [Silex Labs](https://www.silexlabs.org/) en 
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/03/photo.jpg)](https://www.silexlabs.org/137796/the-blog/resume-haxetelier-1/attachment/photo-2/)
+

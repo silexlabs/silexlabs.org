@@ -1,28 +1,15 @@
 ---
-author: admin
+author: "admin"
 comments: true
-date: 2009-07-15 09:51:21+00:00
-excerpt: "<p style=\"text-align: justify;\">Bonjour,</p><p style=\"text-align:\
-  \ justify;\">Voici un billet d'un vétéran du libre.  Il parle entre autres de la\
-  \ licence GPL et de son rapport aux entreprises et aux développeurs qui utilisent\
-  \ son travail.</p><p style=\"text-align: justify;\"><a href=\"http://zedshaw.com/blog/2009-07-13.html\"\
-  >http://zedshaw.com/blog/2009-07-13.html</a></p><p style=\"text-align:\
-  \ justify;\">Une citation :</p><p style=\"text-align: justify;\">\"But\
-  \ the days of quick-flip corporations and ingrate programmers making money  on my\
-  \ software are over.  My new motto is:</p><blockquote style=\"text-align:\
-  \ justify;\"><em>Open source to open source, corporation to corporation.</em></blockquote>\
-  <p style=\"text-align: justify;\">If you do open source, you’re my hero\
-  \ and I support you.  If you’re a corporation, let’s talk business.\"</p>"
-layout: post
-link: https://www.silexlabs.org/logiciel-libre-business-et-licence/
-slug: logiciel-libre-business-et-licence
-title: Logiciel libre, business et licence
+date: "2009-07-15T09:51:21.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/logiciel-libre-business-et-licence/"
+slug: "logiciel-libre-business-et-licence"
+title: "Logiciel libre, business et licence"
 wordpress_id: 1122
-categories:
-- "Blog Silex Labs"
-- "The Blog"
----
+categories: ["Blog Silex Labs","The Blog"]
 
+---
 Bonjour,
 
 
@@ -55,3 +42,4 @@ Une citation :
 
 
 If you do open source, you’re my hero and I support you.  If you’re a corporation, let’s talk business."
+

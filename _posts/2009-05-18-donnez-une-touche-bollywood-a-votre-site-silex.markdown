@@ -1,28 +1,20 @@
 ---
-author: lexa
+author: "lexa"
 comments: true
-date: 2009-05-18 08:57:56+00:00
-excerpt: "Avec ce site, vous pouvez prendre des extraits de films de Bollywood et\
-  \ leur donner les sous-titres de votre choix. En utilisant les frames de Silex,\
-  \ vous pouvez très facilement les intégrer dans votre site!<a href=\"\
-  http://www.grapheine.com/bombaytv/\">http://www.grapheine.com/bombaytv/</a>\
-  Est-ce que quelqu'un se sent d'attaque d'en créer un pour silex?\
-  Ariel"
-layout: post
-link: https://www.silexlabs.org/donnez-une-touche-bollywood-a-votre-site-silex/
-slug: donnez-une-touche-bollywood-a-votre-site-silex
-title: Donnez une touche Bollywood à votre site Silex *** Give your Silex site a Bollywood
-  look
+date: "2009-05-18T08:57:56.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/donnez-une-touche-bollywood-a-votre-site-silex/"
+slug: "donnez-une-touche-bollywood-a-votre-site-silex"
+title: "Donnez une touche Bollywood à votre site Silex *** Give your Silex site a Bollywood look"
 wordpress_id: 176
-categories:
-- "Blog Silex Labs"
-- "The Blog"
----
+categories: ["Blog Silex Labs","The Blog"]
 
+---
 Avec ce site, vous pouvez prendre des extraits de films de Bollywood et leur donner les sous-titres de votre choix. En utilisant les frames de Silex, vous pouvez très facilement les intégrer dans votre site!
 
-				[http://www.grapheine.com/bombaytv/](http://www.grapheine.com/bombaytv/)
+[http://www.grapheine.com/bombaytv/](http://www.grapheine.com/bombaytv/)
 
-				Est-ce que quelqu'un se sent d'attaque d'en créer un pour silex?
+Est-ce que quelqu'un se sent d'attaque d'en créer un pour silex?
 
-				Ariel
+Ariel
+

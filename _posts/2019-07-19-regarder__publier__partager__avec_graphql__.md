@@ -1,5 +1,5 @@
 ---
-title: 'Regarder, publier, partager… avec GraphQL !'
+title: "Regarder, publier, partager… avec GraphQL !"
 
 ---
 ![2019-07-05-904443.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-904443.jpg)
@@ -40,3 +40,4 @@ Cet atelier sera une initiation au langage GraphQL. Cependant, une connaissance 
 
 
 Sylvain Mauduit, a.k.a. Swop, est Lead API Evangelist chez Dailymotion, c’est à dire qu’il coordonne les différentes équipes travaillant sur les API pour que le tout reste homogène. Après un passage chez OpenClassrooms (ex Site du Zéro) et un long séjour chez Etsy, Sylvain a décidé de se lancer dans l’aventure vidéo en 2017. Qu’y a-t-il appris ? Réponse lors de l’atelier !
+

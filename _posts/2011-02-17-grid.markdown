@@ -1,36 +1,20 @@
 ---
-author: yannick
+author: "yannick"
 comments: true
-date: 2011-02-17 09:50:46+00:00
-excerpt: "<p style=\"text-align: center;\"><a href=\"https://www.silexlabs.org/2433/exchange/exchange-silex/tools/grid/attachment/plugin/\"\
-  \ rel=\"attachment wp-att-132858\"><img class=\"aligncenter size-full\
-  \ wp-image-132858\" title=\"plugin\" src=\"https://www.silexlabs.org/wp-content/uploads/2011/02/plugin61.png\"\
-  \ alt=\"\" width=\"180\" height=\"85\" /></a></p>This plugin is a grid\
-  \ displayed when logged, it snaps components to the nearest grid intersection. It\
-  \ adds two buttons in the veiwMenu, the first shows/hides the grid and the second\
-  \ one activates/desactivate the grid snap. You can setup the plugin in the manager\
-  \ with the following parameters :<ul><li><strong>grid step :</strong>\
-  \ the step of the grid, the size of the grid square increases with the step</li>\
-  <li><strong>snap step :</strong> the zone of snap around the grid. The bigger\
-  \ it is, the farther a component can be from an intersection and still be snapped.</li>\
-  <li><strong>grid color :</strong> the color of the grid. Might be useful\
-  \ to change based on you publication background color.</li><li><strong>grid\
-  \ alpha :</strong> the transparency of the grid, from 0 to 100.</li></ul>"
-layout: post
-link: https://www.silexlabs.org/grid/
-slug: grid
-title: Grid
+date: "2011-02-17T09:50:46.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/grid/"
+slug: "grid"
+title: "Grid"
 wordpress_id: 2433
-categories:
-- "Plugins"
-- "tools"
+categories: ["Plugins","tools"]
+
 ---
-
 [
-				![](https://www.silexlabs.org/wp-content/uploads/2011/02/plugin61.png)](https://www.silexlabs.org/2433/exchange/exchange-silex/tools/grid/attachment/plugin/)
+![](https://www.silexlabs.org/wp-content/uploads/2011/02/plugin61.png)](https://www.silexlabs.org/2433/exchange/exchange-silex/tools/grid/attachment/plugin/)
 
 
-				This plugin is a grid displayed when logged, it snaps components to the nearest grid intersection. It adds two buttons in the veiwMenu, the first shows/hides the grid and the second one activates/desactivate the grid snap. You can setup the plugin in the manager with the following parameters :
+This plugin is a grid displayed when logged, it snaps components to the nearest grid intersection. It adds two buttons in the veiwMenu, the first shows/hides the grid and the second one activates/desactivate the grid snap. You can setup the plugin in the manager with the following parameters :
 
 
 
@@ -45,5 +29,6 @@ categories:
 
 
   * **grid alpha :** the transparency of the grid, from 0 to 100.
+
 
 

@@ -1,69 +1,15 @@
 ---
-author: koala
+author: "koala"
 comments: true
-date: 2011-06-08 08:00:48+00:00
-excerpt: "<h1><a href=\"https://www.silexlabs.org/?attachment_id=2585\" rel=\"attachment\
-  \ wp-att-2585\"><img class=\"aligncenter size-full wp-image-2585\" title=\"plugin\"\
-  \ src=\"https://www.silexlabs.org/wp-content/uploads/2011/01/plugin5.png\" alt=\"\
-  \" width=\"180\" height=\"85\" /></a></h1><h1>Sources</h1><a\
-  \ href=\"https://www.silexlabs.org/wp-content/uploads/2011/01/filters_sources.zip\"\
-  >filters component - sources</a><h3>DESCRIPTION</h3>The OOFilter\
-  \ component allow you to apply dynamically Flash's filter to any component of a\
-  \ Silex publication.V1.2 : traduction and specific panel added\
-  <!-- more --><h3>USE</h3>To use this component in Silex,\
-  \ when logged, opens the library and browse to the folder where you put the component\
-  \ then add it to te publication.You can now select the component and edit\
-  \ it's parameters. The most important parameter is PROPERTIES_FILTER_TARGETS. With\
-  \ it, you choose the component to which the effects will be applied.Simply\
-  \ enter the name of the targeted components then validate.<strong>PARAMETERS\
-  \ LIST</strong>PROPERTIES_DROP_SHADOW_ENABLED : enable the drop shadow\
-  \ on the targeted componentsPROPERTIES_DROP_SHADOW_DISTANCE : set the\
-  \ distance of the drop shadowPROPERTIES_DROP_SHADOW_ANGLE : set the angle\
-  \ of the drop shadowPROPERTIES_DROP_SHADOW_BLUR_X : set the horizontal\
-  \ blur of the drop shadowPROPERTIES_DROP_SHADOW_BLUR_Y : set the vertical\
-  \ blur of the drop shadowPROPERTIES_DROP_SHADOW_ALPHA : set the transparency\
-  \ of the drop shadowPROPERTIES_DROP_SHADOW_COLOR : set the color of the\
-  \ drop shadowPROPERTIES_DROP_SHADOW_IS_INNER : set if the drop shadow\
-  \ must appear inside the targeted componentPROPERTIES_DROP_SHADOW_KNOCKOUT\
-  \ : Applies a knockout effect, which effectively makes the object's fill transparent\
-  \ and reveals the background color of the documentPROPERTIES_DROP_SHADOW_QUALITY\
-  \ : set the visual quality of the drop shadowPROPERTIES_DROP_SHADOW_STRENGTH\
-  \ : set the strength of the drop shadowPROPERTIES_BLUR_FILTER_ENABLED\
-  \ : enables the blur filter on targeted componentsPROPERTIES_BLUR_FILTER_BLUR_X\
-  \ :  set the horizontal blur of blur filterPROPERTIES_BLUR_FILTER_BLUR_Y\
-  \ : set the vertical blur of the blur filterPROPERTIES_BLUR_FILTER_QUALITY\
-  \ : set the visual quality of the blur filterPROPERTIES_GLOW_FILTER_ENABLED\
-  \ : enable the glow filter on the targeted componentsPROPERTIES_GLOW_FILTER_ALPHA\
-  \ : set the transparency of the glow filterPROPERTIES_GLOW_FILTER_BLUR_X\
-  \ : set the horizontal blur of the glowPROPERTIES_GLOW_FILTER_BLUR_Y :\
-  \ set the vertical blur of the glowPROPERTIES_GLOW_FILTER_COLOR : set\
-  \ the color of the glowPROPERTIES_GLOW_FILTER_IS_INNER : set if the glow\
-  \ must appear inside the componentPROPERTIES_GLOW_FILTER_KNOCKOUT : Applies\
-  \ a knockout effect, which effectively makes the object's fill transparent and reveals\
-  \ the background color of the documentPROPERTIES_GLOW_FILTER_QUALITY :\
-  \ set the visual quality of the glowPROPERTIES_GLOW_FILTER_STRENGTH :\
-  \ set the strength of the glowPROPERTIES_BEVEL_ENABLED : enable the\
-  \ bevel on targeted componentsPROPERTIES_BEVEL_DISTANCE : set the bevel\
-  \ distancePROPERTIES_BEVEL_ANGLE : set the bevel anglePROPERTIES_BEVEL_BLUR_X\
-  \ : set the bevel horizontal blurPROPERTIES_BEVEL_BLUR_Y : sert the bevel\
-  \ vertical blurPROPERTIES_BEVEL_SHADOW_ALPHA : set the transparency of\
-  \ the bevel shadowPROPERTIES_BEVEL_SHADOW_COLOR : set the color of the\
-  \ bevel shadowPROPERTIES_BEVEL_HIGHLIGHT_ALPHA : set the alpha of the\
-  \ bevel highlightPROPERTIES_BEVEL_HIGHLIGHT_COLOR : set the color of the\
-  \ bevel highlightPROPERTIES_BEVEL_KNOCKOUT : Applies a knockout effect,\
-  \ which effectively makes the object's fill transparent and reveals the background\
-  \ color of the documentPROPERTIES_BEVEL_QUALITY : set the visual quality\
-  \ of the bevelPROPERTIES_BEVEL_STRENGTH : set the strength of the bevel\
-  PROPERTIES_BEVEL_TYPE : set the type of the bevel (inner, outer or full)"
-layout: post
-link: https://www.silexlabs.org/filters/
-slug: filters
-title: Filters component
+date: "2011-06-08T08:00:48.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/filters/"
+slug: "filters"
+title: "Filters component"
 wordpress_id: 1797
-categories:
-- "Plugins"
----
+categories: ["Plugins"]
 
+---
 # [![](https://www.silexlabs.org/wp-content/uploads/2011/01/plugin5.png)](https://www.silexlabs.org/?attachment_id=2585)
 
 
@@ -72,65 +18,66 @@ categories:
 # Sources
 
 
-				[filters component - sources](https://www.silexlabs.org/wp-content/uploads/2011/01/filters_sources.zip)
+[filters component - sources](https://www.silexlabs.org/wp-content/uploads/2011/01/filters_sources.zip)
 
 
 ### DESCRIPTION
 
 
-				The OOFilter component allow you to apply dynamically Flash's filter to any component of a Silex publication.
+The OOFilter component allow you to apply dynamically Flash's filter to any component of a Silex publication.
 
-				V1.2 : traduction and specific panel added
+V1.2 : traduction and specific panel added
 
-				<!-- more -->
+<!-- more -->
 
 
 ### USE
 
 
-				To use this component in Silex, when logged, opens the library and browse to the folder where you put the component then add it to te publication.
-				You can now select the component and edit it's parameters. The most important parameter is PROPERTIES_FILTER_TARGETS. With it, you choose the component to which the effects will be applied.
-				Simply enter the name of the targeted components then validate.
+To use this component in Silex, when logged, opens the library and browse to the folder where you put the component then add it to te publication.
+You can now select the component and edit it's parameters. The most important parameter is PROPERTIES_FILTER_TARGETS. With it, you choose the component to which the effects will be applied.
+Simply enter the name of the targeted components then validate.
 
-				**PARAMETERS LIST**
+**PARAMETERS LIST**
 
-				PROPERTIES_DROP_SHADOW_ENABLED : enable the drop shadow on the targeted components
-				PROPERTIES_DROP_SHADOW_DISTANCE : set the distance of the drop shadow
-				PROPERTIES_DROP_SHADOW_ANGLE : set the angle of the drop shadow
-				PROPERTIES_DROP_SHADOW_BLUR_X : set the horizontal blur of the drop shadow
-				PROPERTIES_DROP_SHADOW_BLUR_Y : set the vertical blur of the drop shadow
-				PROPERTIES_DROP_SHADOW_ALPHA : set the transparency of the drop shadow
-				PROPERTIES_DROP_SHADOW_COLOR : set the color of the drop shadow
-				PROPERTIES_DROP_SHADOW_IS_INNER : set if the drop shadow must appear inside the targeted component
-				PROPERTIES_DROP_SHADOW_KNOCKOUT : Applies a knockout effect, which effectively makes the object's fill transparent and reveals the background color of the document
-				PROPERTIES_DROP_SHADOW_QUALITY : set the visual quality of the drop shadow
-				PROPERTIES_DROP_SHADOW_STRENGTH : set the strength of the drop shadow
+PROPERTIES_DROP_SHADOW_ENABLED : enable the drop shadow on the targeted components
+PROPERTIES_DROP_SHADOW_DISTANCE : set the distance of the drop shadow
+PROPERTIES_DROP_SHADOW_ANGLE : set the angle of the drop shadow
+PROPERTIES_DROP_SHADOW_BLUR_X : set the horizontal blur of the drop shadow
+PROPERTIES_DROP_SHADOW_BLUR_Y : set the vertical blur of the drop shadow
+PROPERTIES_DROP_SHADOW_ALPHA : set the transparency of the drop shadow
+PROPERTIES_DROP_SHADOW_COLOR : set the color of the drop shadow
+PROPERTIES_DROP_SHADOW_IS_INNER : set if the drop shadow must appear inside the targeted component
+PROPERTIES_DROP_SHADOW_KNOCKOUT : Applies a knockout effect, which effectively makes the object's fill transparent and reveals the background color of the document
+PROPERTIES_DROP_SHADOW_QUALITY : set the visual quality of the drop shadow
+PROPERTIES_DROP_SHADOW_STRENGTH : set the strength of the drop shadow
 
-				PROPERTIES_BLUR_FILTER_ENABLED : enables the blur filter on targeted components
-				PROPERTIES_BLUR_FILTER_BLUR_X :  set the horizontal blur of blur filter
-				PROPERTIES_BLUR_FILTER_BLUR_Y : set the vertical blur of the blur filter
-				PROPERTIES_BLUR_FILTER_QUALITY : set the visual quality of the blur filter
+PROPERTIES_BLUR_FILTER_ENABLED : enables the blur filter on targeted components
+PROPERTIES_BLUR_FILTER_BLUR_X :  set the horizontal blur of blur filter
+PROPERTIES_BLUR_FILTER_BLUR_Y : set the vertical blur of the blur filter
+PROPERTIES_BLUR_FILTER_QUALITY : set the visual quality of the blur filter
 
-				PROPERTIES_GLOW_FILTER_ENABLED : enable the glow filter on the targeted components
-				PROPERTIES_GLOW_FILTER_ALPHA : set the transparency of the glow filter
-				PROPERTIES_GLOW_FILTER_BLUR_X : set the horizontal blur of the glow
-				PROPERTIES_GLOW_FILTER_BLUR_Y : set the vertical blur of the glow
-				PROPERTIES_GLOW_FILTER_COLOR : set the color of the glow
-				PROPERTIES_GLOW_FILTER_IS_INNER : set if the glow must appear inside the component
-				PROPERTIES_GLOW_FILTER_KNOCKOUT : Applies a knockout effect, which effectively makes the object's fill transparent and reveals the background color of the document
-				PROPERTIES_GLOW_FILTER_QUALITY : set the visual quality of the glow
-				PROPERTIES_GLOW_FILTER_STRENGTH : set the strength of the glow
+PROPERTIES_GLOW_FILTER_ENABLED : enable the glow filter on the targeted components
+PROPERTIES_GLOW_FILTER_ALPHA : set the transparency of the glow filter
+PROPERTIES_GLOW_FILTER_BLUR_X : set the horizontal blur of the glow
+PROPERTIES_GLOW_FILTER_BLUR_Y : set the vertical blur of the glow
+PROPERTIES_GLOW_FILTER_COLOR : set the color of the glow
+PROPERTIES_GLOW_FILTER_IS_INNER : set if the glow must appear inside the component
+PROPERTIES_GLOW_FILTER_KNOCKOUT : Applies a knockout effect, which effectively makes the object's fill transparent and reveals the background color of the document
+PROPERTIES_GLOW_FILTER_QUALITY : set the visual quality of the glow
+PROPERTIES_GLOW_FILTER_STRENGTH : set the strength of the glow
 
-				PROPERTIES_BEVEL_ENABLED : enable the bevel on targeted components
-				PROPERTIES_BEVEL_DISTANCE : set the bevel distance
-				PROPERTIES_BEVEL_ANGLE : set the bevel angle
-				PROPERTIES_BEVEL_BLUR_X : set the bevel horizontal blur
-				PROPERTIES_BEVEL_BLUR_Y : sert the bevel vertical blur
-				PROPERTIES_BEVEL_SHADOW_ALPHA : set the transparency of the bevel shadow
-				PROPERTIES_BEVEL_SHADOW_COLOR : set the color of the bevel shadow
-				PROPERTIES_BEVEL_HIGHLIGHT_ALPHA : set the alpha of the bevel highlight
-				PROPERTIES_BEVEL_HIGHLIGHT_COLOR : set the color of the bevel highlight
-				PROPERTIES_BEVEL_KNOCKOUT : Applies a knockout effect, which effectively makes the object's fill transparent and reveals the background color of the document
-				PROPERTIES_BEVEL_QUALITY : set the visual quality of the bevel
-				PROPERTIES_BEVEL_STRENGTH : set the strength of the bevel
-				PROPERTIES_BEVEL_TYPE : set the type of the bevel (inner, outer or full)
+PROPERTIES_BEVEL_ENABLED : enable the bevel on targeted components
+PROPERTIES_BEVEL_DISTANCE : set the bevel distance
+PROPERTIES_BEVEL_ANGLE : set the bevel angle
+PROPERTIES_BEVEL_BLUR_X : set the bevel horizontal blur
+PROPERTIES_BEVEL_BLUR_Y : sert the bevel vertical blur
+PROPERTIES_BEVEL_SHADOW_ALPHA : set the transparency of the bevel shadow
+PROPERTIES_BEVEL_SHADOW_COLOR : set the color of the bevel shadow
+PROPERTIES_BEVEL_HIGHLIGHT_ALPHA : set the alpha of the bevel highlight
+PROPERTIES_BEVEL_HIGHLIGHT_COLOR : set the color of the bevel highlight
+PROPERTIES_BEVEL_KNOCKOUT : Applies a knockout effect, which effectively makes the object's fill transparent and reveals the background color of the document
+PROPERTIES_BEVEL_QUALITY : set the visual quality of the bevel
+PROPERTIES_BEVEL_STRENGTH : set the strength of the bevel
+PROPERTIES_BEVEL_TYPE : set the type of the bevel (inner, outer or full)
+

@@ -1,45 +1,21 @@
 ---
-author: koala
+author: "koala"
 comments: true
-date: 2011-12-31 23:00:09+00:00
-excerpt: "<h4>2011 venant tout juste de se finir, toute l’équipe Silex Labs vous souhaite\
-  \ une bonne heureuse année 2012 !</h4><img class=\"alignleft size-full\
-  \ wp-image-131095\" title=\"champagne\" src=\"https://www.silexlabs.org/wp-content/uploads/2011/12/champagne1.png\"\
-  \ alt=\"\" width=\"317\" height=\"385\" />Bcp de bonheur, la santé, la réussite,\
-  \ etc… (autrement dit les classiques de chaque année) et bcp de sites Silex !!\
-  Ce passage de l’année 2011 à 2012 c’est l’occasion pour nous de :\
-  <ul><li> <strong>Vous souhaiter nos meilleurs vœux</strong> (si si\
-  \ on insiste)</li></ul><ul><li><strong>Vous dire que\
-  \ nous avons passé une très bonne année 2011</strong>(des releases, des partenariats\
-  \ super cool, des évènements à gogos, des thèmes en veux tu en voilà, etc…)<em><strong>Note :</strong>\
-  \ si vous voulez connaître dans le détail notre année 2011, n’hésitez pas à consulter\
-  \ le bilan de notre Assemblée Générale</em></li></ul><ul>\
-  <li><strong>Vous dire que nous comptons passer une excellente année 2012</strong> \
-  \ (avec des releases, d’autres partenariats super cool, des évènements à gogos et\
-  \ bien d’autres surprises…)</li></ul><ul><li><strong>Vous\
-  \ faire part de quelques unes de nos résolutions</strong>  (communiquer encore plus\
-  \ encore mieux,  produire plus de tutos et plus de thèmes,  débugger encore plus\
-  \ encore mieux…)</li></ul><ul><li><strong>Vous suggérez\
-  \ quelques résolutions</strong> (devenir membre de Silex Labs, poser encore plus\
-  \ de questions sur les forums, contribuer à la vie des projets, nous suivre sur\
-  \ facebook et twitter, venir à nos évènements…)</li></ul>Bien\
-  \ à vous,L'équipe Silex Labs"
-layout: post
-link: https://www.silexlabs.org/bonne-annee-2012/
-slug: bonne-annee-2012
-title: Bonne année 2012 !
+date: "2011-12-31T23:00:09.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/bonne-annee-2012/"
+slug: "bonne-annee-2012"
+title: "Bonne année 2012 !"
 wordpress_id: 131088
-categories:
-- "Blog Silex Labs"
-- "The Blog"
----
+categories: ["Blog Silex Labs","The Blog"]
 
+---
 #### 2011 venant tout juste de se finir, toute l’équipe Silex Labs vous souhaite une bonne heureuse année 2012 !
 
 
-				![](https://www.silexlabs.org/wp-content/uploads/2011/12/champagne1.png)Bcp de bonheur, la santé, la réussite, etc… (autrement dit les classiques de chaque année) et bcp de sites Silex !!
+![](https://www.silexlabs.org/wp-content/uploads/2011/12/champagne1.png)Bcp de bonheur, la santé, la réussite, etc… (autrement dit les classiques de chaque année) et bcp de sites Silex !!
 
-				Ce passage de l’année 2011 à 2012 c’est l’occasion pour nous de :
+Ce passage de l’année 2011 à 2012 c’est l’occasion pour nous de :
 
 
 
@@ -67,6 +43,7 @@ categories:
   * **Vous suggérez quelques résolutions** (devenir membre de Silex Labs, poser encore plus de questions sur les forums, contribuer à la vie des projets, nous suivre sur facebook et twitter, venir à nos évènements…)
 
 
-				Bien à vous,
+Bien à vous,
 
-				L'équipe Silex Labs
+L'équipe Silex Labs
+

@@ -1,6 +1,6 @@
 ---
-title: 'Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex'
-layout: post
+title: "Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex"
+layout: "post"
 
 ---
 ![2019-07-05-953330.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-953330.jpg)

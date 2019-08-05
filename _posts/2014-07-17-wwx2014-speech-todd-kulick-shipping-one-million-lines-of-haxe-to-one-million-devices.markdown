@@ -1,88 +1,16 @@
 ---
-author: Gregory
+author: "Gregory"
 comments: true
-date: 2014-07-17 10:21:33+00:00
-excerpt: "<h2 dir=\"ltr\"> <a href=\"https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-bandeaux-tkulick.png\"\
-  ><img class=\" wp-image-203007 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-bandeaux-tkulick.png\"\
-  \ alt=\"wwx2014-bandeaux-tkulick\" width=\"608\" height=\"140\" /></a></h2>\
-  <p dir=\"ltr\">The 4th International Haxe Conference WWX2014 organized by Silex\
-  \ Labs took place from 23th to 26th may 2014 in Paris.Here is the video of Todd\
-  \ Kulick's speech at <a title=\"WWX2014 Website\" href=\"http://wwx.silexlabs.org/2014/\"\
-  \ target=\"_blank\">WWX2014</a>.</p><h2 dir=\"ltr\"><a href=\"https://www.silexlabs.org/wp-content/uploads/2014/07/Todd-capture.jpg\"\
-  ><img class=\" wp-image-203006 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/07/Todd-capture-300x208.jpg\"\
-  \ alt=\"Todd capture\" width=\"300\" height=\"208\" /></a></h2><h2 dir=\"\
-  ltr\">TODD KULICK</h2><h3><b>Todd Kulick Vice President of Technology\
-  \ and Principal Engineer at TiVo Inc.</b></h3>Todd has professionally\
-  \ developed video and graphics products for twenty years at companies like Silicon\
-  \ Graphics, nVidia and TiVo.  During his fifteen years at TiVo, Todd has been part\
-  \ of or led teams that have shipped over fifty set-top box software releases for\
-  \ cable, terrestrial and satellite video systems.Todd is a huge fan\
-  \ of Linux, Emacs, Haxe and other open-source software. He hopes to help TiVo and\
-  \ Haxe grow stronger, together in the coming years.<h3><b>Shipping One\
-  \ Million Lines of Haxe to (Over) One Million Devices</b></h3>In this\
-  \ talk, Todd and Gabe Dalbec, Principal Engineer at TiVo, discuss the process and\
-  \ experience TiVo had in converting its set-top box user interface from AS3 to Haxe.\
-  \  They discuss how TiVo evaluated and eventually selected Haxe as their technology\
-  \ foundation for future products' user experiences.Over one million\
-  \ lines of AS3 product code and tests were (mostly) programmatically converted to\
-  \ Haxe.  The challenges that TiVo encountered during the conversion are discussed\
-  \ along with lessons learned and TiVo's ideas for future directions for the Haxe\
-  \ language and its accompanying tools and haxelibs.  Finally, Todd and Gabe demo\
-  \ the latest TiVo Haxe DVR user interface on a range of different devices.\
-  <div><h1 dir=\"ltr\">Video</h1><iframe src=\"//www.youtube.com/embed/P8BpZagb6qE\"\
-  \ width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"\
-  ></iframe><h1 dir=\"ltr\">Slides</h1></div><iframe\
-  \ src=\"http://www.slideshare.net/slideshow/embed_code/36586712\" width=\"636\"\
-  \ height=\"534\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"\
-  no\"></iframe><div><h2 dir=\"ltr\"><a href=\"https://www.silexlabs.org/wp-content/uploads/2014/07/Todd-salle-wide.jpg\"\
-  ><img class=\"wp-image-203008 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/07/Todd-salle-wide.jpg\"\
-  \ alt=\"Todd salle wide\" width=\"626\" height=\"194\" /></a></h2><h3>Other\
-  \ WWX2014 Videos</h3><ul><li><a href=\"https://www.silexlabs.org/?p=202977\"\
-  >Péter Sipos “Senior dev &amp; Tech lead at Prezi”</a></li><li><a href=\"\
-  https://www.silexlabs.org/?p=202725\">Nicolas Cannasse “One year of Haxe”</a></li>\
-  <li><a href=\"https://www.silexlabs.org/?p=202751\">Thomas Fétiveau “Development\
-  \ workflow with Cocktail and NME”</a></li><li><a href=\"https://www.silexlabs.org/?p=202765\"\
-  >Bruno Garcia “Flambe”</a></li><li><a href=\"https://www.silexlabs.org/?p=202807\"\
-  >Hugh Sanderson “C++ Magic”</a></li><li><a href=\"https://www.silexlabs.org/?p=202957\"\
-  >Jean-Baptiste Richardet “What’s your favorite Haxe IDE?”</a></li><li><a\
-  \ href=\"https://www.silexlabs.org/?p=202939\">Juraj Kirchheim “Tinkerbell – Haxe\
-  \ on Wings”</a></li><li><a href=\"https://www.silexlabs.org/?p=202971\"\
-  >Justin Donaldson “Promhx : Cross-platform Promises and Reactive Programming in\
-  \ Haxe”</a></li><li><a href=\"https://www.silexlabs.org/?p=202990\">Franco\
-  \ Ponticelli “Haxe for makers”</a></li><li><a href=\"https://www.silexlabs.org/?p=203012\"\
-  >Cauê Waneck “Unity3D on steroids”</a></li><li><a href=\"https://www.silexlabs.org/?p=203004\"\
-  >Todd Kulick “Shipping One Million Lines of Haxe to (Over) One Million Devices”</a></li>\
-  <li><a href=\"https://www.silexlabs.org/?p=203019\">Andreas Söderlund “DCI\
-  \ – How to get ahead in system architecture”</a></li><li><a href=\"https://www.silexlabs.org/?p=203019\"\
-  >Andreas Söderlund “HaxeContracts”</a></li><li><a href=\"https://www.silexlabs.org/?p=202984\"\
-  >Elliott Stoneham “Haxe as a compilation target for other languages”</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=XBMJYpxoP70\">WWX2014</a></li>\
-  <li><a href=\"https://www.silexlabs.org/wwx-2014-round-tables-community-life-haxe-cross-platform/\"\
-  >Round Tables : Community Life – Haxe Cross Platform</a></li></ul>\
-  </div><div><h3>Video credits</h3><ul>\
-  <li>Alexandre Coulon</li><li>Bastien Cantilhion de Lacouture</li>\
-  <li>Antonin Stephany</li><li>Grégory Parodi</li><li>Nicolas\
-  \ Masson</li><li><a title=\"Société Léni\" href=\"http://www.leni.fr/\"\
-  \ target=\"_blank\">Léni</a></li></ul><h2 dir=\"ltr\"> <a href=\"\
-  https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-t-kulick.png\"\
-  ><img class=\"size-medium wp-image-203010 aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-t-kulick-300x300.png\"\
-  \ alt=\"wwx2014-carre-t-kulick\" width=\"300\" height=\"300\" /></a></h2>\
-  </div>"
-layout: post
-link: https://www.silexlabs.org/wwx2014-speech-todd-kulick-shipping-one-million-lines-of-haxe-to-one-million-devices/
-slug: wwx2014-speech-todd-kulick-shipping-one-million-lines-of-haxe-to-one-million-devices
-title: 'WWX2014 - Speech : Todd Kulick "Shipping one million lines of Haxe to one
-  million devices"'
+date: "2014-07-17T10:21:33.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/wwx2014-speech-todd-kulick-shipping-one-million-lines-of-haxe-to-one-million-devices/"
+slug: "wwx2014-speech-todd-kulick-shipping-one-million-lines-of-haxe-to-one-million-devices"
+title: "WWX2014 - Speech : Todd Kulick \"Shipping one million lines of Haxe to one million devices\""
 wordpress_id: 203004
-categories:
-- "Blog Haxe"
-tags:
-- "Haxe"
-- "tivo"
-- "todd kulick"
-- "wwx2014"
----
+categories: ["Blog Haxe"]
+tags: ["Haxe","tivo","todd kulick","wwx2014"]
 
+---
 ##  [![wwx2014-bandeaux-tkulick](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-bandeaux-tkulick.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-bandeaux-tkulick.png)
 
 
@@ -107,17 +35,17 @@ The 4th International Haxe Conference WWX2014 organized by Silex Labs took place
 ### **Todd Kulick Vice President of Technology and Principal Engineer at TiVo Inc.**
 
 
-				Todd has professionally developed video and graphics products for twenty years at companies like Silicon Graphics, nVidia and TiVo.  During his fifteen years at TiVo, Todd has been part of or led teams that have shipped over fifty set-top box software releases for cable, terrestrial and satellite video systems.
+Todd has professionally developed video and graphics products for twenty years at companies like Silicon Graphics, nVidia and TiVo.  During his fifteen years at TiVo, Todd has been part of or led teams that have shipped over fifty set-top box software releases for cable, terrestrial and satellite video systems.
 
-				Todd is a huge fan of Linux, Emacs, Haxe and other open-source software. He hopes to help TiVo and Haxe grow stronger, together in the coming years.
+Todd is a huge fan of Linux, Emacs, Haxe and other open-source software. He hopes to help TiVo and Haxe grow stronger, together in the coming years.
 
 
 ### **Shipping One Million Lines of Haxe to (Over) One Million Devices**
 
 
-				In this talk, Todd and Gabe Dalbec, Principal Engineer at TiVo, discuss the process and experience TiVo had in converting its set-top box user interface from AS3 to Haxe.  They discuss how TiVo evaluated and eventually selected Haxe as their technology foundation for future products' user experiences.
+In this talk, Todd and Gabe Dalbec, Principal Engineer at TiVo, discuss the process and experience TiVo had in converting its set-top box user interface from AS3 to Haxe.  They discuss how TiVo evaluated and eventually selected Haxe as their technology foundation for future products' user experiences.
 
-				Over one million lines of AS3 product code and tests were (mostly) programmatically converted to Haxe.  The challenges that TiVo encountered during the conversion are discussed along with lessons learned and TiVo's ideas for future directions for the Haxe language and its accompanying tools and haxelibs.  Finally, Todd and Gabe demo the latest TiVo Haxe DVR user interface on a range of different devices.
+Over one million lines of AS3 product code and tests were (mostly) programmatically converted to Haxe.  The challenges that TiVo encountered during the conversion are discussed along with lessons learned and TiVo's ideas for future directions for the Haxe language and its accompanying tools and haxelibs.  Finally, Todd and Gabe demo the latest TiVo Haxe DVR user interface on a range of different devices.
 
 
 
@@ -237,6 +165,7 @@ The 4th International Haxe Conference WWX2014 organized by Silex Labs took place
 
 
 ##  [![wwx2014-carre-t-kulick](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-t-kulick-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-t-kulick.png)
+
 
 
 

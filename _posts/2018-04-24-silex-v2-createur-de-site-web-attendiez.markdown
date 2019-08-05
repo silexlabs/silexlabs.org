@@ -1,116 +1,15 @@
 ---
-author: jbips
+author: "jbips"
 comments: true
-date: 2018-04-24 22:16:28+00:00
-excerpt: "<div id=\"magicdomid3\" class=\"\"></div><div id=\"magicdomid4\"\
-  \ class=\"\"><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Il\
-  \ est aujourd'hui indispensable d'avoir un pied dans le web, que vous soyez une\
-  \ entreprise, une association ou un groupe de musique. Devant la demande grandissante,\
-  \ le marché des éditeurs de site web a été très secoué par les acteurs du secteur,\
-  \ GAFAM ou autres. Cependant, nous sommes convaincus que, comme pour le reste de\
-  \ votre activité, votre image sur l'Internet doit vous appartenir : vous devez pouvoir\
-  \ la changer du tout au tout, la déplacer ou choisir de mettre de la publicité (ou\
-  \ pas).</span></div><div id=\"magicdomid5\" class=\"\"></div>\
-  <div id=\"magicdomid6\" class=\"\"><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >C'est en voulant vous redonner ce pouvoir que nous avons fait évoluer Silex.</span></div>\
-  <div id=\"magicdomid7\" class=\"\"></div><!-- more -->\
-  <div id=\"magicdomid8\" class=\"\"><h2><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >Silex 2, ça change quoi ?</span></h2></div><div id=\"magicdomid9\"\
-  \ class=\"\"></div><div id=\"magicdomid10\" class=\"\"><span class=\"\
-  author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Commençons par le plus visible\
-  \ : <a href=\"https://github.com/silexlabs/Silex/wiki/Editor-UI\">l'interface utilisateur</a>.\
-  \ Si vous avez utilisé les versions précédentes, vous remarquerez un net changement.\
-  \ L'interface est épuré, plus claire et plus intuitive, elle se rapproche d'outils\
-  \ que vous connaissez peut-être déjà pour vous simplifier l'apprentissage et la\
-  \ prise en main.</span></div><div id=\"magicdomid11\" class=\"\"></div>\
-  <div class=\"\"><img class=\"aligncenter wp-image-207621 size-full\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2018/04/Screenshot-from-2018-04-25-00-13-16.png\"\
-  \ width=\"1920\" height=\"1080\" /></div><div class=\"\"></div>\
-  <div class=\"\"></div><div id=\"magicdomid12\" class=\"\"><span class=\"\
-  author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Mais en plus de ce changement\
-  \ d'expérience utilisateur, Silex s'est aussi </span><span class=\"author-a-z66zwz72zgz70zz66zz78zctz66zz89zk8z74zwz66z\"\
-  >re</span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">fait\
-  \ une beauté dans les coulisses. Nous avons complètement séparé Silex \"l'éditeur\"\
-  \ de <a href=\"https://github.com/silexlabs/CloudExplorer2\">CloudExplorer </a>qui\
-  \ vous permet de naviguer dans vos stockages en ligne. Ainsi, les deux peuvent évoluer\
-  \ librement, permettant des mises à jours plus fréquentes. Cela permettra aussi,\
-  \ si la communauté le désir</span><span class=\"author-a-z66zwz72zgz70zz66zz78zctz66zz89zk8z74zwz66z\"\
-  >e</span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">, de\
-  \ réutiliser ces composants de manières indépendantes : </span><span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\"\
-  >par exemple </span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >le projet de <a href=\"https://github.com/silexlabs/Silex/releases\">Silex \"offline\"\
-  </a> pourrait se passer de CloudExplorer,</span><span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\"\
-  > et un développeur </span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >pourra</span><span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\"> utiliser\
-  \ CloudExplorer pour créer un client</span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  > FTP libre en ligne. Tout est maintenant permis !</span></div><div id=\"\
-  magicdomid13\" class=\"\"></div><div id=\"magicdomid14\" class=\"\"><span\
-  \ class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">L'équipe a également\
-  \ optimis</span><span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\">é</span><span\
-  \ class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"> la méthode de création\
-  \ de vos sites web. Les sites générés sont maintenant 100% conformes aux normes\
-  \ du web et pourront donc être déployés où bon vous semble ;). D'ailleurs il se\
-  \ dit dans les couloirs que l'expérience de mise en </span><span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\"\
-  >ligne</span> <span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\">sera bientôt\
-  \ </span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">complètement\
-  \ revue. N'hésitez pas à partager vos idées !</span></div><div id=\"magicdomid15\"\
-  \ class=\"\"></div><div id=\"magicdomid16\" class=\"\"><h2><span\
-  \ class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Et comment va CloudExplorer\
-  \ ?</span></h2></div><div id=\"magicdomid17\" class=\"\"></div>\
-  <div id=\"magicdomid18\" class=\"\"><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >Comme nous l'avons dit CloudExplorer (CE pour les intimes) peut maintenant vivre\
-  \ sa vie sans dépendre des mises à jours Silex. Du coup, il s'est doté de nouvelles\
-  \ possibilités pour fêter la v2 : WebDAV, SFTP et RemoteStorage font leur entrée\
-  \ dans le réseau Silex ! Cette nouvelle version a également permis de réparer les\
-  \ problèmes de connexion à Dropbox et à grandement optimisé l'utilisation de GitHub.</span></div>\
-  <div class=\"\"></div><div class=\"\">[caption id=\"\
-  \" align=\"aligncenter\" width=\"535\"]<img class=\"\" src=\"https://media.giphy.com/media/wh8mz9x4lDshq/giphy.gif\"\
-  \ alt=\"Fast bread GIF\" width=\"535\" height=\"301\" /> CloudExplorer + Unifile,\
-  \ une allégorie[/caption]</div><div id=\"magicdomid19\" class=\"\
-  \"></div><div id=\"magicdomid20\" class=\"\"><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >L'autre grande nouvelle est que CE a lui aussi été scindé en deux pour assouplir\
-  \ encore plus la structure : son code serveur <a href=\"https://github.com/silexlabs/unifile\"\
-  >Unifile</a> est maintenant sorti du nid et permettra à tous les développeurs d'utiliser\
-  \ le cloud dans leur application comme s'il s'agissait de leur disque dur. Si vous\
-  \ avez des demandes de stockage particulière, c'est avec l'équipe Unifile qu'il\
-  \ faudra <a href=\"https://github.com/silexlabs/unifile/issues/new\">discuter</a>\
-  \ (autour d'un verre de préférence). Souhaitons une longue vie à ce nouveau composant\
-  \ !</span></div><div id=\"magicdomid21\" class=\"\"></div><div\
-  \ id=\"magicdomid22\" class=\"\"><h2><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  >La v3, c'est pour quand ?</span></h2></div><div id=\"magicdomid23\"\
-  \ class=\"\"></div><div id=\"magicdomid24\" class=\"\"><span class=\"\
-  author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Puisque nous avons énormément\
-  \ œuvré pour rendre Silex plus agile, il est maintenant plus simple de mettre en\
-  \ production des changements, de nouvelles fonctionnalités et des corrections de\
-  \ bugs (si, il y en a toujours un peu hélas). La v3 n'est donc pas pour tout de\
-  \ suite mais il y aura régulièrement du changement dans la v2. On peut même vous\
-  \ le dire, un nouvel éditeur de style est actuellement en création. On en reparle\
-  \ bientôt ;)</span></div><div id=\"magicdomid25\" class=\"\"></div>\
-  <div id=\"magicdomid26\" class=\"\"></div><div id=\"magicdomid27\"\
-  \ class=\"\"><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Si\
-  \ vous êtes</span><span class=\"author-a-fz74zz74zz86zuz83zt1az75zz82zh12pw\"> à\
-  \ Paris et,</span><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\"\
-  > comme nous, tout excité par cette sortie tant attendu, on a pensé à vous : <a\
-  \ href=\"https://www.silexlabs.org/event/50eme-apero-open-source-de-silex-labs/\"\
-  >rendez-vous jeudi 26 avril dans les locaux de LeBonCoin</a> pour une démo by Alex\
-  \ Hoyau himself suivi d'un apéro festif !</span></div><div id=\"magicdomid28\"\
-  \ class=\"\"></div><div id=\"magicdomid29\" class=\"\"><span class=\"\
-  author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">Créez librement,</span></div>\
-  <div id=\"magicdomid30\" class=\"\"></div><div id=\"magicdomid31\"\
-  \ class=\"\"><span class=\"author-a-z69zvvz68zz65zpkoz66zz77ztz70zz65zz88zk4\">L'équipe\
-  \ Silex Labs</span></div>"
-layout: post
-link: https://www.silexlabs.org/silex-v2-createur-de-site-web-attendiez/
-slug: silex-v2-createur-de-site-web-attendiez
-title: Silex v2, le créateur de site web que vous attendiez
+date: "2018-04-24T22:16:28.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/silex-v2-createur-de-site-web-attendiez/"
+slug: "silex-v2-createur-de-site-web-attendiez"
+title: "Silex v2, le créateur de site web que vous attendiez"
 wordpress_id: 207616
-categories:
-- "The Blog"
+categories: ["The Blog"]
+
 ---
-
-
-
-
 Il est aujourd'hui indispensable d'avoir un pied dans le web, que vous soyez une entreprise, une association ou un groupe de musique. Devant la demande grandissante, le marché des éditeurs de site web a été très secoué par les acteurs du secteur, GAFAM ou autres. Cependant, nous sommes convaincus que, comme pour le reste de votre activité, votre image sur l'Internet doit vous appartenir : vous devez pouvoir la changer du tout au tout, la déplacer ou choisir de mettre de la publicité (ou pas).
 
 
@@ -125,7 +24,7 @@ C'est en voulant vous redonner ce pouvoir que nous avons fait évoluer Silex.
 
 
 
-				<!-- more -->
+<!-- more -->
 
 
 
@@ -201,7 +100,7 @@ Comme nous l'avons dit CloudExplorer (CE pour les intimes) peut maintenant vivre
 
 
 
-				[caption id="" align="aligncenter" width="535"]![Fast bread GIF](https://media.giphy.com/media/wh8mz9x4lDshq/giphy.gif) CloudExplorer + Unifile, une allégorie[/caption]
+[caption id="" align="aligncenter" width="535"]![Fast bread GIF](https://media.giphy.com/media/wh8mz9x4lDshq/giphy.gif) CloudExplorer + Unifile, une allégorie[/caption]
 
 
 
@@ -261,3 +160,4 @@ Créez librement,
 
 
 L'équipe Silex Labs
+

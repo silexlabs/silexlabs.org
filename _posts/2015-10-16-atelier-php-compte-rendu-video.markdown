@@ -1,96 +1,34 @@
 ---
-author: Simo
+author: "Simo"
 comments: true
-date: 2015-10-16 11:36:56+00:00
-excerpt: "<h2><a href=\"https://www.silexlabs.org/wp-content/uploads/2015/05/b-to-bV2-PHP-bandeaurouge.png\"\
-  ><img class=\" wp-image-204722 size-full aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/05/b-to-bV2-PHP-bandeaurouge.png\"\
-  \ alt=\"b-to-bV2-PHP-bandeaurouge\" width=\"608\" height=\"140\" /></a></h2>\
-  Cet atelier organisé par Silex Labs le 28 janvier 2015 à <a href=\"http://www.eemi.com/fr\"\
-  >l’EEMI </a>dans le cadre du projet <a href=\"https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/\"\
-  >“Le tour du web en 50 ateliers”</a> vous propose une initiation au langage PHP.\
-  Lors de cet atelier, Yann Le Scouarnec nous apprend à réaliser un petit\
-  \ formulaire et à communiquer avec une base de données.<b>Cible et pré-requis\
-  \ :</b>Cet atelier est destiné aux débutants qui ne connaissent pas\
-  \ du tout PHP comme aux intermédiaires ayant quelques notions.L’installation\
-  \ d’un serveur Apache est nécessaire <a href=\"http://www.wampserver.com/\" target=\"\
-  _blank\">Wamp</a> pour windows, <a href=\"https://www.mamp.info/en/\" target=\"\
-  _blank\">Mamp</a> pour Machintosh, <a href=\"http://doc.ubuntu-fr.org/lamp\" target=\"\
-  _blank\">Lamp</a> pour Linux ainsi que l’installation <a href=\"http://php.net/downloads.php\"\
-  \ target=\"_blank\">PHP</a> MySQLi.<h2><b>Compte-rendu vidéo</b></h2>\
-  Cet atelier est découpé en 3 parties:<ol><li>Introduction</li>\
-  <li>Réaliser un formulaire</li><li>Gérer une base de données avec\
-  \ MySQL</li></ol><h2><strong> 1. Introduction</strong></h2>\
-  Une introduction sur les technologies, l’explication des termes serveur\
-  \ et clients. les requêtes HTTP, la notion GET et POST ($_GET et $_POST )\
-  <h2></h2>[embed]https://youtu.be/HTaERtG06QQ[/embed]&nbsp;\
-  <h2><strong> 2. Réaliser un formulaire</strong></h2>Passons à\
-  \ la pratique. Réalisation avec php d’un petit formulaire, ici on fera une petite\
-  \ addition.[embed]https://youtu.be/a9MhTrhEb2s[/embed]&nbsp;\
-  &nbsp;<h2><strong> 3. Base de données MySQL</strong></h2>\
-  <h2></h2>Le php nous servira ici à la communication avec une base\
-  \ de données créée via MySQLi. Il sera question de créer, modifier et supprimer\
-  \ des éléments de la base de données grâce à php.<h2></h2>[embed]https://youtu.be/1a8yc_SaZUM[/embed]\
-  &nbsp;<h2></h2><h2><b>Intervenant </b></h2>\
-  Cet atelier a été animé par Yann Le Scouarnec Senior Web Developer chez I@D et\
-  \ Intervenant pédagogique à <a href=\"http://www.hetic.net/\">HETIC</a>. Expert\
-  \ reconnu du PHP il a notamment publié <a href=\"http://www.amazon.com/Beginning-PHP5-Apache-MySQL-Development/dp/0764579665\"\
-  >Beginning PHP5, Apache, and MySQL Web Development</a> et travaille actuellement\
-  \ sur la rédaction d’un livre sur PHP 5.7.Linked in : <a href=\"https://fr.linkedin.com/pub/yann-le-scouarnec/53/942/13\"\
-  >https://fr.linkedin.com/pub/yann-le-scouarnec/53/942/13</a>Github :\
-  \ <a href=\"https://github.com/Ikimasoft\">https://github.com/Ikimasoft</a>\
-  Twitter : <a href=\"https://twitter.com/IkimaSoft\">https://twitter.com/IkimaSoft</a>\
-  <h2></h2><h2><b>À propos de PHP</b></h2><b>Le PHP</b>\
-  \ est un langage de programmation libre orienté objet, conçu pour permettre la création\
-  \ d’applications dynamiques. Le plus souvent développées pour le Web il est utilisé\
-  \ pour communiquer via un serveur HTTP, essentiellement pour créer des pages web\
-  \ dynamiques (formulaires, mettre à jour des bases de données…). Les sites comme\
-  \ Facebook, Youtube, Yahoo, ainsi que le moteur de Wikipédia utilisent le php. En\
-  \ <a href=\"http://fr.wikipedia.org/wiki/2002\">2002</a>, PHP était utilisé par\
-  \ plus de 8 millions de sites Web à travers le monde, en <a href=\"http://fr.wikipedia.org/wiki/2007\"\
-  >2007</a> par plus de 20 millions et en 2013 par plus de 244 millions (source wikipédia).\
-  C'est un langage peu typé, souple et donc facile à apprendre par un débutant\
-  \ car il ne s'encombre pas de théorie et a tendance à choisir le chemin le plus\
-  \ direct. La communauté est énorme et travaille sans relâche à l’amélioration de\
-  \ ce langage.<h2></h2>[embed]https://twitter.com/silexlabs/status/560507667022893058[/embed]\
-  <a href=\"https://www.silexlabs.org/atelier-back-to-basics-php/\">https://www.silexlabs.org/atelier-back-to-basics-php/</a>\
-  <h2></h2>"
-layout: post
-link: https://www.silexlabs.org/atelier-php-compte-rendu-video/
-slug: atelier-php-compte-rendu-video
-title: Atelier php compte-rendu vidéo
+date: "2015-10-16T11:36:56.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/atelier-php-compte-rendu-video/"
+slug: "atelier-php-compte-rendu-video"
+title: "Atelier php compte-rendu vidéo"
 wordpress_id: 204661
-categories:
-- "Back To Basics"
-- "Compte rendu Vidéo"
-- "The Blog"
-- "Vidéos"
-tags:
-- "atelier"
-- "Back to Basics"
-- "le tour du web"
-- "le tour du web en 50 ateliers"
-- "php"
-- "Yann Le Scouarnec"
----
+categories: ["Back To Basics","Compte rendu Vidéo","The Blog","Vidéos"]
+tags: ["atelier","Back to Basics","le tour du web","le tour du web en 50 ateliers","php","Yann Le Scouarnec"]
 
+---
 ## [![b-to-bV2-PHP-bandeaurouge](https://www.silexlabs.org/wp-content/uploads/2015/05/b-to-bV2-PHP-bandeaurouge.png)](https://www.silexlabs.org/wp-content/uploads/2015/05/b-to-bV2-PHP-bandeaurouge.png)
 
 
-				Cet atelier organisé par Silex Labs le 28 janvier 2015 à [l’EEMI ](http://www.eemi.com/fr)dans le cadre du projet [“Le tour du web en 50 ateliers”](https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/) vous propose une initiation au langage PHP.
+Cet atelier organisé par Silex Labs le 28 janvier 2015 à [l’EEMI ](http://www.eemi.com/fr)dans le cadre du projet [“Le tour du web en 50 ateliers”](https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/) vous propose une initiation au langage PHP.
 
-				Lors de cet atelier, Yann Le Scouarnec nous apprend à réaliser un petit formulaire et à communiquer avec une base de données.
+Lors de cet atelier, Yann Le Scouarnec nous apprend à réaliser un petit formulaire et à communiquer avec une base de données.
 
-				**Cible et pré-requis :**
+**Cible et pré-requis :**
 
-				Cet atelier est destiné aux débutants qui ne connaissent pas du tout PHP comme aux intermédiaires ayant quelques notions.
+Cet atelier est destiné aux débutants qui ne connaissent pas du tout PHP comme aux intermédiaires ayant quelques notions.
 
-				L’installation d’un serveur Apache est nécessaire [Wamp](http://www.wampserver.com/) pour windows, [Mamp](https://www.mamp.info/en/) pour Machintosh, [Lamp](http://doc.ubuntu-fr.org/lamp) pour Linux ainsi que l’installation [PHP](http://php.net/downloads.php) MySQLi.
+L’installation d’un serveur Apache est nécessaire [Wamp](http://www.wampserver.com/) pour windows, [Mamp](https://www.mamp.info/en/) pour Machintosh, [Lamp](http://doc.ubuntu-fr.org/lamp) pour Linux ainsi que l’installation [PHP](http://php.net/downloads.php) MySQLi.
 
 
 ## **Compte-rendu vidéo**
 
 
-				Cet atelier est découpé en 3 parties:
+Cet atelier est découpé en 3 parties:
 
 
 
@@ -109,13 +47,13 @@ tags:
 ## ** 1. Introduction**
 
 
-				Une introduction sur les technologies, l’explication des termes serveur et clients. les requêtes HTTP, la notion GET et POST ($_GET et $_POST )
+Une introduction sur les technologies, l’explication des termes serveur et clients. les requêtes HTTP, la notion GET et POST ($_GET et $_POST )
 
 
 ##
 
 
-				[embed]https://youtu.be/HTaERtG06QQ[/embed]
+[embed]https://youtu.be/HTaERtG06QQ[/embed]
 
 
 
@@ -123,9 +61,9 @@ tags:
 ## ** 2. Réaliser un formulaire**
 
 
-				Passons à la pratique. Réalisation avec php d’un petit formulaire, ici on fera une petite addition.
+Passons à la pratique. Réalisation avec php d’un petit formulaire, ici on fera une petite addition.
 
-				[embed]https://youtu.be/a9MhTrhEb2s[/embed]
+[embed]https://youtu.be/a9MhTrhEb2s[/embed]
 
 
 
@@ -140,13 +78,13 @@ tags:
 ##
 
 
-				Le php nous servira ici à la communication avec une base de données créée via MySQLi. Il sera question de créer, modifier et supprimer des éléments de la base de données grâce à php.
+Le php nous servira ici à la communication avec une base de données créée via MySQLi. Il sera question de créer, modifier et supprimer des éléments de la base de données grâce à php.
 
 
 ##
 
 
-				[embed]https://youtu.be/1a8yc_SaZUM[/embed]
+[embed]https://youtu.be/1a8yc_SaZUM[/embed]
 
 
 
@@ -159,13 +97,13 @@ tags:
 ## **Intervenant **
 
 
-				Cet atelier a été animé par Yann Le Scouarnec Senior Web Developer chez I@D et Intervenant pédagogique à [HETIC](http://www.hetic.net/). Expert reconnu du PHP il a notamment publié [Beginning PHP5, Apache, and MySQL Web Development](http://www.amazon.com/Beginning-PHP5-Apache-MySQL-Development/dp/0764579665) et travaille actuellement sur la rédaction d’un livre sur PHP 5.7.
+Cet atelier a été animé par Yann Le Scouarnec Senior Web Developer chez I@D et Intervenant pédagogique à [HETIC](http://www.hetic.net/). Expert reconnu du PHP il a notamment publié [Beginning PHP5, Apache, and MySQL Web Development](http://www.amazon.com/Beginning-PHP5-Apache-MySQL-Development/dp/0764579665) et travaille actuellement sur la rédaction d’un livre sur PHP 5.7.
 
-				Linked in : [https://fr.linkedin.com/pub/yann-le-scouarnec/53/942/13](https://fr.linkedin.com/pub/yann-le-scouarnec/53/942/13)
+Linked in : [https://fr.linkedin.com/pub/yann-le-scouarnec/53/942/13](https://fr.linkedin.com/pub/yann-le-scouarnec/53/942/13)
 
-				Github : [https://github.com/Ikimasoft](https://github.com/Ikimasoft)
+Github : [https://github.com/Ikimasoft](https://github.com/Ikimasoft)
 
-				Twitter : [https://twitter.com/IkimaSoft](https://twitter.com/IkimaSoft)
+Twitter : [https://twitter.com/IkimaSoft](https://twitter.com/IkimaSoft)
 
 
 ##
@@ -176,17 +114,18 @@ tags:
 ## **À propos de PHP**
 
 
-				**Le PHP** est un langage de programmation libre orienté objet, conçu pour permettre la création d’applications dynamiques. Le plus souvent développées pour le Web il est utilisé pour communiquer via un serveur HTTP, essentiellement pour créer des pages web dynamiques (formulaires, mettre à jour des bases de données…). Les sites comme Facebook, Youtube, Yahoo, ainsi que le moteur de Wikipédia utilisent le php. En [2002](http://fr.wikipedia.org/wiki/2002), PHP était utilisé par plus de 8 millions de sites Web à travers le monde, en [2007](http://fr.wikipedia.org/wiki/2007) par plus de 20 millions et en 2013 par plus de 244 millions (source wikipédia).
+**Le PHP** est un langage de programmation libre orienté objet, conçu pour permettre la création d’applications dynamiques. Le plus souvent développées pour le Web il est utilisé pour communiquer via un serveur HTTP, essentiellement pour créer des pages web dynamiques (formulaires, mettre à jour des bases de données…). Les sites comme Facebook, Youtube, Yahoo, ainsi que le moteur de Wikipédia utilisent le php. En [2002](http://fr.wikipedia.org/wiki/2002), PHP était utilisé par plus de 8 millions de sites Web à travers le monde, en [2007](http://fr.wikipedia.org/wiki/2007) par plus de 20 millions et en 2013 par plus de 244 millions (source wikipédia).
 
-				C'est un langage peu typé, souple et donc facile à apprendre par un débutant car il ne s'encombre pas de théorie et a tendance à choisir le chemin le plus direct. La communauté est énorme et travaille sans relâche à l’amélioration de ce langage.
+C'est un langage peu typé, souple et donc facile à apprendre par un débutant car il ne s'encombre pas de théorie et a tendance à choisir le chemin le plus direct. La communauté est énorme et travaille sans relâche à l’amélioration de ce langage.
+
+
+##
+
+
+[embed]https://twitter.com/silexlabs/status/560507667022893058[/embed]
+
+[https://www.silexlabs.org/atelier-back-to-basics-php/](https://www.silexlabs.org/atelier-back-to-basics-php/)
 
 
 ##
 
-
-				[embed]https://twitter.com/silexlabs/status/560507667022893058[/embed]
-
-				[https://www.silexlabs.org/atelier-back-to-basics-php/](https://www.silexlabs.org/atelier-back-to-basics-php/)
-
-
-##

@@ -1,6 +1,6 @@
 ---
-title: 'Apéropensource #51'
-layout: post
+title: "Apéropensource #51"
+layout: "post"
 
 ---
 ![2019-07-05-859376.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-859376.png)

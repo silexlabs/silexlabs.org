@@ -1,366 +1,101 @@
 ---
-author: lexa
+author: "lexa"
 comments: true
-date: 2010-11-12 10:25:48+00:00
-excerpt: "In this tutorial you will create a simple silex plugin displaying a \"Hello\
-  \ Silex !\" message on your publication. You will then add a button in the ViewMenu\
-  \ to show/hide the message, then add a parameter in the manager allowing you to\
-  \ change the displayed text.As this tutorial showcases all the Silex\
-  \ Plugins functionnalities, it assumes base knowledge in PHP, JavaScript, ActionScript\
-  \ 2 and ActionScript 3. The generated AS2 and AS3 swf will be created in Flash IDE\
-  \ but you can use the IDE of your liking. It also assumes that you read the \"Silex\
-  \ Plugins Creation\" article at this adress : <a href=\"../silex-plugins-creation/\"\
-  >http://new.silex-ria.org/codex/silex-plugins-creation/</a>You can find\
-  \ the source of this tutorial here :  <a href=\"https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip\"\
-  \ target=\"_blank\">Hello_Silex_Tutorial_source</a><!-- more -->\
-  <h2>I - A simple plugin</h2>the first part of this tutorial will focus\
-  \ on creating a plugin displaying a \"Hello Silex !\" text field on the publication\
-  \ startup. It will use mainly PHP, AS2 and a bit of JavaScript.<h3>a/\
-  \ creating the plugin folder</h3>Go to your silex server folder, and open\
-  \ the plugins/ folder. Create a new folder called \"helloSilex\".<h3>b/\
-  \ the index.php file</h3>The index.php file is the entry point of your\
-  \ plugin for the silex server. It must be a class named like your folder plugin\
-  \ and extends the plugin_base class. Create a new index.php file in the plugin folder\
-  \ and copy the following code in it:<pre>&lt;?phprequire_once\
-  \ ROOTPATH.'cgi/includes/plugin_base.php';class snapshot_management\
-  \ extends plugin_base{}?&gt;</pre>\
-  The first include the extended plugin_base class, the php class is then declared.\
-  <h3>c/ adding a PHP hook</h3>The next step is to add a hook on\
-  \ Silex PHP hook manager that will signal to our plugin that the Silex Core is ready.\
-  \ Add the following code to your class :<pre>&lt;?phprequire_once\
-  \ ROOTPATH.'cgi/includes/plugin_base.php';class snapshot_management\
-  \ extends plugin_base{<strong>public function initHooks($hook_manager)</strong>\
-  <strong>{</strong><strong>$hook_manager-&gt;add_hook('index-body-end',\
-  \ 'hello_silex_index_body_end_hook', $this);</strong><strong>}</strong>\
-  <strong>public function hello_silex_index_body_end_hook()</strong>\
-  <strong>{</strong><strong>echo \"hello silex ready\";</strong>\
-  <strong>}</strong>}?&gt;</pre>The function\
-  \ initHooks add a hook to the Hook Manager when the plugin is loaded instructing\
-  \ the Hook Manager to call the \"hello_silex_index_body_end_hook\" callback when\
-  \ the \"index-body-end\" hook is called. The callback only echoes a text for now\
-  \ that appears in the php log.<h3>d/ the ActionScript 2 Flash file</h3>\
-  Now that the plugin PHP part is set up, we are gonna create the flash .swf\
-  \ file that will display the \"Hello Silex !\" message in your publication.\
-  <ol><li>Open Flash IDE.</li><li>Create a new <strong>AS2</strong>\
-  \ document.</li><li>In the libray, add a new MovieClip and call it \"\
-  Container\".</li><li>In the \"Container\" MovieClip, add a new Text field\
-  \ and name it \"helloText\".</li><li>Write \"HELLO SILEX !\" in the text\
-  \ field in the size and color of your liking.</li><li>In the \"Anti-alias\"\
-  \ params of the text, choose \"Use device fonts\".</li><li>Add the Container\
-  \ MovieClip to the Stage.</li><li>Publish the .swf in your plugin folder\
-  \ under the name \"helloSilex.swf\". (file &gt; publish settings in Flash to choose\
-  \ the output directory).</li><li>Export your FLA as a .png in the plugin\
-  \ folder with the name \"plugin.png\". This file will be used as a preview by the\
-  \ manager. This file is required for the plugin to work.</li></ol>\
-  <img class=\"alignnone size-full wp-image-44\" title=\"screen_1\" src=\"http://new.silex-ria.org/codex/files/2010/09/screen_1.jpg\"\
-  \ alt=\"\" width=\"580\" height=\"363\" />When you open the swf, it\
-  \ now displays the \"HELLO SILEX !\", we are now going to include it at runtime\
-  \ in our publication.<h3>e/ loading the .swf</h3>Re-open the\
-  \ index.php file and modify the \"<strong>hello_silex_index_body_end_hook\" method\
-  \ like so:</strong><pre>&lt;?phprequire_once ROOTPATH.'cgi/includes/plugin_base.php';\
-  class snapshot_management extends plugin_base{\
-  <strong>public function initHooks($hook_manager)</strong><strong>{</strong>\
-  <strong>$hook_manager-&gt;add_hook('index-body-end', 'hello_silex_index_body_end_hook',\
-  \ $this);</strong><strong>}</strong><strong>public function hello_silex_index_body_end_hook()</strong>\
-  <strong>{</strong><strong>?&gt; </strong><strong>&lt;script\
-  \ type=\"text/javascript\"&gt;</strong>silexNS.HookManager.addHook(\"\
-  preloadDone\",initHelloSilex);<strong>function initHelloSilex()</strong>\
-  <strong>{</strong><strong>document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/snapshot/helloSilex.swf,plugins');</strong>\
-  <strong>}</strong><strong>&lt;/script&gt;</strong>\
-  <strong>&lt;?php </strong><strong>}</strong>}\
-  ?&gt;</pre>The modified \"hello_silex_index_body_end_hook\" method\
-  \ now register a new \"initHelloSilex\" method between \"&lt;script&gt;\" tags,\
-  \ this methods is called by JavaScript when the \"preloadDone\" hook is called,\
-  \ that is when the publication has finished loading.This method add the\
-  \ \"helloSilex\" swf file that we previously created on the silex object of the\
-  \ DOM. the SetVariable method calls the corresponding AS2 method on Silex Core via\
-  \ External Interface which loads the given url in the the \"plugins\" MovieClip\
-  \ of Silex.Our Plugin is now ready to display the text on our publication.\
-  <h3>f/ activating the plugin</h3>To see our plugin in action,\
-  \ we first need to activate it on a publication. We're gonna create a new Silex\
-  \ publication and activate the plugin on it.<ol><li>Open your\
-  \ Silex manager and log in.</li><li>Go to the \"Create\" page</li>\
-  <li>Click on \"Create a site form a blank page\".</li><li>Name your\
-  \ publication \"hellosilex\" and click save.</li><li>In the appearing\
-  \ box click on \"Properties\".</li><li>Click on your publication in the\
-  \ list on the left</li><li>Click on Plugins</li><li>Click on\
-  \ \"Activate a plugin\".</li><li>Choose the \"helloSilex\" plugin in the\
-  \ list, click on it and confirm.</li><li>The plugin is now activated,\
-  \ go to Manage, click on the \"helloSilex\" publication and click on \"edit\".</li>\
-  </ol>When the publication opens you can see the \"HELLO SILEX\
-  \ !\" text field has been added to the stage.<img class=\"alignnone\
-  \ size-full wp-image-47\" title=\"screen_2\" src=\"http://new.silex-ria.org/codex/files/2010/09/screen_21.jpg\"\
-  \ alt=\"\" width=\"580\" height=\"363\" /><h2>II - Creating a Tool plugin</h2>\
-  We are going to expand on our previous plugin to create a tool plugin, a\
-  \ special kind of plugin only displayed in admin mode. We will add a button in the\
-  \ ViewMenu that will toggle the visibility of the \"HELLO SILEX !\" text field.\
-  \ We are going to use PHP, JavaScript and ActionScript 2 and 3 in this part.\
-  <h3>a/ changing the hook</h3>Our plugin is currently adding a hook\
-  \ called when the Silex publication preload is done. To make the text appear when\
-  \ the user logs in, simply change the added hook name in the script tag :\
-  <pre>&lt;script type=\"text/javascript\"&gt;<strong>silexNS.HookManager.addHook(\"\
-  silexAdminApiReady\",initHelloSilex);</strong>function initHelloSilex()\
-  {document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/snapshot/helloSilex.swf,plugins');\
-  }&lt;/script&gt;</pre>We changed the hook to \"\
-  silexAdminApiReady\", called when the log in process is complete and the admin API\
-  \ method are available. You can test your publication now and see that the text\
-  \ field only appears on log in (right click &gt; login or ctrl+L on PC and cmd+L\
-  \ on Mac).<h3>b/ creating the ViewMenu button</h3>We are going\
-  \ to create the button appearing in the ViewMenu in ActionScript 3. This button\
-  \ will communicate with Silex via External Interface to call the method that will\
-  \ switch the \"HELLO SILEX !\" text field visibility.<h4>Creating the\
-  \ Graphical asset</h4>Open Flash IDE.<ol><li>Create\
-  \ a new <strong>AS3</strong> document.</li><li>In the document properties,\
-  \ set the size of the stage to 25px X 25px.</li><li>Insert a new Flash\
-  \ button on the Stage (insert &gt; new Symbol, then set it's type to Button)</li>\
-  <li>Set it's size to 25 x 25 and feel free to personnalise the design of\
-  \ the different button states.</li><li>Name the instance of the button\
-  \ on the stage \"helloSilexButton\".</li><li>In the document Class text\
-  \ input, enter \"Main\", which is the name of main class that we will create now\
-  \ for our button.</li><li>Save your FLA in any folder under the \"helloSilex_ViewMenu_Button\"\
-  .</li></ol><img class=\"alignnone size-full wp-image-49\" title=\"\
-  screen_3\" src=\"http://new.silex-ria.org/codex/files/2010/09/screen_3.jpg\" alt=\"\
-  \" width=\"580\" height=\"363\" /><h4>Creating the Main class</h4>\
-  In Flash , create a new Actionscript 3.0 class.Depending on your\
-  \ version of Flash, the boilerplate code may or may not be generated, here it is\
-  \ :<pre>package  {public class Main {public function\
-  \ Main() {// constructor code}}\
-  }</pre>Now add the following code to your class:<pre>package\
-  \  {<strong>import flash.display.SimpleButton;</strong><strong>\
-  \ import flash.events.MouseEvent;</strong><strong> import flash.external.ExternalInterface;</strong>\
-  public class Main {<strong>private var helloSilexButton:SimpleButton;</strong>\
-  public function Main() {<strong>helloSilexButton.addEventListener(MouseEvent.MOUSE_DOWN,\
-  \ onMouseDown);</strong>}<strong> private function onMouseDown(event:MouseEvent):void</strong>\
-  <strong> {</strong><strong> ExternalInterface.call(\"toggle_hello_silex_visibility\"\
-  );</strong><strong> }</strong>}}</pre>What\
-  \ we do here is get a reference to the button we added on the stage via the \"helloSilexButton\"\
-  \ variable, then set a listener on it that will call a javacript method on click,\
-  \ that we will later add to the index.php file.Now go back to the \"\
-  helloSilex_ViewMenu_Button\" FLA file and publish the \"helloSilex_ViewMenu_Button.swf\"\
-  \ in your plugin folder.<h3>c/ modifing the \"helloSilex\" swf</h3>\
-  We are now going to add logic to the previously created \"helloSilex\" so\
-  \ that he will know when he needs to toggle his visibility.<ol>\
-  <li>Open Flash IDE.</li><li>Create a new ActionScript file and write\
-  \ the following code in it :</li></ol><pre>import flash.external.ExternalInterface;\
-  class HelloSilex extends MovieClip{public function\
-  \ HelloSilex(){this._visible = false;ExternalInterface.addCallback(\"\
-  toggleHelloSilexVisibility\", this, toggleHelloSilexVisibility);}\
-  public function toggleHelloSilexVisibility(){if\
-  \ (this._visible){this._visible = false;}\
-  else {this._visible = true;}}\
-  }</pre>This actionscript 2 class file adds an ExternalInterface callback\
-  \ on the DOM silex Object called \"toggleHelloSilexVisibility\" that we will call\
-  \ from the index.php class. When called, this method switch the MovieClip visibility.\
-  Now open the \"helloSilex\" FLA, and link the \"Container\" MovieClip\
-  \ to the created class :<ol><li>Right click on the Container\
-  \ MoviClip in the library.</li><li>Click on \"Properties\"</li>\
-  <li>In the appearing panel, click on \"Export for ActionScript\".</li>\
-  <li>In the Class Text Input, write \"HelloSilex\".</li><li>Publish your\
-  \ new \"helloSilex.swf\" in your plugin folder.</li></ol><h3>d/bringing\
-  \ it together</h3>We now are going to modifiy the index.php file to account\
-  \ for the change made in the plugin. Add the following code in index.php :\
-  <pre>&lt;?phprequire_once ROOTPATH.'cgi/includes/plugin_base.php';\
-  class helloSilex_management extends plugin_base{\
-  public function initHooks($hook_manager){$hook_manager-&gt;add_hook('index-body-end',\
-  \ 'hello_silex_index_body_end_hook', $this);}public function\
-  \ hello_silex_index_body_end_hook(){?&gt;&lt;script\
-  \ type=\"text/javascript\"&gt;silexNS.HookManager.addHook(\"silexAdminApiReady\"\
-  ,initHelloSilex);<strong> silexNS.HookManager.addHook(\"getViewMenuItems\"\
-  ,set_view_menu_item);</strong>function initHelloSilex()\
-  {document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/helloSilex/helloSilex.swf,plugins');\
-  }<strong>function toggle_hello_silex_visibility()</strong>\
-  <strong> {</strong><strong> document.getElementById('silex').toggleHelloSilexVisibility();</strong>\
-  <strong> }</strong><strong> </strong><strong>\
-  \ function set_view_menu_item(event)</strong><strong> {</strong>\
-  <strong> event.data.push($rootUrl+\"plugins/helloSilex/helloSilex_ViewMenu_Button.swf\"\
-  );</strong><strong> }</strong>&lt;/script&gt;\
-  &lt;?php}}?&gt;</pre>In this iteration\
-  \ we added one hook to the JavaScript hook manager and 2 method. The hook is called\
-  \ by the ViewMenu when it's initialisation is complete and ask the plugins to add\
-  \ themselves to it. He passes an array as argument that yout must push with your\
-  \ icon .swf url. Here we add \"helloSilex_ViewMenu_Button\" AS3 button, giving it's\
-  \ full url from the root of the server.The  \"toggle_hello_silex_visibility\"\
-  \ method is the one that we set as External Interface callback in the Main class\
-  \ of our ViewMenu button. It will be called when we click the ViewMenu button. We\
-  \ can see that the body of this method calls a method on the silex DOM element,\
-  \ \"toggleHelloSilexVisibility\" which his the one that we set in our HelloSilex\
-  \ AS2 class. This method when called after a click on the viewMenu button, toggles\
-  \ the visibility of the \"Hello Silex !\" MovieClip in our publication.\
-  [caption id=\"attachment_51\" align=\"alignnone\" width=\"580\" caption=\"a blue\
-  \ button has been added to the ViewMenu\"]<img class=\"size-full wp-image-51 \"\
-  \ title=\"screen_4\" src=\"http://new.silex-ria.org/codex/files/2010/09/screen_4.jpg\"\
-  \ alt=\"\" width=\"580\" height=\"363\" />[/caption]The second part\
-  \ of this tutorial is now complete. Now that you understand the mechanism of Silex\
-  \ Plugin, you can try adding different behaviour in your AS2 \"HelloSilex\" class\
-  \ or try adding more button to the viewMenu, each one interacting differently with\
-  \ the plugin.<h2>III - Adding parameters to the plugin</h2>\
-  To extend the functionnalities of your plugin, you have the possibility to add parameters\
-  \ to it via PHP, those parameters will be initialised at the plugin startup and\
-  \ their values will be editable in the manager.In our \"hello silex\
-  \ !\" plugin, we will add a paramter that will allow the user to change the text\
-  \ of the text field.<h3>a/ adding the callback in flash</h3>\
-  We first need to add a new method in \"hello silex !\" AS2 .swf that will change\
-  \ the value of the text field.<ol><li>Open the \"HelloSilex.as\"\
-  \ class.</li><li>Change the class like this :</li></ol>\
-  <pre>import flash.external.ExternalInterface;class HelloSilex extends\
-  \ MovieClip{<strong>var helloText:MovieClip;</strong>\
-  public function HelloSilex(){this._visible = false;\
-  ExternalInterface.addCallback(\"toggleHelloSilexVisibility\", this, toggleHelloSilexVisibility);\
-  <strong>ExternalInterface.addCallback(\"changeHelloSilexText\", this,\
-  \ changeHelloSilexText);</strong>}public function toggleHelloSilexVisibility()\
-  {if (this._visible){this._visible\
-  \ = false;}else {this._visible = true;\
-  }}<strong> public function changeHelloSilexText(value:String):Void</strong>\
-  <strong> {</strong><strong> helloText.text = value;</strong>\
-  <strong> }</strong><strong> </strong>}</pre>\
-  We add an External Interface callback in the constructor that will be called\
-  \ from the index.php, and add the method that will change the text, of the text\
-  \ field on the stage.<h3>b/setting the index.php file</h3>The\
-  \ last change is to adapt the index.php file :<pre>&lt;?php\
-  require_once ROOTPATH.'cgi/includes/plugin_base.php';class helloSilex_management\
-  \ extends plugin_base{<strong>function initDefaultParamTable()</strong>\
-  <strong> {</strong><strong> $this-&gt;paramTable = array(\
-  \ </strong><strong> array(</strong><strong> \"name\" =&gt;\
-  \ \"helloSilex_text\",</strong><strong> \"label\" =&gt; \"helloSilex\
-  \ Text\",</strong><strong> \"description\" =&gt; \"This is the text\
-  \ of the hello silex plugin\",</strong><strong> \"value\" =&gt; \"HELLO\
-  \ SILEX !\",</strong><strong> \"restrict\" =&gt; \"\",</strong>\
-  <strong> \"type\" =&gt; \"string\",</strong><strong> \"maxChars\"\
-  \ =&gt; \"200\"</strong><strong> )</strong><strong> );</strong>\
-  <strong> }</strong>public function initHooks($hook_manager)\
-  {$hook_manager-&gt;add_hook('index-body-end', 'hello_silex_index_body_end_hook',\
-  \ $this);}public function hello_silex_index_body_end_hook()\
-  {$i = 0;while( $i &lt; count( $this-&gt;paramTable\
-  \ ) ){if($this-&gt;paramTable[$i][\"name\"] == \"helloSilex_text\"\
-  )$helloSilexText = $this-&gt;paramTable[$i][\"value\"];\
-  $i++;}?&gt;&lt;script type=\"text/javascript\"\
-  &gt;silexNS.HookManager.addHook(\"silexAdminApiReady\",initHelloSilex);\
-  silexNS.HookManager.addHook(\"getViewMenuItems\",set_view_menu_item);\
-  function initHelloSilex(){document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/helloSilex/helloSilex.swf,plugins');\
-  }function toggle_hello_silex_visibility(){\
-  <strong> document.getElementById('silex').changeHelloSilexText(\"&lt;?php\
-  \ echo $helloSilexText ?&gt; \");</strong>document.getElementById('silex').toggleHelloSilexVisibility();\
-  }function set_view_menu_item(event){\
-  event.data.push($rootUrl+\"plugins/helloSilex/helloSilex_ViewMenu_Button.swf\"\
-  );}&lt;/script&gt;&lt;?php}\
-  }<a href=\"https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip\"\
-  \ target=\"_blank\">Hello_Silex_Tutorial_source</a>?&gt;</pre>We add a\
-  \ PHP method <strong>initDefaultParamTable which add our parameter in the parameter\
-  \ array. Our parameter is represented by an assoc array with a few different properties.\
-  \ In the \"</strong>hello_silex_index_body_end_hook\", we add a loop that will search\
-  \ in the param array for the value of our parameters. A loop might be useful for\
-  \ plugins with many differnt parameters. And last, we add a call to the \"changeHelloSilexText\"\
-  \ in the \"toggle_hello_silex_visibility\" JavaScript body method. This call will\
-  \ change the value of the text in flash, passing it the PHP $helloSilexText value.\
-  <h3>c/ changing the parameter value from the manager</h3>The value\
-  \ of the parameter is set from the Silex Manager<ol><li>Open\
-  \ the manager and log-in</li><li>Go to the \"Manage\" page</li>\
-  <li>Click on the \"helloSilex\" publication</li><li>Click on Plugins</li>\
-  <li>Click on the helloSilex plugin</li><li>Click on helloSilex\
-  \ Text parameter</li><li>Change the text</li><li>Save then click\
-  \ on Edit to see the change</li></ol><img class=\"alignnone\
-  \ size-full wp-image-52\" title=\"screen_5\" src=\"http://new.silex-ria.org/codex/files/2010/09/screen_5.jpg\"\
-  \ alt=\"\" width=\"580\" height=\"363\" /><img class=\"alignnone size-full\
-  \ wp-image-53\" title=\"screen_6\" src=\"http://new.silex-ria.org/codex/files/2010/09/screen_6.jpg\"\
-  \ alt=\"\" width=\"580\" height=\"363\" />You plugin is now complete,\
-  \ you can download the source of this 3 parts tutorial here : <a href=\"https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip\"\
-  \ target=\"_blank\">Hello_Silex_Tutorial_source</a>"
-layout: post
-link: https://www.silexlabs.org/creating-a-silex-plugin-hellosilex/
-slug: creating-a-silex-plugin-hellosilex
-title: Creating a silex plugin "HelloSilex"
+date: "2010-11-12T10:25:48.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/creating-a-silex-plugin-hellosilex/"
+slug: "creating-a-silex-plugin-hellosilex"
+title: "Creating a silex plugin \"HelloSilex\""
 wordpress_id: 127
-categories:
-- "Tutorials Silex"
-tags:
-- "tutorial"
----
+categories: ["Tutorials Silex"]
+tags: ["tutorial"]
 
+---
 In this tutorial you will create a simple silex plugin displaying a "Hello Silex !" message on your publication. You will then add a button in the ViewMenu to show/hide the message, then add a parameter in the manager allowing you to change the displayed text.
 
-				As this tutorial showcases all the Silex Plugins functionnalities, it assumes base knowledge in PHP, JavaScript, ActionScript 2 and ActionScript 3. The generated AS2 and AS3 swf will be created in Flash IDE but you can use the IDE of your liking. It also assumes that you read the "Silex Plugins Creation" article at this adress : [http://new.silex-ria.org/codex/silex-plugins-creation/](../silex-plugins-creation/)
+As this tutorial showcases all the Silex Plugins functionnalities, it assumes base knowledge in PHP, JavaScript, ActionScript 2 and ActionScript 3. The generated AS2 and AS3 swf will be created in Flash IDE but you can use the IDE of your liking. It also assumes that you read the "Silex Plugins Creation" article at this adress : [http://new.silex-ria.org/codex/silex-plugins-creation/](../silex-plugins-creation/)
 
-				You can find the source of this tutorial here :  [Hello_Silex_Tutorial_source](https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip)
+You can find the source of this tutorial here :  [Hello_Silex_Tutorial_source](https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip)
 
-				<!-- more -->
+<!-- more -->
 
 
 ## I - A simple plugin
 
 
-				the first part of this tutorial will focus on creating a plugin displaying a "Hello Silex !" text field on the publication startup. It will use mainly PHP, AS2 and a bit of JavaScript.
+the first part of this tutorial will focus on creating a plugin displaying a "Hello Silex !" text field on the publication startup. It will use mainly PHP, AS2 and a bit of JavaScript.
 
 
 ### a/ creating the plugin folder
 
 
-				Go to your silex server folder, and open the plugins/ folder. Create a new folder called "helloSilex".
+Go to your silex server folder, and open the plugins/ folder. Create a new folder called "helloSilex".
 
 
 ### b/ the index.php file
 
 
-				The index.php file is the entry point of your plugin for the silex server. It must be a class named like your folder plugin and extends the plugin_base class. Create a new index.php file in the plugin folder and copy the following code in it:
+The index.php file is the entry point of your plugin for the silex server. It must be a class named like your folder plugin and extends the plugin_base class. Create a new index.php file in the plugin folder and copy the following code in it:
 
 
     <?php
 
-    				require_once ROOTPATH.'cgi/includes/plugin_base.php';
+    require_once ROOTPATH.'cgi/includes/plugin_base.php';
 
-    				class snapshot_management extends plugin_base
+    class snapshot_management extends plugin_base
 
-    				{
+    {
 
-    				}
+    }
 
-    				?>
+    ?>
 
 
-				The first include the extended plugin_base class, the php class is then declared.
+The first include the extended plugin_base class, the php class is then declared.
 
 
 ### c/ adding a PHP hook
 
 
-				The next step is to add a hook on Silex PHP hook manager that will signal to our plugin that the Silex Core is ready. Add the following code to your class :
+The next step is to add a hook on Silex PHP hook manager that will signal to our plugin that the Silex Core is ready. Add the following code to your class :
 
 
     <?php
 
-    				require_once ROOTPATH.'cgi/includes/plugin_base.php';
+    require_once ROOTPATH.'cgi/includes/plugin_base.php';
 
-    				class snapshot_management extends plugin_base
+    class snapshot_management extends plugin_base
 
-    				{
+    {
 
-    				<strong>public function initHooks($hook_manager)</strong>
+    <strong>public function initHooks($hook_manager)</strong>
 
-    				<strong>{</strong>
+    <strong>{</strong>
 
-    				<strong>$hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);</strong>
+    <strong>$hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);</strong>
 
-    				<strong>}</strong>
+    <strong>}</strong>
 
-    				<strong>public function hello_silex_index_body_end_hook()</strong>
+    <strong>public function hello_silex_index_body_end_hook()</strong>
 
-    				<strong>{</strong>
+    <strong>{</strong>
 
-    				<strong>echo "hello silex ready";</strong>
+    <strong>echo "hello silex ready";</strong>
 
-    				<strong>}</strong>
+    <strong>}</strong>
 
-    				}
+    }
 
-    				?>
+    ?>
 
 
-				The function initHooks add a hook to the Hook Manager when the plugin is loaded instructing the Hook Manager to call the "hello_silex_index_body_end_hook" callback when the "index-body-end" hook is called. The callback only echoes a text for now that appears in the php log.
+The function initHooks add a hook to the Hook Manager when the plugin is loaded instructing the Hook Manager to call the "hello_silex_index_body_end_hook" callback when the "index-body-end" hook is called. The callback only echoes a text for now that appears in the php log.
 
 
 ### d/ the ActionScript 2 Flash file
 
 
-				Now that the plugin PHP part is set up, we are gonna create the flash .swf file that will display the "Hello Silex !" message in your publication.
+Now that the plugin PHP part is set up, we are gonna create the flash .swf file that will display the "Hello Silex !" message in your publication.
 
 
 
@@ -392,72 +127,72 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
   9. Export your FLA as a .png in the plugin folder with the name "plugin.png". This file will be used as a preview by the manager. This file is required for the plugin to work.
 
 
-				![](http://new.silex-ria.org/codex/files/2010/09/screen_1.jpg)
+![](http://new.silex-ria.org/codex/files/2010/09/screen_1.jpg)
 
-				When you open the swf, it now displays the "HELLO SILEX !", we are now going to include it at runtime in our publication.
+When you open the swf, it now displays the "HELLO SILEX !", we are now going to include it at runtime in our publication.
 
 
 ### e/ loading the .swf
 
 
-				Re-open the index.php file and modify the "**hello_silex_index_body_end_hook" method like so:**
+Re-open the index.php file and modify the "**hello_silex_index_body_end_hook" method like so:**
 
 
     <?php
 
-    				require_once ROOTPATH.'cgi/includes/plugin_base.php';
+    require_once ROOTPATH.'cgi/includes/plugin_base.php';
 
-    				class snapshot_management extends plugin_base
+    class snapshot_management extends plugin_base
 
-    				{
+    {
 
-    				<strong>public function initHooks($hook_manager)</strong>
+    <strong>public function initHooks($hook_manager)</strong>
 
-    				<strong>{</strong>
+    <strong>{</strong>
 
-    				<strong>$hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);</strong>
+    <strong>$hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);</strong>
 
-    				<strong>}</strong>
+    <strong>}</strong>
 
-    				<strong>public function hello_silex_index_body_end_hook()</strong>
+    <strong>public function hello_silex_index_body_end_hook()</strong>
 
-    				<strong>{</strong>
+    <strong>{</strong>
 
-    				<strong>?> </strong>
+    <strong>?> </strong>
 
-    				<strong><script type="text/javascript"></strong>
+    <strong><script type="text/javascript"></strong>
 
-    				silexNS.HookManager.addHook("preloadDone",initHelloSilex);
+    silexNS.HookManager.addHook("preloadDone",initHelloSilex);
 
-    				<strong>function initHelloSilex()</strong>
+    <strong>function initHelloSilex()</strong>
 
-    				<strong>{</strong>
+    <strong>{</strong>
 
-    				<strong>document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/snapshot/helloSilex.swf,plugins');</strong>
+    <strong>document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/snapshot/helloSilex.swf,plugins');</strong>
 
-    				<strong>}</strong>
+    <strong>}</strong>
 
-    				<strong></script></strong>
+    <strong></script></strong>
 
-    				<strong><?php </strong>
+    <strong><?php </strong>
 
-    				<strong>}</strong>
+    <strong>}</strong>
 
-    				}
+    }
 
-    				?>
+    ?>
 
 
-				The modified "hello_silex_index_body_end_hook" method now register a new "initHelloSilex" method between "<script>" tags, this methods is called by JavaScript when the "preloadDone" hook is called, that is when the publication has finished loading.
-				This method add the "helloSilex" swf file that we previously created on the silex object of the DOM. the SetVariable method calls the corresponding AS2 method on Silex Core via External Interface which loads the given url in the the "plugins" MovieClip of Silex.
+The modified "hello_silex_index_body_end_hook" method now register a new "initHelloSilex" method between "<script>" tags, this methods is called by JavaScript when the "preloadDone" hook is called, that is when the publication has finished loading.
+This method add the "helloSilex" swf file that we previously created on the silex object of the DOM. the SetVariable method calls the corresponding AS2 method on Silex Core via External Interface which loads the given url in the the "plugins" MovieClip of Silex.
 
-				Our Plugin is now ready to display the text on our publication.
+Our Plugin is now ready to display the text on our publication.
 
 
 ### f/ activating the plugin
 
 
-				To see our plugin in action, we first need to activate it on a publication. We're gonna create a new Silex publication and activate the plugin on it.
+To see our plugin in action, we first need to activate it on a publication. We're gonna create a new Silex publication and activate the plugin on it.
 
 
 
@@ -492,51 +227,51 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
   10. The plugin is now activated, go to Manage, click on the "helloSilex" publication and click on "edit".
 
 
-				When the publication opens you can see the "HELLO SILEX !" text field has been added to the stage.
+When the publication opens you can see the "HELLO SILEX !" text field has been added to the stage.
 
-				![](http://new.silex-ria.org/codex/files/2010/09/screen_21.jpg)
+![](http://new.silex-ria.org/codex/files/2010/09/screen_21.jpg)
 
 
 ## II - Creating a Tool plugin
 
 
-				We are going to expand on our previous plugin to create a tool plugin, a special kind of plugin only displayed in admin mode. We will add a button in the ViewMenu that will toggle the visibility of the "HELLO SILEX !" text field. We are going to use PHP, JavaScript and ActionScript 2 and 3 in this part.
+We are going to expand on our previous plugin to create a tool plugin, a special kind of plugin only displayed in admin mode. We will add a button in the ViewMenu that will toggle the visibility of the "HELLO SILEX !" text field. We are going to use PHP, JavaScript and ActionScript 2 and 3 in this part.
 
 
 ### a/ changing the hook
 
 
-				Our plugin is currently adding a hook called when the Silex publication preload is done. To make the text appear when the user logs in, simply change the added hook name in the script tag :
+Our plugin is currently adding a hook called when the Silex publication preload is done. To make the text appear when the user logs in, simply change the added hook name in the script tag :
 
 
     <script type="text/javascript">
 
-    				<strong>silexNS.HookManager.addHook("silexAdminApiReady",initHelloSilex);</strong>
+    <strong>silexNS.HookManager.addHook("silexAdminApiReady",initHelloSilex);</strong>
 
-    				function initHelloSilex()
+    function initHelloSilex()
 
-    				{
+    {
 
-    				document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/snapshot/helloSilex.swf,plugins');
+    document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/snapshot/helloSilex.swf,plugins');
 
-    				}
+    }
 
-    				</script>
+    </script>
 
 
-				We changed the hook to "silexAdminApiReady", called when the log in process is complete and the admin API method are available. You can test your publication now and see that the text field only appears on log in (right click > login or ctrl+L on PC and cmd+L on Mac).
+We changed the hook to "silexAdminApiReady", called when the log in process is complete and the admin API method are available. You can test your publication now and see that the text field only appears on log in (right click > login or ctrl+L on PC and cmd+L on Mac).
 
 
 ### b/ creating the ViewMenu button
 
 
-				We are going to create the button appearing in the ViewMenu in ActionScript 3. This button will communicate with Silex via External Interface to call the method that will switch the "HELLO SILEX !" text field visibility.
+We are going to create the button appearing in the ViewMenu in ActionScript 3. This button will communicate with Silex via External Interface to call the method that will switch the "HELLO SILEX !" text field visibility.
 
 
 #### Creating the Graphical asset
 
 
-				Open Flash IDE.
+Open Flash IDE.
 
 
 
@@ -562,61 +297,61 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
   7. Save your FLA in any folder under the "helloSilex_ViewMenu_Button".
 
 
-				![](http://new.silex-ria.org/codex/files/2010/09/screen_3.jpg)
+![](http://new.silex-ria.org/codex/files/2010/09/screen_3.jpg)
 
 
 #### Creating the Main class
 
 
-				In Flash , create a new Actionscript 3.0 class.
+In Flash , create a new Actionscript 3.0 class.
 
-				Depending on your version of Flash, the boilerplate code may or may not be generated, here it is :
-
-
-    package  {
-
-    				public class Main {
-
-    				public function Main() {
-
-    				// constructor code
-
-    				}
-
-    				}
-
-    				}
-
-
-				Now add the following code to your class:
+Depending on your version of Flash, the boilerplate code may or may not be generated, here it is :
 
 
     package  {
-    				<strong>import flash.display.SimpleButton;</strong>
-    				<strong> import flash.events.MouseEvent;</strong>
-    				<strong> import flash.external.ExternalInterface;</strong>
-    				public class Main {
-    				<strong>private var helloSilexButton:SimpleButton;</strong>
-    				public function Main() {
-    				<strong>helloSilexButton.addEventListener(MouseEvent.MOUSE_DOWN, onMouseDown);</strong>
-    				}
-    				<strong> private function onMouseDown(event:MouseEvent):void</strong>
-    				<strong> {</strong>
-    				<strong> ExternalInterface.call("toggle_hello_silex_visibility");</strong>
-    				<strong> }</strong>
-    				}
-    				}
+
+    public class Main {
+
+    public function Main() {
+
+    // constructor code
+
+    }
+
+    }
+
+    }
 
 
-				What we do here is get a reference to the button we added on the stage via the "helloSilexButton" variable, then set a listener on it that will call a javacript method on click, that we will later add to the index.php file.
+Now add the following code to your class:
 
-				Now go back to the "helloSilex_ViewMenu_Button" FLA file and publish the "helloSilex_ViewMenu_Button.swf" in your plugin folder.
+
+    package  {
+    <strong>import flash.display.SimpleButton;</strong>
+    <strong> import flash.events.MouseEvent;</strong>
+    <strong> import flash.external.ExternalInterface;</strong>
+    public class Main {
+    <strong>private var helloSilexButton:SimpleButton;</strong>
+    public function Main() {
+    <strong>helloSilexButton.addEventListener(MouseEvent.MOUSE_DOWN, onMouseDown);</strong>
+    }
+    <strong> private function onMouseDown(event:MouseEvent):void</strong>
+    <strong> {</strong>
+    <strong> ExternalInterface.call("toggle_hello_silex_visibility");</strong>
+    <strong> }</strong>
+    }
+    }
+
+
+What we do here is get a reference to the button we added on the stage via the "helloSilexButton" variable, then set a listener on it that will call a javacript method on click, that we will later add to the index.php file.
+
+Now go back to the "helloSilex_ViewMenu_Button" FLA file and publish the "helloSilex_ViewMenu_Button.swf" in your plugin folder.
 
 
 ### c/ modifing the "helloSilex" swf
 
 
-				We are now going to add logic to the previously created "helloSilex" so that he will know when he needs to toggle his visibility.
+We are now going to add logic to the previously created "helloSilex" so that he will know when he needs to toggle his visibility.
 
 
 
@@ -631,46 +366,46 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
 
     import flash.external.ExternalInterface;
 
-    				class HelloSilex extends MovieClip
+    class HelloSilex extends MovieClip
 
-    				{
+    {
 
-    				public function HelloSilex()
+    public function HelloSilex()
 
-    				{
+    {
 
-    				this._visible = false;
+    this._visible = false;
 
-    				ExternalInterface.addCallback("toggleHelloSilexVisibility", this, toggleHelloSilexVisibility);
+    ExternalInterface.addCallback("toggleHelloSilexVisibility", this, toggleHelloSilexVisibility);
 
-    				}
+    }
 
-    				public function toggleHelloSilexVisibility()
+    public function toggleHelloSilexVisibility()
 
-    				{
+    {
 
-    				if (this._visible)
+    if (this._visible)
 
-    				{
+    {
 
-    				this._visible = false;
+    this._visible = false;
 
-    				}
+    }
 
-    				else {
+    else {
 
-    				this._visible = true;
+    this._visible = true;
 
-    				}
+    }
 
-    				}
+    }
 
-    				}
+    }
 
 
-				This actionscript 2 class file adds an ExternalInterface callback on the DOM silex Object called "toggleHelloSilexVisibility" that we will call from the index.php class. When called, this method switch the MovieClip visibility.
+This actionscript 2 class file adds an ExternalInterface callback on the DOM silex Object called "toggleHelloSilexVisibility" that we will call from the index.php class. When called, this method switch the MovieClip visibility.
 
-				Now open the "helloSilex" FLA, and link the "Container" MovieClip to the created class :
+Now open the "helloSilex" FLA, and link the "Container" MovieClip to the created class :
 
 
 
@@ -695,95 +430,95 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
 ### d/bringing it together
 
 
-				We now are going to modifiy the index.php file to account for the change made in the plugin. Add the following code in index.php :
+We now are going to modifiy the index.php file to account for the change made in the plugin. Add the following code in index.php :
 
 
     <?php
 
-    				require_once ROOTPATH.'cgi/includes/plugin_base.php';
+    require_once ROOTPATH.'cgi/includes/plugin_base.php';
 
-    				class helloSilex_management extends plugin_base
+    class helloSilex_management extends plugin_base
 
-    				{
+    {
 
-    				public function initHooks($hook_manager)
+    public function initHooks($hook_manager)
 
-    				{
+    {
 
-    				$hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);
+    $hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);
 
-    				}
+    }
 
-    				public function hello_silex_index_body_end_hook()
+    public function hello_silex_index_body_end_hook()
 
-    				{
+    {
 
-    				?>
+    ?>
 
-    				<script type="text/javascript">
+    <script type="text/javascript">
 
-    				silexNS.HookManager.addHook("silexAdminApiReady",initHelloSilex);
+    silexNS.HookManager.addHook("silexAdminApiReady",initHelloSilex);
 
-    				<strong> silexNS.HookManager.addHook("getViewMenuItems",set_view_menu_item);</strong>
+    <strong> silexNS.HookManager.addHook("getViewMenuItems",set_view_menu_item);</strong>
 
-    				function initHelloSilex()
+    function initHelloSilex()
 
-    				{
+    {
 
-    				document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/helloSilex/helloSilex.swf,plugins');
+    document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/helloSilex/helloSilex.swf,plugins');
 
-    				}
+    }
 
-    				<strong>function toggle_hello_silex_visibility()</strong>
+    <strong>function toggle_hello_silex_visibility()</strong>
 
-    				<strong> {</strong>
+    <strong> {</strong>
 
-    				<strong> document.getElementById('silex').toggleHelloSilexVisibility();</strong>
+    <strong> document.getElementById('silex').toggleHelloSilexVisibility();</strong>
 
-    				<strong> }</strong>
+    <strong> }</strong>
 
-    				<strong> </strong>
+    <strong> </strong>
 
-    				<strong> function set_view_menu_item(event)</strong>
+    <strong> function set_view_menu_item(event)</strong>
 
-    				<strong> {</strong>
+    <strong> {</strong>
 
-    				<strong> event.data.push($rootUrl+"plugins/helloSilex/helloSilex_ViewMenu_Button.swf");</strong>
+    <strong> event.data.push($rootUrl+"plugins/helloSilex/helloSilex_ViewMenu_Button.swf");</strong>
 
-    				<strong> }</strong>
+    <strong> }</strong>
 
-    				</script>
+    </script>
 
-    				<?php
+    <?php
 
-    				}
+    }
 
-    				}
+    }
 
-    				?>
+    ?>
 
 
-				In this iteration we added one hook to the JavaScript hook manager and 2 method. The hook is called by the ViewMenu when it's initialisation is complete and ask the plugins to add themselves to it. He passes an array as argument that yout must push with your icon .swf url. Here we add "helloSilex_ViewMenu_Button" AS3 button, giving it's full url from the root of the server.
+In this iteration we added one hook to the JavaScript hook manager and 2 method. The hook is called by the ViewMenu when it's initialisation is complete and ask the plugins to add themselves to it. He passes an array as argument that yout must push with your icon .swf url. Here we add "helloSilex_ViewMenu_Button" AS3 button, giving it's full url from the root of the server.
 
-				The  "toggle_hello_silex_visibility" method is the one that we set as External Interface callback in the Main class of our ViewMenu button. It will be called when we click the ViewMenu button. We can see that the body of this method calls a method on the silex DOM element, "toggleHelloSilexVisibility" which his the one that we set in our HelloSilex AS2 class. This method when called after a click on the viewMenu button, toggles the visibility of the "Hello Silex !" MovieClip in our publication.
+The  "toggle_hello_silex_visibility" method is the one that we set as External Interface callback in the Main class of our ViewMenu button. It will be called when we click the ViewMenu button. We can see that the body of this method calls a method on the silex DOM element, "toggleHelloSilexVisibility" which his the one that we set in our HelloSilex AS2 class. This method when called after a click on the viewMenu button, toggles the visibility of the "Hello Silex !" MovieClip in our publication.
 
-				[caption id="attachment_51" align="alignnone" width="580" caption="a blue button has been added to the ViewMenu"]![](http://new.silex-ria.org/codex/files/2010/09/screen_4.jpg)[/caption]
+[caption id="attachment_51" align="alignnone" width="580" caption="a blue button has been added to the ViewMenu"]![](http://new.silex-ria.org/codex/files/2010/09/screen_4.jpg)[/caption]
 
-				The second part of this tutorial is now complete. Now that you understand the mechanism of Silex Plugin, you can try adding different behaviour in your AS2 "HelloSilex" class or try adding more button to the viewMenu, each one interacting differently with the plugin.
+The second part of this tutorial is now complete. Now that you understand the mechanism of Silex Plugin, you can try adding different behaviour in your AS2 "HelloSilex" class or try adding more button to the viewMenu, each one interacting differently with the plugin.
 
 
 ## III - Adding parameters to the plugin
 
 
-				To extend the functionnalities of your plugin, you have the possibility to add parameters to it via PHP, those parameters will be initialised at the plugin startup and their values will be editable in the manager.
+To extend the functionnalities of your plugin, you have the possibility to add parameters to it via PHP, those parameters will be initialised at the plugin startup and their values will be editable in the manager.
 
-				In our "hello silex !" plugin, we will add a paramter that will allow the user to change the text of the text field.
+In our "hello silex !" plugin, we will add a paramter that will allow the user to change the text of the text field.
 
 
 ### a/ adding the callback in flash
 
 
-				We first need to add a new method in "hello silex !" AS2 .swf that will change the value of the text field.
+We first need to add a new method in "hello silex !" AS2 .swf that will change the value of the text field.
 
 
 
@@ -798,180 +533,180 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
 
     import flash.external.ExternalInterface;
 
-    				class HelloSilex extends MovieClip
+    class HelloSilex extends MovieClip
 
-    				{
+    {
 
-    				<strong>var helloText:MovieClip;</strong>
+    <strong>var helloText:MovieClip;</strong>
 
-    				public function HelloSilex()
+    public function HelloSilex()
 
-    				{
+    {
 
-    				this._visible = false;
+    this._visible = false;
 
-    				ExternalInterface.addCallback("toggleHelloSilexVisibility", this, toggleHelloSilexVisibility);
+    ExternalInterface.addCallback("toggleHelloSilexVisibility", this, toggleHelloSilexVisibility);
 
-    				<strong>ExternalInterface.addCallback("changeHelloSilexText", this, changeHelloSilexText);</strong>
+    <strong>ExternalInterface.addCallback("changeHelloSilexText", this, changeHelloSilexText);</strong>
 
-    				}
+    }
 
-    				public function toggleHelloSilexVisibility()
+    public function toggleHelloSilexVisibility()
 
-    				{
+    {
 
-    				if (this._visible)
+    if (this._visible)
 
-    				{
+    {
 
-    				this._visible = false;
+    this._visible = false;
 
-    				}
+    }
 
-    				else {
+    else {
 
-    				this._visible = true;
+    this._visible = true;
 
-    				}
+    }
 
-    				}
+    }
 
-    				<strong> public function changeHelloSilexText(value:String):Void</strong>
+    <strong> public function changeHelloSilexText(value:String):Void</strong>
 
-    				<strong> {</strong>
+    <strong> {</strong>
 
-    				<strong> helloText.text = value;</strong>
+    <strong> helloText.text = value;</strong>
 
-    				<strong> }</strong>
+    <strong> }</strong>
 
-    				<strong> </strong>
+    <strong> </strong>
 
-    				}
+    }
 
 
-				We add an External Interface callback in the constructor that will be called from the index.php, and add the method that will change the text, of the text field on the stage.
+We add an External Interface callback in the constructor that will be called from the index.php, and add the method that will change the text, of the text field on the stage.
 
 
 ### b/setting the index.php file
 
 
-				The last change is to adapt the index.php file :
+The last change is to adapt the index.php file :
 
 
     <?php
 
-    				require_once ROOTPATH.'cgi/includes/plugin_base.php';
+    require_once ROOTPATH.'cgi/includes/plugin_base.php';
 
-    				class helloSilex_management extends plugin_base
+    class helloSilex_management extends plugin_base
 
-    				{
+    {
 
-    				<strong>function initDefaultParamTable()</strong>
+    <strong>function initDefaultParamTable()</strong>
 
-    				<strong> {</strong>
+    <strong> {</strong>
 
-    				<strong> $this->paramTable = array( </strong>
+    <strong> $this->paramTable = array( </strong>
 
-    				<strong> array(</strong>
+    <strong> array(</strong>
 
-    				<strong> "name" => "helloSilex_text",</strong>
+    <strong> "name" => "helloSilex_text",</strong>
 
-    				<strong> "label" => "helloSilex Text",</strong>
+    <strong> "label" => "helloSilex Text",</strong>
 
-    				<strong> "description" => "This is the text of the hello silex plugin",</strong>
+    <strong> "description" => "This is the text of the hello silex plugin",</strong>
 
-    				<strong> "value" => "HELLO SILEX !",</strong>
+    <strong> "value" => "HELLO SILEX !",</strong>
 
-    				<strong> "restrict" => "",</strong>
+    <strong> "restrict" => "",</strong>
 
-    				<strong> "type" => "string",</strong>
+    <strong> "type" => "string",</strong>
 
-    				<strong> "maxChars" => "200"</strong>
+    <strong> "maxChars" => "200"</strong>
 
-    				<strong> )</strong>
+    <strong> )</strong>
 
-    				<strong> );</strong>
+    <strong> );</strong>
 
-    				<strong> }</strong>
+    <strong> }</strong>
 
-    				public function initHooks($hook_manager)
+    public function initHooks($hook_manager)
 
-    				{
+    {
 
-    				$hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);
+    $hook_manager->add_hook('index-body-end', 'hello_silex_index_body_end_hook', $this);
 
-    				}
+    }
 
-    				public function hello_silex_index_body_end_hook()
+    public function hello_silex_index_body_end_hook()
 
-    				{
+    {
 
-    				$i = 0;
+    $i = 0;
 
-    				while( $i < count( $this->paramTable ) )
+    while( $i < count( $this->paramTable ) )
 
-    				{
+    {
 
-    				if($this->paramTable[$i]["name"] == "helloSilex_text")
+    if($this->paramTable[$i]["name"] == "helloSilex_text")
 
-    				$helloSilexText = $this->paramTable[$i]["value"];
+    $helloSilexText = $this->paramTable[$i]["value"];
 
-    				$i++;
+    $i++;
 
-    				}
+    }
 
-    				?>
+    ?>
 
-    				<script type="text/javascript">
+    <script type="text/javascript">
 
-    				silexNS.HookManager.addHook("silexAdminApiReady",initHelloSilex);
+    silexNS.HookManager.addHook("silexAdminApiReady",initHelloSilex);
 
-    				silexNS.HookManager.addHook("getViewMenuItems",set_view_menu_item);
+    silexNS.HookManager.addHook("getViewMenuItems",set_view_menu_item);
 
-    				function initHelloSilex()
+    function initHelloSilex()
 
-    				{
+    {
 
-    				document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/helloSilex/helloSilex.swf,plugins');
+    document.getElementById('silex').SetVariable('silex_exec_str','load_clip:plugins/helloSilex/helloSilex.swf,plugins');
 
-    				}
+    }
 
-    				function toggle_hello_silex_visibility()
+    function toggle_hello_silex_visibility()
 
-    				{
+    {
 
-    				<strong> document.getElementById('silex').changeHelloSilexText("<?php echo $helloSilexText ?> ");</strong>
+    <strong> document.getElementById('silex').changeHelloSilexText("<?php echo $helloSilexText ?> ");</strong>
 
-    				document.getElementById('silex').toggleHelloSilexVisibility();
+    document.getElementById('silex').toggleHelloSilexVisibility();
 
-    				}
+    }
 
-    				function set_view_menu_item(event)
+    function set_view_menu_item(event)
 
-    				{
+    {
 
-    				event.data.push($rootUrl+"plugins/helloSilex/helloSilex_ViewMenu_Button.swf");
+    event.data.push($rootUrl+"plugins/helloSilex/helloSilex_ViewMenu_Button.swf");
 
-    				}
+    }
 
-    				</script>
+    </script>
 
-    				<?php
+    <?php
 
-    				}
+    }
 
-    				}
+    }
 
-    				<a href="https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip" target="_blank">Hello_Silex_Tutorial_source</a>?>
+    <a href="https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip" target="_blank">Hello_Silex_Tutorial_source</a>?>
 
 
-				We add a PHP method **initDefaultParamTable which add our parameter in the parameter array. Our parameter is represented by an assoc array with a few different properties. In the "**hello_silex_index_body_end_hook", we add a loop that will search in the param array for the value of our parameters. A loop might be useful for plugins with many differnt parameters. And last, we add a call to the "changeHelloSilexText" in the "toggle_hello_silex_visibility" JavaScript body method. This call will change the value of the text in flash, passing it the PHP $helloSilexText value.
+We add a PHP method **initDefaultParamTable which add our parameter in the parameter array. Our parameter is represented by an assoc array with a few different properties. In the "**hello_silex_index_body_end_hook", we add a loop that will search in the param array for the value of our parameters. A loop might be useful for plugins with many differnt parameters. And last, we add a call to the "changeHelloSilexText" in the "toggle_hello_silex_visibility" JavaScript body method. This call will change the value of the text in flash, passing it the PHP $helloSilexText value.
 
 
 ### c/ changing the parameter value from the manager
 
 
-				The value of the parameter is set from the Silex Manager
+The value of the parameter is set from the Silex Manager
 
 
 
@@ -1000,8 +735,9 @@ In this tutorial you will create a simple silex plugin displaying a "Hello Silex
   8. Save then click on Edit to see the change
 
 
-				![](http://new.silex-ria.org/codex/files/2010/09/screen_5.jpg)
+![](http://new.silex-ria.org/codex/files/2010/09/screen_5.jpg)
 
-				![](http://new.silex-ria.org/codex/files/2010/09/screen_6.jpg)
+![](http://new.silex-ria.org/codex/files/2010/09/screen_6.jpg)
 
-				You plugin is now complete, you can download the source of this 3 parts tutorial here : [Hello_Silex_Tutorial_source](https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip)
+You plugin is now complete, you can download the source of this 3 parts tutorial here : [Hello_Silex_Tutorial_source](https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip)
+

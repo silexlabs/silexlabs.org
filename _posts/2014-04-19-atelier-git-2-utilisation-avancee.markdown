@@ -1,95 +1,16 @@
 ---
-author: sophieb
+author: "sophieb"
 comments: true
-date: 2014-04-19 07:23:22+00:00
-excerpt: "<h2 dir=\"ltr\"><a href=\"https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-Git-2-avril2014.png\"\
-  ><img class=\"size-full wp-image-201669 aligncenter\" alt=\"Bandeau atelier Git\"\
-  \ src=\"https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-Git-2-avril2014.png\"\
-  \ width=\"700\" height=\"176\" /></a></h2><h2 dir=\"ltr\">A propos des\
-  \ ateliers \"Industrial Workflow\"</h2><p dir=\"ltr\" id=\"docs-internal-guid-51ad039c-1d97-5bf0-8ab9-a4829f93b773\"\
-  >L’association <a title=\"Site silex labs\" href=\"https://www.silexlabs.org/\"\
-  \ target=\"_blank\">Silex Labs</a> est composée des communautés des projets open\
-  \ source que nous soutenons (Silex, Haxe, amfphp). Elle regroupe les différents\
-  \ métiers du numérique des designers aux développeurs en passant par des intégrateurs,\
-  \ des chefs de projets …</p><p dir=\"ltr\">Dans le domaine du développement,\
-  \ les outils sont en constante évolution, c’est pourquoi, Silex Labs a décidé d’organiser\
-  \ une série d’ateliers pour travailler ensemble avec des outils devenus incontournables\
-  \ (par exemples : Git, <a title=\"Atelier Vim\" href=\"https://www.silexlabs.org/201656/silex/atelier-vim-initiation/\"\
-  \ target=\"_blank\">Vim</a> etc.), et partager des retours d’expériences sur les\
-  \ bonnes pratiques d’organisation et de travail collaboratif.</p><h2\
-  \ dir=\"ltr\">Au programme de cet atelier</h2><p dir=\"ltr\">Après avoir\
-  \ appris les bases de Git lors de l'<a title=\"Atelier Git 1\" href=\"https://www.silexlabs.org/201107/the-blog/atelier-dinitiation-a-git-push-toi-de-la-que-je-my-merge/\"\
-  \ target=\"_blank\">atelier précédent</a>, nous verrons comment les développeurs\
-  \ du monde entier utilisent git et github :</p><ul><li dir=\"\
-  ltr\"><p dir=\"ltr\">dans un cadre industriel,</p></li>\
-  <li dir=\"ltr\"><p dir=\"ltr\">pour contribuer de manière bénévole\
-  \ aux projet libres,</p></li><li dir=\"ltr\"><p dir=\"\
-  ltr\">pour se mettre en valeur en tant que développeur de choc.</p></li>\
-  </ul><p dir=\"ltr\">Cela inclura une présentation et des exercices\
-  \ sur les notions de feature branch, et de workflow - dont les célèbres git flow\
-  \ et github flow.</p><p dir=\"ltr\">Si vous avez manqué l’atelier précédent,\
-  \ n'hésitez pas à revoir <a title=\"Les bases de Git\" href=\"http://fr.openclassrooms.com/informatique/cours/gerez-vos-codes-source-avec-git\"\
-  \ target=\"_blank\">les bases</a> et <a title=\"Tutoriels\" href=\"http://try.github.io/\"\
-  \ target=\"_blank\">les tutoriels</a>.</p><p dir=\"ltr\">Aussi pour en\
-  \ savoir plus, sur cet atelier, je vous invite à lire <a title=\"article sur Git\"\
-  \ href=\"http://nvie.com/posts/a-successful-git-branching-model/\" target=\"_blank\"\
-  >cet article</a> et à regarder <a title=\"Tutoriels\" href=\" https://www.atlassian.com/git/workflows\"\
-  \ target=\"_blank\">quelques tutoriels</a>.</p><p dir=\"ltr\">Cet atelier\
-  \ sera animé par <a title=\"Site Alex Hoyau\" href=\"http://lexoyo.me\" target=\"\
-  _blank\">Alex Hoyau</a></p><h2 dir=\"ltr\">Au programme de cet atelier</h2>\
-  <p dir=\"ltr\"><a href=\"https://www.silexlabs.org/wp-content/uploads/2014/04/lexoyo_1360759868_79.jpg\"\
-  ><img class=\"alignnone size-thumbnail wp-image-201668\" alt=\"Alex Hoyau\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2014/04/lexoyo_1360759868_79-150x150.jpg\"\
-  \ width=\"150\" height=\"150\" /></a></p><p dir=\"ltr\">Surnommé le webapp\
-  \ cat, Alex Hoyau, a récemment intégré le groupe Ebuzzing comme architecte front-end\
-  \ après une belle réussite en tant que freelance (TF1, Radio France, France TV ...).\
-  \ Alex est aussi co-fondateur de <a title=\"Site silex labs\" href=\"https://www.silexlabs.org/\"\
-  \ target=\"_blank\">Silex Labs</a>, co-initiateur de la librairie Haxe Cocktail\
-  \ et lead developer de <a title=\"Site logiciel silex\" href=\"http://www.silex.me/\"\
-  \ target=\"_blank\">Silex</a>.</p><h2 dir=\"ltr\">Les slides</h2>\
-  <iframe src=\"https://docs.google.com/presentation/d/1xhPrI8X9A-6OHuRzaCOSbP1wa8uqPKF6wArfL_1oOq0/embed?start=false&amp;loop=false&amp;delayms=3000\"\
-  \ height=\"299\" width=\"480\" allowfullscreen=\"true\" frameborder=\"0\"></iframe>\
-  <h2 dir=\"ltr\">Date et lieu</h2><p dir=\"ltr\">Cet atelier aura\
-  \ lieu le mardi 29 avril 2014 de 19h à 21h à <a title=\"Mediabox\" href=\"http://www.mediabox.fr/\"\
-  \ target=\"_blank\">Mediabox</a> 23 Rue de Bruxelles, 75009 Paris</p>\
-  <p dir=\"ltr\">Pour ceux qui sont déjà adhérents c’est gratuit demandez votre code\
-  \ promotionnel à antonin(at)silexlabs(point)org</p><p dir=\"ltr\">N’oubliez\
-  \ pas que la petite adhésion annuelle à Silex Labs vous offre l’accès GRATUIT à\
-  \ l’ensemble des ateliers organisés en 2014 !!</p><p dir=\"ltr\">Inscrivez-vous\
-  \ dès maintenant !</p><div style=\"width: 100%; text-align: left;\"\
-  ><iframe src=\"https://www.eventbrite.fr/tickets-external?eid=11153946755&amp;ref=etckt\"\
-  \ height=\"247\" width=\"100%\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"\
-  5\" scrolling=\"auto\"></iframe><div style=\"font-family: Helvetica, Arial;\
-  \ font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;\"\
-  ><a style=\"color: #ddd; text-decoration: none;\" href=\"http://www.eventbrite.fr/r/etckt\"\
-  \ target=\"_blank\">Inscription en ligne à un événement</a><span style=\"color:\
-  \ #ddd;\"> pour </span><a style=\"color: #ddd; text-decoration: none;\" href=\"\
-  https://www.eventbrite.fr/e/billets-atelier-git-2-utilisation-avancee-11153946755?ref=etckt\"\
-  \ target=\"_blank\">Atelier Git #2 : utilisation avancée</a> <span style=\"color:\
-  \ #ddd;\">réalisé par</span> <a style=\"color: #ddd; text-decoration: none;\" href=\"\
-  http://www.eventbrite.fr?ref=etckt\" target=\"_blank\">Eventbrite</a></div>\
-  <div style=\"font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0\
-  \ 5px; margin: 2px; width: 100%; text-align: left;\"><a href=\"https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-git-2-avril2014-carre.png\"\
-  ><img class=\"size-full wp-image-201674 aligncenter\" alt=\"Atelier Git\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-git-2-avril2014-carre.png\"\
-  \ width=\"512\" height=\"512\" /></a></div></div>"
-layout: post
-link: https://www.silexlabs.org/atelier-git-2-utilisation-avancee/
-slug: atelier-git-2-utilisation-avancee
-title: 'Atelier Git #2 : utilisation avancée'
+date: "2014-04-19T07:23:22.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/atelier-git-2-utilisation-avancee/"
+slug: "atelier-git-2-utilisation-avancee"
+title: "Atelier Git #2 : utilisation avancée"
 wordpress_id: 201667
-categories:
-- "Silex"
-- "Silex Labs Events"
-- "Silex workshops"
-tags:
-- "git"
-- "github"
-- "industrial workflow"
-- "silex labs"
-- "workflow"
----
+categories: ["Silex","Silex Labs Events","Silex workshops"]
+tags: ["git","github","industrial workflow","silex labs","workflow"]
 
+---
 ## [![Bandeau atelier Git](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-Git-2-avril2014.png)](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-Git-2-avril2014.png)
 
 
@@ -233,6 +154,7 @@ Inscrivez-vous dès maintenant !
 
 
 [![Atelier Git](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-git-2-avril2014-carre.png)](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-git-2-avril2014-carre.png)
+
 
 
 

@@ -1,8 +1,6 @@
 ---
-title: >-
-  Développez une application web qui n’explose pas – Programmation d’un démineur
-  en Elm
-layout: post
+title: "Développez une application web qui n’explose pas – Programmation d’un démineur en Elm"
+layout: "post"
 
 ---
 ![2019-07-05-131129.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-131129.png)
@@ -57,3 +55,4 @@ Sébastien Besnier est professeur de mathématiques et informatique en CPGE. Ins
 ### Comment s’inscrire ?
 
 Tout se passe sur meetup. Les places sont limitées !
+

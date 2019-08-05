@@ -1,38 +1,18 @@
 ---
-author: admin
+author: "admin"
 comments: true
-date: 2010-04-16 17:38:35+00:00
-excerpt: "Quand Francky kif, le Kif est là et il a 31 ans :<img class=\"\
-  aligncenter\" title=\"le Kif\" src=\"http://farm5.static.flickr.com/4065/4525702233_dd3bc72949.jpg\"\
-  \ alt=\"\" width=\"500\" height=\"375\" /><p style=\"text-align: center;\"\
-  >Toute la communauté se joint à la team de Montreuil en ce jour ensoleillé, pour\
-  \ souhaiter à Franck un</p><p style=\"text-align: center;\"><span style=\"\
-  color: #ff0000;\"><strong>BON ANNIVERSAIRE</strong></span> !!!</p>Il\
-  \ a passé la journée à scanner, rappeler, encadrer, déformer et faire des blagues\
-  \ (c'est bien des blagues?).. Car Franck vient assidument à Montreuil depuis que\
-  \ l'assos est créée et qu'elle a des locaux. Il a commencé par recruter les stagiaires\
-  \ de compétition qui nous entourent en ce moment, il les a formé à Silex avec l'aide\
-  \ de Pol et les encadre au quotidien.En tant qu'ancien formateur senior\
-  \ (salut papi!), Franck a aussi mis au carré les programmes de formation, il a organisé\
-  \ le local et réunis le matériel nécessaire pour que la 1ere session de formations\
-  \ ait lieu, il y a un mois. Depuis il n'arrête pas, il s'occupe des supports de\
-  \ cours et de tout ce qui fait que la formation Silex est dynamique et professionnelle.\
-  \ La 2e session approche, allez Francky tu tiens le bon bout !Merci\
-  \ en tous cas, pour tes bonnes blagues, pour la place que tu prends si bien, pour\
-  \ ton naturel naturellement nature... et pour TA PATATE PERMANANTE ! :D"
-layout: post
-link: https://www.silexlabs.org/le-kif-a-31-ans/
-slug: le-kif-a-31-ans
-title: Le kif a 31 ans – 31 31 31 13 13 13
+date: "2010-04-16T17:38:35.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/le-kif-a-31-ans/"
+slug: "le-kif-a-31-ans"
+title: "Le kif a 31 ans – 31 31 31 13 13 13"
 wordpress_id: 1578
-categories:
-- "Blog Silex Labs"
-- "The Blog"
----
+categories: ["Blog Silex Labs","The Blog"]
 
+---
 Quand Francky kif, le Kif est là et il a 31 ans :
 
-				![](http://farm5.static.flickr.com/4065/4525702233_dd3bc72949.jpg)
+![](http://farm5.static.flickr.com/4065/4525702233_dd3bc72949.jpg)
 
 
 Toute la communauté se joint à la team de Montreuil en ce jour ensoleillé, pour souhaiter à Franck un
@@ -44,8 +24,9 @@ Toute la communauté se joint à la team de Montreuil en ce jour ensoleillé, po
 
 
 
-				Il a passé la journée à scanner, rappeler, encadrer, déformer et faire des blagues (c'est bien des blagues?).. Car Franck vient assidument à Montreuil depuis que l'assos est créée et qu'elle a des locaux. Il a commencé par recruter les stagiaires de compétition qui nous entourent en ce moment, il les a formé à Silex avec l'aide de Pol et les encadre au quotidien.
+Il a passé la journée à scanner, rappeler, encadrer, déformer et faire des blagues (c'est bien des blagues?).. Car Franck vient assidument à Montreuil depuis que l'assos est créée et qu'elle a des locaux. Il a commencé par recruter les stagiaires de compétition qui nous entourent en ce moment, il les a formé à Silex avec l'aide de Pol et les encadre au quotidien.
 
-				En tant qu'ancien formateur senior (salut papi!), Franck a aussi mis au carré les programmes de formation, il a organisé le local et réunis le matériel nécessaire pour que la 1ere session de formations ait lieu, il y a un mois. Depuis il n'arrête pas, il s'occupe des supports de cours et de tout ce qui fait que la formation Silex est dynamique et professionnelle. La 2e session approche, allez Francky tu tiens le bon bout !
+En tant qu'ancien formateur senior (salut papi!), Franck a aussi mis au carré les programmes de formation, il a organisé le local et réunis le matériel nécessaire pour que la 1ere session de formations ait lieu, il y a un mois. Depuis il n'arrête pas, il s'occupe des supports de cours et de tout ce qui fait que la formation Silex est dynamique et professionnelle. La 2e session approche, allez Francky tu tiens le bon bout !
 
-				Merci en tous cas, pour tes bonnes blagues, pour la place que tu prends si bien, pour ton naturel naturellement nature... et pour TA PATATE PERMANANTE ! :D
+Merci en tous cas, pour tes bonnes blagues, pour la place que tu prends si bien, pour ton naturel naturellement nature... et pour TA PATATE PERMANANTE ! :D
+

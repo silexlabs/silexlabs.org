@@ -1,93 +1,50 @@
 ---
-author: Simo
+author: "Simo"
 comments: true
-date: 2015-08-31 13:53:39+00:00
-excerpt: "<a href=\"https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-Andyli.png\"\
-  ><img class=\"aligncenter size-full wp-image-205277\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-Andyli.png\"\
-  \ alt=\"wwx2015-Andyli\" width=\"607\" height=\"140\" /></a><h4 style=\"\
-  text-align: center;\">Andy Li's speech at the world wide Haxe conference WWX2015</h4>\
-  <strong><a href=\"https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0257_andylibd.jpg\"\
-  ><img class=\"alignleft wp-image-205281 size-medium\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0257_andylibd-200x300.jpg\"\
-  \ alt=\"_DSC0257_andylibd\" width=\"200\" height=\"300\" /></a>Andy Li</strong>\
-  \ is a PhD candidate in the School of Creative Media, City University of Hong Kong.\
-  \ Andy is the guy who introduced and has been maintaining CI for the Haxe Github\
-  \ repository for about 2 years. His primary research interests fall in the fields\
-  \ of human-computer interaction and augmented reality.<a href=\"https://github.com/andyli\"\
-  \ target=\"_blank\">Andy Li - GitHub</a><a href=\"https://twitter.com/andy_li\"\
-  \ target=\"_blank\">Andy Li - Twitter</a>&nbsp;&nbsp;\
-  <a href=\"https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0267_andylibd.jpg\"\
-  ><img class=\"aligncenter size-large wp-image-205283\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0267_andylibd-687x458.jpg\"\
-  \ alt=\"_DSC0267_andylibd\" width=\"607\" height=\"405\" /></a>In this\
-  \ talk <strong>\"Continuous Integration for Haxe Projects\"</strong>, he presents\
-  \ how to set up continuous integration (CI) services, like <a href=\"https://github.com/travis-ci/travis-ci\"\
-  >TravisCI</a> and <a href=\"https://github.com/appveyor\">AppVeyor</a>, to automatically\
-  \ test our Haxe code for every commit. He also discusses some interesting use of\
-  \ CI that could be useful no matter we are building games, mobile apps, websites,\
-  \ or writing novels.<a href=\"https://docs.google.com/presentation/d/1AcqUbB_Zn5dQyxpv9BYokOXMPuEcYEXMA7w6E50kpNo/edit?usp=sharing\"\
-  \ target=\"_blank\">slides of \"Continuous Integration for Haxe Projects\"</a>\
-  Watch the video:[embed]https://youtu.be/ZYMyvkrownQ[/embed]\
-  <a href=\"https://www.silexlabs.org/wrapping-up-wwx2015/\">More WWX2015\
-  \ videos here</a>https://twitter.com/kulick/status/605046875822166016\
-  https://twitter.com/omgjjd/status/605046939063754752https://twitter.com/mknol/status/605486216507760640\
-  https://twitter.com/Fiene_P/status/605051481264410624https://twitter.com/As3Boyan/status/605071412022374401"
-layout: post
-link: https://www.silexlabs.org/continuous-integration-for-haxe-projects/
-slug: continuous-integration-for-haxe-projects
-title: Continuous Integration for Haxe Projects
+date: "2015-08-31T13:53:39.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/continuous-integration-for-haxe-projects/"
+slug: "continuous-integration-for-haxe-projects"
+title: "Continuous Integration for Haxe Projects"
 wordpress_id: 205273
-categories:
-- "Blog Haxe"
-- "Compte rendu Vidéo"
-- "The Blog"
-- "Vidéos"
-- "wwx2015"
-tags:
-- "Andy Li"
-- "CI"
-- "continuous integration"
-- "cross-platform"
-- "dev"
-- "Haxe"
-- "Haxe conference"
-- "TravisCI"
-- "video"
-- "wwx"
-- "wwx2015"
----
+categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
+tags: ["Andy Li","CI","continuous integration","cross-platform","dev","Haxe","Haxe conference","TravisCI","video","wwx","wwx2015"]
 
+---
 [![wwx2015-Andyli](https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-Andyli.png)](https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-Andyli.png)
 
 
 #### Andy Li's speech at the world wide Haxe conference WWX2015
 
 
-				**[![_DSC0257_andylibd](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0257_andylibd-200x300.jpg)](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0257_andylibd.jpg)Andy Li** is a PhD candidate in the School of Creative Media, City University of Hong Kong. Andy is the guy who introduced and has been maintaining CI for the Haxe Github repository for about 2 years. His primary research interests fall in the fields of human-computer interaction and augmented reality.
+**[![_DSC0257_andylibd](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0257_andylibd-200x300.jpg)](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0257_andylibd.jpg)Andy Li** is a PhD candidate in the School of Creative Media, City University of Hong Kong. Andy is the guy who introduced and has been maintaining CI for the Haxe Github repository for about 2 years. His primary research interests fall in the fields of human-computer interaction and augmented reality.
 
-				[Andy Li - GitHub](https://github.com/andyli)
+[Andy Li - GitHub](https://github.com/andyli)
 
-				[Andy Li - Twitter](https://twitter.com/andy_li)
-
-
+[Andy Li - Twitter](https://twitter.com/andy_li)
 
 
 
-				[![_DSC0267_andylibd](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0267_andylibd-687x458.jpg)](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0267_andylibd.jpg)
-				In this talk **"Continuous Integration for Haxe Projects"**, he presents how to set up continuous integration (CI) services, like [TravisCI](https://github.com/travis-ci/travis-ci) and [AppVeyor](https://github.com/appveyor), to automatically test our Haxe code for every commit. He also discusses some interesting use of CI that could be useful no matter we are building games, mobile apps, websites, or writing novels.
 
-				[slides of "Continuous Integration for Haxe Projects"](https://docs.google.com/presentation/d/1AcqUbB_Zn5dQyxpv9BYokOXMPuEcYEXMA7w6E50kpNo/edit?usp=sharing)
 
-				Watch the video:
+[![_DSC0267_andylibd](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0267_andylibd-687x458.jpg)](https://www.silexlabs.org/wp-content/uploads/2015/07/DSC0267_andylibd.jpg)
+In this talk **"Continuous Integration for Haxe Projects"**, he presents how to set up continuous integration (CI) services, like [TravisCI](https://github.com/travis-ci/travis-ci) and [AppVeyor](https://github.com/appveyor), to automatically test our Haxe code for every commit. He also discusses some interesting use of CI that could be useful no matter we are building games, mobile apps, websites, or writing novels.
 
-				[embed]https://youtu.be/ZYMyvkrownQ[/embed]
+[slides of "Continuous Integration for Haxe Projects"](https://docs.google.com/presentation/d/1AcqUbB_Zn5dQyxpv9BYokOXMPuEcYEXMA7w6E50kpNo/edit?usp=sharing)
 
-				[More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
+Watch the video:
 
-				https://twitter.com/kulick/status/605046875822166016
+[embed]https://youtu.be/ZYMyvkrownQ[/embed]
 
-				https://twitter.com/omgjjd/status/605046939063754752
+[More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 
-				https://twitter.com/mknol/status/605486216507760640
+https://twitter.com/kulick/status/605046875822166016
 
-				https://twitter.com/Fiene_P/status/605051481264410624
+https://twitter.com/omgjjd/status/605046939063754752
 
-				https://twitter.com/As3Boyan/status/605071412022374401
+https://twitter.com/mknol/status/605486216507760640
+
+https://twitter.com/Fiene_P/status/605051481264410624
+
+https://twitter.com/As3Boyan/status/605071412022374401
+

@@ -1,6 +1,6 @@
 ---
-title: Introduction à Javascript – Partie 3
-layout: post
+title: "Introduction à Javascript – Partie 3"
+layout: "post"
 
 ---
 ![2019-07-05-814110.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-814110.jpg)
@@ -39,3 +39,4 @@ Venir avec son ordinateur en ayant installé si besoin, un éditeur de texte com
 Cet atelier sera animé par Jean-Michel Delettre qui est Fullstack developper chez Pixaline.
 Vous pouvez apprécier son travail sur
 GooglePlay une appli très utile qui permet de créer ses propres formulaires. Pour tester une version ancienne mais sur votre ordinateur, rendez vous ici.
+

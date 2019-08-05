@@ -1,32 +1,26 @@
 ---
-author: v1pankaj
+author: "v1pankaj"
 comments: true
-date: 2019-07-29 10:28:31.126814
-excerpt: "HiI have an iFrame (named 'images') embedded in a layer. A button\
-  \ added on the page should close the iFrame. I have added the action on the button\
-  \ as follows:onRelease hide:imagesbut the iFrame does not\
-  \ closes. Can anyone help me in finding out what is the issue here.\
-  Also, I have two posts opening since 2 weeks but nobody is responding. is anyone\
-  \ there?ThanksPankaj"
-layout: post
-link: https://www.silexlabs.org/?p=136239
+date: "2019-07-29T10:28:31.126Z"
+layout: "post"
+link: "https://www.silexlabs.org/?p=136239"
 published: false
-slug: ''
-title: ''
+slug: ""
+title: ""
 wordpress_id: 136239
-categories:
-- "Exchange Silex"
----
+categories: ["Exchange Silex"]
 
+---
 Hi
 
-				I have an iFrame (named 'images') embedded in a layer. A button added on the page should close the iFrame. I have added the action on the button as follows:
+I have an iFrame (named 'images') embedded in a layer. A button added on the page should close the iFrame. I have added the action on the button as follows:
 
-				onRelease hide:images
+onRelease hide:images
 
-				but the iFrame does not closes. Can anyone help me in finding out what is the issue here.
+but the iFrame does not closes. Can anyone help me in finding out what is the issue here.
 
-				Also, I have two posts opening since 2 weeks but nobody is responding. is anyone there?
+Also, I have two posts opening since 2 weeks but nobody is responding. is anyone there?
 
-				Thanks
-				Pankaj
+Thanks
+Pankaj
+

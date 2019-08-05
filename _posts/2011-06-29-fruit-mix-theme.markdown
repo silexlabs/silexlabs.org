@@ -1,44 +1,32 @@
 ---
-author: devpix-web
+author: "devpix-web"
 comments: true
-date: 2011-06-29 14:54:43+00:00
-excerpt: "<strong>Description :</strong><a title=\"Online Demo\" href=\"\
-  http://silexprod.com/silex_cifacom20102011/?/fruit_mix\" target=\"_blank\">Online\
-  \ demo</a><a title=\"Online Demo\" href=\"http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/musicmania\"\
-  \ target=\"_blank\"> </a>With his original design, Fruit mix is a template\
-  \ full of freshness<img class=\"aligncenter size-full wp-image-113813\"\
-  \ title=\"fruit_mix\" src=\"https://www.silexlabs.org/wp-content/uploads/2011/06/fruit_mix.png\"\
-  \ alt=\"\" width=\"700\" height=\"529\" /><img class=\"aligncenter size-full\
-  \ wp-image-113816\" title=\"fruit_mix_2\" src=\"https://www.silexlabs.org/wp-content/uploads/2011/06/fruit_mix_2.png\"\
-  \ alt=\"\" width=\"700\" height=\"552\" /><strong>Informations :</strong>\
-  <a title=\"Online Demo\" href=\"http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/fruit_mix\"\
-  \ target=\"_blank\"></a><a href=\"http://www.templatemo.com/preview/templatemo_238_fruit_mix\"\
-  \ target=\"_blank\">Original template</a>License : Creative Commons"
-layout: post
-link: https://www.silexlabs.org/fruit-mix-theme/
-slug: fruit-mix-theme
-title: Fruit Mix Theme
+date: "2011-06-29T14:54:43.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/fruit-mix-theme/"
+slug: "fruit-mix-theme"
+title: "Fruit Mix Theme"
 wordpress_id: 93351
-categories:
-- "Themes"
----
+categories: ["Themes"]
 
+---
 **Description :**
 
-				[Online demo](http://silexprod.com/silex_cifacom20102011/?/fruit_mix)
+[Online demo](http://silexprod.com/silex_cifacom20102011/?/fruit_mix)
 
-				[ ](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/musicmania)
+[ ](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/musicmania)
 
-				With his original design, Fruit mix is a template full of freshness
+With his original design, Fruit mix is a template full of freshness
 
-				![](https://www.silexlabs.org/wp-content/uploads/2011/06/fruit_mix.png)
+![](https://www.silexlabs.org/wp-content/uploads/2011/06/fruit_mix.png)
 
-				![](https://www.silexlabs.org/wp-content/uploads/2011/06/fruit_mix_2.png)
+![](https://www.silexlabs.org/wp-content/uploads/2011/06/fruit_mix_2.png)
 
-				**Informations :**
+**Informations :**
 
-				[](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/fruit_mix)
+[](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/fruit_mix)
 
-				[Original template](http://www.templatemo.com/preview/templatemo_238_fruit_mix)
+[Original template](http://www.templatemo.com/preview/templatemo_238_fruit_mix)
 
-				License : Creative Commons
+License : Creative Commons
+

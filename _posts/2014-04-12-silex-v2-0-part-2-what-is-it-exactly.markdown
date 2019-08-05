@@ -1,116 +1,16 @@
 ---
-author: lexa
+author: "lexa"
 comments: true
-date: 2014-04-12 10:29:11+00:00
-excerpt: "<blockquote><h5><span style=\"color: #333333;\">This article is\
-  \ part of <a href=\"https://www.silexlabs.org/tag/silex-v2-vision/\">a series of\
-  \ articles about the new version of Silex HTML5 editor</a>.</span></h5>\
-  <h5>Designers will find out what they can do with it. Web developers will have an\
-  \ insight of the technologies behind Silex v2.</h5></blockquote>\
-  <h5 dir=\"ltr\"><img class=\"aligncenter\" src=\"https://www.silexlabs.org/wp-content/uploads/2013/11/silex-v2-article-02.png\"\
-  \ alt=\"\" width=\"608\" height=\"140\" /></h5>As stated in <a title=\"\
-  First article of the series\" href=\"https://www.silexlabs.org/?p=179359\">the first\
-  \ article about Silex v2</a>, there is room for improvements, and several important\
-  \ functionalities are still missing. Right now, Silex v2 is functional and we already\
-  \ have <a href=\"https://github.com/silexlabs/Silex/issues?labels=template\">several\
-  \ free and open source templates</a> to let you see what it can do as of today.\
-  <div>[caption id=\"attachment_203343\" align=\"alignnone\" width=\"\
-  300\"]<a href=\"http://www.silex.me/demos/html5-editor/\"><img class=\"wp-image-203343\
-  \ size-medium\" title=\"silex-v2-template1\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/04/screenshot-678x336-300x148.png\"\
-  \ alt=\"Screen shot of a Silex template for small businesses\" width=\"300\" height=\"\
-  148\" /></a> Silex template for small businesses[/caption][caption id=\"\
-  attachment_179337\" align=\"alignnone\" width=\"300\"]<a href=\"https://github.com/silexlabs/Silex/issues/168\"\
-  ><img class=\"size-medium wp-image-179337 \" title=\"silex-v2-template2\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2013/09/silex-v2-template2-300x270.png\"\
-  \ alt=\"Silex v2 first templates\" width=\"300\" height=\"270\" /></a> Another template\
-  \ to test Silex, several pages, inspired by the excellent template \"fictional studio\"\
-  \ by Tomas Laurinavicius[/caption][caption id=\"attachment_203341\"\
-  \ align=\"alignnone\" width=\"300\"]<a href=\"https://github.com/silexlabs/Silex/issues/167\"\
-  ><img class=\"wp-image-203341 size-medium\" title=\"silex-v2-landing-page\" src=\"\
-  https://www.silexlabs.org/wp-content/uploads/2014/04/Screen-Shot-2014-08-02-at-2.34.21-PM-300x148.png\"\
-  \ alt=\"Silex v2 first templates\" width=\"300\" height=\"148\" /></a> A real life\
-  \ landing page made with Silex v2.0 beta[/caption]</div>Now\
-  \ let's have a deeper look on the choices we made, and how we try to reach our goals.\
-  <h2>Edit HTML files without programming skills</h2>Silex UX is\
-  \ inspired by the great products made by Google. We do not share the company's goals\
-  \ or methods, but we agree that in term of web app and usability, they have found\
-  \ a good formula. The interface let the designer drop elements on the stage, and\
-  \ edit its properties and style with the mouse and tool boxes. Here is a screenshot\
-  \ of the new interface.[caption id=\"attachment_179333\" align=\"aligncenter\"\
-  \ width=\"300\"]<img class=\"wp-image-179333 size-medium\" title=\"silex v2.0 UI\"\
-  \ src=\"https://www.silexlabs.org/wp-content/uploads/2013/09/silex-v2-300x225.png\"\
-  \ alt=\"Silex 2 screenshot\" width=\"300\" height=\"225\" /> Silex 2.0 beta version,\
-  \ screenshot[/caption]The files which are opened and edited by Silex\
-  \ are standard HTML files. For now, you cannot open any web page and edit it in\
-  \ Silex. But it is a matter of time: we plan to develop an import/export feature,\
-  \ in order to<ul><li>import any HTML page and make it editable\
-  \ in Silex</li><li>export clean HTML/CSS from the Silex-specific HTML\
-  \ page</li></ul>Here is a video made by the <a href=\"http://superwup.me\"\
-  >lead designer, Pol</a> - it is in french but it shows you how Silex looks like.\
-  \ You can still <a href=\"http://www.silex.me\">test Silex live here</a>. <iframe\
-  \ src=\"//www.youtube.com/embed/R6ABtUA45zc\" width=\"560\" height=\"315\" frameborder=\"\
-  0\" allowfullscreen=\"allowfullscreen\"></iframe><h2>Fulfill the common\
-  \ needs of the professional designers, and allow web developers to extend it</h2>\
-  We used our experience with Silex v1 and our experience on the field with\
-  \ designers, to make it easy to produce a basic website, fully customized, with\
-  \ no trace of Silex in the final product. Also, as a main issue with Silex v1 was\
-  \ the time and skills it takes to make plugins or to enter the code of the software,\
-  \ this time we have chosen javascript common practices and we have as less dependencies\
-  \ as possible. The goal being that web developers can extend or even improve the\
-  \ core of the software. More technical info will be published in the next article\
-  \ in this series.<h2>Plugged into the cloud</h2><blockquote>In\
-  \ short: for now Silex v2 loads from and saves to your <a href=\"https://www.dropbox.com\"\
-  >Dropbox account</a>. But this can not be the only solution because we want you\
-  \ to be the owner of your data, so you can also us an <a href=\"https://en.wikipedia.org/wiki/File_Transfer_Protocol\"\
-  >FTP account</a> to plug to any web hosting.</blockquote>Silex has always\
-  \ been a website editor in the browser. This means that you do not need to install\
-  \ it to use it, you simply open a web browser and the software loads. You then edit\
-  \ a website and publish it online. In Silex v1, it was mandatory to download Silex\
-  \ and use it from a server, or from your local computer. This had several drawbacks\
-  <ul><li>this used to take a \"long time\" to start with Silex</li>\
-  <li>there are many platforms and some of them we could not test on</li>\
-  <li>on the local computer, a local server was needed</li></ul>\
-  In Silex v2, we decided to provide an online version of the software. So\
-  \ now you just open a web page and Silex loads from our server to edit your files\
-  \ from any computer. We had to face a limitation: we can not host your files. Because\
-  \ it is expensive, and because it is wrong! You must be the owner of your data,\
-  \ it is important. About the fact that it is expensive, we chose to take advantage\
-  \ of the cloud services to store your data. This means that Silex can read and write\
-  \ files to and from your Dropbox free accounts and from an FTP account that you\
-  \ may have (usually paid). Concerning the fact that we believe that you should be\
-  \ the owner of your data, we have developed an FTP connection, so that you can read\
-  \ and write directly from your hosted space. And also we would like to make Silex\
-  \ available as a standard software, with an installer, but this will take more time\
-  \ and work. Please note that this means that you must handle the hosting for now.\
-  \ We are on our way to set up professional hosting automatically plugged in with\
-  \ Silex and for free. The good point is that you have simple HTML files to host,\
-  \ and you can find free hosting for this type of data."
-layout: post
-link: https://www.silexlabs.org/silex-v2-0-part-2-what-is-it-exactly/
-slug: silex-v2-0-part-2-what-is-it-exactly
-title: Silex v2.0 - Part 2, what is it exactly?
+date: "2014-04-12T10:29:11.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/silex-v2-0-part-2-what-is-it-exactly/"
+slug: "silex-v2-0-part-2-what-is-it-exactly"
+title: "Silex v2.0 - Part 2, what is it exactly?"
 wordpress_id: 179332
-categories:
-- "Blog Silex"
-- "Blog Silex Labs"
-- "Silex"
-- "The Blog"
-- "Tutorials Silex"
-tags:
-- "cms"
-- "communication"
-- "design"
-- "digital"
-- "geek"
-- "html5-editor"
-- "open source"
-- "silex"
-- "silex labs"
-- "silex V2"
-- "silex-v2-vision"
-- "web"
----
+categories: ["Blog Silex","Blog Silex Labs","Silex","The Blog","Tutorials Silex"]
+tags: ["cms","communication","design","digital","geek","html5-editor","open source","silex","silex labs","silex V2","silex-v2-vision","web"]
 
+---
 <blockquote>
 
 >
@@ -122,7 +22,7 @@ tags:
 > ##### Designers will find out what they can do with it. Web developers will have an insight of the technologies behind Silex v2.
 >
 >
-				</blockquote>
+</blockquote>
 
 
 
@@ -130,31 +30,31 @@ tags:
 ##### ![](https://www.silexlabs.org/wp-content/uploads/2013/11/silex-v2-article-02.png)
 
 
-				As stated in [the first article about Silex v2](https://www.silexlabs.org/?p=179359), there is room for improvements, and several important functionalities are still missing. Right now, Silex v2 is functional and we already have [several free and open source templates](https://github.com/silexlabs/Silex/issues?labels=template) to let you see what it can do as of today.
+As stated in [the first article about Silex v2](https://www.silexlabs.org/?p=179359), there is room for improvements, and several important functionalities are still missing. Right now, Silex v2 is functional and we already have [several free and open source templates](https://github.com/silexlabs/Silex/issues?labels=template) to let you see what it can do as of today.
 
 
 
 
-				[caption id="attachment_203343" align="alignnone" width="300"][![Screen shot of a Silex template for small businesses](https://www.silexlabs.org/wp-content/uploads/2014/04/screenshot-678x336-300x148.png)](http://www.silex.me/demos/html5-editor/) Silex template for small businesses[/caption]
+[caption id="attachment_203343" align="alignnone" width="300"][![Screen shot of a Silex template for small businesses](https://www.silexlabs.org/wp-content/uploads/2014/04/screenshot-678x336-300x148.png)](http://www.silex.me/demos/html5-editor/) Silex template for small businesses[/caption]
 
-				[caption id="attachment_179337" align="alignnone" width="300"][![Silex v2 first templates](https://www.silexlabs.org/wp-content/uploads/2013/09/silex-v2-template2-300x270.png)](https://github.com/silexlabs/Silex/issues/168) Another template to test Silex, several pages, inspired by the excellent template "fictional studio" by Tomas Laurinavicius[/caption]
+[caption id="attachment_179337" align="alignnone" width="300"][![Silex v2 first templates](https://www.silexlabs.org/wp-content/uploads/2013/09/silex-v2-template2-300x270.png)](https://github.com/silexlabs/Silex/issues/168) Another template to test Silex, several pages, inspired by the excellent template "fictional studio" by Tomas Laurinavicius[/caption]
 
-				[caption id="attachment_203341" align="alignnone" width="300"][![Silex v2 first templates](https://www.silexlabs.org/wp-content/uploads/2014/04/Screen-Shot-2014-08-02-at-2.34.21-PM-300x148.png)](https://github.com/silexlabs/Silex/issues/167) A real life landing page made with Silex v2.0 beta[/caption]
-
-
+[caption id="attachment_203341" align="alignnone" width="300"][![Silex v2 first templates](https://www.silexlabs.org/wp-content/uploads/2014/04/Screen-Shot-2014-08-02-at-2.34.21-PM-300x148.png)](https://github.com/silexlabs/Silex/issues/167) A real life landing page made with Silex v2.0 beta[/caption]
 
 
-				Now let's have a deeper look on the choices we made, and how we try to reach our goals.
+
+
+Now let's have a deeper look on the choices we made, and how we try to reach our goals.
 
 
 ## Edit HTML files without programming skills
 
 
-				Silex UX is inspired by the great products made by Google. We do not share the company's goals or methods, but we agree that in term of web app and usability, they have found a good formula. The interface let the designer drop elements on the stage, and edit its properties and style with the mouse and tool boxes. Here is a screenshot of the new interface.
+Silex UX is inspired by the great products made by Google. We do not share the company's goals or methods, but we agree that in term of web app and usability, they have found a good formula. The interface let the designer drop elements on the stage, and edit its properties and style with the mouse and tool boxes. Here is a screenshot of the new interface.
 
-				[caption id="attachment_179333" align="aligncenter" width="300"]![Silex 2 screenshot](https://www.silexlabs.org/wp-content/uploads/2013/09/silex-v2-300x225.png) Silex 2.0 beta version, screenshot[/caption]
+[caption id="attachment_179333" align="aligncenter" width="300"]![Silex 2 screenshot](https://www.silexlabs.org/wp-content/uploads/2013/09/silex-v2-300x225.png) Silex 2.0 beta version, screenshot[/caption]
 
-				The files which are opened and edited by Silex are standard HTML files. For now, you cannot open any web page and edit it in Silex. But it is a matter of time: we plan to develop an import/export feature, in order to
+The files which are opened and edited by Silex are standard HTML files. For now, you cannot open any web page and edit it in Silex. But it is a matter of time: we plan to develop an import/export feature, in order to
 
 
 
@@ -165,13 +65,13 @@ tags:
   * export clean HTML/CSS from the Silex-specific HTML page
 
 
-				Here is a video made by the [lead designer, Pol](http://superwup.me) - it is in french but it shows you how Silex looks like. You can still [test Silex live here](http://www.silex.me).
+Here is a video made by the [lead designer, Pol](http://superwup.me) - it is in french but it shows you how Silex looks like. You can still [test Silex live here](http://www.silex.me).
 
 
 ## Fulfill the common needs of the professional designers, and allow web developers to extend it
 
 
-				We used our experience with Silex v1 and our experience on the field with designers, to make it easy to produce a basic website, fully customized, with no trace of Silex in the final product. Also, as a main issue with Silex v1 was the time and skills it takes to make plugins or to enter the code of the software, this time we have chosen javascript common practices and we have as less dependencies as possible. The goal being that web developers can extend or even improve the core of the software. More technical info will be published in the next article in this series.
+We used our experience with Silex v1 and our experience on the field with designers, to make it easy to produce a basic website, fully customized, with no trace of Silex in the final product. Also, as a main issue with Silex v1 was the time and skills it takes to make plugins or to enter the code of the software, this time we have chosen javascript common practices and we have as less dependencies as possible. The goal being that web developers can extend or even improve the core of the software. More technical info will be published in the next article in this series.
 
 
 ## Plugged into the cloud
@@ -182,7 +82,7 @@ tags:
 <blockquote>In short: for now Silex v2 loads from and saves to your [Dropbox account](https://www.dropbox.com). But this can not be the only solution because we want you to be the owner of your data, so you can also us an [FTP account](https://en.wikipedia.org/wiki/File_Transfer_Protocol) to plug to any web hosting.</blockquote>
 
 
-				Silex has always been a website editor in the browser. This means that you do not need to install it to use it, you simply open a web browser and the software loads. You then edit a website and publish it online. In Silex v1, it was mandatory to download Silex and use it from a server, or from your local computer. This had several drawbacks
+Silex has always been a website editor in the browser. This means that you do not need to install it to use it, you simply open a web browser and the software loads. You then edit a website and publish it online. In Silex v1, it was mandatory to download Silex and use it from a server, or from your local computer. This had several drawbacks
 
 
 
@@ -196,4 +96,5 @@ tags:
   * on the local computer, a local server was needed
 
 
-				In Silex v2, we decided to provide an online version of the software. So now you just open a web page and Silex loads from our server to edit your files from any computer. We had to face a limitation: we can not host your files. Because it is expensive, and because it is wrong! You must be the owner of your data, it is important. About the fact that it is expensive, we chose to take advantage of the cloud services to store your data. This means that Silex can read and write files to and from your Dropbox free accounts and from an FTP account that you may have (usually paid). Concerning the fact that we believe that you should be the owner of your data, we have developed an FTP connection, so that you can read and write directly from your hosted space. And also we would like to make Silex available as a standard software, with an installer, but this will take more time and work. Please note that this means that you must handle the hosting for now. We are on our way to set up professional hosting automatically plugged in with Silex and for free. The good point is that you have simple HTML files to host, and you can find free hosting for this type of data.
+In Silex v2, we decided to provide an online version of the software. So now you just open a web page and Silex loads from our server to edit your files from any computer. We had to face a limitation: we can not host your files. Because it is expensive, and because it is wrong! You must be the owner of your data, it is important. About the fact that it is expensive, we chose to take advantage of the cloud services to store your data. This means that Silex can read and write files to and from your Dropbox free accounts and from an FTP account that you may have (usually paid). Concerning the fact that we believe that you should be the owner of your data, we have developed an FTP connection, so that you can read and write directly from your hosted space. And also we would like to make Silex available as a standard software, with an installer, but this will take more time and work. Please note that this means that you must handle the hosting for now. We are on our way to set up professional hosting automatically plugged in with Silex and for free. The good point is that you have simple HTML files to host, and you can find free hosting for this type of data.
+

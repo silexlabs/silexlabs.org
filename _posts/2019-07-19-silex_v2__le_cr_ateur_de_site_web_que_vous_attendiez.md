@@ -1,6 +1,6 @@
 ---
-title: 'Silex v2, le créateur de site web que vous attendiez'
-layout: post
+title: "Silex v2, le créateur de site web que vous attendiez"
+layout: "post"
 
 ---
 ![2019-07-05-553834.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-553834.jpg)
@@ -46,3 +46,4 @@ Si vous êtes à Paris et, comme nous, tout excité par cette sortie tant attend
 
 Créez librement,
 L’équipe Silex Labs
+

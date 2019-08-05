@@ -1,164 +1,30 @@
 ---
-author: ariels
+author: "ariels"
 comments: true
-date: 2010-11-23 12:23:55+00:00
-excerpt: "This post is a recap of Oof and it's history, some of the more  recurring\
-  \ comments we get on the projects, and some speculation about  the future of the\
-  \ project. On top of that for the more technically  minded are some ideas on how\
-  \ this could be done. Nothing is yet set in  stone, so constructive criticism is\
-  \ appreciated!<h2>About Oof</h2>See the functionalities, target\
-  \ etc here <a href=\"http://oof.sourceforge.net/\">http://oof.sourceforge.net/</a>\
-  <!-- more --><h2>Scope of Oof</h2>The fields\
-  <ul><li> User interface design</li><li> Webdesign</li>\
-  <li> Simple data manipulations</li></ul>The goals\
-  <ul><li> improve productivity</li><li> lower the needed\
-  \ skills</li><li> clarify the workflow</li></ul>Key\
-  \ target<ul><li> designers and ergonomists (in Silex)</li>\
-  <li> web designers (in Flash)</li><li> developers (in javascript,\
-  \ ActionScript, java...)</li></ul><h2>Oof and it's history</h2>\
-  When we started with Oof, the idea was to build a toolbox so that  designers\
-  \ could manipulate data without asking us to reinvent the wheel  on each new project.\
-  \ We first thought it would be another ActionScript  framework but our clients and\
-  \ therefore our core target wasn't  developers but designers and the goal was to\
-  \ improve productivity and  clarify the workflow. Furthermore, our project Silex\
-  \ was more and more  successful and the use of Oof directly in Silex was very promising\
-  \ since  it was opening the doors of application development to designers and  ergonomists.\
-  \ So we made a set of components which you can use exactly  the same way inside\
-  \ Flash IDE or in Silex, which let you manipulate and  display data without any\
-  \ code, just by combining the components and  setting their parameters.\
-  Oof would be modular, and each module would know as little as necessary  about\
-  \ its surrounding environment. The initial set up was that there  was data on a\
-  \ server, and we needed to display it in a list. We already  had a list, we just\
-  \ needed to retrieve the data from the server.  Furthermore, the data could be received\
-  \ in many ways. It could be an RSS  feed, something stored in a custom database*,\
-  \ an Excel file on a  server*, JSON, XML, XML-RPC (Google API, flickr, ...), a flat text file,\
-  \  CSV, etc. So we built a variety of what we called “Connectors”, whose  job was\
-  \ to get the data and make it available to the other modules. We  then just needed\
-  \ that something in the middle that would take the data  and interact with the list.\
-  \ We also wanted to be able to do stuff when  the user clicked in the list, and\
-  \ so was born the “DataSelector”.* use server side script written in\
-  \ phpDrawing: Server with the data (the internet) &lt;---&gt; Connector\
-  \ &lt;----&gt; DataSelector &lt;----&gt; List<ul><li> DatabaseConnector,\
-  \ ExcelConnector, RssConnector, XmlConnector</li><li> ThumbList, RichTextList,\
-  \ DropDownList, RollOverMenu, SlideMenu</li></ul>If you just\
-  \ added something to display an image you could build an  image gallery with this,\
-  \ and so we did. So we got this setup:Drawing: Server with  the data\
-  \ (the internet) &lt;---&gt; Connector &lt;----&gt; DataSelector  &lt;----&gt; List\
-  \ &lt;--------&gt; Image display<ul><li> AudioDisplay, ImageDisplay,\
-  \ VideoDisplay, MultiLineIo, SingleLineIo</li></ul>From this\
-  \ promising start Oof grew to integrate new modules and  functionalities, and we\
-  \ got to today, where quite a few people use the  project, and we have some hindsight\
-  \ on what we got right and what we got  wrong.<h2>Oof components list</h2>\
-  List of Oof components organized by categoryUser interface\
-  <ul><li> AudioDisplay, ImageDisplay, VideoDisplay, MultiLineIo,\
-  \ SingleLineIo</li><li> CheckBox, ColorPick, ColorView, TextEditor</li>\
-  <li> ListScrollBar, ListUi, PlayListUi</li><li> ReorderableRichTextList,\
-  \ RichTextList, RollOverMenuList, SlideMenu, ThumbList</li><li> Timer</li>\
-  </ul>Non visual<ul><li> DataContainer</li>\
-  <li> EmailConnector, EmailSender</li><li> LoginConnector, LockedIcon\
-  \ (specific to Silex)</li><li> DatabaseConnector, ExcelConnector, RssConnector,\
-  \ XmlConnector</li><li> DataSelector, RecordCreator, RecordDeleter, RecordUpdater</li>\
-  <li> Uploader</li></ul>Debug<ul>\
-  <li> DataContainerViewer</li><li> OofDiagnosis</li></ul>\
-  <h2>Complaints about Oof</h2>Please comment, but this is what we\
-  \ hear the most:<ul><li>Oof is too complicated. Yes ok, we plead\
-  \ guilty to this. We  understand that you would just like for example to drop an\
-  \ Image Gallery  module on the stage, give it the url where it's supposed to get\
-  \ the  data and be done with it. You really couldn't care less about Connectors\
-  \  and DataSelectors, and you have to deliver this website yesterday.</li>\
-  <li>You would like to be able to use this other list because of its cool  text\
-  \ effect, but you can't. More generally, Oof should integrate well  with other components\
-  \ that weren't necessarily written for it.</li><li>When you get something\
-  \ wrong, nothing happens and you get no feedback on what might be missing.</li>\
-  <li>You would like to build and maybe sell your own Oof modules.</li>\
-  <li>You would like to use Oof directly in Flash and not just Silex.</li>\
-  </ul><h2>Speculation on the future</h2>Oof is split\
-  \ into 2 parts: Oof Core and Oof Modules. Oof Core is the  technology that allows\
-  \ linking modules together, and some other stuff  that is detailed further down.\
-  \ Oof Modules is more or less everything  else: modules that are written for Oof\
-  \ and that fit well with its  philosophy. The Oof 1.x modules are migrated to Oof\
-  \ Modules. Last but  not least, third party Oof modules are skinable and redistributable.\
-  The system is articulated around two groups of people: module users and\
-  \  module creators. So two use cases describing their experiences follow:\
-  <h3>Oof User use case</h3>The user has a blank stage and wants to build\
-  \ a image gallery. He can<ul><li>take a ready Image Gallery\
-  \ module</li><li>if the ready made modules aren't the right fit, he choose\
-  \ from a list  of macros that will assemble the basics for him and he can just tweak\
-  \  the settings.</li><li>Finally, and this for the advanced users only,\
-  \ he can do what he has  to do now, which is assemble the low level modules himself</li>\
-  </ul>If something goes wrong, an analysis tool is available to\
-  \ guide him.<h3>Oof Module creator use case</h3>The module creator\
-  \ has this cool Flash list he would like to integrate  and distribute. He fires\
-  \ up the Oof Creator application, which guides  him through the different steps\
-  \ of generating the necessary wrappers for  his list, and helps him distribute his\
-  \ new module. It can then be used  in Flash, in Silex, and in Javascript.\
-  <h2>Some loose technical specifications</h2>This may all seem pie in\
-  \ the sky, but most of it is actually doable.  The basic foundation of this, without\
-  \ which it doesn't mean much, is the  Oof Module creator experience. How can we\
-  \ make this happen?All the module creator needs is an ActionScript Interface\
-  \ to his  existing class. This interface describes all the methods. In the  comments\
-  \ for each method he adds additional information about what it  does, like for Javadocs.\
-  \ For example, here's an excerpt from an  interface for an ImageGallery module:\
-  <span style=\"color: #9900cc;\"><span style=\"font-family: Monaco,monospace;\"\
-  ><span style=\"font-size: x-small;\"><strong>package</strong></span></span></span>\
-  <span style=\"color: #000000;\"><span style=\"font-family: Monaco,monospace;\"\
-  ><span style=\"font-size: x-small;\">{</span></span></span><span style=\"\
-  color: #0033ff;\"><strong>public</strong></span><span style=\"color: #000000;\"\
-  > </span><span style=\"color: #9900cc;\"><strong>interface</strong></span><span\
-  \ style=\"color: #000000;\"> IImageGallery</span><span style=\"color:\
-  \ #000000;\"><span style=\"font-family: Monaco,monospace;\"><span style=\"font-size:\
-  \ x-small;\">{</span></span></span><span style=\"color: #3f5fbf;\">/**</span>\
-  <span style=\"color: #3f5fbf;\"><span style=\"font-family: Monaco,monospace;\"\
-  ><span style=\"font-size: x-small;\">* the url for the rss feed</span></span></span>\
-  <span style=\"color: #3f5fbf;\"><span style=\"font-family: Monaco,monospace;\"\
-  ><span style=\"font-size: x-small;\">* @type url</span></span></span>\
-  <span style=\"color: #3f5fbf;\"><span style=\"font-family: Monaco,monospace;\"><span\
-  \ style=\"font-size: x-small;\">* @...</span></span></span><span style=\"\
-  color: #3f5fbf;\"><span style=\"font-family: Monaco,monospace;\"><span style=\"\
-  font-size: x-small;\">* */</span></span></span><span style=\"color:\
-  \ #339966;\"><strong>function</strong></span><span style=\"color: #000000;\"> </span><span\
-  \ style=\"color: #0033ff;\"><strong>set</strong></span><span style=\"color: #000000;\"\
-  > rssFeedUrl(value:String):</span><span style=\"color: #0033ff;\"><strong>void</strong></span><span\
-  \ style=\"color: #000000;\">;</span><span style=\"color: #000000;\"\
-  ><span style=\"font-family: Monaco,monospace;\"><span style=\"font-size: x-small;\"\
-  >}</span></span></span><span style=\"color: #000000;\"><span style=\"\
-  font-family: Monaco,monospace;\"><span style=\"font-size: x-small;\">}</span></span></span>\
-  We can feed this interface to an app that can generate a wrapper that\
-  \  instanciates the ImageGallery, and can interact with different host  technologies.\
-  \ For Flash, it could generate “Inspectable” tags, for Silex  the properties list,\
-  \ for Javascript something that works with  ExternalInterface and/or Flashvars.\
-  So that the user experience can happen as described, the existing  modules\
-  \ need to be assembled together in a Flash class, the interface  can be extracted,\
-  \ and it can be fed to the wrapper generator. The macro  bit is dodgy but doable,\
-  \ as we already assemble components in Silex, it  can be used as a starting point.\
-  The whole marketplace thing is really more a social engineering thing\
-  \  than a technical problem, so we can take care of that once the basics  are sorted\
-  \ out."
-layout: post
-link: https://www.silexlabs.org/thoughts-on-oof/
-slug: thoughts-on-oof
-title: Thoughts on Oof
+date: "2010-11-23T12:23:55.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/thoughts-on-oof/"
+slug: "thoughts-on-oof"
+title: "Thoughts on Oof"
 wordpress_id: 1985
-categories:
-- "Blog Silex Labs"
-- "The Blog"
----
+categories: ["Blog Silex Labs","The Blog"]
 
+---
 This post is a recap of Oof and it's history, some of the more  recurring comments we get on the projects, and some speculation about  the future of the project. On top of that for the more technically  minded are some ideas on how this could be done. Nothing is yet set in  stone, so constructive criticism is appreciated!
 
 
 ## About Oof
 
 
-				See the functionalities, target etc here [http://oof.sourceforge.net/](http://oof.sourceforge.net/)
+See the functionalities, target etc here [http://oof.sourceforge.net/](http://oof.sourceforge.net/)
 
-				<!-- more -->
+<!-- more -->
 
 
 ## Scope of Oof
 
 
-				The fields
+The fields
 
 
 
@@ -172,7 +38,7 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
   * Simple data manipulations
 
 
-				The goals
+The goals
 
 
   * improve productivity
@@ -184,7 +50,7 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
   * clarify the workflow
 
 
-				Key target
+Key target
 
 
   * designers and ergonomists (in Silex)
@@ -201,13 +67,13 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
 ## Oof and it's history
 
 
-				When we started with Oof, the idea was to build a toolbox so that  designers could manipulate data without asking us to reinvent the wheel  on each new project. We first thought it would be another ActionScript  framework but our clients and therefore our core target wasn't  developers but designers and the goal was to improve productivity and  clarify the workflow. Furthermore, our project Silex was more and more  successful and the use of Oof directly in Silex was very promising since  it was opening the doors of application development to designers and  ergonomists. So we made a set of components which you can use exactly  the same way inside Flash IDE or in Silex, which let you manipulate and  display data without any code, just by combining the components and  setting their parameters.
+When we started with Oof, the idea was to build a toolbox so that  designers could manipulate data without asking us to reinvent the wheel  on each new project. We first thought it would be another ActionScript  framework but our clients and therefore our core target wasn't  developers but designers and the goal was to improve productivity and  clarify the workflow. Furthermore, our project Silex was more and more  successful and the use of Oof directly in Silex was very promising since  it was opening the doors of application development to designers and  ergonomists. So we made a set of components which you can use exactly  the same way inside Flash IDE or in Silex, which let you manipulate and  display data without any code, just by combining the components and  setting their parameters.
 
-				Oof would be modular, and each module would know as little as necessary  about its surrounding environment. The initial set up was that there  was data on a server, and we needed to display it in a list. We already  had a list, we just needed to retrieve the data from the server.  Furthermore, the data could be received in many ways. It could be an RSS  feed, something stored in a custom database*, an Excel file on a  server*, JSON, XML, XML-RPC (Google API, flickr, ...), a flat text file,  CSV, etc. So we built a variety of what we called “Connectors”, whose  job was to get the data and make it available to the other modules. We  then just needed that something in the middle that would take the data  and interact with the list. We also wanted to be able to do stuff when  the user clicked in the list, and so was born the “DataSelector”.
+Oof would be modular, and each module would know as little as necessary  about its surrounding environment. The initial set up was that there  was data on a server, and we needed to display it in a list. We already  had a list, we just needed to retrieve the data from the server.  Furthermore, the data could be received in many ways. It could be an RSS  feed, something stored in a custom database*, an Excel file on a  server*, JSON, XML, XML-RPC (Google API, flickr, ...), a flat text file,  CSV, etc. So we built a variety of what we called “Connectors”, whose  job was to get the data and make it available to the other modules. We  then just needed that something in the middle that would take the data  and interact with the list. We also wanted to be able to do stuff when  the user clicked in the list, and so was born the “DataSelector”.
 
-				* use server side script written in php
+* use server side script written in php
 
-				Drawing: Server with the data (the internet) <---> Connector <----> DataSelector <----> List
+Drawing: Server with the data (the internet) <---> Connector <----> DataSelector <----> List
 
 
 
@@ -218,23 +84,23 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
   * ThumbList, RichTextList, DropDownList, RollOverMenu, SlideMenu
 
 
-				If you just added something to display an image you could build an  image gallery with this, and so we did. So we got this setup:
+If you just added something to display an image you could build an  image gallery with this, and so we did. So we got this setup:
 
-				Drawing: Server with  the data (the internet) <---> Connector <----> DataSelector  <----> List <--------> Image display
+Drawing: Server with  the data (the internet) <---> Connector <----> DataSelector  <----> List <--------> Image display
 
 
   * AudioDisplay, ImageDisplay, VideoDisplay, MultiLineIo, SingleLineIo
 
 
-				From this promising start Oof grew to integrate new modules and  functionalities, and we got to today, where quite a few people use the  project, and we have some hindsight on what we got right and what we got  wrong.
+From this promising start Oof grew to integrate new modules and  functionalities, and we got to today, where quite a few people use the  project, and we have some hindsight on what we got right and what we got  wrong.
 
 
 ## Oof components list
 
 
-				List of Oof components organized by category
+List of Oof components organized by category
 
-				User interface
+User interface
 
 
 
@@ -254,7 +120,7 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
   * Timer
 
 
-				Non visual
+Non visual
 
 
   * DataContainer
@@ -275,7 +141,7 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
   * Uploader
 
 
-				Debug
+Debug
 
 
   * DataContainerViewer
@@ -289,7 +155,7 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
 ## Complaints about Oof
 
 
-				Please comment, but this is what we hear the most:
+Please comment, but this is what we hear the most:
 
 
 
@@ -314,15 +180,15 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
 ## Speculation on the future
 
 
-				Oof is split into 2 parts: Oof Core and Oof Modules. Oof Core is the  technology that allows linking modules together, and some other stuff  that is detailed further down. Oof Modules is more or less everything  else: modules that are written for Oof and that fit well with its  philosophy. The Oof 1.x modules are migrated to Oof Modules. Last but  not least, third party Oof modules are skinable and redistributable.
+Oof is split into 2 parts: Oof Core and Oof Modules. Oof Core is the  technology that allows linking modules together, and some other stuff  that is detailed further down. Oof Modules is more or less everything  else: modules that are written for Oof and that fit well with its  philosophy. The Oof 1.x modules are migrated to Oof Modules. Last but  not least, third party Oof modules are skinable and redistributable.
 
-				The system is articulated around two groups of people: module users and  module creators. So two use cases describing their experiences follow:
+The system is articulated around two groups of people: module users and  module creators. So two use cases describing their experiences follow:
 
 
 ### Oof User use case
 
 
-				The user has a blank stage and wants to build a image gallery. He can
+The user has a blank stage and wants to build a image gallery. He can
 
 
 
@@ -336,48 +202,49 @@ This post is a recap of Oof and it's history, some of the more  recurring commen
   * Finally, and this for the advanced users only, he can do what he has  to do now, which is assemble the low level modules himself
 
 
-				If something goes wrong, an analysis tool is available to guide him.
+If something goes wrong, an analysis tool is available to guide him.
 
 
 ### Oof Module creator use case
 
 
-				The module creator has this cool Flash list he would like to integrate  and distribute. He fires up the Oof Creator application, which guides  him through the different steps of generating the necessary wrappers for  his list, and helps him distribute his new module. It can then be used  in Flash, in Silex, and in Javascript.
+The module creator has this cool Flash list he would like to integrate  and distribute. He fires up the Oof Creator application, which guides  him through the different steps of generating the necessary wrappers for  his list, and helps him distribute his new module. It can then be used  in Flash, in Silex, and in Javascript.
 
 
 ## Some loose technical specifications
 
 
-				This may all seem pie in the sky, but most of it is actually doable.  The basic foundation of this, without which it doesn't mean much, is the  Oof Module creator experience. How can we make this happen?
+This may all seem pie in the sky, but most of it is actually doable.  The basic foundation of this, without which it doesn't mean much, is the  Oof Module creator experience. How can we make this happen?
 
-				All the module creator needs is an ActionScript Interface to his  existing class. This interface describes all the methods. In the  comments for each method he adds additional information about what it  does, like for Javadocs. For example, here's an excerpt from an  interface for an ImageGallery module:
+All the module creator needs is an ActionScript Interface to his  existing class. This interface describes all the methods. In the  comments for each method he adds additional information about what it  does, like for Javadocs. For example, here's an excerpt from an  interface for an ImageGallery module:
 
-				**package**
+**package**
 
-				{
+{
 
-				**public** **interface** IImageGallery
+**public** **interface** IImageGallery
 
-				{
+{
 
-				/**
+/**
 
-				* the url for the rss feed
+* the url for the rss feed
 
-				* @type url
+* @type url
 
-				* @...
+* @...
 
-				* */
+* */
 
-				**function** **set** rssFeedUrl(value:String):**void**;
+**function** **set** rssFeedUrl(value:String):**void**;
 
-				}
+}
 
-				}
+}
 
-				We can feed this interface to an app that can generate a wrapper that  instanciates the ImageGallery, and can interact with different host  technologies. For Flash, it could generate “Inspectable” tags, for Silex  the properties list, for Javascript something that works with  ExternalInterface and/or Flashvars.
+We can feed this interface to an app that can generate a wrapper that  instanciates the ImageGallery, and can interact with different host  technologies. For Flash, it could generate “Inspectable” tags, for Silex  the properties list, for Javascript something that works with  ExternalInterface and/or Flashvars.
 
-				So that the user experience can happen as described, the existing  modules need to be assembled together in a Flash class, the interface  can be extracted, and it can be fed to the wrapper generator. The macro  bit is dodgy but doable, as we already assemble components in Silex, it  can be used as a starting point.
+So that the user experience can happen as described, the existing  modules need to be assembled together in a Flash class, the interface  can be extracted, and it can be fed to the wrapper generator. The macro  bit is dodgy but doable, as we already assemble components in Silex, it  can be used as a starting point.
 
-				The whole marketplace thing is really more a social engineering thing  than a technical problem, so we can take care of that once the basics  are sorted out.
+The whole marketplace thing is really more a social engineering thing  than a technical problem, so we can take care of that once the basics  are sorted out.
+

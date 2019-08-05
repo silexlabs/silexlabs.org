@@ -1,6 +1,6 @@
 ---
-title: 'Tech ‘n’ Marketing #2'
-layout: post
+title: "Tech ‘n’ Marketing #2"
+layout: "post"
 
 ---
 ![2019-07-05-549346.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-549346.png)
@@ -32,3 +32,4 @@ Silex est un outil de création de site web en ligne gratuit et libre (il ne pre
 Avoir un petit sens esthétique n’est jamais de trop quand on veut créer un site internet mais certain s’en tirent très bien sans ! Le principal est d’avoir des idées !
 
 L’idéal est de venir avec son PC portable pour pouvoir créer son site tout au long de l’atelier.
+

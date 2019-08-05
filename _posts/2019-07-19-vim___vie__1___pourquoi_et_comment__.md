@@ -1,6 +1,6 @@
 ---
-title: 'Vim à vie #1 : Pourquoi et comment ?'
-layout: post
+title: "Vim à vie #1 : Pourquoi et comment ?"
+layout: "post"
 
 ---
 ![2019-07-05-747294.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png)
@@ -53,3 +53,4 @@ Chaque participant repartira avec son .vimrc et un profond dégoût pour les éd
 ![2019-07-05-201253.gif](http://lexoyo.me/silexlabs.org//assets/2019-07-05-201253.gif)
 
 Cet atelier sera animé par Jean-Baptiste Richardet aka Jb, Lead Tech chez Malakoff-Médéric et Vice-président de Silex Labs.
+

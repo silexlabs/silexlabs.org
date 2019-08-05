@@ -1,59 +1,37 @@
 ---
-author: admin
+author: "admin"
 comments: true
-date: 2009-08-04 22:15:29+00:00
-excerpt: "<div><div>BonsoirLa v1.5.1 est sortie (voir le text\
-  \ ci-dessous). Ceux qui maquettent en ce moment peuvent la <a href=\"https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.1.zip/download\"\
-  \ target=\"_blank\">télécharger ici</a>.Et j'ai mis à jour le site silex.\
-  \ J'ai donc besoin que vous testiez ces sites :* <a href=\"http://silex-ria.org/\"\
-  \ target=\"_blank\">http://silex-ria.org/</a>* <a href=\"http://silex-ria.org/help\"\
-  \ target=\"_blank\">http://silex-ria.org/help</a>* <a href=\"http://silex-ria.org/aide\"\
-  \ target=\"_blank\">http://silex-ria.org/aide</a>* <a href=\"http://silex-ria.org/sha\"\
-  \ target=\"_blank\">http://silex-ria.org/sha</a>* <a href=\"http://silex-ria.org/ariel\"\
-  \ target=\"_blank\">http://silex-ria.org/ariel</a>* <a href=\"http://silex-ria.org/lex\"\
-  \ target=\"_blank\">http://silex-ria.org/lex</a>C'est très important\
-  \ je compte sur vous, merci de mettre <a href=\"http://silex.hoyau.info/forum/viewtopic.php?f=5&amp;t=444\"\
-  \ target=\"_blank\">vos remarques/bugs report ici</a>.___________________________\
-  silex v1.5.1 Comet is out!- greek and nl languages\
-  - lot of bug fixes (see change log <a href=\"http://silex-ria.org/media/silex-ria/change_logs.txt\"\
-  \ target=\"_blank\">http://silex-ria.org/media/silex-ria/change_logs.txt</a> )\
-  - new url rewrite system. Now, all websites are seo friendly even if you\
-  \ do not have url rewrite on your server- new parameters in oof lists</div>\
-  </div>"
-layout: post
-link: https://www.silexlabs.org/silex-v151-comet-is-out/
-slug: silex-v151-comet-is-out
-title: silex v1.5.1 Comet is out!
+date: "2009-08-04T22:15:29.000Z"
+layout: "post"
+link: "https://www.silexlabs.org/silex-v151-comet-is-out/"
+slug: "silex-v151-comet-is-out"
+title: "silex v1.5.1 Comet is out!"
 wordpress_id: 1179
-categories:
-- "Blog Silex"
-- "The Blog"
+categories: ["Blog Silex","The Blog"]
+
 ---
-
-
-
-
 Bonsoir
 
-				La v1.5.1 est sortie (voir le text ci-dessous). Ceux qui maquettent en ce moment peuvent la [télécharger ici](https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.1.zip/download).
+La v1.5.1 est sortie (voir le text ci-dessous). Ceux qui maquettent en ce moment peuvent la [télécharger ici](https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.1.zip/download).
 
-				Et j'ai mis à jour le site silex. J'ai donc besoin que vous testiez ces sites :
-				* [http://silex-ria.org/](http://silex-ria.org/)
-				* [http://silex-ria.org/help](http://silex-ria.org/help)
-				* [http://silex-ria.org/aide](http://silex-ria.org/aide)
-				* [http://silex-ria.org/sha](http://silex-ria.org/sha)
-				* [http://silex-ria.org/ariel](http://silex-ria.org/ariel)
-				* [http://silex-ria.org/lex](http://silex-ria.org/lex)
+Et j'ai mis à jour le site silex. J'ai donc besoin que vous testiez ces sites :
+* [http://silex-ria.org/](http://silex-ria.org/)
+* [http://silex-ria.org/help](http://silex-ria.org/help)
+* [http://silex-ria.org/aide](http://silex-ria.org/aide)
+* [http://silex-ria.org/sha](http://silex-ria.org/sha)
+* [http://silex-ria.org/ariel](http://silex-ria.org/ariel)
+* [http://silex-ria.org/lex](http://silex-ria.org/lex)
 
-				C'est très important je compte sur vous, merci de mettre [vos remarques/bugs report ici](http://silex.hoyau.info/forum/viewtopic.php?f=5&t=444).
+C'est très important je compte sur vous, merci de mettre [vos remarques/bugs report ici](http://silex.hoyau.info/forum/viewtopic.php?f=5&t=444).
 
-				___________________________
+___________________________
 
-				silex v1.5.1 Comet is out!
-				- greek and nl languages
-				- lot of bug fixes (see change log [http://silex-ria.org/media/silex-ria/change_logs.txt](http://silex-ria.org/media/silex-ria/change_logs.txt) )
-				- new url rewrite system. Now, all websites are seo friendly even if you do not have url rewrite on your server
-				- new parameters in oof lists
+silex v1.5.1 Comet is out!
+- greek and nl languages
+- lot of bug fixes (see change log [http://silex-ria.org/media/silex-ria/change_logs.txt](http://silex-ria.org/media/silex-ria/change_logs.txt) )
+- new url rewrite system. Now, all websites are seo friendly even if you do not have url rewrite on your server
+- new parameters in oof lists
+
 
 
 
