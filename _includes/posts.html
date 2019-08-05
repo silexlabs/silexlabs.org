@@ -2,7 +2,7 @@
 {% for post in paginator.posts %}
 <article>
   <a href="{{ site.baseurl }}{{ post.url }}">
-    {{ post.excerpt | replace: '<a', '<div' | replace: '</a>', '</div> | truncate: 800 }}
+    {{ post.excerpt | replace: '<a', '<div' | replace: '</a>', '</div>' | truncate: 800 }}
   </a>
 </article>
 {% endfor %}
