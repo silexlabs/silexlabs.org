@@ -1,0 +1,46 @@
+---
+author: lexa
+comments: true
+date: 2011-11-18 13:33:36+00:00
+excerpt: "Merci à tous et à toutes d'être venus!<a href=\"https://www.silexlabs.org/130679/the-blog/ateliers-silex-a-liesa-multimedia-le-retour-des-ptt/\"\
+  >Cette 2e édition des PTT</a> à <a href=\"http://www.iesamultimedia.com/\">l'IESA\
+  \ Multimédia</a> a été conduite par Pol sous la forme d'une initiation à Silex et\
+  \ à quelques plugins choisis pour l'occasion : <a href=\"https://www.silexlabs.org/2503/exchange/exchange-silex/plugins/htmlgenerator/\"\
+  >htmlGenerator qui permet d'afficher des sites silex en HTML 5</a>, <a href=\"https://www.silexlabs.org/64997/exchange/exchange-silex/plugins/simple-gallery/\"\
+  >simple gallery plugin</a>, <a href=\"https://www.silexlabs.org/1797/exchange/exchange-silex/plugins/filters/\"\
+  >filters</a>...Pol a aussi dévoilé la prochaine version de Silex (v1.6.2)\
+  \ qui comporte pas mal d'évolutions ergonomiques qui nous ont fait bien plaisir!\
+  Un tour d'horizon des sites faits avec notre petit bijou et qui sont apparus\
+  \ récemment sur la toile, nous a permis de sur-motiver ceux qui étaient venus avec\
+  \ des projets de site et de bornes tactiles (manifestez vous en commentaire!)...\
+  A bientôt pour les prochains ateliers PTT - suivez l'actu en vous inscrivant\
+  \ au <a href=\"https://www.silexlabs.org/groups/silex/silex-utilisateurs-francophones/\"\
+  >groupe de discussion Silex francophone</a>, à l'<a href=\"http://www.facebook.com/event.php?eid=264117520301060\"\
+  >évènement Facebook des PTT</a>, au <a href=\"https://twitter.com/silexlabs\">twitter\
+  \ de l'assos Silex Labs</a>...<img class=\"aligncenter size-large wp-image-130709\"\
+  \ title=\"ptt-image\" src=\"https://www.silexlabs.org/wp-content/uploads/2011/11/ptt-image-677x467.jpg\"\
+  \ alt=\"\" width=\"677\" height=\"467\" />&nbsp;"
+layout: post
+link: https://www.silexlabs.org/retour-sur-le-retour-des-ptt/
+slug: retour-sur-le-retour-des-ptt
+title: Retour sur le retour des PTT
+wordpress_id: 130705
+categories:
+- "Blog Silex"
+- "Blog Silex Labs"
+- "The Blog"
+---
+
+Merci à tous et à toutes d'être venus!
+
+				[Cette 2e édition des PTT](https://www.silexlabs.org/130679/the-blog/ateliers-silex-a-liesa-multimedia-le-retour-des-ptt/) à [l'IESA Multimédia](http://www.iesamultimedia.com/) a été conduite par Pol sous la forme d'une initiation à Silex et à quelques plugins choisis pour l'occasion : [htmlGenerator qui permet d'afficher des sites silex en HTML 5](https://www.silexlabs.org/2503/exchange/exchange-silex/plugins/htmlgenerator/), [simple gallery plugin](https://www.silexlabs.org/64997/exchange/exchange-silex/plugins/simple-gallery/), [filters](https://www.silexlabs.org/1797/exchange/exchange-silex/plugins/filters/)...
+
+				Pol a aussi dévoilé la prochaine version de Silex (v1.6.2) qui comporte pas mal d'évolutions ergonomiques qui nous ont fait bien plaisir!
+
+				Un tour d'horizon des sites faits avec notre petit bijou et qui sont apparus récemment sur la toile, nous a permis de sur-motiver ceux qui étaient venus avec des projets de site et de bornes tactiles (manifestez vous en commentaire!)...
+
+				A bientôt pour les prochains ateliers PTT - suivez l'actu en vous inscrivant au [groupe de discussion Silex francophone](https://www.silexlabs.org/groups/silex/silex-utilisateurs-francophones/), à l'[évènement Facebook des PTT](http://www.facebook.com/event.php?eid=264117520301060), au [twitter de l'assos Silex Labs](https://twitter.com/silexlabs)...
+
+				![](https://www.silexlabs.org/wp-content/uploads/2011/11/ptt-image-677x467.jpg)
+
+

@@ -1,0 +1,305 @@
+---
+author: yannick
+comments: true
+date: 2011-05-31 22:02:32+00:00
+excerpt: "This component is a simple picture gallery, just drop it in your site and\
+  \ input the urls of your gallery's pictures.Authors : Camille GERARD\
+  \ HIRNE, Yannick DOMINGUEZ<h2>2 galleries</h2>This plugin adds\
+  \ 2 components : the gallery and the autoplay gallery. They are both the same component\
+  \ with different configuration. The autoplay gallery will automatically switch pictures\
+  \ every few seconds and won't display the next and previsou buttons.<h2>Use</h2>\
+  [caption id=\"attachment_73235\" align=\"aligncenter\" width=\"300\"]<a\
+  \ href=\"https://www.silexlabs.org/?attachment_id=73235\" rel=\"attachment wp-att-73235\"\
+  ><img class=\"size-medium wp-image-73235 \" title=\"simpleGallery_panel\" src=\"\
+  https://www.silexlabs.org/wp-content/uploads/2011/06/simpleGallery_panel-300x139.png\"\
+  \ alt=\"simple gallery panel\" width=\"300\" height=\"139\" /></a> the panel of\
+  \ the simple gallery (click to zoom)[/caption]The gallery has the following\
+  \ parameters :<!-- more --><h3>Pictures URLs</h3>\
+  This is the urls of the pictures that you want to display in your gallery. The pictures\
+  \ can either come from your media folder (ex: \"media/logosilex.jpg\") or from another\
+  \ website (ex: \"http://www.google.fr/images/logos/ps_logo.png\"). The gallery can\
+  \ display .jpg, .jpeg, .gif (but not animated), .png (transparent or opaque) and\
+  \ .swf pictures.<h3>Autoplay</h3>If the autoplay checkbox is\
+  \ checked, the picture will automatically be switched every few seconds. You can\
+  \ specify the interval with the \"Autoplay duration\" parameter.<h3>Autoplay\
+  \ duration</h3>The interval in seconds before displaying the next picture,\
+  \ if the autoplay is activated.<h3>Loop</h3>If the loop checkbox\
+  \ is checked, once the user reaches the last picture, if he clicks the next button,\
+  \ the first picture will be displayed, same for the first picture with the previous\
+  \ button.<h3>Transition Type</h3>Determine the transition animation\
+  \ between 2 pictures, here are the current transitions types :<ul>\
+  <li>Fade</li><li>Swipe</li><li>Zoom</li></ul>\
+  <h3>Transition duration</h3>The duration of the transition between\
+  \ 2 pictures in seconds.<h3>Show controls</h3>If the checkbox\
+  \ is checked, the next and previous buttons are displayed<h3>Show loader</h3>\
+  If the checkbox is checked, the loader will be displayed when a picture\
+  \ is loading<h3>Controls vertical align</h3>Detrmine the vertical\
+  \ position of the next and previous button, can be top, middle or bottom.\
+  <h3>Scale mode</h3>The scale mode applied to the pictures, there are\
+  \ 3 scale modes :<ul><li><h4>noscale</h4>\
+  The picture won't be resized and will be displayed at their full size</li>\
+  <li><h4>fill</h4>The picture will take the dimensions of\
+  \ the gallery. It will probably deform the picture</li><li>\
+  <h4>exactFit</h4>The picture will take the biggest size they can within\
+  \ the gallery without being deformed</li></ul><h3>Show background</h3>\
+  If the checkbox is checked, display the background of the gallery. Hiding\
+  \ the background is useful if you want a transparent background or a custom background\
+  \ added in Silex.<h3>Background color</h3>The color of the gallery\
+  \ background<h2>Skinning the gallery</h2>The simple gallery\
+  \ is a skinnable component, you can download the source FLA here : <a href=\"https://www.silexlabs.org/?attachment_id=86570\"\
+  \ rel=\"attachment wp-att-86570\">SimpleGallery_source</a>. This FLA allows to create\
+  \ your own design by customising :<ul><li>The next button</li>\
+  <li>the previous button</li><li>the loader displayed when a picture\
+  \ is loading</li><li>the error panel displayed when a picture was not\
+  \ found</li></ul>The folder \"silex framework\" in the Flash\
+  \ library contain all the necessary clips to make the gallery work as a Silex component\
+  \ and shouldn't be changed. The \"gallery asset\" folder contains some graphics\
+  \ which can be customised.<h2>Controlling the gallery with actions</h2>\
+  You can use any component to act as the next and previous button of your\
+  \ gallery by adding an action to them.Ex : for a simple gallery called\
+  \ \"myGallery\".Add the following action on the component yout want\
+  \ to use as the next button :<code>onRelease myGallery.next</code>\
+  Add the following action on the component yout want to use as the previous\
+  \ button :<code>onRelease myGallery.previous</code><h2>Event\
+  \ sent by the gallery</h2>For a more advanced use of the gallery with\
+  \ actions, here is the list of the event dispatched by it :<ul>\
+  <li>onStartPictureLoadingsent when a picture loading start</li>\
+  <li>onPictureLoadedsent when a picture has been successfuly loaded</li>\
+  <li>onPictureLoadingErrorsent when there was an error during picture\
+  \ loading</li><li>onPictureStartTransitionsent when the transition\
+  \ start between 2 pictures</li><li>onPictureTransitionComplete\
+  sent when the transition is complete between 2 pictures</li><li>onNextPicture\
+  sent when the process to display the next picture starts</li>\
+  <li>onPreviousPicturesent when the process to display the previous picture\
+  \ starts</li><li>onNextPictureAutoPlaysent when the next picture\
+  \ is displayed thanks to the autoplay</li><li>onChangeA generic\
+  \ changed event dispatched with some  other events</li></ul>"
+layout: post
+link: https://www.silexlabs.org/simple-gallery/
+slug: simple-gallery
+title: Simple Gallery
+wordpress_id: 64997
+categories:
+- "Plugins"
+---
+
+This component is a simple picture gallery, just drop it in your site and input the urls of your gallery's pictures.
+
+				Authors : Camille GERARD HIRNE, Yannick DOMINGUEZ
+
+
+## 2 galleries
+
+
+				This plugin adds 2 components : the gallery and the autoplay gallery. They are both the same component with different configuration. The autoplay gallery will automatically switch pictures every few seconds and won't display the next and previsou buttons.
+
+
+## Use
+
+
+				[caption id="attachment_73235" align="aligncenter" width="300"][![simple gallery panel](https://www.silexlabs.org/wp-content/uploads/2011/06/simpleGallery_panel-300x139.png)](https://www.silexlabs.org/?attachment_id=73235) the panel of the simple gallery (click to zoom)[/caption]
+
+				The gallery has the following parameters :
+
+				<!-- more -->
+
+
+### Pictures URLs
+
+
+				This is the urls of the pictures that you want to display in your gallery. The pictures can either come from your media folder (ex: "media/logosilex.jpg") or from another website (ex: "http://www.google.fr/images/logos/ps_logo.png"). The gallery can display .jpg, .jpeg, .gif (but not animated), .png (transparent or opaque) and .swf pictures.
+
+
+### Autoplay
+
+
+				If the autoplay checkbox is checked, the picture will automatically be switched every few seconds. You can specify the interval with the "Autoplay duration" parameter.
+
+
+### Autoplay duration
+
+
+				The interval in seconds before displaying the next picture, if the autoplay is activated.
+
+
+### Loop
+
+
+				If the loop checkbox is checked, once the user reaches the last picture, if he clicks the next button, the first picture will be displayed, same for the first picture with the previous button.
+
+
+### Transition Type
+
+
+				Determine the transition animation between 2 pictures, here are the current transitions types :
+
+
+
+
+  * Fade
+
+
+  * Swipe
+
+
+  * Zoom
+
+
+
+
+### Transition duration
+
+
+				The duration of the transition between 2 pictures in seconds.
+
+
+### Show controls
+
+
+				If the checkbox is checked, the next and previous buttons are displayed
+
+
+### Show loader
+
+
+				If the checkbox is checked, the loader will be displayed when a picture is loading
+
+
+### Controls vertical align
+
+
+				Detrmine the vertical position of the next and previous button, can be top, middle or bottom.
+
+
+### Scale mode
+
+
+				The scale mode applied to the pictures, there are 3 scale modes :
+
+
+
+
+  *
+
+
+#### noscale
+
+
+				The picture won't be resized and will be displayed at their full size
+
+
+  *
+
+
+#### fill
+
+
+				The picture will take the dimensions of the gallery. It will probably deform the picture
+
+
+  *
+
+
+#### exactFit
+
+
+				The picture will take the biggest size they can within the gallery without being deformed
+
+
+
+
+### Show background
+
+
+				If the checkbox is checked, display the background of the gallery. Hiding the background is useful if you want a transparent background or a custom background added in Silex.
+
+
+### Background color
+
+
+				The color of the gallery background
+
+
+## Skinning the gallery
+
+
+				The simple gallery is a skinnable component, you can download the source FLA here : [SimpleGallery_source](https://www.silexlabs.org/?attachment_id=86570). This FLA allows to create your own design by customising :
+
+
+
+
+  * The next button
+
+
+  * the previous button
+
+
+  * the loader displayed when a picture is loading
+
+
+  * the error panel displayed when a picture was not found
+
+
+				The folder "silex framework" in the Flash library contain all the necessary clips to make the gallery work as a Silex component and shouldn't be changed. The "gallery asset" folder contains some graphics which can be customised.
+
+
+## Controlling the gallery with actions
+
+
+				You can use any component to act as the next and previous button of your gallery by adding an action to them.
+
+				Ex : for a simple gallery called "myGallery".
+
+				Add the following action on the component yout want to use as the next button :
+
+				`onRelease myGallery.next`
+
+				Add the following action on the component yout want to use as the previous button :
+
+				`onRelease myGallery.previous`
+
+
+## Event sent by the gallery
+
+
+				For a more advanced use of the gallery with actions, here is the list of the event dispatched by it :
+
+
+
+
+  * onStartPictureLoading
+				sent when a picture loading start
+
+
+  * onPictureLoaded
+				sent when a picture has been successfuly loaded
+
+
+  * onPictureLoadingError
+				sent when there was an error during picture loading
+
+
+  * onPictureStartTransition
+				sent when the transition start between 2 pictures
+
+
+  * onPictureTransitionComplete
+				sent when the transition is complete between 2 pictures
+
+
+  * onNextPicture
+				sent when the process to display the next picture starts
+
+
+  * onPreviousPicture
+				sent when the process to display the previous picture starts
+
+
+  * onNextPictureAutoPlay
+				sent when the next picture is displayed thanks to the autoplay
+
+
+  * onChange
+				A generic changed event dispatched with some  other events
+
+

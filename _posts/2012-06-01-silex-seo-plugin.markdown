@@ -1,0 +1,193 @@
+---
+author: codam
+comments: true
+date: 2012-06-01 14:30:24+00:00
+excerpt: "<div><a href=\"https://www.silexlabs.org/132908/the-blog/blog-silex/silex-seo-plugin/attachment/plugin-2/\"\
+  \ rel=\"attachment wp-att-132915\"><img class=\"size-full wp-image-132915 alignnone\"\
+  \ title=\"plugin\" src=\"https://www.silexlabs.org/wp-content/uploads/2012/05/plugin1.png\"\
+  \ alt=\"\" width=\"180\" height=\"85\" /></a></div><h3>Description</h3>\
+  This plugin adds the possiblity to generate SEO (Search Engine Optimization)\
+  \ informations for a silex site in some specific cases.Normal cases\
+  \ are already taken care of by Silex.<!-- more -->It is specifically\
+  \ designed for these cases:<ul><li>when different pages (or\
+  \ deeplinks) share the same layer (useful for multiple languages contexts).</li>\
+  <li>when dynamic content is used. In that case the seo plugin should be\
+  \ run regularly.</li></ul>This includes:<ul>\
+  <li>accessors resolving</li><li>Oof selector children resolving and\
+  \ parsing</li></ul>Silex natively takes care of the following\
+  \ cases, when you are saving the layers via the Wysiwyg:<ul>\
+  <li>only one deeplink is used per layer</li><li>html compatible components\
+  \ (text, images, label buttons...)</li></ul><h3>Example provided\
+  \ !!!</h3>This plugin is provided with an example publication named \"\
+  test_seo_plugin\" so you can easily try this functionality.<h3>Installation</h3>\
+  To install this plugin on a silex server, use the manager's plugin installer\
+  \ (exchange platform), or copy the plugin folder in the silex_server/plugins folder.\
+  <h3>Activation</h3>This plugin has to be activated at publication\
+  \ level.Specific publication activation:In the server's\
+  \ manager go to \"Manage\", click on the publication on which the plugin should\
+  \ be activated, then click on \"Plugins &gt; Activate a plugin\", and finally click\
+  \ on the plugin icon and then on \"confirm\".<h3>Use</h3>To\
+  \ generate seo information for all layers of the publication:-In the\
+  \ server's manager go to \"Manage\", click on the publication for which the seo\
+  \ should be generated, then click on \"Generate Seo\".-The plugin will\
+  \ update the /silex_server/contents/site_id/*.seodata.xml files contents.\
+  -As a result, the sitemap of the site (accessible here: /silex_server/sitemap.php?id_site=site_id)\
+  \ will be updated.It can be useful to check the sitemap before and after\
+  \ running the SEO generation process.<h3>Parameters</h3>None\
+  <h3>Content</h3>The snapshot plugin folder contains several files:\
+  <ul><li>index.php<ul><li>contains the php\
+  \ needed to load the plugin.</li></ul></li><li>directories\
+  <ul><li>hx<ul><li>contains the PHP seo project\
+  \ generated with Haxe</li></ul></li><li>lang\
+  <ul><li>contains the translations files</li></ul>\
+  </li></ul></li></ul><h3>Sources</h3>\
+  They can be found on following subversion repository: <a href=\"https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src\"\
+  \ target=\"_blank\">https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src</a>"
+layout: post
+link: https://www.silexlabs.org/silex-seo-plugin/
+slug: silex-seo-plugin
+title: Silex SEO Plugin
+wordpress_id: 132908
+categories:
+- "Blog Silex"
+- "Plugins"
+---
+
+
+
+				[![](https://www.silexlabs.org/wp-content/uploads/2012/05/plugin1.png)](https://www.silexlabs.org/132908/the-blog/blog-silex/silex-seo-plugin/attachment/plugin-2/)
+
+
+
+
+
+
+### Description
+
+
+				This plugin adds the possiblity to generate SEO (Search Engine Optimization) informations for a silex site in some specific cases.
+
+				Normal cases are already taken care of by Silex.
+
+				<!-- more -->
+
+				It is specifically designed for these cases:
+
+
+
+
+  * when different pages (or deeplinks) share the same layer (useful for multiple languages contexts).
+
+
+  * when dynamic content is used. In that case the seo plugin should be run regularly.
+
+
+				This includes:
+
+
+  * accessors resolving
+
+
+  * Oof selector children resolving and parsing
+
+
+				Silex natively takes care of the following cases, when you are saving the layers via the Wysiwyg:
+
+
+  * only one deeplink is used per layer
+
+
+  * html compatible components (text, images, label buttons...)
+
+
+
+
+### Example provided !!!
+
+
+				This plugin is provided with an example publication named "test_seo_plugin" so you can easily try this functionality.
+
+
+### Installation
+
+
+				To install this plugin on a silex server, use the manager's plugin installer (exchange platform), or copy the plugin folder in the silex_server/plugins folder.
+
+
+### Activation
+
+
+				This plugin has to be activated at publication level.
+
+				Specific publication activation:
+
+				In the server's manager go to "Manage", click on the publication on which the plugin should be activated, then click on "Plugins > Activate a plugin", and finally click on the plugin icon and then on "confirm".
+
+
+### Use
+
+
+				To generate seo information for all layers of the publication:
+
+				-In the server's manager go to "Manage", click on the publication for which the seo should be generated, then click on "Generate Seo".
+
+				-The plugin will update the /silex_server/contents/site_id/*.seodata.xml files contents.
+
+				-As a result, the sitemap of the site (accessible here: /silex_server/sitemap.php?id_site=site_id) will be updated.
+
+				It can be useful to check the sitemap before and after running the SEO generation process.
+
+
+### Parameters
+
+
+				None
+
+
+### Content
+
+
+				The snapshot plugin folder contains several files:
+
+
+
+
+  * index.php
+
+
+    * contains the php needed to load the plugin.
+
+
+
+
+
+  * directories
+
+
+    * hx
+
+
+      * contains the PHP seo project generated with Haxe
+
+
+
+
+
+    * lang
+
+
+      * contains the translations files
+
+
+
+
+
+
+
+
+
+
+### Sources
+
+
+				They can be found on following subversion repository: [https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src](https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src)

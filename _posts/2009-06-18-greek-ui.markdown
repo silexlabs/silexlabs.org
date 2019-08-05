@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2009-06-18 11:17:32+00:00
+excerpt: "<a href=\"http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/hi.zip\"\
+  ></a><a href=\"http://wp-manager.silex-ria.org/wp-content/uploads/2009/06/gr.zip\"\
+  >Greek language file for Silex WYSIWYG</a>"
+layout: post
+link: https://www.silexlabs.org/greek-ui/
+slug: greek-ui
+title: Greek UI
+wordpress_id: 199
+categories:
+- "Lang"
+---
+
+[
+				](http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/hi.zip)[Greek language file for Silex WYSIWYG](http://wp-manager.silex-ria.org/wp-content/uploads/2009/06/gr.zip)

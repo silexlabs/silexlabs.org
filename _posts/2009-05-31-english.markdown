@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2009-05-31 20:15:26+00:00
+excerpt: <a href="http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/en.zip">English
+  language file for the manager</a>
+layout: post
+link: https://www.silexlabs.org/english/
+slug: english
+title: English
+wordpress_id: 83
+categories:
+- "Lang"
+---
+
+[English language file for the manager](http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/en.zip)

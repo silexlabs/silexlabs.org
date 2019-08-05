@@ -1,0 +1,42 @@
+---
+author: admin
+comments: true
+date: 2009-05-01 07:24:55+00:00
+excerpt: "<strong>Embouché</strong>Ce matin j'ai trouvé mon nez bouché,\
+  \ je crois que je suis ballade...Bais bon, je ne be laisse ba abattre,\
+  \ attention! On en a vu d'autre.<strong>C'est notre tour</strong>\
+  Comme c'est jour férié, La défense est vide et notre tour aussi. J'en ai profité\
+  \ pour faire des photos, on ne me prendra pas pour un touriste cette fois, NO SPEAK\
+  \ ENGLISH, NO WANT TO BY A MINI TOUR EIFFEL, SAINT CLOUD.[caption id=\"\
+  \" align=\"alignright\" width=\"240\" caption=\"cooloir\"]<img alt=\"cooloir\" src=\"\
+  http://img82.imageshack.us/img82/7836/91750476.jpg\" title=\"cooloir\" width=\"\
+  240\" height=\"320\" />[/caption][caption id=\"\" align=\"alignleft\"\
+  \ width=\"320\" caption=\"cooloir\"]<img alt=\"cooloir\" src=\"http://img376.imageshack.us/img376/1318/34757147.jpg\"\
+  \ title=\"cooloir 2\" width=\"320\" height=\"240\" />[/caption][caption\
+  \ id=\"\" align=\"aligncenter\" width=\"240\" caption=\"pause room\"]<img alt=\"\
+  pause room\" src=\"http://img383.imageshack.us/img383/9387/67184933.jpg\" title=\"\
+  pause\" width=\"240\" height=\"320\" />[/caption][caption id=\"\" align=\"\
+  alignright\" width=\"320\" caption=\"notre tour\"]<img alt=\"notre tour\" src=\"\
+  http://img126.imageshack.us/img126/6694/19457287.jpg\" title=\"notre tour\" width=\"\
+  320\" height=\"240\" />[/caption]"
+layout: post
+link: https://www.silexlabs.org/embouche/
+slug: embouche
+title: Embouché
+wordpress_id: 61
+categories:
+- "Blog Silex Labs"
+- "The Blog"
+---
+
+**Embouché**
+				Ce matin j'ai trouvé mon nez bouché, je crois que je suis ballade...
+				Bais bon, je ne be laisse ba abattre, attention! On en a vu d'autre.
+
+				**C'est notre tour**
+				Comme c'est jour férié, La défense est vide et notre tour aussi. J'en ai profité pour faire des photos, on ne me prendra pas pour un touriste cette fois, NO SPEAK ENGLISH, NO WANT TO BY A MINI TOUR EIFFEL, SAINT CLOUD.
+				[caption id="" align="alignright" width="240" caption="cooloir"]![cooloir](http://img82.imageshack.us/img82/7836/91750476.jpg)[/caption]
+
+				[caption id="" align="alignleft" width="320" caption="cooloir"]![cooloir](http://img376.imageshack.us/img376/1318/34757147.jpg)[/caption]
+				[caption id="" align="aligncenter" width="240" caption="pause room"]![pause room](http://img383.imageshack.us/img383/9387/67184933.jpg)[/caption]
+				[caption id="" align="alignright" width="320" caption="notre tour"]![notre tour](http://img126.imageshack.us/img126/6694/19457287.jpg)[/caption]

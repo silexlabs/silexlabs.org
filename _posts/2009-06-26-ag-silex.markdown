@@ -1,0 +1,316 @@
+---
+author: admin
+comments: true
+date: 2009-06-26 15:31:03+00:00
+excerpt: "<div>Bonjour à tou(te)s</div><div>Suite au sessions \"Silex labs\"\
+  \ et \"Silex team spirit\", je vous propose de nous réunir encore...</div>\
+  <div>Au programme :</div><div><ul><li>définir\
+  \ les objectifs de Silex</li><li>donner un nom à la v1.5</li>\
+  <li>parler de l'assos Silex</li></ul></div>.\
+  <pre><span style=\"font-family: mceinline;\"><span style=\"font-family: mceinline;\"\
+  ><em><span style=\"font-family: mceinline;\">- edit : j'ai ajouté le compte rendu\
+  \ de la réu à la fin de cet article -</span></em></span></span></pre>\
+  <!-- more --><div>Voyez vous autre chose?<span style=\"color: #ff6600;\"\
+  ><em><em> </em><em>- laissez des com -</em></em></span></div><div><em><span\
+  \ style=\"color: #888888;\">.</span></em></div><div>Quel lieu allons nous\
+  \ choisir?<span style=\"color: #888888;\"><em><em><span style=\"color: #ff6600;\"\
+  > </span></em><span style=\"color: #888888;\"><em><span style=\"color: #ff6600;\"\
+  >- laissez des com -</span></em></span></em></span></div><div>\
+  <ul><li>Damme brune</li><li>La cantine</li><li>Essec\
+  \ de la Défense</li></ul></div><div>Quelle date? <em><span\
+  \ style=\"color: #888888;\">- laissez des com -</span></em></div><div>\
+  <ul><li>mardi 30/06</li><li>jeudi 23/06</li>\
+  <li>vendredi 03/07</li><li>a semaine du 6 juillet</li></ul>\
+  </div>Et enfin quelle heure? <em><span style=\"color: #888888;\"\
+  >- laissez des com -</span></em><em><span style=\"color: #888888;\"\
+  >.</span></em><em></em><em><span style=\"color: #888888;\"\
+  >.</span></em><em></em><h2>Compte rendu</h2>.\
+  <div><h3><span style=\"font-size: small;\">nom de la v1.5</span></h3>\
+  <span style=\"font-size: small;\"></span><div>2 noms\
+  \ sont ressortis :</div><div><ul><li>corail</li>\
+  <li>comet</li></ul></div><div>en fin de soirée,\
+  \ un groupe de mordus a décidé de choisir \"comet\"</div><div>.</div>\
+  </div><h3><span style=\"font-size: small;\">objectifs</span></h3>\
+  <span style=\"font-size: small;\"></span><div>2 réunions\
+  \ sont à prévoir :</div><div><ul><li>réunion objectifs\
+  \ stratégiques<ul><li>le mercredi 8 juillet ? le jeudi 9 juillet\
+  \ ? A confirmer</li><li>18:30 à l'essec ? la cantine ?</li>\
+  </ul></li><li>réunion objectifs opérationnels<ul>\
+  <li>Si quelqu'un veut prendre le lead et organiser la réu \"objectifs opérationnels\"\
+  , ça me déchargerait un peu.</li><li>on peut la faire en aout éventuellement.\
+  \ ou mi-juillet. mais plus il y a de monde mieux c'est</li></ul>\
+  <li>les chantiers en cours</li><ul><li>voir le post <a href=\"\
+  https://www.silexlabs.org/2009/07/les-chatiers-de-lete/\">https://www.silexlabs.org/2009/07/les-chatiers-de-lete/</a></li>\
+  </ul><ul></ul><div>.</div></li></ul>\
+  </div><div><div><h3><span style=\"font-size: small;\"\
+  >asso Silex</span></h3><span style=\"font-size: small;\"></span>\
+  <div>le rôle de l'assos a été discuté :<ul>\
+  <li>protection juridique de Silex</li><li>captation d'aides pour le\
+  \ développement du logiciel (trad, com, dev, ...)</li><li>pas de collectif\
+  \ et pas d'aspect business ou pro</li></ul></div>\
+  </div></div>"
+layout: post
+link: https://www.silexlabs.org/ag-silex/
+slug: ag-silex
+title: AG Silex!
+wordpress_id: 844
+categories:
+- "Blog Silex Labs"
+- "The Blog"
+---
+
+Bonjour à tou(te)s
+
+
+
+
+Suite au sessions "Silex labs" et "Silex team spirit", je vous propose de nous réunir encore...
+
+
+
+
+Au programme :
+
+
+
+
+
+
+
+
+
+  * définir les objectifs de Silex
+
+
+  * donner un nom à la v1.5
+
+
+  * parler de l'assos Silex
+
+
+
+
+
+				.
+
+
+    <span style="font-family: mceinline;"><span style="font-family: mceinline;"><em><span style="font-family: mceinline;">- edit : j'ai ajouté le compte rendu de la réu à la fin de cet article -</span></em></span></span>
+
+
+				<!-- more -->
+
+
+Voyez vous autre chose?__ __- laissez des com -__
+
+
+
+
+_._
+
+
+
+
+Quel lieu allons nous choisir?__ __- laissez des com -__
+
+
+
+
+
+
+
+
+
+  * Damme brune
+
+
+  * La cantine
+
+
+  * Essec de la Défense
+
+
+
+
+
+
+
+Quelle date? _- laissez des com -_
+
+
+
+
+
+
+
+
+
+  * mardi 30/06
+
+
+  * jeudi 23/06
+
+
+  * vendredi 03/07
+
+
+  * a semaine du 6 juillet
+
+
+
+
+
+				Et enfin quelle heure? _- laissez des com -_
+
+				_._
+
+				__
+
+				_._
+
+				__
+
+
+## Compte rendu
+
+
+				.
+
+
+
+
+
+### nom de la v1.5
+
+
+
+
+
+
+2 noms sont ressortis :
+
+
+
+
+
+
+
+
+
+  * corail
+
+
+  * comet
+
+
+
+
+
+
+
+en fin de soirée, un groupe de mordus a décidé de choisir "comet"
+
+
+
+
+.
+
+
+
+
+
+
+
+### objectifs
+
+
+
+
+
+
+2 réunions sont à prévoir :
+
+
+
+
+
+
+
+
+
+  * réunion objectifs stratégiques
+
+
+    * le mercredi 8 juillet ? le jeudi 9 juillet ? A confirmer
+
+
+    * 18:30 à l'essec ? la cantine ?
+
+
+
+
+
+  * réunion objectifs opérationnels
+
+
+    * Si quelqu'un veut prendre le lead et organiser la réu "objectifs opérationnels", ça me déchargerait un peu.
+
+
+    * on peut la faire en aout éventuellement. ou mi-juillet. mais plus il y a de monde mieux c'est
+
+
+
+  * les chantiers en cours
+
+
+
+    * voir le post [https://www.silexlabs.org/2009/07/les-chatiers-de-lete/](https://www.silexlabs.org/2009/07/les-chatiers-de-lete/)
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### asso Silex
+
+
+
+
+
+
+
+
+				le rôle de l'assos a été discuté :
+
+
+
+
+  * protection juridique de Silex
+
+
+  * captation d'aides pour le développement du logiciel (trad, com, dev, ...)
+
+
+  * pas de collectif et pas d'aspect business ou pro
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,251 @@
+---
+author: anto
+comments: true
+date: 2014-06-25 12:39:35+00:00
+excerpt: "<p dir=\"ltr\"> <img class=\"size-full wp-image-202731 aligncenter\" alt=\"\
+  wwx2014-bandeaux-ncannasse\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-bandeaux-ncannasse.png\"\
+  \ width=\"608\" height=\"140\" /></p><p dir=\"ltr\">The 4th International\
+  \ Haxe Conference WWX2014 organized by Silex Labs took place from 23th to 26th may\
+  \ 2014 in Paris.</p><p dir=\"ltr\">Here are the videos of Nicolas Cannasse's\
+  \ speech at <a title=\"WWX2014 Website\" href=\"http://wwx.silexlabs.org/2014/\"\
+  \ target=\"_blank\">WWX2014</a></p><h3 dir=\"ltr\"><img class=\"aligncenter\"\
+  \ alt=\"capture cannasse speech\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/06/capture-cannasse-speech-687x393.jpg\"\
+  \ width=\"481\" height=\"275\" /></h3><h3 dir=\"ltr\">Nicolas Cannasse Director\
+  \ at Haxe Foundation</h3><p dir=\"ltr\">Nicolas is the original creator\
+  \ of Haxe, lead the development of the technology and manage the Haxe Foundation.</p>\
+  <h3 dir=\"ltr\">One year of Haxe</h3><p dir=\"ltr\">Nicolas\
+  \ sumed up what happened this year with Haxe, what are the new features, the upcoming\
+  \ ones, and answered the questions about Haxe evolution.</p><h3 dir=\"\
+  ltr\"></h3><h1 dir=\"ltr\">Videos</h1><ul><li>Part\
+  \ 1: One year of Haxe</li><li>Part 2 : Haxe 3.2 plans</li><li>Part\
+  \ 3 : Haxe Foundation</li><li>Part 4 : Q&amp;A</li></ul>\
+  <h1 dir=\"ltr\">Part 1: One year of Haxe</h1><iframe src=\"//www.youtube.com/embed/u2k08FIiGqI\"\
+  \ height=\"360\" width=\"640\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\
+  <h1 dir=\"ltr\">Part 2 : Haxe 3.2 plans</h1><iframe src=\"//www.youtube.com/embed/YZDsQNtq4OM\"\
+  \ height=\"360\" width=\"640\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\
+  <h1 dir=\"ltr\">Part 3 : Haxe Foundation</h1><iframe src=\"//www.youtube.com/embed/NjXRMM3FQPk\"\
+  \ height=\"360\" width=\"640\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\
+  <h1 dir=\"ltr\">Part 4 : Q&amp;A</h1><iframe src=\"//www.youtube.com/embed/7rhFjotSa48\"\
+  \ height=\"360\" width=\"640\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\
+  <h1 dir=\"ltr\">Slides</h1>The slides are available at : <a href=\"\
+  http://ncannasse.github.io/hxslides/www/wwx2014.html\" target=\"_blank\">http://ncannasse.github.io/hxs<wbr\
+  \ />lides/www/wwx2014.html</a><img class=\"aligncenter\" alt=\"Nicolas-Cannasse\"\
+  \ src=\"https://www.silexlabs.org/wp-content/uploads/2014/06/IMG_5875-687x515.jpg\"\
+  \ width=\"371\" height=\"278\" /><h3>Other WWX2014 Videos</h3>\
+  <ul><li><a href=\"https://www.silexlabs.org/?p=202977\">Péter Sipos\
+  \ \"Senior dev & Tech lead at Prezi\"</a></li><li><a href=\"https://www.silexlabs.org/?p=202725\"\
+  >Nicolas Cannasse \"One year of Haxe\"</a></li><li><a href=\"https://www.silexlabs.org/?p=202751\"\
+  >Thomas Fétiveau \"Development workflow with Cocktail and NME\"</a></li>\
+  <li><a href=\"https://www.silexlabs.org/?p=202765\">Bruno Garcia \"Flambe\"</a></li>\
+  <li><a href=\"https://www.silexlabs.org/?p=202807\">Hugh Sanderson \"C++\
+  \ Magic\"</a></li><li><a href=\"https://www.silexlabs.org/?p=202957\"\
+  >Jean-Baptiste Richardet “What's your favorite Haxe IDE?”</a></li><li><a\
+  \ href=\"https://www.silexlabs.org/?p=202939\">Juraj Kirchheim “Tinkerbell - Haxe\
+  \ on Wings”</a></li><li><a href=\"https://www.silexlabs.org/?p=202971\"\
+  >Justin Donaldson “Promhx : Cross-platform Promises and Reactive Programming in\
+  \ Haxe”</a></li><li><a href=\"https://www.silexlabs.org/?p=202990\">Franco\
+  \ Ponticelli “Haxe for makers”</a></li><li><a href=\"https://www.silexlabs.org/?p=203012\"\
+  >Cauê Waneck “Unity3D on steroids”</a></li><li><a href=\"https://www.silexlabs.org/?p=203004\"\
+  >Todd Kulick “Shipping One Million Lines of Haxe to (Over) One Million Devices”</a></li>\
+  <li><a href=\"https://www.silexlabs.org/?p=203019\">Andreas Söderlund \"\
+  DCI - How to get ahead in system architecture\"</a></li><li><a href=\"\
+  https://www.silexlabs.org/?p=202984\">Elliott Stoneham \"Haxe as a compilation target\
+  \ for other languages\"</a></li></ul><h3>Video credits</h3>\
+  <ul><li>Alexandre Coulon</li><li>Bastien Cantilhion\
+  \ de Lacouture</li><li>Nicolas Masson</li><li>Antonin Stephany</li>\
+  <li><a title=\"Société Léni\" href=\"http://www.leni.fr/\" target=\"_blank\"\
+  >Léni</a></li></ul><p dir=\"ltr\"><img class=\"aligncenter\"\
+  \ alt=\"wwx2014-carre-n-cannasse\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-carre-n-cannasse.png\"\
+  \ width=\"512\" height=\"512\" /></p>"
+layout: post
+link: https://www.silexlabs.org/wwx2014-speech-nicolas-cannasse-one-year-of-haxe/
+slug: wwx2014-speech-nicolas-cannasse-one-year-of-haxe
+title: 'WWX2014 speech : Nicolas Cannasse "One year of Haxe"'
+wordpress_id: 202725
+categories:
+- "Blog Haxe"
+- "Blog Silex Labs"
+- "Silex Labs Events"
+- "The Blog"
+tags:
+- "Haxe"
+- "nicolas cannasse"
+- "silex labs"
+- "world wide haxe conference"
+- "wwx2014"
+---
+
+ ![wwx2014-bandeaux-ncannasse](https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-bandeaux-ncannasse.png)
+
+
+
+
+The 4th International Haxe Conference WWX2014 organized by Silex Labs took place from 23th to 26th may 2014 in Paris.
+
+
+
+
+Here are the videos of Nicolas Cannasse's speech at [WWX2014](http://wwx.silexlabs.org/2014/)
+
+
+
+
+
+### ![capture cannasse speech](https://www.silexlabs.org/wp-content/uploads/2014/06/capture-cannasse-speech-687x393.jpg)
+
+
+
+
+### Nicolas Cannasse Director at Haxe Foundation
+
+
+
+
+Nicolas is the original creator of Haxe, lead the development of the technology and manage the Haxe Foundation.
+
+
+
+
+
+### One year of Haxe
+
+
+
+
+Nicolas sumed up what happened this year with Haxe, what are the new features, the upcoming ones, and answered the questions about Haxe evolution.
+
+
+
+
+
+###
+
+
+
+
+# Videos
+
+
+
+
+
+
+  * Part 1: One year of Haxe
+
+
+  * Part 2 : Haxe 3.2 plans
+
+
+  * Part 3 : Haxe Foundation
+
+
+  * Part 4 : Q&A
+
+
+
+
+# Part 1: One year of Haxe
+
+
+
+
+
+# Part 2 : Haxe 3.2 plans
+
+
+
+
+
+# Part 3 : Haxe Foundation
+
+
+
+
+
+# Part 4 : Q&A
+
+
+
+
+
+# Slides
+
+
+				The slides are available at : [http://ncannasse.github.io/hxslides/www/wwx2014.html](http://ncannasse.github.io/hxslides/www/wwx2014.html)
+
+				![Nicolas-Cannasse](https://www.silexlabs.org/wp-content/uploads/2014/06/IMG_5875-687x515.jpg)
+
+
+### Other WWX2014 Videos
+
+
+
+
+
+
+  * [Péter Sipos "Senior dev & Tech lead at Prezi"](https://www.silexlabs.org/?p=202977)
+
+
+  * [Nicolas Cannasse "One year of Haxe"](https://www.silexlabs.org/?p=202725)
+
+
+  * [Thomas Fétiveau "Development workflow with Cocktail and NME"](https://www.silexlabs.org/?p=202751)
+
+
+  * [Bruno Garcia "Flambe"](https://www.silexlabs.org/?p=202765)
+
+
+  * [Hugh Sanderson "C++ Magic"](https://www.silexlabs.org/?p=202807)
+
+
+  * [Jean-Baptiste Richardet “What's your favorite Haxe IDE?”](https://www.silexlabs.org/?p=202957)
+
+
+  * [Juraj Kirchheim “Tinkerbell - Haxe on Wings”](https://www.silexlabs.org/?p=202939)
+
+
+  * [Justin Donaldson “Promhx : Cross-platform Promises and Reactive Programming in Haxe”](https://www.silexlabs.org/?p=202971)
+
+
+  * [Franco Ponticelli “Haxe for makers”](https://www.silexlabs.org/?p=202990)
+
+
+  * [Cauê Waneck “Unity3D on steroids”](https://www.silexlabs.org/?p=203012)
+
+
+  * [Todd Kulick “Shipping One Million Lines of Haxe to (Over) One Million Devices”](https://www.silexlabs.org/?p=203004)
+
+
+  * [Andreas Söderlund "DCI - How to get ahead in system architecture"](https://www.silexlabs.org/?p=203019)
+
+
+  * [Elliott Stoneham "Haxe as a compilation target for other languages"](https://www.silexlabs.org/?p=202984)
+
+
+
+
+### Video credits
+
+
+
+
+
+
+  * Alexandre Coulon
+
+
+  * Bastien Cantilhion de Lacouture
+
+
+  * Nicolas Masson
+
+
+  * Antonin Stephany
+
+
+  * [Léni](http://www.leni.fr/)
+
+
+
+
+![wwx2014-carre-n-cannasse](https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-carre-n-cannasse.png)

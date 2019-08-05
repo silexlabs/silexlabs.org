@@ -1,0 +1,94 @@
+---
+author: Simo
+comments: true
+date: 2015-08-05 15:42:48+00:00
+excerpt: "<a href=\"https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-robertkonrad.png\"\
+  ><img class=\"aligncenter size-full wp-image-205187\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-robertkonrad.png\"\
+  \ alt=\"wwx2015-robertkonrad\" width=\"607\" height=\"140\" /></a><h4\
+  \ style=\"text-align: center;\">Robert Konrad's speech at the world wide Haxe conference\
+  \ WWX2015</h4><b><a href=\"https://www.silexlabs.org/wp-content/uploads/2015/07/HAXCONF_022_Robert_KONRAD-copie.jpg\"\
+  ><img class=\"alignleft size-medium wp-image-205190\" src=\"https://www.silexlabs.org/wp-content/uploads/2015/07/HAXCONF_022_Robert_KONRAD-copie-200x300.jpg\"\
+  \ alt=\"HAXCONF_022_Robert_KONRAD copie\" width=\"200\" height=\"300\" /></a></b>\
+  &nbsp;<b>Robert Konrad</b> is CTO at <strong><a href=\"http://tech.ktxsoftware.com/\"\
+  \ target=\"_blank\">KTX Software Development</a></strong>. He does development work\
+  \ for serious games and gaming related research projects. He’s also regurlarly teaching\
+  \ at different universities. He discovered Haxe during new years eve when everybody\
+  \ else was partying and it was love at first project.<a href=\"https://github.com/RobDangerous?tab=activity\"\
+  \ target=\"_blank\">Robert Konrad - GitHub</a><a href=\"https://twitter.com/robdangerous\"\
+  \ target=\"_blank\">Robert Konrad - Twitter</a>&nbsp;<strong>Robert\
+  \ Konrad's</strong> talk is about <strong>Kha</strong>:<strong>Kha</strong>\
+  \ is an extremely portable Haxe based low level framework for games and media applications.\
+  \ The talk gives an overview of the history and inner workings of Kha and discusses\
+  \ its many benefits and few problems.<a href=\"https://github.com/KTXSoftware/Kha\"\
+  \ target=\"_blank\">Kha - GitHub</a><a href=\"http://tech.ktxsoftware.com\"\
+  \ target=\"_blank\">http://tech.ktxsoftware.com</a><a href=\"https://github.com/KTXSoftware/Kha\"\
+  \ target=\"_blank\">Slides of the talk \"Kha\" by Robert Konrad</a>\
+  [embed]https://youtu.be/vGQjlfq7BwI[/embed]<a href=\"https://www.silexlabs.org/wrapping-up-wwx2015/\"\
+  >More WWX2015 videos here</a>https://twitter.com/robdangerous/status/605734436920037376\
+  https://twitter.com/robdangerous/status/605734603509366784\
+  https://twitter.com/luboslenco/status/620302577876488192https://twitter.com/silexlabs/status/628939367248035840"
+layout: post
+link: https://www.silexlabs.org/kha/
+slug: kha
+title: KHA
+wordpress_id: 204994
+categories:
+- "Blog Haxe"
+- "Compte rendu Vidéo"
+- "The Blog"
+- "Vidéos"
+- "wwx2015"
+tags:
+- "cross-platform"
+- "game"
+- "game development"
+- "Gamedev"
+- "Haxe"
+- "Haxe conference"
+- "Kha"
+- "Robert Konrad"
+- "SDK"
+- "video"
+- "wwx"
+- "wwx2015"
+---
+
+[![wwx2015-robertkonrad](https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-robertkonrad.png)](https://www.silexlabs.org/wp-content/uploads/2015/07/wwx2015-robertkonrad.png)
+
+
+#### Robert Konrad's speech at the world wide Haxe conference WWX2015
+
+
+				**[![HAXCONF_022_Robert_KONRAD copie](https://www.silexlabs.org/wp-content/uploads/2015/07/HAXCONF_022_Robert_KONRAD-copie-200x300.jpg)](https://www.silexlabs.org/wp-content/uploads/2015/07/HAXCONF_022_Robert_KONRAD-copie.jpg)**
+
+
+
+				**Robert Konrad** is CTO at **[KTX Software Development](http://tech.ktxsoftware.com/)**. He does development work for serious games and gaming related research projects. He’s also regurlarly teaching at different universities. He discovered Haxe during new years eve when everybody else was partying and it was love at first project.
+
+				[Robert Konrad - GitHub](https://github.com/RobDangerous?tab=activity)
+
+				[Robert Konrad - Twitter](https://twitter.com/robdangerous)
+
+
+
+				**Robert Konrad's** talk is about **Kha**:
+
+				**Kha** is an extremely portable Haxe based low level framework for games and media applications. The talk gives an overview of the history and inner workings of Kha and discusses its many benefits and few problems.
+
+				[Kha - GitHub](https://github.com/KTXSoftware/Kha)
+
+				[http://tech.ktxsoftware.com](http://tech.ktxsoftware.com)
+
+				[Slides of the talk "Kha" by Robert Konrad](https://github.com/KTXSoftware/Kha)
+
+				[embed]https://youtu.be/vGQjlfq7BwI[/embed]
+
+				[More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
+
+				https://twitter.com/robdangerous/status/605734436920037376
+
+				https://twitter.com/robdangerous/status/605734603509366784
+
+				https://twitter.com/luboslenco/status/620302577876488192
+
+				https://twitter.com/silexlabs/status/628939367248035840

@@ -1,0 +1,43 @@
+---
+author: camille
+comments: true
+date: 2010-09-06 13:08:24+00:00
+excerpt: "<h2>The blog</h2>The SilexLabs blog is an initiative from the\
+  \ Silex team with one aim : to express ourselves and share our experiences, discoveries\
+  \ and stories during this month of may and beyond.The Silex Labs blog\
+  \ is a collection of points of view (…) concerning Silex, the Web, the software\
+  \ world, graphic design, Open Source projects (…)We’ll refine the topics\
+  \ raised in this blog as we go along…<h2>The organization</h2>\
+  The Silex team members have decided to formalize theire cooperation by creating\
+  \ a non profit organization for the promotion, support for deployment and the development\
+  \ of open source software projects SILEX and Open Source Flash related.\
+  The goal is to promote the software and its related projects nationally and internationally. We\
+  \ are an official training center with a state accreditation, and the maintainer\
+  \ for Silex and amfPhp projects.Thanks for your support !"
+layout: post
+link: https://www.silexlabs.org/a-propos/
+slug: a-propos
+title: About
+wordpress_id: 129342
+categories:
+- "The Blog"
+---
+
+## The blog
+
+
+				The SilexLabs blog is an initiative from the Silex team with one aim : to express ourselves and share our experiences, discoveries and stories during this month of may and beyond.
+
+				The Silex Labs blog is a collection of points of view (…) concerning Silex, the Web, the software world, graphic design, Open Source projects (…)
+
+				We’ll refine the topics raised in this blog as we go along…
+
+
+## The organization
+
+
+				The Silex team members have decided to formalize theire cooperation by creating a non profit organization for the promotion, support for deployment and the development of open source software projects SILEX and Open Source Flash related.
+
+				The goal is to promote the software and its related projects nationally and internationally. We are an official training center with a state accreditation, and the maintainer for Silex and amfPhp projects.
+
+				Thanks for your support !

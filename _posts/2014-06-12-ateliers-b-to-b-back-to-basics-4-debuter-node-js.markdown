@@ -1,0 +1,336 @@
+---
+author: sophieb
+comments: true
+date: 2014-06-12 16:05:27+00:00
+excerpt: "<div><img class=\"alignnone size-full wp-image-202101 aligncenter\" alt=\"\
+  Back to basics-node\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-04-node-bandeau2.png\"\
+  \ width=\"608\" height=\"140\" /></div><div></div><h2>Les ateliers\
+  \ Back to Basics</h2><div>L’association <a title=\"Site silex labs\" href=\"\
+  https://www.silexlabs.org/\" target=\"_blank\">Silex Labs</a>  vous propose une\
+  \ série de 4 ateliers pour travailler ensemble avec des outils devenus incontournables,\
+  \ et partager des retours d’expériences sur les bonnes pratiques d’organisation\
+  \ et de travail collaboratif.</div><div></div><div>Au cours\
+  \ de ces 4 ateliers, nous allons découvrir les technologies (du web) utilisées pour\
+  \ la création de sites internet :</div><div><ol><li><a\
+  \ title=\"Atelier HTML5\" href=\"https://www.silexlabs.org/201952/the-blog/blog-silex-labs/ateliers-b-to-b-back-to-basics-1-initiation-a-lhtml-5/\"\
+  \ target=\"_blank\">HTML5</a></li><li><a title=\"Atelier CSS3\" href=\"\
+  https://www.silexlabs.org/201972/the-blog/blog-silex-labs/ateliers-b-to-b-back-to-basics-2-notions-css3/\"\
+  \ target=\"_blank\">CSS3</a></li><li><a title=\"Atelier JavaScript\" href=\"\
+  https://www.silexlabs.org/201975/the-blog/blog-silex-labs/ateliers-b-to-b-back-to-basics-3-utilisation-de-javascript/\"\
+  \ target=\"_blank\">JavaScript</a></li><li>Node.js</li></ol>\
+  </div><div><p dir=\"ltr\">Chaque atelier commencera\
+  \ par une courte partie théorique sur la technologie présentée et sera suivie d’exercices\
+  \ pratiques.</p><p dir=\"ltr\">Au fur et à mesure des ateliers, les participants\
+  \ créeront leur site \"CV\" contenant leur parcours professionnel ainsi qu’un formulaire\
+  \ de contact.</p><p dir=\"ltr\">À la fin du cycle, les participants connaîtront\
+  \ les principaux langages du développement web et des ressources seront mises à\
+  \ leur disposition afin d’approfondir leurs connaissances.</p></div>\
+  <h2>Au programme de cet atelier</h2><p dir=\"ltr\">Node.js est\
+  \ un logiciel qui œuvre coté serveur, et dont le rôle est de réceptionner les requêtes\
+  \ et de renvoyer le contenu correspondant. Par exemple : lorsque vous tapez http://google.fr\
+  \ dans votre navigateur et appuyez sur la touche Enter, vous envoyez une requête\
+  \ aux serveurs de google, en lui demandant « je veux voir la page qui se trouve\
+  \ à cet emplacement ». Le rôle du logiciel serveur, c’est de réceptionner la requête\
+  \ de l’adresse, d’aller examiner les fichiers sur le serveur qui correspondent à\
+  \ cet URL et d’exécuter le code.</p><h3 dir=\"ltr\"> La théorie :</h3>\
+  <ul id=\"docs-internal-guid-1bee1e85-a75d-e34e-c80a-684b17f7763a\">\
+  <li dir=\"ltr\"><p dir=\"ltr\">C'est quoi un serveur web ?</p>\
+  </li><li dir=\"ltr\"><p dir=\"ltr\">Développement client\
+  \ et serveur</p></li></ul><h3 dir=\"ltr\">La pratique\
+  \ :</h3><ul id=\"docs-internal-guid-1a0f15c2-a793-7412-fe50-b0c804f7b043\"\
+  ><li dir=\"ltr\"><p dir=\"ltr\">Créer un serveur HTTP avec node.js</p>\
+  </li><li dir=\"ltr\"><p dir=\"ltr\">Servir son site</p>\
+  </li><li dir=\"ltr\"><p dir=\"ltr\">Créer des routes\
+  \ pour ses pages</p></li><li dir=\"ltr\"><p dir=\"\
+  ltr\">Traiter les donnés d’un formulaire</p></li><li dir=\"\
+  ltr\"><p dir=\"ltr\">Installer une librairie avec NPM</p></li>\
+  <li dir=\"ltr\"><p dir=\"ltr\">Envoyer un e-mail</p>\
+  </li></ul><p dir=\"ltr\">Cet atelier sera animé par Yannick\
+  \ Dominguez, développeur de web app depuis 2008, utilisateur de git et github depuis\
+  \ 2011 et principal contributeur de la librairie Cocktail (Haxe)</p><p\
+  \ dir=\"ltr\"><img id=\"docs-internal-guid-2b8b465d-9968-50db-d530-90af133db3ea\"\
+  \ alt=\"\" src=\"https://lh4.googleusercontent.com/__qEhw26ffrghWzTbpWSV_JFusbTY0Llbo_LyA25BMibkbSwcIOEr0vSFDoQ3o4O4FUv3Dp6lDyUBpyg-k9lJQwnhAU6r4hl6A7rTUOxBwqUjZvs7yUyhQTThf11o3BOxA\"\
+  \ width=\"103px;\" height=\"103px;\" /></p><h2 dir=\"ltr\">Date et lieu</h2>\
+  Réservez votre mercredi 18 juin de 19h à 21h et venez à l’IESA Multimédia\
+  \ 5 rue Saint-Augustin, 75002 Paris.<p dir=\"ltr\">Inscrivez-vous vite\
+  \ !</p><div style=\"width: 100%; text-align: left;\"><iframe\
+  \ src=\"https://www.eventbrite.fr/tickets-external?eid=11445986253&amp;ref=etckt\"\
+  \ height=\"247\" width=\"100%\" frameborder=\"0\" marginwidth=\"5\" marginheight=\"\
+  5\" scrolling=\"auto\"></iframe><div style=\"font-family: Helvetica, Arial;\
+  \ font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;\"\
+  ><a style=\"color: #ddd; text-decoration: none;\" href=\"http://www.eventbrite.fr/r/etckt\"\
+  \ target=\"_blank\">Vendez des billets</a> <span style=\"color: #ddd;\">à travers</span>\
+  \ <a style=\"color: #ddd; text-decoration: none;\" href=\"http://www.eventbrite.fr?ref=etckt\"\
+  \ target=\"_blank\">Eventbrite</a></div><div style=\"font-family: Helvetica,\
+  \ Arial; font-size: 12px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align:\
+  \ left;\"><h2 dir=\"ltr\" id=\"docs-internal-guid-2b8b465d-9937-163c-fb2c-7fc9d57f8359\"\
+  >A propos des ateliers \"Industrial Workflow\"</h2><p dir=\"ltr\">L’association<a\
+  \ href=\"https://www.silexlabs.org/\"> Silex Labs</a> est composée des communautés\
+  \ des projets open source que nous soutenons (Silex, Haxe, amfphp). Elle regroupe\
+  \ les différents métiers du numérique des designers aux développeurs en passant\
+  \ par des intégrateurs, des chefs de projets ...</p><p dir=\"ltr\">Dans\
+  \ le domaine du développement, les outils sont en constante évolution. Il est donc\
+  \ important de permettre à chacun de se mettre à la page pour gagner en productivité\
+  \ et en compétence.</p><p dir=\"ltr\">C’est pourquoi, Silex Labs a décidé\
+  \ d’organiser une série d’ateliers pour travailler ensemble avec des outils devenus\
+  \ incontournables et ainsi partager des retours d’expériences sur les bonnes pratiques\
+  \ d’organisation et de travail collaboratif.</p></div><div\
+  \ style=\"font-family: Helvetica, Arial; font-size: 12px; padding: 5px 0 5px; margin:\
+  \ 2px; width: 100%; text-align: left;\"><img class=\"alignnone size-full wp-image-202021\
+  \ aligncenter\" alt=\"Atelier nodejs\" src=\"https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-node-carre-as.png\"\
+  \ width=\"512\" height=\"512\" /></div></div>"
+layout: post
+link: https://www.silexlabs.org/ateliers-b-to-b-back-to-basics-4-debuter-node-js/
+slug: ateliers-b-to-b-back-to-basics-4-debuter-node-js
+title: 'Ateliers B to B (Back to Basics) #4 : Débuter Node.js'
+wordpress_id: 201977
+categories:
+- "Blog Silex Labs"
+- "Silex Labs Events"
+tags:
+- "atelier"
+- "Back to Basics"
+- "css3"
+- "html5"
+- "industrial workflow"
+- "javaScript"
+- "js"
+- "node.js"
+- "site internet"
+---
+
+![Back to basics-node](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-04-node-bandeau2.png)
+
+
+
+
+
+
+
+## Les ateliers Back to Basics
+
+
+
+
+L’association [Silex Labs](https://www.silexlabs.org/)  vous propose une série de 4 ateliers pour travailler ensemble avec des outils devenus incontournables, et partager des retours d’expériences sur les bonnes pratiques d’organisation et de travail collaboratif.
+
+
+
+
+
+
+
+Au cours de ces 4 ateliers, nous allons découvrir les technologies (du web) utilisées pour la création de sites internet :
+
+
+
+
+
+
+
+
+
+  1. [HTML5](https://www.silexlabs.org/201952/the-blog/blog-silex-labs/ateliers-b-to-b-back-to-basics-1-initiation-a-lhtml-5/)
+
+
+  2. [CSS3](https://www.silexlabs.org/201972/the-blog/blog-silex-labs/ateliers-b-to-b-back-to-basics-2-notions-css3/)
+
+
+  3. [JavaScript](https://www.silexlabs.org/201975/the-blog/blog-silex-labs/ateliers-b-to-b-back-to-basics-3-utilisation-de-javascript/)
+
+
+  4. Node.js
+
+
+
+
+
+
+
+
+
+
+Chaque atelier commencera par une courte partie théorique sur la technologie présentée et sera suivie d’exercices pratiques.
+
+
+
+
+Au fur et à mesure des ateliers, les participants créeront leur site "CV" contenant leur parcours professionnel ainsi qu’un formulaire de contact.
+
+
+
+
+À la fin du cycle, les participants connaîtront les principaux langages du développement web et des ressources seront mises à leur disposition afin d’approfondir leurs connaissances.
+
+
+
+
+
+
+
+
+## Au programme de cet atelier
+
+
+
+
+Node.js est un logiciel qui œuvre coté serveur, et dont le rôle est de réceptionner les requêtes et de renvoyer le contenu correspondant. Par exemple : lorsque vous tapez http://google.fr dans votre navigateur et appuyez sur la touche Enter, vous envoyez une requête aux serveurs de google, en lui demandant « je veux voir la page qui se trouve à cet emplacement ». Le rôle du logiciel serveur, c’est de réceptionner la requête de l’adresse, d’aller examiner les fichiers sur le serveur qui correspondent à cet URL et d’exécuter le code.
+
+
+
+
+
+###  La théorie :
+
+
+
+
+
+
+  *
+
+
+C'est quoi un serveur web ?
+
+
+
+
+
+  *
+
+
+Développement client et serveur
+
+
+
+
+
+
+
+### La pratique :
+
+
+
+
+
+
+  *
+
+
+Créer un serveur HTTP avec node.js
+
+
+
+
+
+  *
+
+
+Servir son site
+
+
+
+
+
+  *
+
+
+Créer des routes pour ses pages
+
+
+
+
+
+  *
+
+
+Traiter les donnés d’un formulaire
+
+
+
+
+
+  *
+
+
+Installer une librairie avec NPM
+
+
+
+
+
+  *
+
+
+Envoyer un e-mail
+
+
+
+
+
+
+
+Cet atelier sera animé par Yannick Dominguez, développeur de web app depuis 2008, utilisateur de git et github depuis 2011 et principal contributeur de la librairie Cocktail (Haxe)
+
+
+
+
+![](https://lh4.googleusercontent.com/__qEhw26ffrghWzTbpWSV_JFusbTY0Llbo_LyA25BMibkbSwcIOEr0vSFDoQ3o4O4FUv3Dp6lDyUBpyg-k9lJQwnhAU6r4hl6A7rTUOxBwqUjZvs7yUyhQTThf11o3BOxA)
+
+
+
+
+
+## Date et lieu
+
+
+				Réservez votre mercredi 18 juin de 19h à 21h et venez à l’IESA Multimédia 5 rue Saint-Augustin, 75002 Paris.
+
+
+Inscrivez-vous vite !
+
+
+
+
+
+
+
+
+
+
+[Vendez des billets](http://www.eventbrite.fr/r/etckt) à travers [Eventbrite](http://www.eventbrite.fr?ref=etckt)
+
+
+
+
+
+
+
+## A propos des ateliers "Industrial Workflow"
+
+
+
+
+L’association[ Silex Labs](https://www.silexlabs.org/) est composée des communautés des projets open source que nous soutenons (Silex, Haxe, amfphp). Elle regroupe les différents métiers du numérique des designers aux développeurs en passant par des intégrateurs, des chefs de projets ...
+
+
+
+
+Dans le domaine du développement, les outils sont en constante évolution. Il est donc important de permettre à chacun de se mettre à la page pour gagner en productivité et en compétence.
+
+
+
+
+C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers pour travailler ensemble avec des outils devenus incontournables et ainsi partager des retours d’expériences sur les bonnes pratiques d’organisation et de travail collaboratif.
+
+
+
+
+
+
+
+
+![Atelier nodejs](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-node-carre-as.png)
+
+
+

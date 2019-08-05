@@ -1,0 +1,127 @@
+---
+author: anto
+comments: true
+date: 2016-02-18 20:24:51+00:00
+excerpt: "The 2016 World Wide Haxe Conference is officially launched, time to start\
+  \ getting ready for it!The WWX is the annual meet-up for the developers\
+  \ of the Haxe community, during this event you will have the opportunity to discover\
+  \ the latest Haxe's innovations and strategy. This event provides you with an unmatched\
+  \ platform to meet, network and share knowledge on Haxe.The website\
+  \ is now live at <a href=\"http://wwx.silexlabs.org/\" target=\"_blank\">http://wwx.silexlabs.org/</a>\
+  \ continuing on the spirit of not changing what's not broken we'll also do a crowd-funding\
+  \ campaign this year, which will start on March the 8th at 12h00 PM UTC, giving\
+  \ you the opportunity to register. Although it's not the exact same, we've simplified\
+  \ the rewards ;)We'll give you more details soon and we'll be counting\
+  \ on you to help us spread the word about it! You should follow the hashtag <a href=\"\
+  https://twitter.com/search?q=%23WWX16\" target=\"_blank\">#WWX16</a> if you don't\
+  \ want to miss anything.In the meantime we are already looking for speakers\
+  \ to do talks, lightning talks or workshops. If you're interested in doing one submit\
+  \ your idea by opening an issue on <a href=\"https://github.com/silexlabs/wwx2016\"\
+  \ target=\"_blank\">https://github.com/silexlabs/wwx2016</a>.If you have\
+  \ an idea that you would like to listen to/participate feel free to open an issue\
+  \ too.This Github repository is the one place where the entire organization\
+  \ is centralized in a free and open source manner. In it you'll be able to find\
+  \ every communication materials, every decisions and every tasks discussed publicly.\
+  Feel free to improve them or contribute new ones, create press releases\
+  \ and helping us getting things done!It's important for us that you feel\
+  \ free to improve WWX. That's why if an idea has a great number of supporters and\
+  \ is realizable (in time and budget), we'll do everything to make it happen in total\
+  \ transparency.If you wish to sponsor this great event contact us at\
+  \ contact(at)silexlabs.org.This is already the 6th WWX, let's make it\
+  \ the best WWX yet, hope to see you soon in Paris!Same place as last year,\
+  \ so if you weren't there and you're curious you can take a peek on the numerous\
+  \ photos of WWX2015:<img class=\"wp-image-204917 alignleft\" src=\"\
+  https://www.silexlabs.org/wp-content/uploads/2015/07/montage-workshops.jpg\" alt=\"\
+  montage workshops\" width=\"300\" height=\"300\" />&nbsp;\
+  <ul><li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157655026419535\"\
+  \ target=\"_blank\">Day 1 Installation</a></li></ul><ul>\
+  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157655029592122\"\
+  \ target=\"_blank\">Day 2 Conference</a></li></ul><ul>\
+  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157652725328223\"\
+  \ target=\"_blank\">Day 2 Party</a></li></ul><ul>\
+  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157654643151058\"\
+  \ target=\"_blank\">Day 3 Conference</a></li></ul><ul>\
+  <li><a href=\"https://www.flickr.com/photos/120854033@N02/sets/72157652719370394\"\
+  \ target=\"_blank\">Day 4 Workshops</a></li></ul>&nbsp;\
+  You can also watch or watch again the <a href=\"https://www.youtube.com/playlist?list=PLLW5YfXlahjPxAt4ynBfbXGgYCrgd6sJ1\"\
+  \ target=\"_blank\">WWX2015 videos.</a>Best,The Thaxe Force\
+  \ Team&nbsp;Thanks to Valentin Lemière for this article\
+  Valentin Lemière has been using Haxe for 3 years and mainly works on HaxePunk\
+  \ <a href=\"http://twitter.com/ibilon\" target=\"_blank\">twitter.com/ibilon</a>"
+layout: post
+link: https://www.silexlabs.org/wwx2016-is-coming/
+slug: wwx2016-is-coming
+title: WWX2016 is coming!!
+wordpress_id: 205890
+categories:
+- "Blog Haxe"
+- "wwx2016"
+tags:
+- "Haxe"
+- "mozilla"
+- "silexlabs"
+- "world wide haxe conference"
+- "wwx2016"
+---
+
+The 2016 World Wide Haxe Conference is officially launched, time to start getting ready for it!
+
+				The WWX is the annual meet-up for the developers of the Haxe community, during this event you will have the opportunity to discover the latest Haxe's innovations and strategy. This event provides you with an unmatched platform to meet, network and share knowledge on Haxe.
+
+				The website is now live at [http://wwx.silexlabs.org/](http://wwx.silexlabs.org/) continuing on the spirit of not changing what's not broken we'll also do a crowd-funding campaign this year, which will start on March the 8th at 12h00 PM UTC, giving you the opportunity to register. Although it's not the exact same, we've simplified the rewards ;)
+				We'll give you more details soon and we'll be counting on you to help us spread the word about it! You should follow the hashtag [#WWX16](https://twitter.com/search?q=%23WWX16) if you don't want to miss anything.
+
+				In the meantime we are already looking for speakers to do talks, lightning talks or workshops. If you're interested in doing one submit your idea by opening an issue on [https://github.com/silexlabs/wwx2016](https://github.com/silexlabs/wwx2016).
+				If you have an idea that you would like to listen to/participate feel free to open an issue too.
+
+				This Github repository is the one place where the entire organization is centralized in a free and open source manner. In it you'll be able to find every communication materials, every decisions and every tasks discussed publicly.
+				Feel free to improve them or contribute new ones, create press releases and helping us getting things done!
+				It's important for us that you feel free to improve WWX. That's why if an idea has a great number of supporters and is realizable (in time and budget), we'll do everything to make it happen in total transparency.
+
+				If you wish to sponsor this great event contact us at contact(at)silexlabs.org.
+
+				This is already the 6th WWX, let's make it the best WWX yet, hope to see you soon in Paris!
+				Same place as last year, so if you weren't there and you're curious you can take a peek on the numerous photos of WWX2015:
+
+				![montage workshops](https://www.silexlabs.org/wp-content/uploads/2015/07/montage-workshops.jpg)
+
+
+
+
+
+
+  * [Day 1 Installation](https://www.flickr.com/photos/120854033@N02/sets/72157655026419535)
+
+
+
+
+  * [Day 2 Conference](https://www.flickr.com/photos/120854033@N02/sets/72157655029592122)
+
+
+
+
+  * [Day 2 Party](https://www.flickr.com/photos/120854033@N02/sets/72157652725328223)
+
+
+
+
+  * [Day 3 Conference](https://www.flickr.com/photos/120854033@N02/sets/72157654643151058)
+
+
+
+
+  * [Day 4 Workshops](https://www.flickr.com/photos/120854033@N02/sets/72157652719370394)
+
+
+
+
+				You can also watch or watch again the [WWX2015 videos.](https://www.youtube.com/playlist?list=PLLW5YfXlahjPxAt4ynBfbXGgYCrgd6sJ1)
+
+				Best,
+				The Thaxe Force Team
+
+
+
+				Thanks to Valentin Lemière for this article
+
+				Valentin Lemière has been using Haxe for 3 years and mainly works on HaxePunk [twitter.com/ibilon](http://twitter.com/ibilon)

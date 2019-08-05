@@ -1,0 +1,18 @@
+---
+author: admin
+comments: true
+date: 2009-05-30 22:24:42+00:00
+excerpt: "<a href=\"http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/hi.zip\"\
+  >Here is the Hindi language file for Silex WYSIWYG</a>"
+layout: post
+link: https://www.silexlabs.org/hindi/
+slug: hindi
+title: Hindi
+wordpress_id: 3196
+categories:
+- "Lang"
+---
+
+[
+				Here is the Hindi language file for Silex WYSIWYG
+				](http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/hi.zip)

@@ -1,0 +1,147 @@
+---
+author: admin
+comments: true
+date: 2009-09-17 10:50:12+00:00
+excerpt: "<d/><div><div>Bonjour,</div><d/>\
+  <div>La release <a href=\"https://sourceforge.net/projects/silex/files/\" target=\"\
+  _blank\">silex v1.5.2 comet est disponible sur SourceForge.net</a></div>\
+  <d/><div>- <a href=\" https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.2.zip/download\"\
+  \ target=\"_blank\">silex_server-v1.5.2</a></div><div>- <a href=\"https://sourceforge.net/projects/silex/files/sources/SILEX%20dev%20kit%20v1/silex_dev_kit-v1.5.2.zip/download\"\
+  \ target=\"_blank\">silex_dev_kit-v1.5.2</a></div><div>- <a href=\"https://sourceforge.net/projects/silex/files/exe/SILEX%20v1/silex_exe_windows-v1.5.2.zip/download\"\
+  \ target=\"_blank\">silex_exe_windows-v1.5.2</a></div><d/><div>Il\
+  \ y a bcp de bugs en moins et <strong>elle semble plus rapide que la précédente</strong>.</div>\
+  <div>Cf <a href=\"http://silex-ria.org/media/silex-ria/change_logs.txt\"\
+  \ target=\"_blank\">le change log</a>.</div><div>Je l'ai testée mais évidemment,\
+  \ mais il serait bon qu'on soit plusieurs à télécharger, installer et tester cette\
+  \ nouvelle release.</div><d/><div>La <strong>nouvelle version\
+  \ du site Silex</strong> est à jour. Si vous le pouvez, allez y faire un tour pour\
+  \ vérifier que tous les bugs ont disparus (liens cassés etc).</div><div>a+</div>\
+  <div>lex.</div><div>___________________________________________________________</div>\
+  <div><div><d/>HelloThe Silex v1.5.2 comet release\
+  \ is available on SourceForge.net<div>- <a href=\" https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.2.zip/download\"\
+  \ target=\"_blank\">silex_server-v1.5.2</a></div><div>- <a href=\"https://sourceforge.net/projects/silex/files/sources/SILEX%20dev%20kit%20v1/silex_dev_kit-v1.5.2.zip/download\"\
+  \ target=\"_blank\">silex_dev_kit-v1.5.2</a></div><div>- <a href=\"https://sourceforge.net/projects/silex/files/exe/SILEX%20v1/silex_exe_windows-v1.5.2.zip/download\"\
+  \ target=\"_blank\">silex_exe_windows-v1.5.2</a></div>There are several\
+  \ bug fixes and Silex seems to be faster than before. See the <a href=\"http://silex-ria.org/media/silex-ria/change_logs.txt\"\
+  \ target=\"_blank\">change log</a>.I tested it but obviously it would\
+  \ be good that you guys download it, install it and test it a little bit more.\
+  The new version of the <a href=\"http://silex-ria.org\" target=\"_blank\"\
+  >Silex website</a> is online. If you can, go and check it out to be sure that all\
+  \ the bugs have disappeared (broken links etc.).lex.</div>\
+  </div></div>"
+layout: post
+link: https://www.silexlabs.org/silex-v152-comet/
+slug: silex-v152-comet
+title: Silex v1.5.2 comet
+wordpress_id: 1253
+categories:
+- "Blog Silex"
+- "The Blog"
+---
+
+
+
+
+
+
+
+Bonjour,
+
+
+
+
+
+La release [silex v1.5.2 comet est disponible sur SourceForge.net](https://sourceforge.net/projects/silex/files/)
+
+
+
+
+
+- [silex_server-v1.5.2]( https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.2.zip/download)
+
+
+
+
+- [silex_dev_kit-v1.5.2](https://sourceforge.net/projects/silex/files/sources/SILEX%20dev%20kit%20v1/silex_dev_kit-v1.5.2.zip/download)
+
+
+
+
+- [silex_exe_windows-v1.5.2](https://sourceforge.net/projects/silex/files/exe/SILEX%20v1/silex_exe_windows-v1.5.2.zip/download)
+
+
+
+
+
+Il y a bcp de bugs en moins et **elle semble plus rapide que la précédente**.
+
+
+
+
+Cf [le change log](http://silex-ria.org/media/silex-ria/change_logs.txt).
+
+
+
+
+Je l'ai testée mais évidemment, mais il serait bon qu'on soit plusieurs à télécharger, installer et tester cette nouvelle release.
+
+
+
+
+
+La **nouvelle version du site Silex** est à jour. Si vous le pouvez, allez y faire un tour pour vérifier que tous les bugs ont disparus (liens cassés etc).
+
+
+
+
+a+
+
+
+
+
+lex.
+
+
+
+
+___________________________________________________________
+
+
+
+
+
+
+
+
+
+				Hello
+
+				The Silex v1.5.2 comet release is available on SourceForge.net
+
+
+- [silex_server-v1.5.2]( https://sourceforge.net/projects/silex/files/server/SILEX%20v1/silex_server-v1.5.2.zip/download)
+
+
+
+
+- [silex_dev_kit-v1.5.2](https://sourceforge.net/projects/silex/files/sources/SILEX%20dev%20kit%20v1/silex_dev_kit-v1.5.2.zip/download)
+
+
+
+
+- [silex_exe_windows-v1.5.2](https://sourceforge.net/projects/silex/files/exe/SILEX%20v1/silex_exe_windows-v1.5.2.zip/download)
+
+
+				There are several bug fixes and Silex seems to be faster than before. See the [change log](http://silex-ria.org/media/silex-ria/change_logs.txt).
+
+				I tested it but obviously it would be good that you guys download it, install it and test it a little bit more.
+
+				The new version of the [Silex website](http://silex-ria.org) is online. If you can, go and check it out to be sure that all the bugs have disappeared (broken links etc.).
+
+				lex.
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+---
+author: admin
+comments: true
+date: 2010-06-10 11:27:32+00:00
+excerpt: "<a href=\"http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/screen_ruler-01-01.png\"\
+  ><img class=\"alignnone size-full wp-image-687\" src=\"http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/screen_ruler-01-01.png\"\
+  \ alt=\"screen_ruler-01-01\" width=\"546\" height=\"57\" /></a>It's\
+  \ a ruler that can help you to aline yours components and organize your page.\
+  <span style=\"text-decoration: underline;\">This <em>ruler_tool.zip</em>\
+  \ contains :</span>- fla file- swf file- read_me\
+  <a href=\"http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/rules_tool.zip\"\
+  >Download <em>rules_tool.zip</em></a>"
+layout: post
+link: https://www.silexlabs.org/ruler-tool/
+slug: ruler-tool
+title: Ruler Tool
+wordpress_id: 3212
+categories:
+- "tools"
+---
+
+[![screen_ruler-01-01](http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/screen_ruler-01-01.png)](http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/screen_ruler-01-01.png)
+
+				It's a ruler that can help you to aline yours components and organize your page.
+
+				This _ruler_tool.zip_ contains :
+
+				- fla file
+
+				- swf file
+
+				- read_me
+
+				[Download _rules_tool.zip_](http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/rules_tool.zip)

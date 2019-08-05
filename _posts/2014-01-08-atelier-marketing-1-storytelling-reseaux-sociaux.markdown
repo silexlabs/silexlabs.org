@@ -1,0 +1,86 @@
+---
+author: anto
+comments: true
+date: 2014-01-08 19:59:33+00:00
+excerpt: '<p><img class="aligncenter size-full wp-image-200932" alt="Atelier Marketing
+  #1 : Storytelling &amp; réseaux sociaux " src="https://www.silexlabs.org/wp-content/uploads/2014/01/SB-SL-marketing-22-janvier-atelier-01.png"
+  width="608" height="140" /></p><p dir="ltr">Pour bien commencer l’année Silex Labs
+  et<a href="http://www.siliconbanlieue.fr/" target="_blank"> Silicon Banlieue</a>
+  lancent un nouvelle session d’ateliers marketing en partenariat avec <a href="http://waltermelon.fr/">Waltermelon</a>
+  une agence dont la mission est de mettre le social au coeur de la communication.</p><p
+  dir="ltr"><strong>Au programme : Storytelling &amp; réseaux sociaux</strong></p><p
+  dir="ltr">Nous sommes en 2014 et la grande majorité des entreprises continuent de
+  communiquer comme si nous étions en 2004. Elles dépensent des fortunes dans les
+  médias classiques pour édifier leur stratégie marketing et obtiennent des résultats
+  clairement décevant…</p><p dir="ltr">Pour susciter l’attention des utilisateurs
+  et développer une communication efficace, nous vous apprendrons pourquoi utiliser
+  le storytelling et comment le développer à travers l’utilisation des réseaux sociaux.</p><p
+  dir="ltr"><strong>Intervenant</strong></p><p>L’atelier sera animé par Pierre Conreaux
+  associé chez <a href="http://waltermelon.fr/">WalterMelon</a>, agence de marketing
+  digital.</p><p><img class="size-full wp-image-179737 alignnone" alt="Pierre Conreaux"
+  src="https://www.silexlabs.org/wp-content/uploads/2013/10/photo-pierreC.jpeg" width="140"
+  height="185" /></p><p dir="ltr"><strong>Inscription et adhésion</strong></p><p dir="ltr">Si
+  cet atelier vous intéresse <a title="Eventbrite Atelier marketing#1" href="https://www.eventbrite.fr/e/billets-atelier-marketing-1-storytelling-reseaux-sociaux-10100997355"
+  target="_blank">inscrivez-vous dès maintenant !!</a></p><p dir="ltr">Pour ceux qui
+  sont déjà adhérents c''est gratuit demandez votre code promotionnel à antonin(at)silexlabs(point)org</p><p
+  dir="ltr">N''oubliez pas que la petite adhésion annuelle à Silex Labs vous offre
+  des réductions pour les <a href="https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/"
+  target="_blank">conférences Silex Labs</a> et l''accès GRATUIT à l''ensemble des
+  ateliers organisés en 2014 !!</p><p dir="ltr">Au moins 2 ateliers par mois sur le
+  marketing et sur nos projets open source pour apprendre à faire un site avec le
+  logiciel libre silex à <a href="https://www.silexlabs.org/200928/silex/kick-off-meeting-master-class-silex/"
+  target="_blank">Paris</a> ou à <a href="https://www.silexlabs.org/200911/the-blog/kick-off-des-ateliers-silex-a-silicon-banlieue-le-14-janvier-a-18h/"
+  target="_blank">Argenteuil</a>, pour apprendre à coder notamment des jeux avec <a
+  href="https://www.silexlabs.org/180328/the-blog/haxetelier-6-serious-gaming-passez-a-haxe-pour-programmer-des-jeux/"
+  target="_blank">Haxe</a> ou à utiliser <a href="https://www.silexlabs.org/200755/the-blog/amfphp-2-2-profiler-released/"
+  target="_blank">amfphp</a>.</p><p dir="ltr">Adhérer à Silex Labs c''est aussi devenir
+  membre d''un réseau de professionnels du numérique et participer gratuitement aux
+  autres type d''évènements de l''association : meet-up et <a href="https://www.silexlabs.org/179230/the-blog/blog-silex-labs/lhaxepero-revient-de-vacances-le-jeudi-22-aout-a-19h-au-bistrot-marguerite/"
+  target="_blank">apéros thématiques</a>, hackathons, Nuits charrettes ....</p><p
+  dir="ltr">Alors rejoignez-nous !!</p>'
+layout: post
+link: https://www.silexlabs.org/atelier-marketing-1-storytelling-reseaux-sociaux/
+slug: atelier-marketing-1-storytelling-reseaux-sociaux
+title: 'Atelier Marketing #1 : Storytelling & réseaux sociaux'
+wordpress_id: 200931
+categories:
+- "Blog Silex"
+- "Blog Silex Labs"
+- "Silex"
+- "Silex Labs Events"
+tags:
+- "marketing"
+- "réseaux sociaux"
+- "storytelling"
+- "waltermelon"
+---
+
+![Atelier Marketing #1 : Storytelling & réseaux sociaux ](https://www.silexlabs.org/wp-content/uploads/2014/01/SB-SL-marketing-22-janvier-atelier-01.png)
+
+Pour bien commencer l’année Silex Labs et[ Silicon Banlieue](http://www.siliconbanlieue.fr/) lancent un nouvelle session d’ateliers marketing en partenariat avec [Waltermelon](http://waltermelon.fr/) une agence dont la mission est de mettre le social au coeur de la communication.
+
+**Au programme : Storytelling & réseaux sociaux**
+
+Nous sommes en 2014 et la grande majorité des entreprises continuent de communiquer comme si nous étions en 2004. Elles dépensent des fortunes dans les médias classiques pour édifier leur stratégie marketing et obtiennent des résultats clairement décevant…
+
+Pour susciter l’attention des utilisateurs et développer une communication efficace, nous vous apprendrons pourquoi utiliser le storytelling et comment le développer à travers l’utilisation des réseaux sociaux.
+
+**Intervenant**
+
+L’atelier sera animé par Pierre Conreaux associé chez [WalterMelon](http://waltermelon.fr/), agence de marketing digital.
+
+![Pierre Conreaux](https://www.silexlabs.org/wp-content/uploads/2013/10/photo-pierreC.jpeg)
+
+**Inscription et adhésion**
+
+Si cet atelier vous intéresse [inscrivez-vous dès maintenant !!](https://www.eventbrite.fr/e/billets-atelier-marketing-1-storytelling-reseaux-sociaux-10100997355)
+
+Pour ceux qui sont déjà adhérents c'est gratuit demandez votre code promotionnel à antonin(at)silexlabs(point)org
+
+N'oubliez pas que la petite adhésion annuelle à Silex Labs vous offre des réductions pour les [conférences Silex Labs](https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/) et l'accès GRATUIT à l'ensemble des ateliers organisés en 2014 !!
+
+Au moins 2 ateliers par mois sur le marketing et sur nos projets open source pour apprendre à faire un site avec le logiciel libre silex à [Paris](https://www.silexlabs.org/200928/silex/kick-off-meeting-master-class-silex/) ou à [Argenteuil](https://www.silexlabs.org/200911/the-blog/kick-off-des-ateliers-silex-a-silicon-banlieue-le-14-janvier-a-18h/), pour apprendre à coder notamment des jeux avec [Haxe](https://www.silexlabs.org/180328/the-blog/haxetelier-6-serious-gaming-passez-a-haxe-pour-programmer-des-jeux/) ou à utiliser [amfphp](https://www.silexlabs.org/200755/the-blog/amfphp-2-2-profiler-released/).
+
+Adhérer à Silex Labs c'est aussi devenir membre d'un réseau de professionnels du numérique et participer gratuitement aux autres type d'évènements de l'association : meet-up et [apéros thématiques](https://www.silexlabs.org/179230/the-blog/blog-silex-labs/lhaxepero-revient-de-vacances-le-jeudi-22-aout-a-19h-au-bistrot-marguerite/), hackathons, Nuits charrettes ....
+
+Alors rejoignez-nous !!
