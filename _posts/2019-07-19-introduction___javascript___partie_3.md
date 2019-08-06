@@ -1,13 +1,9 @@
 ---
-title: "Introduction à Javascript – Partie 3"
-layout: "post"
+title: Introduction à Javascript – Partie 3
+layout: post
 
 ---
 ![2019-07-05-814110.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-814110.jpg)
-
-## Introduction à Javascript – Partie 3
-
-> 3 mai 2018 @ 19:00 - 21:00
 
 ### Ma 1ère application Java Script …
 
