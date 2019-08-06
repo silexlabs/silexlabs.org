@@ -1,13 +1,9 @@
 ---
-title: "Silex v2, le créateur de site web que vous attendiez"
-layout: "post"
+title: 'Silex v2, le créateur de site web que vous attendiez'
+layout: post
 
 ---
 ![2019-07-05-553834.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-553834.jpg)
-
-## Silex v2, le créateur de site web que vous attendiez
-
-> 25 Avr 18
 
 Il est aujourd’hui indispensable d’avoir un pied dans le web, que vous soyez une entreprise, une association ou un groupe de musique. Devant la demande grandissante, le marché des éditeurs de site web a été très secoué par les acteurs du secteur, GAFAM ou autres.
 
