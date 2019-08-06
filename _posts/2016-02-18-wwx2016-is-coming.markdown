@@ -1,11 +1,18 @@
 ---
-author: "anto"
+author: anto
 comments: true
-date: "2016-02-18T20:24:51.000Z"
-layout: "post"
-title: "WWX2016 is coming!!"
-categories: ["Blog Haxe","wwx2016"]
-tags: ["Haxe","mozilla","silexlabs","world wide haxe conference","wwx2016"]
+date: 18 Février 2016
+layout: post
+title: WWX2016 is coming!!
+categories:
+  - Blog Haxe
+  - wwx2016
+tags:
+  - Haxe
+  - mozilla
+  - silexlabs
+  - world wide haxe conference
+  - wwx2016
 
 ---
 The 2016 World Wide Haxe Conference is officially launched, time to start getting ready for it!
