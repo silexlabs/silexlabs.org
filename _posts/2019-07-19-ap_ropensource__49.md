@@ -1,13 +1,10 @@
 ---
-title: "Apéropensource #49"
-layout: "post"
+title: 'Apéropensource #49'
+layout: post
 
 ---
 ![2019-07-05-788180.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-788180.png)
 
-## Apéropensource #49
-
-> 29 mars 2018 @ 19:00 - 21:00
 
 ### Le but des apéros
 
