@@ -11,3 +11,10 @@ excerpt_separator: "<!-- more -->"
 baseurl: "/silexlabs.org"
 
 permalink: "/:title:"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      date: "12 aout 2015"
