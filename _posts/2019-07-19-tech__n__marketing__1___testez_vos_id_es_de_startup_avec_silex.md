@@ -1,14 +1,9 @@
 ---
-title: "Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex"
-layout: "post"
+title: 'Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex'
+layout: post
 
 ---
 ![2019-07-05-953330.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-953330.jpg)
-
-
-## Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex
-
-> 29 mai 2018 @ 19:00 - 21:00
 
 ### Une landing page pour tester votre idée
 
