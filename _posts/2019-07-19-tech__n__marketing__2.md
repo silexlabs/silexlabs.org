@@ -1,13 +1,9 @@
 ---
-title: "Tech ‘n’ Marketing #2"
-layout: "post"
+title: 'Tech ‘n’ Marketing #2'
+layout: post
 
 ---
 ![2019-07-05-549346.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-549346.png)
-
-## Tech ‘n’ Marketing #2
-
-> 19 juin 2018 @ 19:00 - 21:00
 
 Oui, il est possible de faire du marketing quand on est dans la tech ! Il existe énormément d’outils, libres, gratuits ou payants.
 
