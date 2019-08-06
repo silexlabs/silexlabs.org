@@ -1,13 +1,11 @@
 ---
-title: "Développez une application web qui n’explose pas – Programmation d’un démineur en Elm"
-layout: "post"
+title: >-
+  Développez une application web qui n’explose pas – Programmation d’un démineur
+  en Elm
+layout: post
 
 ---
 ![2019-07-05-131129.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-131129.png)
-
-## Développez une application web qui n’explose pas – Programmation d’un démineur en Elm
-
-> 12 juin @ 19:00 - 21:00
 
 
 ### Qu’est ce que Elm ?
