@@ -1,20 +1,13 @@
-
 paginate: 10
-paginate_path: "/:num"
-
+paginate_path: '/:num'
 plugins:
-- jekyll-sitemap
-- jekyll-paginate
-
-excerpt_separator: "<!-- more -->"
-
-baseurl: "/silexlabs.org"
-
-permalink: "/:title:"
-
+  - jekyll-sitemap
+  - jekyll-paginate
+excerpt_separator: <!-- more -->
+baseurl: 'https://lexoyo.me/silexlabs.org'
+permalink: '/:title:'
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ''
     values:
-      date: "12 aout 2015"
+      date: 12 aout 2015
