@@ -9,3 +9,6 @@ plugins:
 excerpt_separator: "<!-- more -->"
 
 baseurl: "/silexlabs.org"
+
+permalink: "/:title:"
+
