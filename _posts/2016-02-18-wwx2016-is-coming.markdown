@@ -1,7 +1,7 @@
 ---
 author: anto
 comments: true
-date: 18 Février 2016
+date: '2016-02-18T20:24:51.000Z'
 layout: post
 title: WWX2016 is coming!!
 categories:
