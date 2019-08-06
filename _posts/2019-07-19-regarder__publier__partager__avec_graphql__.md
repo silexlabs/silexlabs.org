@@ -1,12 +1,8 @@
 ---
-title: "Regarder, publier, partager… avec GraphQL !"
+title: 'Regarder, publier, partager… avec GraphQL !'
 
 ---
 ![2019-07-05-904443.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-904443.jpg)
-
-## Regarder, publier, partager… avec GraphQL !
-
-> 11 juin 2018 @ 19:00 - 21:00
 
 De nos jours, les API sont partout : vos réseaux sociaux, votre banque et votre vie amoureuse en dépendent. Il est donc intéressant de comprendre comment cet écosystème évolue et arrive à s’adapter à des contraintes aussi diverses.
 <!-- more -->
