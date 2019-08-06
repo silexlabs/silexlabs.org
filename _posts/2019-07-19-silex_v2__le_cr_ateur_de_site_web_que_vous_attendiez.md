@@ -3,7 +3,7 @@ title: 'Silex v2, le créateur de site web que vous attendiez'
 layout: post
 
 ---
-![2019-07-05-553834.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-553834.jpg)
+![2019-07-05-553834.jpg](https://lexoyo.me/silexlabs.org//assets/2019-07-05-553834.jpg)
 
 Il est aujourd’hui indispensable d’avoir un pied dans le web, que vous soyez une entreprise, une association ou un groupe de musique. Devant la demande grandissante, le marché des éditeurs de site web a été très secoué par les acteurs du secteur, GAFAM ou autres.
 
@@ -19,7 +19,7 @@ C’est en voulant vous redonner ce pouvoir que nous avons fait évoluer Silex.
 
 Commençons par le plus visible : l’interface utilisateur. Si vous avez utilisé les versions précédentes, vous remarquerez un net changement. L’interface est épuré, plus claire et plus intuitive, elle se rapproche d’outils que vous connaissez peut-être déjà pour vous simplifier l’apprentissage et la prise en main.
 
-![2019-07-05-268251.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-268251.png)
+![2019-07-05-268251.png](https://lexoyo.me/silexlabs.org//assets/2019-07-05-268251.png)
 
 Mais en plus de ce changement d’expérience utilisateur, Silex s’est aussi refait une beauté dans les coulisses. Nous avons complètement séparé Silex « l’éditeur » de CloudExplorer qui vous permet de naviguer dans vos stockages en ligne. Ainsi, les deux peuvent évoluer librement, permettant des mises à jours plus fréquentes. Cela permettra aussi, si la communauté le désire, de réutiliser ces composants de manières indépendantes : par exemple le projet de Silex « offline » pourrait se passer de CloudExplorer, et un développeur pourra utiliser CloudExplorer pour créer un client FTP libre en ligne. Tout est maintenant permis !
 

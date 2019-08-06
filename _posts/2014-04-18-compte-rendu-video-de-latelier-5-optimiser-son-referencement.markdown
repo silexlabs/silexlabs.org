@@ -26,7 +26,7 @@ tags: ["mda","référencement","seo","video"]
 
 
 
-  Cet atelier est animé par [Alex Hoyau](http://lexoyo.me/)
+  Cet atelier est animé par [Alex Hoyau](https://lexoyo.me/)
 
 
 

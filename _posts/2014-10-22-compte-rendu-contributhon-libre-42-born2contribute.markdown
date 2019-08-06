@@ -122,7 +122,7 @@ Alex lead developer de Silex et Président de Silex Labs
   * [Diaspora*](https://diasp.org/u/lexoyo)
 
 
-  * [http://lexoyo.me/](http://lexoyo.me/)
+  * [https://lexoyo.me/](https://lexoyo.me/)
 
 
 ****![photoJB](https://www.silexlabs.org/wp-content/uploads/2014/10/photoJB.png)****

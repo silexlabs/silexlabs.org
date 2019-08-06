@@ -3,7 +3,7 @@ title: 'Apéropensource #49'
 layout: post
 
 ---
-![2019-07-05-788180.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-788180.png)
+![2019-07-05-788180.png](https://lexoyo.me/silexlabs.org//assets/2019-07-05-788180.png)
 
 
 ### Le but des apéros

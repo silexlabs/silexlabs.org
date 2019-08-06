@@ -52,7 +52,7 @@ Retrouvez les autres [tutoriels vidéos](https://www.silexlabs.org/tutoriels-vi
 
 
 [![BeautifulTemplate](https://www.silexlabs.org/wp-content/uploads/2014/08/BeautifulTemplate.jpg)](https://github.com/silexlabs/Silex/issues/167)
-[démo en ligne](http://lexoyo.me/)
+[démo en ligne](https://lexoyo.me/)
 
 Télécharger ce template sur [Silex Templates](http://templates.silex.me/)
 

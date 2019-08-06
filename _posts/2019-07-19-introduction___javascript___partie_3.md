@@ -3,7 +3,7 @@ title: Introduction à Javascript – Partie 3
 layout: post
 
 ---
-![2019-07-05-814110.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-814110.jpg)
+![2019-07-05-814110.jpg](https://lexoyo.me/silexlabs.org//assets/2019-07-05-814110.jpg)
 
 ### Ma 1ère application Java Script …
 
@@ -30,7 +30,7 @@ Venir avec son ordinateur en ayant installé si besoin, un éditeur de texte com
 ### Animateur
 
 
-![2019-07-05-954531.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-954531.png)
+![2019-07-05-954531.png](https://lexoyo.me/silexlabs.org//assets/2019-07-05-954531.png)
 
 Cet atelier sera animé par Jean-Michel Delettre qui est Fullstack developper chez Pixaline.
 Vous pouvez apprécier son travail sur

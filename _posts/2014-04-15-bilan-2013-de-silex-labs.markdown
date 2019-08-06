@@ -81,7 +81,7 @@ Retrouvez l’ensemble des vidéos de ces ateliers :
 [![Atelier Silex ](https://www.silexlabs.org/wp-content/uploads/2014/03/Atelier-Silex-VBC-copie-300x221.png)](https://www.silexlabs.org/wp-content/uploads/2014/03/Atelier-Silex-VBC-copie.png)
 
 
-En 2013 notre lead developer charismatique, [Alex Hoyau](http://lexoyo.me) et [les contributeurs](http://github.com/silexlabs/Silex/blob/master/docs/contributiors.md) historiques ont développé la version 2 notre website builder open source [Silex](https://github.com/silexlabs/Silex). (découvrez [Silex](http://www.silex.me/))
+En 2013 notre lead developer charismatique, [Alex Hoyau](https://lexoyo.me) et [les contributeurs](http://github.com/silexlabs/Silex/blob/master/docs/contributiors.md) historiques ont développé la version 2 notre website builder open source [Silex](https://github.com/silexlabs/Silex). (découvrez [Silex](http://www.silex.me/))
 
 
 

@@ -3,7 +3,7 @@ title: 'Vim à vie #1 : Pourquoi et comment ?'
 layout: post
 
 ---
-![2019-07-05-747294.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png)
+![2019-07-05-747294.png](https://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png)
 
 Vim c’est différent. Parce que c’est mieux.
 
@@ -37,7 +37,7 @@ Nous apprendrons ensuite à configurer Vim selon nos usages puis nous regarderon
 
 Chaque participant repartira avec son .vimrc et un profond dégoût pour les éditeurs graphiques !
 
-![2019-07-05-140463.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-140463.jpg)
+![2019-07-05-140463.jpg](https://lexoyo.me/silexlabs.org//assets/2019-07-05-140463.jpg)
 
 ### Inscriptions
 
@@ -46,7 +46,7 @@ Chaque participant repartira avec son .vimrc et un profond dégoût pour les éd
 
 ### Animateur
 
-![2019-07-05-201253.gif](http://lexoyo.me/silexlabs.org//assets/2019-07-05-201253.gif)
+![2019-07-05-201253.gif](https://lexoyo.me/silexlabs.org//assets/2019-07-05-201253.gif)
 
 Cet atelier sera animé par Jean-Baptiste Richardet aka Jb, Lead Tech chez Malakoff-Médéric et Vice-président de Silex Labs.
 

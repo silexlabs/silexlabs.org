@@ -86,7 +86,7 @@ Aussi pour en savoir plus, sur cet atelier, je vous invite à lire [cet article]
 
 
 
-Cet atelier sera animé par [Alex Hoyau](http://lexoyo.me)
+Cet atelier sera animé par [Alex Hoyau](https://lexoyo.me)
 
 
 

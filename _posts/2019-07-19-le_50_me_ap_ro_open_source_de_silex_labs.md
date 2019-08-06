@@ -3,7 +3,7 @@ title: Le 50éme apéro Open Source de Silex Labs
 layout: post
 
 ---
-![2019-07-05-962685.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-962685.png)
+![2019-07-05-962685.png](https://lexoyo.me/silexlabs.org//assets/2019-07-05-962685.png)
 
 
 Pour le 50éme apéro Open Source Silex Labs est heureux de vous convier chez notre amphitryon d’un soir Leboncoin.

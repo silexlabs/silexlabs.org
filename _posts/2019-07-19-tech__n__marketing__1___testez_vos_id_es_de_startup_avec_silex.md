@@ -3,7 +3,7 @@ title: 'Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex'
 layout: post
 
 ---
-![2019-07-05-953330.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-953330.jpg)
+![2019-07-05-953330.jpg](https://lexoyo.me/silexlabs.org//assets/2019-07-05-953330.jpg)
 
 ### Une landing page pour tester votre idée
 
@@ -24,7 +24,7 @@ C’est exactement cela que nous allons faire : créer la landing page de votre 
 Silex est un outil de création de site web en ligne gratuit et libre (il ne prend pas vos données). Il est développée depuis 2009 par les bénévoles de l’association Silex Labs. Pour en savoir plus et faire un essai rapide, rendez-vous sur le site : silex.me
 
 
-![2019-07-05-279128.jpg](http://lexoyo.me/silexlabs.org//assets/2019-07-05-279128.jpg)
+![2019-07-05-279128.jpg](https://lexoyo.me/silexlabs.org//assets/2019-07-05-279128.jpg)
 
 ### Pré-requis
 
