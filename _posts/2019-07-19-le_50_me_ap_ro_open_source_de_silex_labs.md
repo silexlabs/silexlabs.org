@@ -1,13 +1,9 @@
 ---
-title: "Le 50éme apéro Open Source de Silex Labs"
-layout: "post"
+title: Le 50éme apéro Open Source de Silex Labs
+layout: post
 
 ---
 ![2019-07-05-962685.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-962685.png)
-
-## Le 50éme apéro Open Source de Silex Labs
-
-> 26 avril 2018 @ 19:00 - 22:00
 
 
 Pour le 50éme apéro Open Source Silex Labs est heureux de vous convier chez notre amphitryon d’un soir Leboncoin.
