@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-04-25T07:58:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/sencha-touch-2-and-amfphp2/"
-slug: "sencha-touch-2-and-amfphp2"
 title: "Sencha Touch 2 and amfPHP2"
-wordpress_id: 132517
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -69,4 +66,5 @@ params: JSON.stringify(myParams);
 });
 
 [/code]
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-18T17:42:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/customize-you-thumblist-for-your-gallery/"
-slug: "customize-you-thumblist-for-your-gallery"
 title: "Customize your ThumbList for your gallery"
-wordpress_id: 1336
 categories: ["Tutorials Silex"]
 
 ---
@@ -158,4 +155,5 @@ You can make the integration directly from your publication.
 
 
 This tutorial is finished !
+
 

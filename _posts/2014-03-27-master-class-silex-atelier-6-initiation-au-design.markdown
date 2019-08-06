@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-03-27T12:04:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-atelier-6-initiation-au-design/"
-slug: "master-class-silex-atelier-6-initiation-au-design"
 title: "Master Class Silex - Atelier #6 : initiation au design"
-wordpress_id: 201638
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","design","IESA","silex","silexlabs"]
 
@@ -70,6 +67,7 @@ Inscrivez-vous dès maintenant pour l’atelier #6
 
 
 [![Atelier Silex 6](https://www.silexlabs.org/wp-content/uploads/2014/03/MDA-atelier-silex-06-carre.png)](https://www.silexlabs.org/wp-content/uploads/2014/03/MDA-atelier-silex-06-carre.png)
+
 
 
 

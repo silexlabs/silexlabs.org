@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-21T13:49:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-vim-initiation/"
-slug: "atelier-vim-initiation"
 title: "Atelier Vim : Initiation"
-wordpress_id: 201656
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["éditeur texte","IESA","open source","silex labs","Vim","workflow"]
 
@@ -135,6 +132,7 @@ Inscrivez-vous dès maintenant
 
 
 [![Image atelier Vim](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-vim-avril2014-carre.png)](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-vim-avril2014-carre.png)
+
 
 
 

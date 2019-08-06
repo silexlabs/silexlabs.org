@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-25T09:42:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-vim-5-vim-a-vie/"
-slug: "atelier-vim-5-vim-a-vie"
 title: "Atelier Vim #5 : Vim à vie !"
-wordpress_id: 204050
 categories: ["Industrial Workflow"]
 tags: ["david foucher","mediabox","ronan le gall","Vim"]
 
@@ -79,4 +76,5 @@ Linked in : [http://fr.linkedin.com/in/davidfoucher](http://fr.linkedin.com/in/d
 
 
 ![Atelier-VIM-5-dec2014-carre](https://www.silexlabs.org/wp-content/uploads/2014/11/Atelier-VIM-5-dec2014-carre.png)
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-05-31T15:33:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-nicolas-cannasse-what-is-haxe/"
-slug: "wwx2013-speech-nicolas-cannasse-what-is-haxe"
 title: "wwx2013 speech: Nicolas Cannasse \"What is Haxe?\""
-wordpress_id: 140469
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","wwx","wwx2013"]
 
@@ -76,6 +73,7 @@ Of course you might already know what Haxe is. But it’s actually many differen
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

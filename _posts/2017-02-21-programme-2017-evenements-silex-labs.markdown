@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2017-02-21T16:33:51.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/programme-2017-evenements-silex-labs/"
-slug: "programme-2017-evenements-silex-labs"
 title: "Programme 2017 des évènements Silex Labs"
-wordpress_id: 206759
 categories: ["Atelier Design","Atelier Marketing","Back To Basics","Blog Silex","Blog Silex Labs","Contributhon","Industrial Workflow","Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["atelier","Back to Basics","contributhon","css3","design","dev","Haxe","Haxepéro","haxetelier","javaScript","marketing","master class silex"]
 
@@ -87,6 +84,7 @@ Nous appelons ainsi les bénévoles qui souhaitent [agir dans le sens de notre m
 
 
   * networking et recherche d'emploi
+
 
 
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-24T17:37:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ressources-3-de-lopen-source-des-cartes-de-visite-et-de-la-typo/"
-slug: "ressources-3-de-lopen-source-des-cartes-de-visite-et-de-la-typo"
 title: "Ressources 3 : de l’open-source, des cartes de visite et de la typo !"
-wordpress_id: 1541
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -41,4 +38,5 @@ En gros, sur la base d'une photo, d'une capture écran... d'une police que vous 
 
 A la prochaine !
 Nico
+
 

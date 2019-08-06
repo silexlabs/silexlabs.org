@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-03-25T09:28:01.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-presente-amfphp-aux-tontons-flexeurs-review/"
-slug: "silex-labs-presente-amfphp-aux-tontons-flexeurs-review"
 title: "Silex Labs Présente amfPHP aux Tontons Flexeurs – Review"
-wordpress_id: 2519
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -73,4 +70,5 @@ Outil Open Source 3D pour flash
 Très bonne présentation
 
 Raph aka Codam
+
 

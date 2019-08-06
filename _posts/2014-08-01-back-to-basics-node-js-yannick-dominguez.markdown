@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-08-01T04:41:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-node-js-yannick-dominguez/"
-slug: "back-to-basics-node-js-yannick-dominguez"
 title: "Back to Basics - NODE JS - Yannick Dominguez"
-wordpress_id: 203198
 categories: ["The Blog"]
 tags: ["atelier","Back to Basics","javaScript","node.js","silex labs","yannick dominguez"]
 
@@ -152,6 +149,7 @@ Node.js est un logiciel qui œuvre coté serveur, et dont le rôle est de récep
 
 
 ##  [![b-to-b-01-node-carre-as](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-node-carre-as.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-node-carre-as.png)
+
 
 
 

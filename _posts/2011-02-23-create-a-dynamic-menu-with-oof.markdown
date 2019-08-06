@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-23T13:27:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/create-a-dynamic-menu-with-oof/"
-slug: "create-a-dynamic-menu-with-oof"
 title: "Create a dynamic menu with Oof"
-wordpress_id: 1403
 categories: ["Tutorials Silex"]
 
 ---
@@ -116,4 +113,5 @@ _**Note :**_ to edit in html, verify that the "html" box is well checked
 This tutorial is finished !
 
 _**Note :**_ you can also customize the RichTextList display the same way it has been done for the thumblist display in [this tutorial](https://www.silexlabs.org/?p=1336).
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-12T14:58:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/junio-2009-silex-es-el-proyecto-del-mes-en-sourceforge/"
-slug: "junio-2009-silex-es-el-proyecto-del-mes-en-sourceforge"
 title: "JUNIO 2009 : SILEX ES EL PROYECTO DEL MES EN SOURCEFORGE !"
-wordpress_id: 724
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["mes","pagina","proyecto","software"]
 
@@ -69,4 +66,5 @@ SI QUIERES PARTICIPAR EN EL PROYECTO SILEX : [Haz clic aquí, que te necesitamos
 
 _ Translated from English to Spanish by Eloise, a new translator in the Silex community !  Welcome ! Bienvenidos !
 _
+
 

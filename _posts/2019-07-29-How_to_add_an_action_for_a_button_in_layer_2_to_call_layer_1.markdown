@@ -3,11 +3,8 @@ author: "v1pankaj"
 comments: true
 date: "2019-07-29T10:28:31.119Z"
 layout: "post"
-link: "https://www.silexlabs.org/?p=135975"
 published: false
-slug: ""
 title: "How to add an action for a button in layer 2 to call layer 1"
-wordpress_id: 135975
 categories: ["Blog Silex","Blog Silex Labs","Silex","The Blog","Tutorials Silex"]
 
 ---
@@ -26,4 +23,5 @@ Please help.
 
 Thanks
 Pankaj
+
 

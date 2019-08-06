@@ -3,11 +3,8 @@ author: "v1pankaj"
 comments: true
 date: "2019-07-29T10:28:31.206Z"
 layout: "post"
-link: "https://www.silexlabs.org/?p=136448"
 published: false
-slug: ""
 title: "My experience with Silex!!"
-wordpress_id: 136448
 categories: ["The Blog"]
 
 ---
@@ -21,4 +18,5 @@ Thank you very much Silex. I really appreciate you!!
 
 Thanks and regards
 Pankaj
+
 

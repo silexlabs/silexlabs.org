@@ -3,10 +3,7 @@ author: "deleu"
 comments: true
 date: "2013-02-25T08:37:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfconnector/"
-slug: "amfconnector"
 title: "AMFConnector"
-wordpress_id: 137242
 categories: ["Exchange","Exchange amfPHP"]
 tags: ["AMFConnector","amfphp","Flex 3","Flex 4","Multiple Calls","NetConnection"]
 
@@ -75,4 +72,5 @@ At the end of your form you have an action button that will make the call to the
 
 For now, this is all the library is capable of doing. Suggestions for improvements would be appreciated. Download it and try now.
 Library written by Marco Aurélio Deleu.
+
 

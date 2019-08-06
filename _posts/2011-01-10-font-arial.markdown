@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2011-01-10T09:36:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/font-arial/"
-slug: "font-arial"
 title: "Font Arial"
-wordpress_id: 1639
 categories: ["Fonts"]
 tags: ["font"]
 
@@ -41,4 +38,5 @@ FONTS_LIST=Arial@Arial-bold&
 
 
 You can download the source Arial Fla here:[ ](https://www.silexlabs.org/?attachment_id=1640)[Arial-fla](https://www.silexlabs.org/wp-content/uploads/2011/01/Arial-fla.zip)
+
 

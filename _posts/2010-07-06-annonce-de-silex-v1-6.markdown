@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-07-06T20:10:17.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/annonce-de-silex-v1-6/"
-slug: "annonce-de-silex-v1-6"
 title: "Annonce de Silex v1.6"
-wordpress_id: 1730
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -35,4 +32,5 @@ Et le meilleur pour les nouveaux utilisateurs Silex vient des gars de Silex Labs
 Donc, maintenant vous le savez, nous ne nous sommes reposer sur nos lauriers ces derniers mois ...
 
 ENCOURAGEMENTS BIENVENUS EN COMMENTAIRE :)
+
 

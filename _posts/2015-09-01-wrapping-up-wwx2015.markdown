@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2015-09-01T07:18:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wrapping-up-wwx2015/"
-slug: "wrapping-up-wwx2015"
 title: "Wrapping up WWX2015"
-wordpress_id: 204903
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["Bayer und Preuss","c++","CI","conference","Cpp","cross-platform","dev","Evoland","Gamedev","GameDuell","Golang","Haxe","Haxe conference","Haxe foundation","javaScript","js","Kha","Lime/Openfl","Massive interactive","mozilla","NPM","openFL","silex labs","tivo","tv","UFO","Ufront","video","vod","web","webdev","world wide haxe conference","wwx","WWX2012","wwx2013","wwx2014","wwx2015","Wyzapps"]
 
@@ -445,4 +442,5 @@ Finally we would like to thank our sponsors and partners:
 
 
 # ![wrapping-carre](https://www.silexlabs.org/wp-content/uploads/2015/07/wrapping-carre.png)
+
 

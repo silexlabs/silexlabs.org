@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-02-07T20:11:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/simple-fullscreen/"
-slug: "simple-fullscreen"
 title: "Simple FullScreen"
-wordpress_id: 2370
 categories: ["Plugins"]
 
 ---
@@ -27,4 +24,5 @@ In a publication, on any component, you can use the following methods :
 So, for instance, if you want the user to enter fullscreen by clicking on an image, on the target image use the following action :
 
 `onRelease _global.fullScreen.startFullScreen:`
+
 

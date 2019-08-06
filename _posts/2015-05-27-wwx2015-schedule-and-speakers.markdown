@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-05-27T18:14:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2015-schedule-and-speakers/"
-slug: "wwx2015-schedule-and-speakers"
 title: "WWX2015 Schedule and Speakers"
-wordpress_id: 204723
 categories: ["Blog Haxe","The Blog"]
 tags: ["Haxe community","Haxe developers","world wide haxe conference","wwx2015"]
 
@@ -138,6 +135,7 @@ Thanks to Valentin Lemière for this article
 Valentin Lemière, 2 years use of Haxe, mainly works on [HaxePunk](http://haxepunk.com/), done a couple of game jam games [https://twitter.com/ibilon](https://twitter.com/ibilon)
 
 [![wwx2015-bandeau-website-sponsors-03](https://www.silexlabs.org/wp-content/uploads/2015/05/wwx2015-bandeau-website-sponsors-03.png)](https://www.silexlabs.org/wp-content/uploads/2015/05/wwx2015-bandeau-website-sponsors-03.png)
+
 
 
 

@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-07T14:35:44.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-jean-baptiste-richardet-lead-developper/"
-slug: "wwx2014-speech-jean-baptiste-richardet-lead-developper"
 title: "WWX2014 Speech : Jean-Baptiste Richardet \"What's your favorite Haxe IDE?\""
-wordpress_id: 202957
 categories: ["Blog Haxe"]
 tags: ["ide","jean baptiste richardet","wwx2014"]
 
@@ -151,6 +148,7 @@ What's your favorite ide ? That's a real question in the Haxe community. From th
 
 
 ##  [![wwx2014-carre-jb-richardet](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-jb-richardet-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-jb-richardet.png)
+
 
 
 

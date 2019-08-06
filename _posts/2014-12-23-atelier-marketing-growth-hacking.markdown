@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-12-23T15:40:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-growth-hacking/"
-slug: "atelier-marketing-growth-hacking"
 title: "Atelier Marketing : Growth Hacking"
-wordpress_id: 204074
 categories: ["Atelier Marketing","The Blog"]
 tags: ["EEMI","growth hacking","marketing","pierre conreaux"]
 
@@ -60,4 +57,5 @@ Jeudi 22 Janvier 19H-20H30  à l’[EEMI](http://www.eemi.com/fr), 12 passage d
 
 
 ![Marketing1-GH-carre](https://www.silexlabs.org/wp-content/uploads/2014/12/Marketing1-GH-carre.png)
+
 

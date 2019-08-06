@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2015-12-23T15:04:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/2015-bilan-dune-annee-bien-remplibre/"
-slug: "2015-bilan-dune-annee-bien-remplibre"
 title: "2015 Bilan d’une année bien rempLIBRE"
-wordpress_id: 205777
 categories: ["The Blog"]
 tags: ["bilan","bilan 2015","foss","logiciels libres"]
 
@@ -151,6 +148,7 @@ Nous avons besoin de vous pour continuer cette belle dynamique ! Si vous êtes t
 
 
 [![bilan-2015-sl-carre](https://www.silexlabs.org/wp-content/uploads/2015/12/bilan-2015-sl-carre.png)](https://www.silexlabs.org/wrapping-up-wwx2015/)
+
 
 
 

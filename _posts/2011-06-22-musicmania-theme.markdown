@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T09:29:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/musicmania-theme/"
-slug: "musicmania-theme"
 title: "MusicMania Theme"
-wordpress_id: 86568
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ MusicMania for your musical group or personnal playlist. One variation with a cl
 [Original template](http://www.free-css.com/free-css-templates/page6/musicmania.php#bookmarks)
 
 License : Creative Commons
+
 

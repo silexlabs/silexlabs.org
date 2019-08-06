@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-07-20T08:12:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-what-a-month-of-june-this-year/"
-slug: "silex-labs-what-a-month-of-june-this-year"
 title: "Silex Labs, what a month of june this year"
-wordpress_id: 2736
 categories: ["Blog Silex Labs"]
 
 ---
@@ -64,4 +61,5 @@ The morning started with a global overview of Silex, and during the afternoon tw
 The day ended with pizzas, wine, and a presentation of some interesting themes and plugin. The future of Silex (multi-platform) was also discussed.
 
 These workshops were a success as the audience left with ability to do either a website, either a plugin by themselves.
+
 

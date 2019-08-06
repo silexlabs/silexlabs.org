@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-04-11T15:22:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/valerie-alloix-speech-for-wwx2013-storytelling-with-data-haxeneko/"
-slug: "valerie-alloix-speech-for-wwx2013-storytelling-with-data-haxeneko"
 title: "Valérie Alloix' speech for wwx2013: Storytelling with data + Haxe/Neko"
-wordpress_id: 138008
 categories: ["Silex Labs Events","The Blog"]
 tags: ["Haxe","neko","speaker","valérie Alloix","wwx2013"]
 
@@ -52,6 +49,7 @@ There is no way you can read the data directly (or even open the files sometimes
 Because of it’s amazing speed on reading, processing and writing text based files, Haxe/Neko is of great assistance to do this preliminary job. In my session, I will show you how I used Haxe/Neko to extract relevant data and prepare essential resources for my data­visualizations.
 
 If you are interested by this presentation [register now for the wwx 2013!](http://wwx2013.eventbrite.fr/)
+
 
 
 

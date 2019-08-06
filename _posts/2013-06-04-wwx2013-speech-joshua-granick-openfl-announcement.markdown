@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-04T15:49:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-joshua-granick-openfl-announcement/"
-slug: "wwx2013-speech-joshua-granick-openfl-announcement"
 title: "wwx2013 speech: Joshua Granick: \"OpenFL announcement\""
-wordpress_id: 142542
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","Joshua Granick","NME","openFL","wwx2013"]
 
@@ -90,6 +87,7 @@ joshua
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

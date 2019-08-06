@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-08-05T09:05:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxepero-16-aperopen-source-jeudi-28-aout-bistrot-marguerite/"
-slug: "haxepero-16-aperopen-source-jeudi-28-aout-bistrot-marguerite"
 title: "HAXEPERO #16 : Apéropen source - Jeudi 28 aout - Bistrot Marguerite"
-wordpress_id: 203274
 categories: ["Blog Haxe","Blog Labs","Blog Silex Labs","The Blog"]
 tags: ["Haxe","Haxepéro","silex labs"]
 
@@ -120,6 +117,7 @@ et si vous avez raté la World Wide Haxe Confrenece 2014 retrouvez l'ensemble d
 
 
   * [Elliott Stoneham “Haxe as a compilation target for other languages”](https://www.silexlabs.org/?p=202984)
+
 
 
 

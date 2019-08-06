@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-11T12:27:37.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-la-reunion-strate-j/"
-slug: "compte-rendu-de-la-reunion-strate-j"
 title: "Compte rendu de la réunion \"Straté J\""
-wordpress_id: 1045
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -211,6 +208,7 @@ Lors de la prochaine réunion nous mettrons tout cela à plat et nous parlerons 
 
 
   * Rendre Silex plus accessible / plus simple pour les débutants.
+
 
 
 

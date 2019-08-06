@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-03-04T15:34:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-campus-le-mardi-11-mars-au-bistrot-marguerite/"
-slug: "silex-labs-campus-le-mardi-11-mars-au-bistrot-marguerite"
 title: "Silex Labs Campus : Le mardi 11 mars au bistrot marguerite"
-wordpress_id: 201413
 categories: ["Blog Silex Labs","Silex Labs Events"]
 tags: ["Cifacom","étudiants","programme pédagogique","silex labs campus","start up"]
 
@@ -89,6 +86,7 @@ mardi 11 mars 2014
 
 
 ![silexlabs-campus-03-2014](https://www.silexlabs.org/wp-content/uploads/2014/03/silexlabs-campus-03-2014-carre.png)
+
 
 
 

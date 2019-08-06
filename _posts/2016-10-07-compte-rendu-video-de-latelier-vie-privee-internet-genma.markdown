@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-10-07T17:00:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-de-latelier-vie-privee-internet-genma/"
-slug: "compte-rendu-video-de-latelier-vie-privee-internet-genma"
 title: "Compte-rendu vidéo de l'atelier \"Vie privée sur internet\" avec Genma"
-wordpress_id: 206577
 categories: ["Blog Silex Labs","Compte rendu Vidéo","Silex Labs Events","The Blog","tuto","Vidéos"]
 tags: ["adblock","association","chiffrement","chiffrer","cryptage","crypter","firefox","genma","gpg","keepass","le tour du web","lightbeam","microblock","mozilla","navigateur","paris","pgp","publicité","retargeting","silex labs","silexlabs","targeting","Tor","TrueCrypt","ublock","VeraCrypt","vie privée","vieprivee","web","website"]
 
@@ -129,6 +126,7 @@ https://youtu.be/wDvPN-dzkl4
 Cet atelier entre dans le cadre du projet[ “Le tour du Web en 50 ateliers”](https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/) qui propose des ateliers d’initiation aux métiers du numérique par la pratique pour permettre aux personnes défavorisées face à l’accès au numérique, de comprendre ce secteur et de s’initier à ses métiers.
 
 ![tour-du-web-carre-avr-2016-fdblc](https://www.silexlabs.org/wp-content/uploads/2016/07/tour-du-web-carre-avr-2016-fdblc.png)
+
 
 
 

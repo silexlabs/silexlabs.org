@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-10-17T09:45:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-survives-zend-amf/"
-slug: "amfphp-survives-zend-amf"
 title: "AmfPHP survives Zend AMF"
-wordpress_id: 136374
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 tags: ["amfphp","flash","futur","php"]
 
@@ -78,4 +75,5 @@ Competition is good, and there was space for both products.** Zend AMF will be m
 If you need help switching or simply have some questions, [please get in touch via the forums](https://www.silexlabs.org/groups/amfphp/amfphp-users/forum/)
 
 We are also looking for people with experience with both amfPHP and Zend Framework to help us bridge both platforms. If you fit the bill we would be glad to provide any assistance you might need.
+
 

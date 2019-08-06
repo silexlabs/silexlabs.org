@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-02-17T19:51:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-forums-now-hosted-on-silex-labs/"
-slug: "amfphp-forums-now-hosted-on-silex-labs"
 title: "AmfPHP forums now hosted on Silex Labs"
-wordpress_id: 131725
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 
 ---
@@ -21,4 +18,5 @@ As team lead for amfPHP I'd like to take this opportunity to give thanks to [@ca
 The [forums](http://sourceforge.net/projects/amfphp/forums) on Sourceforge are still open, simply because there doesn't seem to be a way to disable them without making them disappear. This would be a pity as there is a lot of knowledge there for those who care to look. But but but, please post here from now on!
 
 [![](https://www.silexlabs.org/wp-content/uploads/2012/01/header-amfphp1-677x123.jpg)](https://www.silexlabs.org/131386/the-blog/amfphp-version-2-0-1-reloaded-is-out/attachment/header-amfphp-2/)
+
 

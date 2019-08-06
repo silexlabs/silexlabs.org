@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-16T14:27:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-2-marketing-wars/"
-slug: "atelier-marketing-2-marketing-wars"
 title: "Atelier Marketing #2 : Marketing War"
-wordpress_id: 203924
 categories: ["Atelier Marketing","Silex Labs Events","The Blog"]
 tags: ["growth hacking","marketing","pierre conreaux","pole mecatronique","storytelling","waltermelon"]
 
@@ -120,4 +117,5 @@ Vous pouvez déjà vous inscrire pour l'atelier suivant :
 
 
 ![Atelier2-market-mecatron-carre](https://www.silexlabs.org/wp-content/uploads/2014/10/Atelier2-market-mecatron-carre.png)
+
 

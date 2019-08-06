@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2013-11-07T16:28:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-2-teaser-2-value-object-love/"
-slug: "amfphp-2-2-teaser-2-value-object-love"
 title: "AmfPHP 2.2 Teaser #2 Value Object Love"
-wordpress_id: 180181
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 
 ---
@@ -105,4 +102,5 @@ Nobody knew what the custom class converter did without looking it up. It's now 
 [The code is here, if you feel like making a contribution.](https://github.com/silexlabs/amfphp-2.0/releases/tag/v2.2_vos)
 
 [The heart picture was taken here](http://foter.com/photo/a-little-love-free-creative-commons-pink-heart/).
+
 

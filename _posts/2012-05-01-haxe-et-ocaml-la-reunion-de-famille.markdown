@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-05-01T11:09:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-et-ocaml-la-reunion-de-famille/"
-slug: "haxe-et-ocaml-la-reunion-de-famille"
 title: "Haxe et OCaml, la reunion de famille..."
-wordpress_id: 132579
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -82,4 +79,5 @@ jeudi 3 mai 2012 à 15h45IRILL 23 avenue d'Italie75013 Parissalle Algorithme  
 Haxe, le langage multi-plateforme basé sur OCaml.Abstract : Haxe est un projet communautaire Français utilisé par des entreprises comme Zynga, Prezi, Influxis, github, ...  Initialement prévu pour le développement de jeux en javascript et Flash, d'autres langages ont été ajoutés aux cibles de Haxe : C++, php, java, C#.  Cela fait de Haxe la solution libre la plus prometteuse pour le développement d'applications web et natives, pour mobiles, logiciels de bureau, consoles de jeu et TVs.
 
 Après une brève présentation de l'écosystème et du cadre dans lequel Haxe est développé, nous verrons ce qui fait de Haxe une solution originale au problème ordinaire qu'est celui de la publication multi-plateforme. Je vous présenterai aussi quelques librairies incontournables de Haxe, en particulier NME et Cocktail qui permettent de masquer les inconsistances des langages cibles derrière une API standard.
+
 

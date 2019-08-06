@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-17T19:06:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/video-de-latelier-marketing1-storytelling-et-reseaux-sociaux/"
-slug: "video-de-latelier-marketing1-storytelling-et-reseaux-sociaux"
 title: "Vidéo de l'atelier Marketing#1 : Storytelling et réseaux sociaux"
-wordpress_id: 201266
 categories: ["Silex Labs Events","The Blog"]
 tags: ["marketing","silexlabs","silicon banlieue","storytelling","waltermelon"]
 
@@ -116,6 +113,7 @@ L’atelier est animé par Pierre Conreaux associé chez [WalterMelon](http://w
 
 
 ** [Storytelling et réseaux sociaux](https://fr.slideshare.net/conreaux/storytelling-et-rseaux-sociaux) ** from **[Pierre Conreaux](http://www.slideshare.net/conreaux)**
+
 
 
 

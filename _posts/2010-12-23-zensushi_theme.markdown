@@ -3,10 +3,7 @@ author: "tropical"
 comments: true
 date: "2010-12-23T17:04:25.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/zensushi_theme/"
-slug: "zensushi_theme"
 title: "Zensushi_theme – dynamic template driven by an excel file"
-wordpress_id: 1401
 categories: ["Themes"]
 
 ---
@@ -162,4 +159,5 @@ _Note : to use this website, you have to install the excel plugin that you can d
 
 
 [devkit_zensushi.zip](https://www.silexlabs.org/wp-content/uploads/2010/12/dev_kit_zensushi.zip)
+
 

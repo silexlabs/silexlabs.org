@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-05-01T12:36:30.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-8-faites-votre-site-la-suite/"
-slug: "master-class-silex-8-faites-votre-site-la-suite"
 title: "Master Class Silex #8 : Faites votre site, la suite. . . !"
-wordpress_id: 201906
 categories: ["Blog Silex","Silex","Silex Labs Events","Silex workshops"]
 tags: ["master class silex","silex","silex V2","site internet"]
 
@@ -82,6 +79,7 @@ N’oubliez pas que la petite adhésion annuelle à Silex Labs vous offre l’ac
 
 
 ![Atelier 8](https://www.silexlabs.org/wp-content/uploads/2014/04/MDA-atelier-silex-08-carre.png)
+
 
 
 

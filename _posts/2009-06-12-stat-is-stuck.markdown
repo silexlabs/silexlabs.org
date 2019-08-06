@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-12T07:34:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/stat-is-stuck/"
-slug: "stat-is-stuck"
 title: "Stat-is-stuck"
-wordpress_id: 683
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -163,4 +160,5 @@ Il comporte notre petite accroche "**Silex **is a WYSIWYG editor to build Flash 
 </tr>
 </tbody></table>
 ---------------------------
+
 

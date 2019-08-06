@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-26T09:34:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-on-the-scene/"
-slug: "silex-on-the-scene"
 title: "Silex on the scene"
-wordpress_id: 220
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["digital","features","futur en seine","News","wiki plaza","workshops"]
 
@@ -44,4 +41,5 @@ SILEX est invité à la [Wiki Plaza](http://www.futur-en-seine.fr/lieux/index.ph
 L'équipe du Silex Labs fera une **présentation**, des **démos**, des mini-ateliers et lèvera le voile sur des **nouveautés** et des **news** de folie !
 
 Venez nous retrouver pour discuter et échanger en direct avec les membres de l'équipe et d'autres utilisateurs !
+
 

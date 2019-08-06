@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-31T09:53:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ca-bouge-chez-silex-labs/"
-slug: "ca-bouge-chez-silex-labs"
 title: "Ca bouge chez Silex Labs"
-wordpress_id: 1557
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -78,4 +75,5 @@ Ce thème  ainsi que les précédents sont disponibles gratuitement **depuis le 
 
 
 Avec  l'aide de nos stagiaires motivés, de **nouveaux thèmes** devraient  voir le jour dans les semaines/mois **à venir**.
+
 

@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-09-28T15:43:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-mypage/"
-slug: "theme-mypage"
 title: "MyPage Theme"
-wordpress_id: 3204
 categories: ["Themes"]
 
 ---
@@ -84,4 +81,5 @@ _> use silex dev kit and oof dev kit to publish these components in Flash_
 
 
 **[devkit_mypage.zip](http://wp-manager.silex-ria.org/wp-content/uploads/2009/09/trunk_themes_mypage.zip)**
+
 

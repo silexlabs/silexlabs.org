@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-04T15:45:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-juraj-kirchheim-macros-a-lot-has-changed-in-haxe-3/"
-slug: "wwx2013-speech-juraj-kirchheim-macros-a-lot-has-changed-in-haxe-3"
 title: "wwx2013 speech: Juraj Kirchheim \"Macros: a lot has changed in Haxe 3\""
-wordpress_id: 142242
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","juraj kirch","macros","wwx2013"]
 
@@ -56,6 +53,7 @@ You'll find below the presentation, use the arrows right and left to scroll th
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

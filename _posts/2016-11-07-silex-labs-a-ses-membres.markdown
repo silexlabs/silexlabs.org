@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2016-11-07T16:33:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-a-ses-membres/"
-slug: "silex-labs-a-ses-membres"
 title: "Silex Labs à ses membres"
-wordpress_id: 206691
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["Alexandre Hoyau","contributhon","open source","silex labs","silexlabs","web","webdev"]
 
@@ -102,6 +99,7 @@ Silex Labs 
 
 
 * [Newsletter mensuelle](http://eepurl.com/F48q5)
+
 
 
 

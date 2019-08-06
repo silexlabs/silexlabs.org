@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-04-30T08:22:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/toggle-button/"
-slug: "toggle-button"
 title: "Toggle button"
-wordpress_id: 506
 categories: ["Plugins"]
 tags: ["silex component","Solvejg Bougeois"]
 
@@ -27,4 +24,5 @@ A toggle button allows to distinguish in a visual way (by two different colors o
 
 
 see the read_me.txt file (which is on the .zip)
+
 

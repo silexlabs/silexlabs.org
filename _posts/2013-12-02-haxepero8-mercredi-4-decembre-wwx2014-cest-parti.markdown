@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-12-02T15:26:44.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxepero8-mercredi-4-decembre-wwx2014-cest-parti/"
-slug: "haxepero8-mercredi-4-decembre-wwx2014-cest-parti"
 title: "Haxepéro#8 Mercredi 4 Décembre : wwx2014 c'est parti !!"
-wordpress_id: 200645
 categories: ["Silex Labs Events","The Blog"]
 
 ---
@@ -81,4 +78,5 @@ Recherche de sponsors / partenaires
 
 
 Haxe vous de jouer !!
+
 

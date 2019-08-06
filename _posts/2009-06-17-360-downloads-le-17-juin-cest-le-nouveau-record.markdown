@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-17T09:20:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/360-downloads-le-17-juin-cest-le-nouveau-record/"
-slug: "360-downloads-le-17-juin-cest-le-nouveau-record"
 title: "360 downloads le 17 juin, c'est le nouveau record ! ** 360 downloads : a new record !"
-wordpress_id: 815
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -262,4 +259,5 @@ _It's a great accomplishment, we've reached a new milestone ! Kudos to the team 
 
 
 -> [photo par*_pic by_ B o c c a s B e n j a m i n](http://benjaminboccas.com)
+
 

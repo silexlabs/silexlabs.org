@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-27T09:47:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-3-brand-action/"
-slug: "atelier-marketing-3-brand-action"
 title: "Atelier Marketing #3 : Brand Action"
-wordpress_id: 203931
 categories: ["Atelier Marketing","Silex Labs Events","The Blog"]
 tags: ["brand utility","Inbound marketing","Marketing utile","Matthieu Tylez","pole mecatronique"]
 
@@ -115,4 +112,5 @@ Vouc pouvez déjà vous inscrire pour les ateliers suivants
 
 
 ![Atelier3-market-mecatron-carre](https://www.silexlabs.org/wp-content/uploads/2014/10/Atelier3-market-mecatron-carre.png)
+
 

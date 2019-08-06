@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-03-21T22:32:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/generating-client-projects-in-amfphp/"
-slug: "generating-client-projects-in-amfphp"
 title: "Generating Client Projects in amfPHP"
-wordpress_id: 131917
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 
 ---
@@ -44,4 +41,5 @@ Possible options for generation therefore include:
 For those interested here's a zip containing some code that could be generated. It's a pure AS3 Flash Builder project, and you can build the FLA in src too. It allows you to test 2 methods on the ExampleService currently included in amfPHP. It's far from definitive, the url to the server is hard coded, there's a memory leak somewhere I have to track down, but it should be able to give you an idea of the possibilities.
 
 [AmfphpGeneratedClient](https://www.silexlabs.org/131917/the-blog/generating-client-projects-in-amfphp/attachment/amfphpgeneratedclient/)
+
 

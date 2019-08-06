@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-11-08T09:45:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ateliers-silex-a-liesa-multimedia-le-retour-des-ptt/"
-slug: "ateliers-silex-a-liesa-multimedia-le-retour-des-ptt"
 title: "Ateliers Silex à l'IESA Multimedia, le retour des PTT"
-wordpress_id: 130679
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -58,6 +55,7 @@ Qui?
 Quoi?
 > quelques photos des [derniers ateliers et évènements Silex Labs
 ](http://www.flickr.com/photos/lexoyo/sets/72157627184411838/show/)> quelques [thèmes réalisés par CIFACOM](https://www.silexlabs.org/2727/the-blog/8-new-themes-for-silex-given-to-the-community/) lors de la dernière session Silex
+
 
 
 

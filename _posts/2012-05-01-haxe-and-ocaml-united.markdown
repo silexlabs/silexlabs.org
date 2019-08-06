@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-05-01T11:08:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-and-ocaml-united/"
-slug: "haxe-and-ocaml-united"
 title: "Haxe and OCaml united"
-wordpress_id: 132591
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -81,4 +78,5 @@ IRILL
 Haxe, cross-platform language based on OCaml.Abstract: Haxe is a community project French used by companies like Zynga, Prezi, Influxis, github, ... Originally scheduled for game development in Flash and javascript, other languages were added to targets Haxe: C + +, php, java, C #. This makes the solution free Haxe the most promising for the development of web applications and native mobile, desktop software, game consoles and TVs.
 
 After a brief presentation of the ecosystem and the framework is developed Haxe, we will see what makes Haxe an original solution to the problem which is that of ordinary multi-platform publishing. I will present also some libraries must-Haxe, particularly NME and Cocktail that hide the inconsistencies of target languages behind a standard API.
+
 

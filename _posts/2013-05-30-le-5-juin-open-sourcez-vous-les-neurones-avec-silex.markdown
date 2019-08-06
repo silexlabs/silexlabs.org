@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-05-30T16:31:01.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-5-juin-open-sourcez-vous-les-neurones-avec-silex/"
-slug: "le-5-juin-open-sourcez-vous-les-neurones-avec-silex"
 title: "Le 5 juin open sourcez vous les neurones avec Silex"
-wordpress_id: 140115
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["atelier","formation","IESA","silex"]
 
@@ -69,6 +66,7 @@ Et pour faire votre site internet avec Silex rendez-vous mercredi 5 juin à l’
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/05/logo_silexlabs-gris2.png)](https://www.silexlabs.org/140115/the-blog/le-5-juin-open-sourcez-vous-les-neurones-avec-silex/attachment/logo_silexlabs-gris2/)
+
 
 
 

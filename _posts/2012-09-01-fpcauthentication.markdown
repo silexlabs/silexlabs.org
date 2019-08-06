@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-09-01T13:16:22.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fpcauthentication/"
-slug: "fpcauthentication"
 title: "Amfphp Plugin FPCAuthentication"
-wordpress_id: 136135
 categories: ["Exchange","Exchange amfPHP"]
 
 ---
@@ -85,4 +82,5 @@ can be used to send sensible data to the server without compromising the user pa
 
 
 [https://github.com/baracil/FPC-AMFPHP-Plugins/blob/master/FPCAuthentication/documentation.txt](https://github.com/baracil/FPC-AMFPHP-Plugins/blob/master/FPCAuthentication/documentation.txt)
+
 

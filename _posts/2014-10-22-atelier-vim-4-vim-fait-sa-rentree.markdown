@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-10-22T14:55:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-vim-4-vim-fait-sa-rentree/"
-slug: "atelier-vim-4-vim-fait-sa-rentree"
 title: "Atelier Vim #4 : Vim fait sa rentrée !"
-wordpress_id: 203794
 categories: ["Blog Silex Labs","Industrial Workflow","The Blog"]
 tags: ["david foucher","ronan le gall","silexlabs","Vim"]
 
@@ -245,6 +242,7 @@ Regardez ci dessous des photos nos précédents ateliers VIM.
 ](https://www.silexlabs.org/wp-content/uploads/2014/09/SB-atelier-silex-03-carre.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-06-node2-carre1.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-node-carre-as.png)
+
 
 
 

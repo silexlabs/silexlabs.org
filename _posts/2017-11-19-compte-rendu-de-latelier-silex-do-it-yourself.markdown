@@ -3,10 +3,7 @@ author: "Tariq"
 comments: true
 date: "2017-11-19T19:33:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-latelier-silex-do-it-yourself/"
-slug: "compte-rendu-de-latelier-silex-do-it-yourself"
 title: "Compte rendu de l’atelier Silex - Do It Yourself"
-wordpress_id: 207433
 categories: ["The Blog"]
 tags: ["atelier","css","open source","silexlabs","silexV2","site internet"]
 
@@ -130,4 +127,5 @@ Ci dessous un petit rappel vers l'article initial de l'évenement :
 Enfin, pour conclure vous pouvez proposer vos propres templates pour Silex, les soumettre à Silex Labs et vous entrainer avec ce puissant outil.
 
 Partagez avec nous vos projets et vos créations, nous serons ravis de les mettre en avant.
+
 

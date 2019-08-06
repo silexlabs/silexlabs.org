@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2013-02-05T12:24:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-1-1-released/"
-slug: "amfphp-2-1-1-released"
 title: "AmfPHP 2.1.1 Released"
-wordpress_id: 137222
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -108,4 +105,5 @@ fix passing JSON objects
 
 
 fix step by step debugging by removing dependency on curl and using included request plugin instead
+
 

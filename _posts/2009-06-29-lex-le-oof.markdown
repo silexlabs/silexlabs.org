@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-29T08:05:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lex-le-oof/"
-slug: "lex-le-oof"
 title: "Lex le oof"
-wordpress_id: 886
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["composants flash","composants oof","galeries flash"]
 
@@ -22,4 +19,5 @@ Depuis vendredi, il est possible d'utiliser l'action **onrollOver **et **onrollO
 ...et en plus les listes ont le paramètre **Show Hand**...
 
 Bref, je kiffe !
+
 

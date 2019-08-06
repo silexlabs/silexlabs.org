@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-04-21T15:35:30.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-webinar-1-silex/"
-slug: "compte-rendu-video-webinar-1-silex"
 title: "Compte-rendu vidéo : Webinar #1 Silex"
-wordpress_id: 206148
 categories: ["Blog Silex","Compte rendu Vidéo","Silex","Silex workshops","The Blog","tuto","Tutorials Silex","Vidéos"]
 tags: ["Alexandre Hoyau","atelier","compte rendu","css","foss","html","initiation","le tour du web","le tour du web en 50 ateliers","opensource","silex","silexV2","video","website","websitebuilder"]
 
@@ -155,6 +152,7 @@ Derrière Silex, l’association à but non lucratif Silex Labs s’assure que S
 ![atelier silex par l'association Silex Labs](https://www.silexlabs.org/wp-content/uploads/2016/02/image03-300x300.jpg)
 
 ![2016-04-05_webinar1fr_visuelvid](https://www.silexlabs.org/wp-content/uploads/2016/04/2016-04-05_webinar1fr_visuelvid.png)
+
 
 
 

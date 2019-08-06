@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-25T09:02:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-b-to-b-6-node-js-le-retour/"
-slug: "atelier-b-to-b-6-node-js-le-retour"
 title: "Atelier B to B #6 : Node.js le retour !"
-wordpress_id: 202877
 categories: ["Industrial Workflow","Silex Labs Events"]
 tags: ["atelier","BtoB","IESA","mongodb","mustache","node.js","NPM","yannick dominguez"]
 
@@ -280,4 +277,5 @@ Dans le domaine du développement, les outils sont en constante évolution. Il e
 C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers pour travailler ensemble avec des outils devenus incontournables et ainsi partager des retours d’expériences sur les bonnes pratiques d’organisation et de travail collaboratif.
 
 ![b-to-b-06-node2-carre](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-06-node2-carre.png)
+
 

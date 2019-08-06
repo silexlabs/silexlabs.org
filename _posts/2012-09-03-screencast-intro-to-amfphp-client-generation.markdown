@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-09-03T09:14:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/screencast-intro-to-amfphp-client-generation/"
-slug: "screencast-intro-to-amfphp-client-generation"
 title: "Screencast intro to amfPHP client generation"
-wordpress_id: 136171
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -17,4 +14,5 @@ So here it is:
 
 
 Many thanks to [@Pol](https://www.silexlabs.org/members/pol/) and the [two](https://www.silexlabs.org/members/slxnicow/) [Nicolas](https://www.silexlabs.org/members/slxnicow/) for their help
+
 

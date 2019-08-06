@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-05-05T17:05:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-a-la-cantine-le-18-mai-2011/"
-slug: "amfphp-a-la-cantine-le-18-mai-2011"
 title: "amfPHP reloaded @ la Cantine le 18 Mai 2011"
-wordpress_id: 2650
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -60,6 +57,7 @@ amfPHP, Simple Remoting for Web Applications
 
 Silex Labs
 [https://www.silexlabs.org/](../)
+
 
 
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-10-26T07:20:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-silex-plugin-pour-wordpress-2/"
-slug: "the-silex-plugin-pour-wordpress-2"
 title: "The Silex plugin pour WordPress 2"
-wordpress_id: 1292
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -151,6 +148,7 @@ Il s'agit d'un système qui s'adaptera à un maximum de CMS et dont Flog pour Wo
 
 
   * [flog project page (all CMS)](http://sourceforge.net/projects/flog/)
+
 
 
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-25T12:39:57.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-thomas-fetiveau-development-workflow-with-cocktail-and-nme/"
-slug: "wwx2014-speech-thomas-fetiveau-development-workflow-with-cocktail-and-nme"
 title: "WWX2014 speech : Thomas Fétiveau :\"Development workflow with Cocktail and NME\""
-wordpress_id: 202751
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["cocktail","Haxe","NME","silex labs","thomas fétiveau","wwx2014"]
 
@@ -175,4 +172,5 @@ Presentation of an innovative development workflow to target the web and the nat
 
 
 ![wwx2014-carre-t-fetiveau](https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-carre-t-fetiveau.png)
+
 

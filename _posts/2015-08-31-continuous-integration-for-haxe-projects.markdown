@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-31T13:53:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/continuous-integration-for-haxe-projects/"
-slug: "continuous-integration-for-haxe-projects"
 title: "Continuous Integration for Haxe Projects"
-wordpress_id: 205273
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["Andy Li","CI","continuous integration","cross-platform","dev","Haxe","Haxe conference","TravisCI","video","wwx","wwx2015"]
 
@@ -47,4 +44,5 @@ https://twitter.com/mknol/status/605486216507760640
 https://twitter.com/Fiene_P/status/605051481264410624
 
 https://twitter.com/As3Boyan/status/605071412022374401
+
 

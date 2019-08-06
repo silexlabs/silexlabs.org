@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-06-27T15:44:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lapres-104-de-silex-labs/"
-slug: "lapres-104-de-silex-labs"
 title: "L'après 104 de Silex Labs"
-wordpress_id: 2711
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -47,4 +44,5 @@ N'hésitez pas à nous solliciter au besoin !
 
 La Silex Team
 (merci Franck pour cet article et [Benjamin](http://benjaminboccas.com/) pour cette photo)
+
 

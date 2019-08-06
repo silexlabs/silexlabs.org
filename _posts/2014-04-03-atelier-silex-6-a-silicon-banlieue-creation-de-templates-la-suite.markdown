@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-03T09:23:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-6-a-silicon-banlieue-creation-de-templates-la-suite/"
-slug: "atelier-silex-6-a-silicon-banlieue-creation-de-templates-la-suite"
 title: "Atelier Silex #6 à Silicon Banlieue : Création de templates, la suite"
-wordpress_id: 201602
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","silex","silicon banlieue","template"]
 
@@ -85,4 +82,5 @@ Et n'oubliez pas le prochain atelier qui aura lieu le mardi suivant, le 15 avril
 
 
 [![Atelier silex 6](https://www.silexlabs.org/wp-content/uploads/2014/03/SB-atelier-silex-06-carre-agglogo.png)](https://www.silexlabs.org/wp-content/uploads/2014/03/SB-atelier-silex-06-carre-agglogo.png)
+
 

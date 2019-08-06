@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-04-28T10:39:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-a-besoin-de-vous/"
-slug: "silex-labs-a-besoin-de-vous"
 title: "Silex Labs a besoin de VOUS !"
-wordpress_id: 1587
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -49,4 +46,5 @@ Il est question de **contribuer à amfPhp et à Silex**, et d'être leader sur d
 **Votre contribution à la communauté open source Flash ne passera pas inaperçue**, mais elle sera bien entendue non-rémunéré. Idéalement nous aimerions 2 ou 3 personnes motivées.
 
 Si vous êtes intéressé(e)s faites nous signe dans les commentaires !
+
 

@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-10-28T13:40:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-carbon-est-la/"
-slug: "silex-carbon-est-la"
 title: "Silex Carbon est là!"
-wordpress_id: 1937
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -40,4 +37,5 @@ Merci  à tous pour votre soutien et vos suggestions qui ont largement  contribu
 [http://projects.silexlabs.org/?/silex#/flash.cms/download](http://projects.silexlabs.org/?/silex#/flash.cms/download)
 
 L'équipe Silex Labs
+
 

@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-05T15:42:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/kha/"
-slug: "kha"
 title: "KHA"
-wordpress_id: 204994
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["cross-platform","game","game development","Gamedev","Haxe","Haxe conference","Kha","Robert Konrad","SDK","video","wwx","wwx2015"]
 
@@ -50,4 +47,5 @@ https://twitter.com/robdangerous/status/605734603509366784
 https://twitter.com/luboslenco/status/620302577876488192
 
 https://twitter.com/silexlabs/status/628939367248035840
+
 

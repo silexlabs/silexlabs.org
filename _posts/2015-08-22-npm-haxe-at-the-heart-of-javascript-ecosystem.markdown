@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-22T12:52:17.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/npm-haxe-at-the-heart-of-javascript-ecosystem/"
-slug: "npm-haxe-at-the-heart-of-javascript-ecosystem"
 title: "NPM, Haxe at the heart of Javascript ecosystem"
-wordpress_id: 204999
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["API","David Mouton","dev","Haxe","Haxe conference","javaScript","js","nodejs","NPM","video","web","web development","wwx","wwx2015"]
 
@@ -56,4 +53,5 @@ https://twitter.com/agence_happy/status/605321935803822080
 https://twitter.com/damoebius/status/624552159024140289
 
 https://twitter.com/nodenpm/status/623980030268448768
+
 

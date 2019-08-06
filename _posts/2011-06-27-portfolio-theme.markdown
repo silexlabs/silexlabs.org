@@ -3,10 +3,7 @@ author: "cindy"
 comments: false
 date: "2011-06-27T15:56:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/portfolio-theme/"
-slug: "portfolio-theme"
 title: "Portfolio Theme"
-wordpress_id: 93228
 categories: ["Themes"]
 
 ---
@@ -21,4 +18,5 @@ Ce thème est un template pour vos créations personnelles
 [Descriptif détaillé de ce thème en PDF](http://silexprod.com/silex_cindy/description.pdf)
 
 License Creative Commons
+
 

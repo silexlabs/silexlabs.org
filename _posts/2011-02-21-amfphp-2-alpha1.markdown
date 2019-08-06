@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-02-21T15:12:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-alpha1/"
-slug: "amfphp-2-alpha1"
 title: "amfPHP 2 alpha1"
-wordpress_id: 2389
 categories: ["Blog amfPHP"]
 
 ---
@@ -79,4 +76,5 @@ Who should stick to 1.9:
 
 
 [So here it is! Download here.](http://sourceforge.net/projects/amfphp/files/amfphp/amfPHP-2.0.alpha1.zip/download)
+
 

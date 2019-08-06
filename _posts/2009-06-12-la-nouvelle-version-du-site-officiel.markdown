@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-12T20:04:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/la-nouvelle-version-du-site-officiel/"
-slug: "la-nouvelle-version-du-site-officiel"
 title: "La nouvelle version du site officiel * New version of the official site"
-wordpress_id: 755
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -73,4 +70,5 @@ Les sites à l'adresse, _all sites at this address :_ http://silex-ria.org/ :
 ---
 
 [http://silex-ria.org/sitemap_index.php](http://silex-ria.org/sitemap_index.php)
+
 

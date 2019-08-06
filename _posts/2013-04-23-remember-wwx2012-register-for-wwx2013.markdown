@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-04-23T13:23:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/remember-wwx2012-register-for-wwx2013/"
-slug: "remember-wwx2012-register-for-wwx2013"
 title: "Remember wwx2012, Register for wwx2013"
-wordpress_id: 138228
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","world wide haxe conference","WWX2012","wwx2013"]
 
@@ -67,4 +64,5 @@ But we had also serious work and you can watch all the videos from wwx2012 speec
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/04/coming-soon1.png)](http://wwx.silexlabs.org/2013/)
+
 

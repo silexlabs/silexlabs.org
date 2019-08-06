@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-02-01T10:28:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cocktail-v1-0-sunrise-progress-report/"
-slug: "cocktail-v1-0-sunrise-progress-report"
 title: "Cocktail v1.0 Sunrise: goals, strategy, progress report"
-wordpress_id: 130892
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -166,4 +163,5 @@ The first **beta release is scheduled for april 2012** - we may present it at th
 
 
 ##
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-03-01T16:23:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/use-the-google-analytics-plugin/"
-slug: "use-the-google-analytics-plugin"
 title: "Use the Google Analytics plugin"
-wordpress_id: 1519
 categories: ["Tutorials Silex"]
 
 ---
@@ -169,4 +166,5 @@ Select the plugin in the list and click on "Google Analytics Account Number" to 
 Save and it's done !
 
 This tutorial is finished.
+
 

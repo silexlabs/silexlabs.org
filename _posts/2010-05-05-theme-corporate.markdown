@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-05T09:29:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-corporate/"
-slug: "theme-corporate"
 title: "Corporate Theme"
-wordpress_id: 3208
 categories: ["Themes"]
 tags: ["kathleen berthou","silex theme"]
 
@@ -69,4 +66,5 @@ _> use silex dev kit and oof dev kit to publish these components in Flash_
 
 
 [**devkit_corporate.zip**](../wp-content/uploads/2010/05/devkit_silexexchange.zip)
+
 

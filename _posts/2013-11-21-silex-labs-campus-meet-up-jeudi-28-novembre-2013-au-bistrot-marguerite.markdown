@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-11-21T17:14:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-campus-meet-up-jeudi-28-novembre-2013-au-bistrot-marguerite/"
-slug: "silex-labs-campus-meet-up-jeudi-28-novembre-2013-au-bistrot-marguerite"
 title: "Silex Labs Campus Meet-up : jeudi 28 novembre 2013 au Bistrot Marguerite"
-wordpress_id: 180378
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["campus","Cifacom","meet-up","silex labs"]
 
@@ -100,4 +97,5 @@ l
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/11/silexlabs-campus-carre.png)
+
 

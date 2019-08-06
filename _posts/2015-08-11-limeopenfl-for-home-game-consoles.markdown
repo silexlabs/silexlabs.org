@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-11T11:14:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/limeopenfl-for-home-game-consoles/"
-slug: "limeopenfl-for-home-game-consoles"
 title: "Lime/OpenFL for home game consoles"
-wordpress_id: 204882
 categories: ["Blog Haxe","Compte rendu Vidéo","Vidéos","wwx2015"]
 tags: ["game consoles","Gamedev","Haxe","Haxe conference","Lars Doucet","Lime/Openfl","openFL","video","wwx","wwx2015"]
 
@@ -72,6 +69,7 @@ https://twitter.com/smugnier/status/604961853991714818
 https://twitter.com/cambiatajonas/status/604967129658589184
 
 https://twitter.com/larsiusprime/status/606083695204655104
+
 
 
 

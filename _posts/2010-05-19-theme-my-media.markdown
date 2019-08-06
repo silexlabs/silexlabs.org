@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-19T08:12:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-my-media/"
-slug: "theme-my-media"
 title: "My Media Theme"
-wordpress_id: 618
 categories: ["Themes"]
 tags: ["Léo Francia","silex theme"]
 
@@ -76,4 +73,5 @@ _> use silex dev kit and oof dev kit to publish these components in Flash_
 
 _[devkit_mymedia.zip](https://www.silexlabs.org/wp-content/uploads/2010/12/Devkit_MyMedia.zip)
 _
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-06-08T08:00:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/filters/"
-slug: "filters"
 title: "Filters component"
-wordpress_id: 1797
 categories: ["Plugins"]
 
 ---
@@ -80,4 +77,5 @@ PROPERTIES_BEVEL_KNOCKOUT : Applies a knockout effect, which effectively makes t
 PROPERTIES_BEVEL_QUALITY : set the visual quality of the bevel
 PROPERTIES_BEVEL_STRENGTH : set the strength of the bevel
 PROPERTIES_BEVEL_TYPE : set the type of the bevel (inner, outer or full)
+
 

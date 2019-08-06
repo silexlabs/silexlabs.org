@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-21T12:04:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/christmas-night-theme/"
-slug: "christmas-night-theme"
 title: "Christmas Night Theme"
-wordpress_id: 86227
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ Happy Christmas. This template can be use for your Christmas event.
 [Original template](http://www.templatemo.com/preview/templatemo_272_christmas_night)
 
 License : Creative Commons
+
 

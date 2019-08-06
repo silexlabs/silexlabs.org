@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-05-31T10:17:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/portable-app-theme/"
-slug: "portable-app-theme"
 title: "portable app theme - the Silex quick launcher desktop application (mac and windows)"
-wordpress_id: 64313
 categories: ["Themes"]
 
 ---
@@ -17,4 +14,5 @@ Unlike the [desktop widgets made with Silex](https://www.silexlabs.org/1705/the-
 The first version of this "Silex quick launcher" applications was made by [Silex Labs](https://www.silexlabs.org/) and [Mediabox](http://flash.mediabox.fr/) together, so that Silex can be run from a USB stick.
 
 [caption id="attachment_70681" align="aligncenter" width="614" caption="Theme used for the Silex launcher (the .exe version of Silex)"]![](https://www.silexlabs.org/wp-content/uploads/2011/05/silex-launcher.jpg)[/caption]
+
 

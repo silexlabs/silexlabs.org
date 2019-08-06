@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-22T18:43:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/to-blog-blug-bug/"
-slug: "to-blog-blug-bug"
 title: "To blog Blug Bug"
-wordpress_id: 217
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -18,4 +15,5 @@ Halala, le "débugage".. rien que ce mot !
 On voudrait que ça dure toujours. :)
 
 Silex et Flash seront-il plus forts qu'ariel et alex ? suite au prochain épisode.
+
 

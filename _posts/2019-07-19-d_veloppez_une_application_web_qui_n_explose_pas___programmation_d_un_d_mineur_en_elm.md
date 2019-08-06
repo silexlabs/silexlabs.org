@@ -54,3 +54,4 @@ Sébastien Besnier est professeur de mathématiques et informatique en CPGE. Ins
 
 Tout se passe sur meetup. Les places sont limitées !
 
+

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-07-23T11:05:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-my-design/"
-slug: "theme-my-design"
 title: "My Design Theme"
-wordpress_id: 763
 categories: ["Themes"]
 tags: ["Léo Francia","silex theme"]
 
@@ -84,4 +81,5 @@ _Note : to use this website, you have to install the excel plugin that you can d
 
 
 [devkit_mydesign.zip](http://wp-manager.silex-ria.org/wp-content/uploads/2010/07/devkit_mydesign.zip)
+
 

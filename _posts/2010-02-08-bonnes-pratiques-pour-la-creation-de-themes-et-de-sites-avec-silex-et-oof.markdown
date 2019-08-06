@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-02-08T08:05:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bonnes-pratiques-pour-la-creation-de-themes-et-de-sites-avec-silex-et-oof/"
-slug: "bonnes-pratiques-pour-la-creation-de-themes-et-de-sites-avec-silex-et-oof"
 title: "Bonnes pratiques pour la création de thèmes et de sites avec Silex et Oof"
-wordpress_id: 1432
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -453,4 +450,5 @@ Le loader (1 seul par site)
 
 
 -> nom : loader.swf (on pourra changer ce nom dans les prochaines versions de Silex)
+
 

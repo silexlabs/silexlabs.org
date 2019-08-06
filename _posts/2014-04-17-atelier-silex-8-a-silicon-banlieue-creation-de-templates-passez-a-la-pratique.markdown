@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-17T10:54:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-8-a-silicon-banlieue-creation-de-templates-passez-a-la-pratique/"
-slug: "atelier-silex-8-a-silicon-banlieue-creation-de-templates-passez-a-la-pratique"
 title: "Atelier Silex #8 à Silicon Banlieue : création de templates, passez à la pratique"
-wordpress_id: 201841
 categories: ["Blog Silex","Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","silex","silex V2","silicon banlieue","site internet","template"]
 
@@ -67,4 +64,5 @@ L’atelier aura lieu Mardi 29 avril à [Silicon Banlieue ](http://www.silicon
 
 
 ![Atelier 8](https://www.silexlabs.org/wp-content/uploads/2014/04/SB-atelier-silex-08-carre.png)
+
 

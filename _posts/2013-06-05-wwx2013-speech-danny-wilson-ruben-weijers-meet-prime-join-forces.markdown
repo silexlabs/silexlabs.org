@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T13:50:17.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-danny-wilson-ruben-weijers-meet-prime-join-forces/"
-slug: "wwx2013-speech-danny-wilson-ruben-weijers-meet-prime-join-forces"
 title: "wwx2013 speech: Danny Wilson & Ruben Weijers  \"Meet Prime, join forces\""
-wordpress_id: 142746
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Danny Wilson","Haxe","Prime","Ruben Weijers","wwx2013"]
 
@@ -67,6 +64,7 @@ Danny studied Graphics and Media Technology in Rotterdam and currently lives in 
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

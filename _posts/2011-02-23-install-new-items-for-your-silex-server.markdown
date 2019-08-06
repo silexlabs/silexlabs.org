@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-23T17:01:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/install-new-items-for-your-silex-server/"
-slug: "install-new-items-for-your-silex-server"
 title: "Install new items on your Silex server"
-wordpress_id: 1447
 categories: ["Tutorials Silex"]
 
 ---
@@ -72,4 +69,5 @@ You will find it in the list.
 This tutorial is finished !
 
 If for some reason  you want to uninstall items, look at [this tutorial](https://www.silexlabs.org/?p=1466).
+
 

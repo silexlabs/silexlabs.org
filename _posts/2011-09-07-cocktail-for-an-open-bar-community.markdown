@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-09-07T15:55:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cocktail-for-an-open-bar-community/"
-slug: "cocktail-for-an-open-bar-community"
 title: "Cocktail, for an open bar community !"
-wordpress_id: 129346
 categories: ["Blog Labs","Blog Silex Labs","The Blog"]
 tags: ["cocktail","cross-platform","demo","flash","Haxe","html5","javaScript","js","library","php"]
 
@@ -334,6 +331,7 @@ Special Thanks
 
 
   * [lexa](http://the.webapp.cat/) for the rest :)
+
 
 
 

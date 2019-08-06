@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2014-02-14T12:08:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-online-meetup-video/"
-slug: "amfphp-online-meetup-video"
 title: "Amfphp online meetup video"
-wordpress_id: 201259
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 
 ---
@@ -22,4 +19,5 @@ Thanks for being there and thanks for watching,
 Ariel Sommeria-Klein
 team lead for [Amfphp](http://silexlabs.org/amfphp/)
 creator of [Baguette AMF ](http://baguetteamf.com) (it makes Amfphp faster!)
+
 

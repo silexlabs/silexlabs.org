@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-26T16:54:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/xlssynchro/"
-slug: "xlssynchro"
 title: "XLSSynchro"
-wordpress_id: 495
 categories: ["Plugins"]
 tags: ["connectors","plugin"]
 
@@ -23,4 +20,5 @@ from the XLS file sent.
 [Get XLSsynchro](http://wp-manager.silex-ria.org/wp-content/uploads/2010/03/xlssynchro2.zip) !
 
 [Get Excel Component](http://wp-manager.silex-ria.org/?p=468) !
+
 

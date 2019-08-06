@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2013-10-10T14:26:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-2-teaser-1-putting-your-code-comments-to-good-use/"
-slug: "amfphp-2-2-teaser-1-putting-your-code-comments-to-good-use"
 title: "AmfPHP 2.2 Teaser #1 Putting your code comments to good use"
-wordpress_id: 179725
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 
 ---
@@ -139,4 +136,5 @@ This is ongoing, so if you have some feedback, please comment below.
 [The packaged version is available here, so please try it.](http://sourceforge.net/projects/amfphp/files/amfphp-2.2_comments.zip/download)
 
 [The code is here, if you feel like making a contribution.](https://github.com/silexlabs/amfphp-2.0/releases/tag/v2.2_comments)
+
 

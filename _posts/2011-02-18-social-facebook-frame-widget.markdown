@@ -3,10 +3,7 @@ author: "camille"
 comments: true
 date: "2011-02-18T16:22:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/social-facebook-frame-widget/"
-slug: "social-facebook-frame-widget"
 title: "Social Facebook frame Widget"
-wordpress_id: 2494
 categories: ["Plugins"]
 
 ---
@@ -123,4 +120,5 @@ _**Note :**_ if you uncheck all the boxes, you will obtain this :
 ![](https://www.silexlabs.org/wp-content/uploads/2011/02/all_boxes_unchecked.png)
 
 V1.1 : panel editor added
+
 

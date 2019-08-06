@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-23T14:05:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/reconversion-vers-wordpress/"
-slug: "reconversion-vers-wordpress"
 title: "Reconversion vers Wordpress (Part I)"
-wordpress_id: 1138
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["css","design","geek","php","webmaster"]
 
@@ -22,4 +19,5 @@ Et si je codais du design, hum ?  Ce blog est tellement stimulant que j'ai déc
 **TDO Mini Forms : **pour soumettre un nouvel article sans passer par l'interface d'édition. Ce formulaire peut se trouver sur une simple page de votre blog. L'article soumit peut être ajouté directement au blog ou être archivé comme brouillon .
 
 **Vive  PHP et  CSS, dans 6 mois je serais plus geek que geek !**
+
 

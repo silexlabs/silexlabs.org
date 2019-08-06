@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T08:58:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/showcase-theme/"
-slug: "showcase-theme"
 title: "Showcase Theme"
-wordpress_id: 86551
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ Showcase is a template for you. With his slider, this template is supplied to yo
 [Original template](http://www.templatemo.com/preview/templatemo_189_showcase)
 
 License : Creative Commons
+
 

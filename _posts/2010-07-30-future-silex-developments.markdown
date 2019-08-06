@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-07-30T17:47:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/future-silex-developments/"
-slug: "future-silex-developments"
 title: "Future Silex Developments"
-wordpress_id: 1739
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -121,4 +118,5 @@ ComponentDescriptorBase -> VisualComponentDescriptor->  ImageDescriptor and Vide
 It makes sense to make ComponentDescriptorBase and  VisualComponentDescriptor part of the basic framework so that components  in other plugins such as OOF can use them to build their descriptors.  ComponentDescriptorBase should handle localization using a standard yet  to be defined. Each of these descriptor classes is defined in its own  PHP file.
 
 These components descriptors are only used by the wysiwyg, so they can  be queried using a new service called component_descriptor_service. The  method is called getDescriptors. It returns all available component  descriptors.
+
 

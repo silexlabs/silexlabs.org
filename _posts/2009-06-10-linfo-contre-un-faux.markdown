@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-06-10T17:41:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/linfo-contre-un-faux/"
-slug: "linfo-contre-un-faux"
 title: "L’info contre un faux"
-wordpress_id: 665
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -104,4 +101,5 @@ Au final rien n'a marché, sauf qu'OVH est intervenu et a réinitialisé les bas
 
 
 J'espère que Silex aura moins de succès dans l'avenir car j'en ai vraiment chié avec OVH et phpbb. D'un autre côté il y a des chances puisque ce genre de choses nuit clairement à notre référencement et aux utilisateurs qui avaient besoin de notre aide... Cool! :-|
+
 

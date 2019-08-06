@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-01T10:29:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-7-a-silicon-banlieue-publier-son-site-et-optimiser-le-referencement/"
-slug: "atelier-silex-7-a-silicon-banlieue-publier-son-site-et-optimiser-le-referencement"
 title: "Atelier Silex #7 à Silicon Banlieue : publier son site et optimiser le référencement"
-wordpress_id: 201539
 categories: ["Blog Silex","Silex","Silex Labs Events","Silex workshops"]
 tags: ["mda02","référencement","silex","silicon banlieue"]
 
@@ -69,4 +66,5 @@ L’atelier aura lieu Mardi 15 avril à [Silicon Banlieue](http://www.siliconba
 Accueil à partir de 18h30 / Début de l’atelier à 19h
 
 ![Atelier 7](https://www.silexlabs.org/wp-content/uploads/2014/04/SB-atelier-silex-07-carre-agglogo.png)
+
 

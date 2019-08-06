@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-20T15:31:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-b-to-b-5-javascript-le-retour/"
-slug: "atelier-b-to-b-5-javascript-le-retour"
 title: "Atelier B to B #5 : Javascript le retour !"
-wordpress_id: 202577
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["BtoB","IESA","javaScript","web","webdev"]
 
@@ -279,4 +276,5 @@ Dans le domaine du développement, les outils sont en constante évolution. Il e
 C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers pour travailler ensemble avec des outils devenus incontournables et ainsi partager des retours d’expériences sur les bonnes pratiques d’organisation et de travail collaboratif.
 
 ![b-to-b-05-javascript-carre2](https://www.silexlabs.org/wp-content/uploads/2014/06/b-to-b-05-javascript-carre2.png)
+
 

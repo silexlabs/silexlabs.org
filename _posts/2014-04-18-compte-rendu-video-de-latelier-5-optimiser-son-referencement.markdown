@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-04-18T16:38:37.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-de-latelier-5-optimiser-son-referencement/"
-slug: "compte-rendu-video-de-latelier-5-optimiser-son-referencement"
 title: "Compte rendu vidéo de l'atelier #5 : optimiser son référencement"
-wordpress_id: 201795
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["mda","référencement","seo","video"]
 
@@ -135,4 +132,5 @@ On appelle le référencement (en anglais SEO Search Engine Optimization), l'ens
 .
 
 ![MDA-atelier-silex-05-carre-video](https://www.silexlabs.org/wp-content/uploads/2014/04/MDA-atelier-silex-05-carre-video.png)
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-17T07:19:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/arvixe-provides-silex-web-hosting/"
-slug: "arvixe-provides-silex-web-hosting"
 title: "Arvixe provides Silex web hosting !"
-wordpress_id: 135195
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 tags: ["arvixe","silex flash cms"]
 
@@ -27,4 +24,5 @@ Here is the first Silex article : [http://blog.arvixe.com/silex-please-remind-me
 Please help us by sharing this post to your social networks !
 
 And stay tuned, the best is yet to come…
+
 

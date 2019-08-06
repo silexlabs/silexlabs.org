@@ -3,10 +3,7 @@ author: "camille"
 comments: true
 date: "2011-02-22T14:08:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/deezer-widget/"
-slug: "deezer-widget"
 title: "Deezer Widget"
-wordpress_id: 2554
 categories: ["Plugins"]
 
 ---
@@ -39,4 +36,5 @@ The Deezer widget plugin enables to share and display your deezer playlist on yo
 
 
 V1.1 : panel editor added
+
 

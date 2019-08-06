@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-11-05T18:37:40.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v2-0-part-1-the-vision-2/"
-slug: "silex-v2-0-part-1-the-vision-2"
 title: "Silex v2.0 - Part 1, the vision"
-wordpress_id: 180101
 categories: ["Blog Silex","Blog Silex Labs","Silex","The Blog"]
 tags: ["html5-editor","silex","silex V2"]
 
@@ -149,4 +146,5 @@ If you want to know more about it don't miss the next article, "[Silex v2.0 - Pa
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/11/silex-v2-article-01-carre.png)
+
 

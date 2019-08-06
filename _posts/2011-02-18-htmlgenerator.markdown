@@ -3,10 +3,7 @@ author: "Benjamin"
 comments: true
 date: "2011-02-18T16:36:57.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/htmlgenerator/"
-slug: "htmlgenerator"
 title: "HTMLGenerator - display Silex sites in HTML 5"
-wordpress_id: 2503
 categories: ["Plugins"]
 tags: ["html"]
 
@@ -61,4 +58,5 @@ The parameters :
 Source code of the plugin
 
 Here is the source code of this plugin, which is written in haXe (php target): [html5generator](https://www.silexlabs.org/wp-content/uploads/2011/02/html5generator.zip)
+
 

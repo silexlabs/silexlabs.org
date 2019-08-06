@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-21T16:51:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/alpha_fixe-slow-fast/"
-slug: "alpha_fixe-slow-fast"
 title: "Gabarit alpha_fixe (slow / fast)"
-wordpress_id: 396
 categories: ["Layouts"]
 
 ---
@@ -30,4 +27,5 @@ sin movimiento.
 [Click here to see an online demo of this layout](https://www.silexlabs.org/silex_server/?/layout.demo11#/start/page.2)
 
 _**Note :**_ this demo concerns the alpha_slow layout
+
 

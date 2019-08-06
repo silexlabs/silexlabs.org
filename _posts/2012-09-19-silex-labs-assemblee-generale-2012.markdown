@@ -3,10 +3,7 @@ author: "POL"
 comments: true
 date: "2012-09-19T12:35:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-assemblee-generale-2012/"
-slug: "silex-labs-assemblee-generale-2012"
 title: "Silex Labs Assemblée Générale 2012"
-wordpress_id: 136339
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["La Mutinerie","silex labs"]
 
@@ -51,5 +48,6 @@ mardi 25 septembre 2012
 
 
 ###
+
 
 

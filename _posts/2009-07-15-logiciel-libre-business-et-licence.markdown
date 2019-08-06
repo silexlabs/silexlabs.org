@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-15T09:51:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/logiciel-libre-business-et-licence/"
-slug: "logiciel-libre-business-et-licence"
 title: "Logiciel libre, business et licence"
-wordpress_id: 1122
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -42,4 +39,5 @@ Une citation :
 
 
 If you do open source, you’re my hero and I support you.  If you’re a corporation, let’s talk business."
+
 

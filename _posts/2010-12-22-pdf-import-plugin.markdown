@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-12-22T10:36:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/pdf-import-plugin/"
-slug: "pdf-import-plugin"
 title: "PDF import plugin"
-wordpress_id: 1387
 categories: ["Plugins"]
 
 ---
@@ -307,4 +304,5 @@ Also, bitmaps are compressed and, as such, some artefacts can appear on them. Th
 
 
 Users are advised to let texts as texts instead of converting them to vectors.
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-09-25T13:57:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-hacker-workshop-a-leemi/"
-slug: "silex-hacker-workshop-a-leemi"
 title: "Silex Hacker Workshop : Venez Hacker Silex à l'EEMI !"
-wordpress_id: 203816
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["Alexandre Hoyau","css3","EEMI","html5","javaScript","silexV2"]
 
@@ -92,4 +89,5 @@ C’est aussi devenir membre d’un réseau de professionnels du numérique et p
 
 
 ![2014-10-01-eemi-maquette-atelier-carre-01](https://www.silexlabs.org/wp-content/uploads/2014/10/2014-10-01-eemi-maquette-atelier-carre-01.png)
+
 

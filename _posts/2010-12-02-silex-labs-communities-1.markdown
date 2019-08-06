@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-12-02T22:00:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-communities-1/"
-slug: "silex-labs-communities-1"
 title: "Silex Labs Communities #1"
-wordpress_id: 1994
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["communauté","communication","community","réunions","silex labs"]
 
@@ -57,6 +54,7 @@ Association Silex Labs138, rue de Vincennes93100 Montreuil
 
 
   * discuter de la manière dont nous gérons les personnes de la communauté et formaliser les différents "cercles" de la communauté
+
 
 
 

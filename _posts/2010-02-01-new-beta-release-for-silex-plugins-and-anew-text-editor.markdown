@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-02-01T08:21:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/new-beta-release-for-silex-plugins-and-anew-text-editor/"
-slug: "new-beta-release-for-silex-plugins-and-anew-text-editor"
 title: "new beta release for Silex. plugins and a new text editor"
-wordpress_id: 1446
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -30,4 +27,5 @@ So please help us with your comments on the 1.5.4 beta release :
 
 Looking forward to "seeing" you on the forums,
 The dev team.
+
 

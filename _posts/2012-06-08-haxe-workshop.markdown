@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-06-08T17:10:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-workshop/"
-slug: "haxe-workshop"
 title: "Haxe Workshop !"
-wordpress_id: 133148
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -128,4 +125,5 @@ _* le prix de l'atelier correspond à votre cotisation Silex Labs_
 **Comment construire un jeu avec awe6** : [http://bit.ly/KeKzzo](http://bit.ly/KeKzzo)
 
 [![](https://www.silexlabs.org/wp-content/uploads/2012/06/logofondblanc21.png)](https://www.silexlabs.org/133148/the-blog/haxe-workshop/attachment/logofondblanc-5/)        [![](https://www.silexlabs.org/wp-content/uploads/2012/06/logohaxe21.png)](https://www.silexlabs.org/133148/the-blog/haxe-workshop/attachment/logohaxe-3/)           [![](https://www.silexlabs.org/wp-content/uploads/2012/06/logoawe611.png) ](https://www.silexlabs.org/133148/the-blog/haxe-workshop/attachment/logoawe6-2/)
+
 

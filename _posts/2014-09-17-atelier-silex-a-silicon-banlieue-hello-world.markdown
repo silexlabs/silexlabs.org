@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-09-17T15:43:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-a-silicon-banlieue-hello-world/"
-slug: "atelier-silex-a-silicon-banlieue-hello-world"
 title: "Atelier Silex à Silicon Banlieue (#Hello World)"
-wordpress_id: 203662
 categories: ["Exchange","The Blog"]
 tags: ["ecole de la seconde chance","silex","silexV2","silicon banlieue"]
 
@@ -94,6 +91,7 @@ Pour ne rien rater des nouveautés de Silex suivez-nous sur [Twitter](https://
 ](https://www.silexlabs.org/wp-content/uploads/2014/09/SB-atelier-silex-03-carre.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-06-node2-carre1.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-node-carre-as.png)
+
 
 
 

@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-07-18T15:21:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-haxion-plan/"
-slug: "silex-labs-haxion-plan"
 title: "Silex Labs haXion plan"
-wordpress_id: 132308
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["communauté","Haxe","silex labs","WWX2012"]
 
@@ -321,4 +318,5 @@ If you, Haxe community members, are willing to do this, we will do it together! 
   right here](https://www.silexlabs.org/groups/labs/haxe-community-meetings/hierarchy/)!
 
 [![](https://www.silexlabs.org/wp-content/uploads/2012/07/we_want_you-haxe.png)](https://www.silexlabs.org/132308/the-blog/silex-labs-haxion-plan/attachment/we_want_you-haxe/)
+
 

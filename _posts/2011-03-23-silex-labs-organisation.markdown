@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-03-23T12:05:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-organisation/"
-slug: "silex-labs-organisation"
 title: "Silex Labs organisation"
-wordpress_id: 2482
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["réunions"]
 
@@ -313,4 +310,5 @@ Faire le point sur les composants Oof
 Présent, futur, road map, stratégie
 
 Et parler du fork de Zabojad ;)
+
 

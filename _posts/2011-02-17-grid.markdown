@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-02-17T09:50:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/grid/"
-slug: "grid"
 title: "Grid"
-wordpress_id: 2433
 categories: ["Plugins","tools"]
 
 ---
@@ -29,6 +26,7 @@ This plugin is a grid displayed when logged, it snaps components to the nearest 
 
 
   * **grid alpha :** the transparency of the grid, from 0 to 100.
+
 
 
 

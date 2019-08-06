@@ -3,14 +3,12 @@ author: "admin"
 comments: true
 date: "2009-05-30T22:24:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hindi/"
-slug: "hindi"
 title: "Hindi"
-wordpress_id: 3196
 categories: ["Lang"]
 
 ---
 [
 Here is the Hindi language file for Silex WYSIWYG
 ](http://wp-manager.silex-ria.org/wp-content/uploads/2009/05/hi.zip)
+
 

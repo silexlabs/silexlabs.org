@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-25T12:39:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-nicolas-cannasse-one-year-of-haxe/"
-slug: "wwx2014-speech-nicolas-cannasse-one-year-of-haxe"
 title: "WWX2014 speech : Nicolas Cannasse \"One year of Haxe\""
-wordpress_id: 202725
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","nicolas cannasse","silex labs","world wide haxe conference","wwx2014"]
 
@@ -185,4 +182,5 @@ The slides are available at : [http://ncannasse.github.io/hxslides/www/wwx2014.
 
 
 ![wwx2014-carre-n-cannasse](https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-carre-n-cannasse.png)
+
 

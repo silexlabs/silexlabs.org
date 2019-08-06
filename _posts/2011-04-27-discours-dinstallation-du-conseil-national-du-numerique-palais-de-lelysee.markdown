@@ -3,10 +3,7 @@ author: "codam"
 comments: true
 date: "2011-04-27T16:55:51.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/discours-dinstallation-du-conseil-national-du-numerique-palais-de-lelysee/"
-slug: "discours-dinstallation-du-conseil-national-du-numerique-palais-de-lelysee"
 title: "Discours d'installation du Conseil National du Numérique @ Palais de l'Elysée"
-wordpress_id: 2595
 categories: ["The Blog"]
 
 ---
@@ -35,4 +32,5 @@ Les représentants de Silex Labs: Raphael Harmel (à gauche), Pol Goasdoué (à 
 
 --
 Reportage par l'équipe Silex Labs
+
 

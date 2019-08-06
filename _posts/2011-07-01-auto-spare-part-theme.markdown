@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-07-01T12:11:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/auto-spare-part-theme/"
-slug: "auto-spare-part-theme"
 title: "Auto Spare Part Theme"
-wordpress_id: 98290
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ Auto_spare_part is a perfect windows shop template
 [Online demo](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/auto_spare_part)
 
 License : Creative Commons
+
 

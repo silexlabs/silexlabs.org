@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-12-18T21:00:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-community-meeting-wwx-2012-world-wide-haxe/"
-slug: "haxe-community-meeting-wwx-2012-world-wide-haxe"
 title: "haXe community meeting - WWX 2012 - World Wide haXe"
-wordpress_id: 130874
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -30,4 +27,5 @@ Another group has been formed, called “the board”. The mission of its 10 mem
 
 See you there, fellow haXers!
 Lexa for Silex Labs.
+
 

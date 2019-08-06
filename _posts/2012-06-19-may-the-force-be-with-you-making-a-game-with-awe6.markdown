@@ -3,10 +3,7 @@ author: "slxnicow"
 comments: true
 date: "2012-06-19T21:48:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/may-the-force-be-with-you-making-a-game-with-awe6/"
-slug: "may-the-force-be-with-you-making-a-game-with-awe6"
 title: "May the Force be with you: making a game with awe6"
-wordpress_id: 132111
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -60,6 +57,7 @@ And here is an [awe6 workshop in Paris and Amsterdam in june 2012](https://www.s
 A here is some more [content provided by Rob](http://code.google.com/p/awe6/wiki/PublicPresentations).
 
 **! Information !** You can find Rob Fell's interview (in french) on [Silicon Maniacs](http://www.siliconmaniacs.org/i-t-boys-i-t-girls-haxe/) - A very interesting interview realised during the haxe conf, also featuring Nicolas Cannasse, Peter Halacsy and Valerie alias Elimak
+
 
 
 

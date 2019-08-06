@@ -3,11 +3,8 @@ author: "wollerosekauf"
 comments: true
 date: "2019-07-29T10:28:31.210Z"
 layout: "post"
-link: "https://www.silexlabs.org/?p=137094"
 published: false
-slug: ""
 title: "Steakhouse Theme facebook"
-wordpress_id: 137094
 categories: ["Exchange","Themes"]
 
 ---
@@ -25,4 +22,5 @@ I share it with you because it is very simple and easy to customize with your co
 Seems to run on any modern browser, also mobil.
 
 The license/terms of use for this theme is the same as the license/terms of use form www.freewebsitetemplates.com!
+
 

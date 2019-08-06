@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-02-04T22:38:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-in-the-top-50/"
-slug: "silex-in-the-top-50"
 title: "Silex in the top 50 !"
-wordpress_id: 2267
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -64,4 +61,5 @@ Shall we say that today was the beginning of our success !? We want to thank you
 Sincerely,
 
 Silex Team
+
 

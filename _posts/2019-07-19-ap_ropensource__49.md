@@ -28,3 +28,4 @@ L’Apéro Open Source se déroule dans notre QG : Le Capitole. Une brasserie o�
 Le Capitole
 105 Boulevard de Sébastopol
 75002 Paris
+

@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-22T10:15:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/gabarit-blur_down_up-slow-fast/"
-slug: "gabarit-blur_down_up-slow-fast"
 title: "Gabarit blur_down_up (slow / fast)"
-wordpress_id: 431
 categories: ["Layouts"]
 
 ---
@@ -30,4 +27,5 @@ Movimiento de aparicion / desaparicion de abajo hacia arriba.
 [Click here to see an online demo of this layout](https://www.silexlabs.org/silex_server/?/layout.demo6#/start/page.2)
 
 _**Note :**_ this demo concerns the blur_slow_down_up layout
+
 

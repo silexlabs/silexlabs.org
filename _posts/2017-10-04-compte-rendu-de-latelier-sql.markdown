@@ -3,10 +3,7 @@ author: "Tariq"
 comments: true
 date: "2017-10-04T17:22:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-latelier-sql/"
-slug: "compte-rendu-de-latelier-sql"
 title: "Compte rendu de l'atelier SQL"
-wordpress_id: 207260
 categories: ["The Blog"]
 
 ---
@@ -86,4 +83,5 @@ Evidemment nous n'oublions la e-bibliographie avec les liens suivants :
 • [Le bog - en français - de Olivier DASINI un expert MySQL (D'aucuns disent même que c'est le jumeau maléfique de Donovan)](http://dasini.net/blog/fr/)
 
 Enfin si vous avez des questions n'hésitez surtout pas à contacter [Donovan](https://twitter.com/DonoSoftly) ou même [Silex Labs](mailto:contact@silexlabs.org?Subject=Questions sur SQL) directement
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-26T00:36:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-3-liens-internes-liens-externes-et-liens-embeded/"
-slug: "atelier-silex-3-liens-internes-liens-externes-et-liens-embeded"
 title: "Atelier Silex #3 à Silicon Banlieue : Fonctions avancées"
-wordpress_id: 201333
 categories: ["Silex","Silex workshops"]
 tags: ["silex","silex labs","silexV2","silicon banlieue"]
 
@@ -212,4 +209,5 @@ Le quatrième atelier est déjà planifié vous pouvez déjà noter la date : [
 
 
 ![SB-atelier-silex-03](https://www.silexlabs.org/wp-content/uploads/2014/02/SB-atelier-silex-03-carre-cr-video.png)
+
 

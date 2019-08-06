@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-18T16:13:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-my-portfolio/"
-slug: "theme-my-portfolio"
 title: "My Portfolio Theme"
-wordpress_id: 590
 categories: ["Themes"]
 tags: ["Léo Francia","silex theme"]
 
@@ -76,4 +73,5 @@ _> use silex dev kit and oof dev kit to publish these components in Flash_
 
 [devkit_myportfolio.zip](http://wp-manager.silex-ria.org/wp-content/uploads/2010/05/devkit_myportfolio.zip)_
 _
+
 

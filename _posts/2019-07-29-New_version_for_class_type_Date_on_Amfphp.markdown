@@ -3,11 +3,8 @@ author: "deleu"
 comments: true
 date: "2019-07-29T10:28:31.219Z"
 layout: "post"
-link: "https://www.silexlabs.org/?p=137258"
 published: false
-slug: ""
 title: "New version for class type Date on Amfphp"
-wordpress_id: 137258
 categories: ["Exchange amfPHP"]
 
 ---
@@ -33,4 +30,5 @@ public $second set as date("s") when __construct or setTimestamp() is called; S
 3. Added timestampChange() method that fills up attributes from year to second everytime setTimestamp() is called; __construct() also dispatches it.
 4. __toString() were overwritten to return a datetime string formatted in the $USE_FORMAT form.
 5.internalDate() function added to simplify how __toString() will work instead of abusive use of native php function date().
+
 

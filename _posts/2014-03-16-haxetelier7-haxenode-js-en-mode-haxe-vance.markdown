@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-03-16T18:13:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier7-haxenode-js-en-mode-haxe-vance/"
-slug: "haxetelier7-haxenode-js-en-mode-haxe-vance"
 title: "Haxetelier#7 : Haxe/node.js en mode \"Haxe-vancé\""
-wordpress_id: 201517
 categories: ["Blog Haxe","Silex Labs Events","The Blog"]
 tags: ["Haxe","haxetelier","IESA","node.js"]
 
@@ -170,6 +167,7 @@ Pour les adhérents cet atelier est gratuit, demandez le code promotionnel à co
 
 
 [Inscription en ligne pour un événement](http://www.eventbrite.fr/r/etckt) pour [Haxetelier#7 : Haxe/node.js en mode "Haxe-vancé"](https://www.eventbrite.fr/e/billets-haxetelier7-haxenodejs-en-mode-haxe-vance-10978287353?ref=etckt) réalisé par [Eventbrite](http://www.eventbrite.fr?ref=etckt)
+
 
 
 

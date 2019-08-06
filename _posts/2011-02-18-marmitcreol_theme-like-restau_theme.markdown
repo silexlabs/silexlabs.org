@@ -3,10 +3,7 @@ author: "admoon"
 comments: true
 date: "2011-02-18T13:26:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/marmitcreol_theme-like-restau_theme/"
-slug: "marmitcreol_theme-like-restau_theme"
 title: "Marmitcreol_theme like restau_theme"
-wordpress_id: 2461
 categories: ["Themes"]
 
 ---
@@ -203,4 +200,5 @@ _Note : to use this website, you have to install the excel plugin that you can d
 <!-- more -->
 
 ![](https://www.silexlabs.org/wp-content/uploads/2011/02/architecture1.jpg)
+
 

@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T12:10:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/business-theme/"
-slug: "business-theme"
 title: "Business Theme"
-wordpress_id: 87381
 categories: ["Themes"]
 
 ---
@@ -25,4 +22,5 @@ This template is simple and effective.
 [Online demo](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/business)
 
 License : Creative Commons
+
 

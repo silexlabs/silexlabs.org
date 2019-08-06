@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-10-26T09:10:59.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-atelier-script-shell/"
-slug: "compte-rendu-video-atelier-script-shell"
 title: "Compte-rendu vidéo atelier Script Shell"
-wordpress_id: 205753
 categories: ["Compte rendu Vidéo","Industrial Workflow","The Blog","Vidéos"]
 tags: ["bash","Christophe Ondrejec","linux","script","Scriptshell","Shell","silexlabs","terminal","video"]
 
@@ -144,4 +141,5 @@ Cet atelier entre dans le cadre du projet[ “Le tour du Web en 50 ateliers”](
 [https://www.flickr.com/photos/120854033@N02/albums/72157661515014466](https://www.flickr.com/photos/120854033@N02/albums/72157661515014466)
 
 [![carre-sponsors.svg](https://www.silexlabs.org/wp-content/uploads/2015/10/carre-sponsors.svg_.png)](https://www.silexlabs.org/wp-content/uploads/2015/10/carre-sponsors.svg_.png)
+
 

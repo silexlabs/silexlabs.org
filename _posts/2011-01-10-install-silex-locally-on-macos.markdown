@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-01-10T17:06:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/install-silex-locally-on-macos/"
-slug: "install-silex-locally-on-macos"
 title: "Install Silex locally on MacOs"
-wordpress_id: 1024
 categories: ["Tutorials Silex"]
 
 ---
@@ -116,4 +113,5 @@ Let's install Silex locally on your Mac :)
 
 
 Let's continue with [Silex first connection](https://www.silexlabs.org/?page_id=977) !
+
 

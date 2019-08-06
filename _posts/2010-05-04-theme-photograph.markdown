@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-04T14:47:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-photograph/"
-slug: "theme-photograph"
 title: "Photograph Theme"
-wordpress_id: 3207
 categories: ["Themes"]
 tags: ["kathleen berthou","silex theme"]
 
@@ -75,4 +72,5 @@ Online Demo](http://silexprod.com/silex_server_kath/?/theme_photograph)
 
 [**devkit_photograph.zip**
 ](https://www.silexlabs.org/wp-content/uploads/2010/12/devkit_photograph.zip)
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-16T15:03:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ressources-2-du-lourd-et-du-beau/"
-slug: "ressources-2-du-lourd-et-du-beau"
 title: "Ressources 2 : du lourd et du beau"
-wordpress_id: 1529
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -24,4 +21,5 @@ Une selection des notres :
 [http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#general](http://www.smashingmagazine.com/2009/10/21/web-conferences-roundup-events-from-around-the-globe/#general)
 
 ps : si comme notre ami NM, auteur de l'image ci-dessus, tu souhaites participer au concours "Dessine moi un Silex" n'hésite pas  nous evoyer tes images (500x311 - .png / .jpg).
+
 

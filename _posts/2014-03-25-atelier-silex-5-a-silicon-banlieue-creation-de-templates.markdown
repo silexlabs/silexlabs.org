@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-03-25T14:32:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-5-a-silicon-banlieue-creation-de-templates/"
-slug: "atelier-silex-5-a-silicon-banlieue-creation-de-templates"
 title: "Atelier Silex #5 à Silicon Banlieue : Création de templates"
-wordpress_id: 201572
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","silex","silicon banlieue"]
 
@@ -72,4 +69,5 @@ Et attention, le rythme va s'intensifier, vous pouvez déjà noter les deux proc
 
 
 [![Atelier Silex](https://www.silexlabs.org/wp-content/uploads/2014/03/SB-atelier-silex-05-carre-agglogo-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/03/SB-atelier-silex-05-carre-agglogo.png)
+
 

@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T09:14:59.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hill-theme/"
-slug: "hill-theme"
 title: "Hill Theme"
-wordpress_id: 86566
 categories: ["Themes"]
 
 ---
@@ -34,4 +31,5 @@ This template is a website for your company or personal. With a  gallery and a n
 [Original template](http://opensourcetemplates.org/preview/tree-hills-free-templates/)
 
 License : Creative Commons
+
 

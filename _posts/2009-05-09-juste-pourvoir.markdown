@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-09T08:10:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/juste-pourvoir/"
-slug: "juste-pourvoir"
 title: "Juste pour voir"
-wordpress_id: 82
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["la défense","silex flash cms","team","test"]
 
@@ -49,6 +46,7 @@ Dans quel tour est l'équipe Silex ce mois-ci ?
 > E) la grande arche (à gauche)
 
 > F) la petite poubelle verte au pieds des 4 temps
+
 
 
 

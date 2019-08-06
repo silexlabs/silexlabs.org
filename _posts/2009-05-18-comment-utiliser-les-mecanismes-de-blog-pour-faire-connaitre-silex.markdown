@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-18T08:44:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/comment-utiliser-les-mecanismes-de-blog-pour-faire-connaitre-silex/"
-slug: "comment-utiliser-les-mecanismes-de-blog-pour-faire-connaitre-silex"
 title: "Comment utiliser les mécanismes de blog pour faire connaître silex"
-wordpress_id: 173
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -25,4 +22,5 @@ Il y a encore beaucoup de choses à dire sur les blogs, mais je pense que c'est 
 bloggeusement votre,
 
 Ariel
+
 

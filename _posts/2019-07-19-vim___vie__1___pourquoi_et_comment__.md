@@ -50,3 +50,4 @@ Chaque participant repartira avec son .vimrc et un profond dégoût pour les éd
 
 Cet atelier sera animé par Jean-Baptiste Richardet aka Jb, Lead Tech chez Malakoff-Médéric et Vice-président de Silex Labs.
 
+

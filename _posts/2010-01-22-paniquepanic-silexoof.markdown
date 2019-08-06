@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-01-22T08:33:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/paniquepanic-silexoof/"
-slug: "paniquepanic-silexoof"
 title: "Panique/Panic Silex/OOF"
-wordpress_id: 1419
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -48,4 +45,5 @@ You will find logs in the logs/ folder
 Be careful, this is bad for performance and security, so once you're done, put it back to how it was before!
 
 Finally, you can check the messages that go between your silex page and your server with [CharlesProxy](http://www.charlesproxy.com/).
+
 

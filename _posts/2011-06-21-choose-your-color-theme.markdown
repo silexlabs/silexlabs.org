@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-21T09:57:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/choose-your-color-theme/"
-slug: "choose-your-color-theme"
 title: "Choose Your Color Theme"
-wordpress_id: 85162
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ The header and footer's color of this template can be changed. A custom template
 [Original template](http://www.free-css.com/free-css-templates/page1/megacorporate.php#bookmarks)
 
 License : Creative Commons
+
 

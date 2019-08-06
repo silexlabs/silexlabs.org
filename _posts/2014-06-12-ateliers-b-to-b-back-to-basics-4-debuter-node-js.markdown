@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-06-12T16:05:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ateliers-b-to-b-back-to-basics-4-debuter-node-js/"
-slug: "ateliers-b-to-b-back-to-basics-4-debuter-node-js"
 title: "Ateliers B to B (Back to Basics) #4 : Débuter Node.js"
-wordpress_id: 201977
 categories: ["Blog Silex Labs","Silex Labs Events"]
 tags: ["atelier","Back to Basics","css3","html5","industrial workflow","javaScript","js","node.js","site internet"]
 
@@ -243,6 +240,7 @@ C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers po
 
 
 ![Atelier nodejs](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-node-carre-as.png)
+
 
 
 

@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-04-06T17:35:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/my-media-pdf-import-template/"
-slug: "my-media-pdf-import-template"
 title: "My Media - PDF import template"
-wordpress_id: 16202
 categories: ["Exchange Silex","The Blog","Themes"]
 tags: ["Léo Francia","pdf","pdf import template","silex theme","template"]
 
@@ -88,4 +85,5 @@ This is a derive work from the template of [Leo Francia](http://loeufalacoque.c
 In order to customize all the components and designe elements of this template, please download the dev kit from the original template of [Leo Francia](http://loeufalacoque.com/leofrancia/) ["My media theme" here](https://www.silexlabs.org/?p=618)
 **
 **
+
 

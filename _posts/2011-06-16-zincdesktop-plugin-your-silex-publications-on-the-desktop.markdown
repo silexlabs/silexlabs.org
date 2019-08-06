@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-06-16T10:16:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/zincdesktop-plugin-your-silex-publications-on-the-desktop/"
-slug: "zincdesktop-plugin-your-silex-publications-on-the-desktop"
 title: "ZincDesktop plugin, your Silex publications on the desktop"
-wordpress_id: 81290
 categories: ["Plugins"]
 
 ---
@@ -120,6 +117,7 @@ Please look at the site "portable-app" provided with Silex portable app version
 
 
   * [Zinc API](http://www.multidmedia.com/support/livedocs/)
+
 
 
 

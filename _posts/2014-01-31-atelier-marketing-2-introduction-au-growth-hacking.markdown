@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-31T21:54:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-2-introduction-au-growth-hacking/"
-slug: "atelier-marketing-2-introduction-au-growth-hacking"
 title: "Atelier Marketing #2 : Introduction au Growth Hacking"
-wordpress_id: 201150
 categories: ["Silex Labs Events"]
 tags: ["growth hacking","marketing","silicon banlieue","waltermelon"]
 
@@ -106,4 +103,5 @@ Si cet atelier vous intéresse [inscrivez-vous dès maintenant !!](http://www.s
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2014/01/SB-SL-marketing-02-carre-19h.png)
+
 

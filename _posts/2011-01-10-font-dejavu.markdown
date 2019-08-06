@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2011-01-10T10:07:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/font-dejavu/"
-slug: "font-dejavu"
 title: "Font DejaVU"
-wordpress_id: 1679
 categories: ["Fonts"]
 
 ---
@@ -40,4 +37,5 @@ FONTS_LIST=DejaVu Sans Mono@DejaVu Sans Mono-bold@DejaVu Sans Mono-bold-italic@A
 
 
 You can download the source DejaVu Fla here:[ ](https://www.silexlabs.org/?attachment_id=1640)[DejaVu-fla](https://www.silexlabs.org/wp-content/uploads/2011/01/DejaVu-fla.zip)
+
 

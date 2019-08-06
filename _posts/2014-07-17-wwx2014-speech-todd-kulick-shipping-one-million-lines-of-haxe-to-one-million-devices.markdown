@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-17T10:21:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-todd-kulick-shipping-one-million-lines-of-haxe-to-one-million-devices/"
-slug: "wwx2014-speech-todd-kulick-shipping-one-million-lines-of-haxe-to-one-million-devices"
 title: "WWX2014 - Speech : Todd Kulick \"Shipping one million lines of Haxe to one million devices\""
-wordpress_id: 203004
 categories: ["Blog Haxe"]
 tags: ["Haxe","tivo","todd kulick","wwx2014"]
 
@@ -165,6 +162,7 @@ Over one million lines of AS3 product code and tests were (mostly) programmatica
 
 
 ##  [![wwx2014-carre-t-kulick](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-t-kulick-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-t-kulick.png)
+
 
 
 

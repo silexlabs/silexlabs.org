@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-15T14:20:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ateliers-b-to-b-back-to-basics-1-initiation-a-lhtml-5/"
-slug: "ateliers-b-to-b-back-to-basics-1-initiation-a-lhtml-5"
 title: "Ateliers B to B (Back To Basics) #1 : Initiation HTML5"
-wordpress_id: 201952
 categories: ["Blog Silex Labs","Silex Labs Events"]
 tags: ["atelier","Back to Basics","css3","html5","industrial workflow","javaScript","node.js","silex labs","site internet"]
 
@@ -182,6 +179,7 @@ C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers po
 
 
 ![b-to-b-01-html5-carre2](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-html5-carre2.png)
+
 
 
 

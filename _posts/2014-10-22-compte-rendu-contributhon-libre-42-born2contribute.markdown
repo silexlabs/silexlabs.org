@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-10-22T15:15:22.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-contributhon-libre-42-born2contribute/"
-slug: "compte-rendu-contributhon-libre-42-born2contribute"
 title: "Compte rendu Contributhon libre @ 42  \"Born2Contribute\""
-wordpress_id: 203878
 categories: ["Contributhon","Silex Labs Events","The Blog"]
 tags: ["42","contributhon","contribution","Haxe","silexV2"]
 
@@ -183,6 +180,7 @@ Very cool ce [#contributhon](https://twitter.com/hashtag/contributhon?src=hash) 
 
 ![42-Contributhon-carre-01](https://www.silexlabs.org/wp-content/uploads/2014/10/42-Contributhon-carre-01.png)
 </blockquote>
+
 
 
 

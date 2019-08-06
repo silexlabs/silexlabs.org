@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-27T01:46:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-mois-de-tous-les-fantasmes/"
-slug: "le-mois-de-tous-les-fantasmes"
 title: "Le mois de tous les fantasmes **** A month of fantasies"
-wordpress_id: 272
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["gainsbourg","serge","source"]
 
@@ -32,5 +29,6 @@ tags: ["gainsbourg","serge","source"]
 
 
 **Silex is #69 on SourceForge's list of projects !!! :)**
+
 
 

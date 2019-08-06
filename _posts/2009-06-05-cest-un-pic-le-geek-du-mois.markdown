@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-05T20:34:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cest-un-pic-le-geek-du-mois/"
-slug: "cest-un-pic-le-geek-du-mois"
 title: "C'est un pic ! / Le geek du mois... **** Where there's a peak...there's a geek !"
-wordpress_id: 459
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["analytics","ariel sommeria","cms","flash","geek","peak","référencement","traffic","visitors"]
 
@@ -36,4 +33,5 @@ _705 visits for today only... Not bad !_
 _Hang in there guys, coz' 216 visits are directly coming from [Ariel's post](http://arielsommeria.com/blog/2009/06/03/silex-is-sourceforge-project-of-the-month/) about Silex being POTM on SourceForge._
 
 _WELL DONE ARIEL, YOU ARE THE GEEK OF THE MONTH !_
+
 

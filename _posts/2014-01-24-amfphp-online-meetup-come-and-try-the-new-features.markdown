@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2014-01-24T17:14:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-online-meetup-come-and-try-the-new-features/"
-slug: "amfphp-online-meetup-come-and-try-the-new-features"
 title: "Amfphp online meetup, come and try the new features!"
-wordpress_id: 200969
 categories: ["Blog amfPHP","Silex Labs Events","The Blog"]
 tags: ["amfphp","amfphp 2.2"]
 
@@ -45,4 +42,5 @@ This is a first, so space is limited to 10 participants. So hurry if you want to
 To know at what time this is for you locally, [have a look here](http://www.worldtimeserver.com/convert_time_in_UTC.aspx?y=2014&mo=2&d=11&h=17&mn=30).
 
 ![hangout-amfphp-carre-01](https://www.silexlabs.org/wp-content/uploads/2014/01/hangout-amfphp-carre-011.png)
+
 

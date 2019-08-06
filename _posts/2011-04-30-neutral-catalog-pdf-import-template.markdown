@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-04-30T19:01:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/neutral-catalog-pdf-import-template/"
-slug: "neutral-catalog-pdf-import-template"
 title: "Neutral Catalog - PDF import template"
-wordpress_id: 33062
 categories: ["Exchange Silex","Themes"]
 tags: ["Léo Francia","pdf","pdf import template","silex theme","template"]
 
@@ -60,4 +57,5 @@ To make a web site out of a PDF, follow these steps
 
 
 After importing your PDF you can add multimedia to your flip catalog. Simply open your catalog and [enter Silex WYSIWYG editor](https://www.silexlabs.org/?page_id=293). Then use Silex to change anything you want.
+
 

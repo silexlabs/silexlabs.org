@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-10-27T15:18:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/redirect-plugin-for-silex/"
-slug: "redirect-plugin-for-silex"
 title: "Redirect plugin for Silex"
-wordpress_id: 984
 categories: ["Plugins"]
 tags: ["plugin"]
 
@@ -61,4 +58,5 @@ The parameters :
 
 
 This plugin is very simple, it is only 1 php file, you can download the plugin and edit the index.php file.
+
 

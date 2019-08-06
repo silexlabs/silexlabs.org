@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-29T17:41:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/isomorphic-haxe-using-ufront-to-build-apps-that-work-client-side-or-server-side/"
-slug: "isomorphic-haxe-using-ufront-to-build-apps-that-work-client-side-or-server-side"
 title: "Isomorphic Haxe: Using Ufront to build apps that work client side or server side"
-wordpress_id: 204959
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["cross-platform","css3","Front","Haxe","Haxe conference","html5","Jason O'Neil","javaScript","server","Ufront","video","web","wwx","wwx2015"]
 
@@ -64,6 +61,7 @@ https://twitter.com/mknol/status/604650321965654016
 https://twitter.com/silexlabs/status/604650414575738880
 
 https://twitter.com/silexlabs/status/626534237601140736
+
 
 
 

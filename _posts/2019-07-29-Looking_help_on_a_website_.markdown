@@ -3,11 +3,8 @@ author: "triace"
 comments: true
 date: "2019-07-29T10:28:31.228Z"
 layout: "post"
-link: "https://www.silexlabs.org/?p=143448"
 published: false
-slug: ""
 title: "Looking help on a website :)"
-wordpress_id: 143448
 categories: ["The Blog"]
 
 ---
@@ -22,4 +19,5 @@ Thanks guys. =]
 
 
 Also I cant find the forums on here for some reason and my email didnt get any activation key. The site here asked for one on registration. Also if you guys need donations on your project here let me know.
+
 

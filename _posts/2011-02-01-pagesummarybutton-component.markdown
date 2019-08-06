@@ -3,10 +3,7 @@ author: "gina1985qian"
 comments: true
 date: "2011-02-01T15:34:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/pagesummarybutton-component/"
-slug: "pagesummarybutton-component"
 title: "Catalog pages list, Flip Book summary"
-wordpress_id: 98477
 categories: ["Plugins"]
 tags: ["PageSummayButton"]
 
@@ -77,4 +74,5 @@ The plugin is made up of these files:
 
 
 Here are the sources: http://silex.svn.sourceforge.net/viewvc/silex/apps/third-party/plugins/pageSummaryButtonV2/src/
+
 

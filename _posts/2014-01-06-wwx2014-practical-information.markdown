@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-06T11:50:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-practical-information/"
-slug: "wwx2014-practical-information"
 title: "wwx2014 Practical information"
-wordpress_id: 201185
 categories: ["Blog Haxe","Silex Labs Events","The Blog"]
 tags: ["map","practical informations","wwx2014"]
 
@@ -243,4 +240,5 @@ Breakfast not included
 
 
 **More info about the schedule coming soon!!**
+
 

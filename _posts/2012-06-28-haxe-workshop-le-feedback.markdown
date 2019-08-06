@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-06-28T09:05:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-workshop-le-feedback/"
-slug: "haxe-workshop-le-feedback"
 title: "Haxe workshop : le feedback !"
-wordpress_id: 133445
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -111,4 +108,5 @@ Encore merci Valérie :)
 Et pour la partie théorique sur Haxe, n'hésitez pas à consulter les codes source offerts pas Alexandre [ici](https://docs.google.com/file/d/0BxmdV6ktIMy1NENmN0RDY0dRdDg/edit?pli=1).
 
 Merci Alex :)
+
 

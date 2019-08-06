@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-17T07:23:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/how-to-use-the-simple-gallery-plugin-in-silex/"
-slug: "how-to-use-the-simple-gallery-plugin-in-silex"
 title: "How to Use the Simple Gallery Plugin in Silex ?"
-wordpress_id: 135509
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 tags: ["arvixe","silex flash cms"]
 
@@ -19,4 +16,5 @@ Summer is here and vacations picture are coming…what about creating a dedicate
 Check [the tutorial on Arvixe](http://blog.arvixe.com/how-to-use-the-simple-gallery-plugin-in-silex/) !
 
 [![](https://www.silexlabs.org/wp-content/uploads/2012/08/simple_gallery_plugin_tutorial.png)](http://blog.arvixe.com/how-to-use-the-simple-gallery-plugin-in-silex/)
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-06T16:36:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-was-haxeptional-thanks-to-you-all/"
-slug: "wwx2013-was-haxeptional-thanks-to-you-all"
 title: "wwx2013 was Haxeptional thanks to you all!!"
-wordpress_id: 140165
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["conference","Haxe","Haxe community","wwx","wwx2013"]
 
@@ -257,4 +254,5 @@ And the [Haxe foundation](http://haxe-foundation.org/).
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/05/Capture-d’écran-2013-05-31-à-16.08.47-440x687.png)](https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/attachment/capture-decran-2013-05-31-a-16-08-47/)
+
 

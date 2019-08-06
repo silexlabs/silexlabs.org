@@ -3,12 +3,10 @@ author: "lexa"
 comments: true
 date: "2011-02-19T15:36:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/soiree-sl/"
-slug: "soiree-sl"
 title: "Soirée SL - Rencontre la célèbre team Silex et amfPHP à Paris"
-wordpress_id: 2427
 categories: ["Blog amfPHP"]
 
 ---
 [![Une soirée Silex Labs pour la 1ere version stable Silex Carbon et pour la v2.0 d'amfPHP, les 2 plus grosses avancées que ces 2 projets aient jamais connu!](https://www.silexlabs.org/wp-content/uploads/2011/02/capture_silex_party.jpg)](http://community.silexlabs.org/sl-party/)
+
 

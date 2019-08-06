@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-08-10T18:47:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lex-quick-and-dirty-tools/"
-slug: "lex-quick-and-dirty-tools"
 title: "Lex Quick And Dirty tools"
-wordpress_id: 3203
 categories: ["tools"]
 
 ---
@@ -35,4 +32,5 @@ Unzip and put the swf file in silex "tools/" folder
 
 select a media
 click "duplicate"
+
 

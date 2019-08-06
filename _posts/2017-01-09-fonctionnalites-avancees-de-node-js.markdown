@@ -3,10 +3,7 @@ author: "jbips"
 comments: true
 date: "2017-01-09T16:44:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fonctionnalites-avancees-de-node-js/"
-slug: "fonctionnalites-avancees-de-node-js"
 title: "Fonctionnalités avancées de Node.js"
-wordpress_id: 206825
 categories: ["Blog Silex Labs","Compte rendu Vidéo","The Blog"]
 tags: ["backend","compte rendu","dev","javaScript","jean baptiste richardet","node.js","nodejs","silex labs","video","webdev"]
 
@@ -46,4 +43,5 @@ Bon visionnage et n'hésitez pas à poser des questions et laisser des commentai
 Cet atelier entre dans le cadre du projet[ “Le tour du Web en 50 ateliers”](https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/) qui propose des ateliers d’initiation aux métiers du numérique par la pratique pour permettre aux personnes défavorisées face à l’accès au numérique, de comprendre ce secteur et de s’initier à ses métiers.
 
 ![tour-du-web-carre-avr-2016-fdblc_simplon](https://www.silexlabs.org/wp-content/uploads/2016/10/tour-du-web-carre-avr-2016-fdblc_simplon.png)
+
 

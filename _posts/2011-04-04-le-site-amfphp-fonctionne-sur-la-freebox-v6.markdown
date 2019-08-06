@@ -3,10 +3,7 @@ author: "codam"
 comments: true
 date: "2011-04-04T12:06:25.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-site-amfphp-fonctionne-sur-la-freebox-v6/"
-slug: "le-site-amfphp-fonctionne-sur-la-freebox-v6"
 title: "Le site Amfphp fonctionne sur la freebox v6 !!!"
-wordpress_id: 2537
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -21,4 +18,5 @@ Si vous voulez le tester aussi chez vous:
 [http://silexprod.com/silexdemohtml/?/amfphp/php.remoting/what.is.amfphp&format=html](http://silexprod.com/silexdemohtml/?/amfphp/php.remoting/what.is.amfphp&format=html)
 
 Merci à benjamin, à camcrock & à Pol !
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-10-16T15:24:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier5-haxe-node-js-la-suite/"
-slug: "haxetelier5-haxe-node-js-la-suite"
 title: "Haxetelier#5 : Haxe & Node.js la suite"
-wordpress_id: 179867
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","haxetelier","node.js"]
 
@@ -169,4 +166,5 @@ Il est aussi le créateur de [Try Haxe](http://try.haxe.org/).
 Si vous voulez voir ou revoir le Lightning Talk de Clemos lors de la wwx2013 c’est [ici](http://www.youtube.com/watch?v=5z_Oc3EkRfs).
 
 github : [http//github.com/clemos](https://www.silexlabs.org/179221/the-blog/haxetelier4-passez-en-mode-node-js-pour-un-mhaxe-de-simplicite/http//github.com/clemos)
+
 

@@ -3,10 +3,7 @@ author: "hachimi"
 comments: true
 date: "2017-03-21T20:00:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-latelier-silex-do-it-yourself-webdesign/"
-slug: "compte-rendu-de-latelier-silex-do-it-yourself-webdesign"
 title: "Compte rendu de l'atelier Silex: Do It Yourself Webdesign"
-wordpress_id: 207028
 categories: ["Blog Silex","Blog Silex Labs","Silex","Silex Labs Events","The Blog"]
 tags: ["Alexandre Hoyau","silex labs","silexV2"]
 
@@ -193,6 +190,7 @@ com
 
 
   * alternative a mailchimp ([http://alternativeto.net/software/mailtrain/?license=opensource](http://alternativeto.net/software/mailtrain/?license=opensource))
+
 
 
 

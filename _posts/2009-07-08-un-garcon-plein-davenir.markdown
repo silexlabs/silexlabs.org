@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-07-08T21:36:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/un-garcon-plein-davenir/"
-slug: "un-garcon-plein-davenir"
 title: "Un garçon plein d’avenir…"
-wordpress_id: 1005
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["design","équipe","études","goasdoué","graphics","icônes","illustrator","indesign","projets","rapport","rose","stage","stagiaire","t-shirt","widget"]
 
@@ -36,4 +33,5 @@ Nous te souhaitons une bonne continuation à Silex et partout ailleurs, de Cuba 
 
 
 **KudoS ARTHUR, and KeeP in ToucH !**
+
 

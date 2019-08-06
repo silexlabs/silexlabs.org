@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T12:02:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-cristian-baluta-native-ios-apps-with-haxe-objective-c-target/"
-slug: "wwx2013-speech-cristian-baluta-native-ios-apps-with-haxe-objective-c-target"
 title: "wwx2013 speech: Cristian Băluță \"Native iOS apps with haxe objective-C target\""
-wordpress_id: 142686
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["Cristian Băluță","Haxe","Native iOS apps","objective-C target","wwx2013"]
 
@@ -79,6 +76,7 @@ The state of the target and what needs to be done, similarities with flash, comp
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

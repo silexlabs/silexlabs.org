@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-05-22T13:49:59.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-practical-informations/"
-slug: "wwx2013-practical-informations"
 title: "wwx2013 Practical information"
-wordpress_id: 138585
 categories: ["Silex Labs Events","The Blog"]
 tags: ["maps","practical informations","wwx2013"]
 
@@ -64,4 +61,5 @@ Métro Line 9, station Robespierre
 [metro paris](https://www.silexlabs.org/138585/the-blog/wwx2013-practical-informations/attachment/metro-paris-2/)
 
 Looking forward seeing you in Paris!!
+
 

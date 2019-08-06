@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-13T12:06:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wrapping-up-wwx2014/"
-slug: "wrapping-up-wwx2014"
 title: "Wrapping up WWX2014"
-wordpress_id: 203978
 categories: ["Blog Haxe","The Blog"]
 tags: ["Haxe","silex labs","wwx2014"]
 
@@ -218,4 +215,5 @@ Wyzapps' donation and support of the Association since the beginning.
 
 
 ![wwx2014-bilan-carre](https://www.silexlabs.org/wp-content/uploads/2014/11/wwx2014-bilan-carre.png)
+
 

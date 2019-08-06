@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-09-13T09:48:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-and-as2/"
-slug: "haxe-and-as2"
 title: "Haxe and AS2"
-wordpress_id: 1761
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -126,4 +123,5 @@ Here is a zip containing the two Flash Develop projects and the source. Compile 
 
 
 [testhaxe](https://www.silexlabs.org/wp-content/uploads/2010/09/testhaxe.zip)
+
 

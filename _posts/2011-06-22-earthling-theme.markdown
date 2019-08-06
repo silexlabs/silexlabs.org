@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T13:38:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/earthling-theme/"
-slug: "earthling-theme"
 title: "Earthling Theme"
-wordpress_id: 88007
 categories: ["Themes"]
 
 ---
@@ -31,4 +28,5 @@ This template is for your blog. With his original design, Earthling is destined 
 [Original template](http://www.free-css.com/free-css-templates/page18/earthling.php#bookmarks)
 
 License : Creative Commons
+
 

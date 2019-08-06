@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2014-08-06T07:27:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-2-1-released/"
-slug: "amfphp-2-2-1-released"
 title: "Amfphp 2.2.1 released"
-wordpress_id: 203364
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 tags: ["amfphp"]
 
@@ -26,6 +23,7 @@ Silex Labs is proud to present an update to [Amfphp](https://www.silexlabs.org/a
 
 
   * The API reference is now included in the distribution
+
 
 
 

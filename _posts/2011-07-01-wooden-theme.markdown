@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-07-01T08:17:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wooden-theme/"
-slug: "wooden-theme"
 title: "Wooden Theme"
-wordpress_id: 97390
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ Wooden Wall is an original template to value your most beautiful creations
 [Original Template](http://www.templatemo.com/preview/templatemo_306_wooden_wall)
 
 License : Creative Commons
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-12-01T13:49:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/what-a-user-what-a-guide-in-english-please/"
-slug: "what-a-user-what-a-guide-in-english-please"
 title: "What a user ! What a guide ! In English please !"
-wordpress_id: 2031
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -49,4 +46,5 @@ So  please, keep it alive and leave comments in the documentation itself,  right
 
 Best,
 Silex Labs team.
+
 

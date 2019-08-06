@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-03T13:33:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ecoles-et-logiciels-libres-le-contributhon/"
-slug: "ecoles-et-logiciels-libres-le-contributhon"
 title: "Ecoles et logiciels libres : le contributhon"
-wordpress_id: 201697
 categories: ["Blog Silex Labs","Contributhon","Silex Labs Events"]
 tags: ["Cifacom","cifacom week","cms","open source","responsive","silex labs"]
 
@@ -188,4 +185,5 @@ L’équipe [SilexLabs](https://www.silexlabs.org/) remercie les étudiants pour
 
 
 ![Cifacom-Week-contributhon-687x687](https://www.silexlabs.org/wp-content/uploads/2014/04/Cifacom-Week-contributhon-687x687.jpg)
+
 

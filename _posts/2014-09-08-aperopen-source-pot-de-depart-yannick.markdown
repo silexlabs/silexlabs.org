@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-09-08T13:54:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/aperopen-source-pot-de-depart-yannick/"
-slug: "aperopen-source-pot-de-depart-yannick"
 title: "Apéropen source : pot de départ Yannick"
-wordpress_id: 203284
 categories: ["Back To Basics","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","Haxe community","Haxe developers","silex labs","yannick dominguez"]
 
@@ -66,6 +63,7 @@ Trêve de blabla venez donc trinquer à sa santé dans notre QG habituel au Bist
 
 ##  [
 ](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-vim-avril2014-carre.png)
+
 
 
 

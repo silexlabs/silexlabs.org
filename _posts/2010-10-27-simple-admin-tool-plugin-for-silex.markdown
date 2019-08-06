@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-10-27T15:00:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/simple-admin-tool-plugin-for-silex/"
-slug: "simple-admin-tool-plugin-for-silex"
 title: "Simple admin Tool plugin for Silex"
-wordpress_id: 965
 categories: ["Plugins"]
 tags: ["plugin"]
 
@@ -30,4 +27,5 @@ To install it, drop the simple_admin_tool folder in the silex /plugins folder.
 You can activate it for a specific site or for the entire Silex server (for all sites hosted by your Silex server) through the Silex manager. Otherwise, you can do the same manually.
 
 [Sources - Simple Admin Tool plugin for Silex](https://www.silexlabs.org/?attachment_id=967)
+
 

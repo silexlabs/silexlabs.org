@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-05-20T10:37:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/drugbox-bananas-and-girltalk/"
-slug: "drugbox-bananas-and-girltalk"
 title: "Drugbox, Bananas and Girltalk !"
-wordpress_id: 186
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["girltalk","goodies","penguin","sandwich"]
 
@@ -65,6 +62,7 @@ Appointments ! Appointments ! Appointments !
 
 
 What a day, what a day !
+
 
 
 

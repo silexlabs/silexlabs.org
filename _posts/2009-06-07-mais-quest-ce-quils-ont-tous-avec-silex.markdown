@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-07T19:41:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/mais-quest-ce-quils-ont-tous-avec-silex/"
-slug: "mais-quest-ce-quils-ont-tous-avec-silex"
 title: "Mais qu'est-ce qu'ils ont tous avec Silex?!"
-wordpress_id: 559
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -90,6 +87,7 @@ En anglais ya aussi **_ In English, there's also :_
 
 **_Don't hesitate to leave COMMENTS in the places where you hear about Silex !_
 **
+
 
 
 

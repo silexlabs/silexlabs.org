@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-25T17:04:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/allow-the-fullscreen-mode/"
-slug: "allow-the-fullscreen-mode"
 title: "Use fullscreen mode"
-wordpress_id: 1495
 categories: ["Tutorials Silex"]
 
 ---
@@ -57,4 +54,5 @@ And after a click on the silex logo...
 
 This tutorial is finished !**
 **
+
 

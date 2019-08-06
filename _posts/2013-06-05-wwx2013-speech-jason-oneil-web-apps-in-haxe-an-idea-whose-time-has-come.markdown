@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T15:00:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-jason-oneil-web-apps-in-haxe-an-idea-whose-time-has-come/"
-slug: "wwx2013-speech-jason-oneil-web-apps-in-haxe-an-idea-whose-time-has-come"
 title: "wwx2013 speech: Jason O'Neil \"Web Apps in Haxe (an idea whose time has come)\""
-wordpress_id: 142800
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","Jason O'Neil","Web Apps","wwx2013"]
 
@@ -59,6 +56,7 @@ If you’ve spent any time with Haxe, you know that it’s powerful, especially 
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

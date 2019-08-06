@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-15T14:21:44.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bilan-2013-de-silex-labs/"
-slug: "bilan-2013-de-silex-labs"
 title: "Bilan 2013 de Silex Labs"
-wordpress_id: 201483
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["2013","activités","bilan","Haxe","open source","silex labs","silexV2","wwx"]
 
@@ -430,4 +427,5 @@ Nous avons besoin de vous pour continuer cette belle dynamique alors rejoignez-n
 
 
 [![silexlabs-bilan-2013-carre](https://www.silexlabs.org/wp-content/uploads/2014/03/silexlabs-bilan-2013-carre-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/03/silexlabs-bilan-2013-carre.png)
+
 

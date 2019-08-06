@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2016-04-12T21:55:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v2-crowd-funding-appel-aux-dons/"
-slug: "silex-v2-crowd-funding-appel-aux-dons"
 title: "Silex v2: crowd funding / appel aux dons"
-wordpress_id: 205905
 categories: ["Blog Silex","Blog Silex Labs","Silex","Silex Labs Events","The Blog"]
 tags: ["css3","design","foss","growth hacking","html","js","logiciellibre","opensource","silex","silex labs","silexV2","site internet","web"]
 
@@ -80,4 +77,5 @@ And finally, we invite Silex on your visitors phones and tablets by adding a pub
 ![Silex free website builder with mobile editor](https://www.silexlabs.org/wp-content/uploads/2016/02/image02-300x164.jpg)
 
 The majority of funds will be donated to the association and this new communication experience with Silex users will guide us in further developments.
+
 

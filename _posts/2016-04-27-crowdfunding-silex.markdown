@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-04-27T11:29:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/crowdfunding-silex/"
-slug: "crowdfunding-silex"
 title: "Crowdfunding Silex"
-wordpress_id: 206170
 categories: ["Blog Silex","Blog Silex Labs","Silex"]
 tags: ["crowdfunding","css","FLOSS","foss","html","js","opensource","silex","silex.me","silexlabs","silexV2","webdesign","website","websitebuilder"]
 
@@ -76,4 +73,5 @@ The majority of funds will be donated to the association and this new communicat
 [Conçu par Freepik](http://fr.freepik.com/vecteurs-libre/mettre-la-main-sur-l&-39;argent-piece-escalier_788312.htm)
 
 [Conçu par Freepik](http://fr.freepik.com/vecteurs-libre/monnaies-du-monde-fixes_832157.htm)
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-02T13:23:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/utilisation-des-gabarits-traduction-en/"
-slug: "utilisation-des-gabarits-traduction-en"
 title: "UTILISATION DES GABARITS : Traduction (en)"
-wordpress_id: 3197
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -34,4 +31,5 @@ In Silex, create a new icon, then, in the "properties" toolbox > "navi" >
 write down the name of the swf file in the "Layout name" text field.
 
 **_Est-ce que ça vous semble à peu près compréhensible ???_**
+
 

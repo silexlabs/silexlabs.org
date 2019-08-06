@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-06-28T14:45:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hxcpp-haxe-girt-by-c/"
-slug: "hxcpp-haxe-girt-by-c"
 title: "HXCPP – Haxe girt by C++"
-wordpress_id: 133591
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -41,6 +38,7 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 ## The slides
+
 
 
 

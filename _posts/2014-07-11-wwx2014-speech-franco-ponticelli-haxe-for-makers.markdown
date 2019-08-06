@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-11T16:41:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-franco-ponticelli-haxe-for-makers/"
-slug: "wwx2014-speech-franco-ponticelli-haxe-for-makers"
 title: "WWX2014 - Speech : Franco Ponticelli \"Haxe for makers\""
-wordpress_id: 202990
 categories: ["Blog Haxe"]
 tags: ["franco ponticelli","Haxe","wwx2014"]
 
@@ -161,6 +158,7 @@ Personal (Digital) Fabrication, Micro Electronics DIY and 3D Printers are transi
 
 
 ##  [![wwx2014-carre-f-ponticelli](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-f-ponticelli-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-f-ponticelli.png)
+
 
 
 

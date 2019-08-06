@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2014-04-12T10:29:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v2-0-part-2-what-is-it-exactly/"
-slug: "silex-v2-0-part-2-what-is-it-exactly"
 title: "Silex v2.0 - Part 2, what is it exactly?"
-wordpress_id: 179332
 categories: ["Blog Silex","Blog Silex Labs","Silex","The Blog","Tutorials Silex"]
 tags: ["cms","communication","design","digital","geek","html5-editor","open source","silex","silex labs","silex V2","silex-v2-vision","web"]
 
@@ -97,4 +94,5 @@ Silex has always been a website editor in the browser. This means that you do no
 
 
 In Silex v2, we decided to provide an online version of the software. So now you just open a web page and Silex loads from our server to edit your files from any computer. We had to face a limitation: we can not host your files. Because it is expensive, and because it is wrong! You must be the owner of your data, it is important. About the fact that it is expensive, we chose to take advantage of the cloud services to store your data. This means that Silex can read and write files to and from your Dropbox free accounts and from an FTP account that you may have (usually paid). Concerning the fact that we believe that you should be the owner of your data, we have developed an FTP connection, so that you can read and write directly from your hosted space. And also we would like to make Silex available as a standard software, with an installer, but this will take more time and work. Please note that this means that you must handle the hosting for now. We are on our way to set up professional hosting automatically plugged in with Silex and for free. The good point is that you have simple HTML files to host, and you can find free hosting for this type of data.
+
 

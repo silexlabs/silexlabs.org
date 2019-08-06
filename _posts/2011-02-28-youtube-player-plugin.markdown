@@ -3,10 +3,7 @@ author: "camille"
 comments: true
 date: "2011-02-28T10:00:14.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/youtube-player-plugin/"
-slug: "youtube-player-plugin"
 title: "Youtube Player Plugin"
-wordpress_id: 2609
 categories: ["Plugins"]
 
 ---
@@ -55,4 +52,5 @@ The youtube player plugin lets you embed a YouTube video player on your silex we
 
 
 V1.1 : panel editor added
+
 

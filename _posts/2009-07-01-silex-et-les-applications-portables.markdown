@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-01T14:11:14.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-et-les-applications-portables/"
-slug: "silex-et-les-applications-portables"
 title: "Silex et les Applications Portables"
-wordpress_id: 936
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -14,4 +11,5 @@ En regardant l'entrée Wikipedia sur les [applications portables](http://fr.wiki
 Il se trouve aussi que Silex est portable, même si c'est un peu lourd: 37 mégas à télécharger. Il n'empêche que ça serait bien d'être référencé sur ces sites, voir d'être distribué par eux.
 
 D'après-vous Silex est-il qualifié?
+
 

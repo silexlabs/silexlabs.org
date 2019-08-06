@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-12-12T19:33:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/questions-strategiques-question-de-flash-cms/"
-slug: "questions-strategiques-question-de-flash-cms"
 title: "Questions stratégiques, question de Flash CMS"
-wordpress_id: 1394
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -33,4 +30,5 @@ J'ai deux choses importantes à partager :
 
 
 Merci de partager vos points de vue sur ces 2 points et sur l'article, je pense qu'il est vraiment important pour notre communauté de discuter de ces questions stratégiques.
+
 

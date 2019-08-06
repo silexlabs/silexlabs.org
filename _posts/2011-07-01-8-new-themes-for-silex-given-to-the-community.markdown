@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-07-01T23:04:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/8-new-themes-for-silex-given-to-the-community/"
-slug: "8-new-themes-for-silex-given-to-the-community"
 title: "8 new themes for Silex, given to the community"
-wordpress_id: 2727
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -208,4 +205,5 @@ This theme is for the romantic which wish to share their creations
 [Online demo](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/dating)
 
 License : Creative Commons
+
 

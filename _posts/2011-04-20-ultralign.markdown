@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-04-20T08:29:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ultralign/"
-slug: "ultralign"
 title: "Ultralign"
-wordpress_id: 24022
 categories: ["Plugins"]
 
 ---
@@ -129,6 +126,7 @@ _**Note :**_ it's exactly the same principle for stage anchor point.
 
 
   * You can align several ultralign components only if the ultralign components aligned to another one have their anchor point on "self"
+
 
 
 

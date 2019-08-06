@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-26T15:48:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-association-2010/"
-slug: "theme-association-2010"
 title: "Association Theme"
-wordpress_id: 486
 categories: ["Themes"]
 tags: ["pol goasdoué","silex theme"]
 
@@ -74,4 +71,5 @@ scale mode : showAll
 [devkit_association.zip](http://wp-manager.silex-ria.org/wp-content/uploads/2010/03/trunk-association-2010.zip)
 [
 ](http://wp-manager.silex-ria.org/wp-content/uploads/2010/03/website-association-2010.zip)
+
 

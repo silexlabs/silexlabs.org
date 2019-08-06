@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-31T06:53:51.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-javascript-le-retour-yannick-dominguez/"
-slug: "back-to-basics-javascript-le-retour-yannick-dominguez"
 title: "Back to basics - JAVASCRIPT LE RETOUR - Yannick Dominguez"
-wordpress_id: 203320
 categories: ["The Blog"]
 tags: ["atelier","Back to Basics","IESA","javaScript","node.js","silex labs","yannick dominguez"]
 
@@ -130,6 +127,7 @@ L’objectif de cet atelier est d’approfondir les connaissances acquises lors 
 
 ##  [![b-to-b-05-javascript-carre2](https://www.silexlabs.org/wp-content/uploads/2014/06/b-to-b-05-javascript-carre2.png)](https://www.silexlabs.org/wp-content/uploads/2014/06/b-to-b-05-javascript-carre2.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-03-javascript-carre2.png)
+
 
 
 

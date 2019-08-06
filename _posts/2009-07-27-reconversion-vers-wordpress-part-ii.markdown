@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-27T09:11:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/reconversion-vers-wordpress-part-ii/"
-slug: "reconversion-vers-wordpress-part-ii"
 title: "Reconversion vers Wordpress (PART II)"
-wordpress_id: 1151
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -19,4 +16,5 @@ Et sincèrement, je n'ai pas encore trouvé de back-office plus simple et comple
 à suivre..
 
 [Reconversion vers Wordpress (PART I)](https://www.silexlabs.org/2009/07/reconversion-vers-wordpress/)
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-07-01T06:56:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-vim-3-vimons-encore-ensemble/"
-slug: "atelier-vim-3-vimons-encore-ensemble"
 title: "Atelier Vim #3 : Vimons encore ensemble !"
-wordpress_id: 202883
 categories: ["Blog Silex Labs","Industrial Workflow"]
 tags: ["ide","Vim","yannick dominguez"]
 
@@ -82,4 +79,5 @@ Linked in : [https://www.linkedin.com/pub/yannick-dominguez/19/267/769](https://
 ![](https://lh4.googleusercontent.com/JWBywAb8aEx9HIi872_Mvc-kcg-C7gJiQUn3xL4pbkN1X72yFnLS5TX38B2yHvDhB-wKeSfxvT8hpuaeKFemAwlfTh6XGkSocBBLy7TrIFykCcMFYqL-fPwsqnJMvz1TcA)
 
 ![Atelier-VIM-3-juillet2014-carre](https://www.silexlabs.org/wp-content/uploads/2014/07/Atelier-VIM-3-juillet2014-carre.png)
+
 

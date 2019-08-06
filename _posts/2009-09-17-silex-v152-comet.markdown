@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-09-17T10:50:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v152-comet/"
-slug: "silex-v152-comet"
 title: "Silex v1.5.2 comet"
-wordpress_id: 1253
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -104,6 +101,7 @@ I tested it but obviously it would be good that you guys download it, install it
 The new version of the [Silex website](http://silex-ria.org) is online. If you can, go and check it out to be sure that all the bugs have disappeared (broken links etc.).
 
 lex.
+
 
 
 

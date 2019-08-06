@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-22T10:20:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/gabarit-bright_left_right-slow-fast/"
-slug: "gabarit-bright_left_right-slow-fast"
 title: "Gabarit bright_left_right (slow / fast)"
-wordpress_id: 443
 categories: ["Layouts"]
 
 ---
@@ -30,4 +27,5 @@ Movimiento de aparicion / desaparicion de izquierda a derecha.
 [Click here to see an online demo of this layout](https://www.silexlabs.org/silex_server/?/layout.demo3#/start/page.2)
 
 _**Note :**_ this demo concerns the bright_slow_left_right layout
+
 

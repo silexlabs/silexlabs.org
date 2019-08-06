@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-10-22T12:15:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier-8-trucs-et-haxetuces-haxe-langage-libre-et-cross-platform/"
-slug: "haxetelier-8-trucs-et-haxetuces-haxe-langage-libre-et-cross-platform"
 title: "Haxetelier #8 : Trucs et Haxetuces"
-wordpress_id: 203823
 categories: ["Blog Haxe","Silex Labs Events"]
 tags: ["cross-platform","Haxe","jean baptiste richardet","Jean Michel Delettre","langage libre"]
 
@@ -129,4 +126,5 @@ C’est aussi devenir membre d’un réseau de professionnels du numérique et p
 
 
 ![Haxetelier-29-Octobre2014-carre](https://www.silexlabs.org/wp-content/uploads/2014/10/Haxetelier-29-Octobre2014-carre.png)
+
 

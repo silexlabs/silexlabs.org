@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-04-21T15:35:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-webinar-2/"
-slug: "compte-rendu-video-webinar-2"
 title: "Compte-rendu vidéo : Webinar #2 Silex"
-wordpress_id: 206154
 categories: ["Blog Silex","Blog Silex Labs","Compte rendu Vidéo","Silex","Silex workshops","The Blog","tuto","Tutorials Silex","Vidéos"]
 tags: ["css","foss","gratuit","html","opensource","silex","silexV2","video","webdesign","webdev","website","website builder","websitebuilder"]
 
@@ -80,4 +77,5 @@ A la fin avril 2016 Silex Labs lance une[ campagne de financement participatif�
 Derrière Silex, l’association à but non lucratif Silex Labs s’assure que Silex reste libre et qu’il respecte votre vie privée. D’autre part nous utilisons Silex pour initier les novices aux métiers du web, Silex est alors une source de motivation pour les porteurs de projet, et un outil de lutte contre la fracture numérique.
 
 ![atelier silex par l'association Silex Labs](https://www.silexlabs.org/wp-content/uploads/2016/02/image03-300x300.jpg)
+
 

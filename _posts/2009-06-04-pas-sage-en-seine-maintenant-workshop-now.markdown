@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-04T08:45:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/pas-sage-en-seine-maintenant-workshop-now/"
-slug: "pas-sage-en-seine-maintenant-workshop-now"
 title: "Pas sage en Seine : Maintenant ! *** Workshop NOW !"
-wordpress_id: 423
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["atelier","cms","flash","futur en seine","hacker","pas sage des panoramas","présentation","ria","web"]
 
@@ -37,4 +34,5 @@ Demos of the new features : the manager, the installer, and the new templates...
 
 *Translator's note : Passage en Seine/Pas sage en Seine : it's a WORDPLAY !
 1/ « Passage » means Passageway (the workshops are held in the Panoramas' Passageway) - 2/ « Pas sage » means naughty/mischievous - 3/ « en Seine » means on the river Seine but also on stage (stage is « scène » in french which is pronounced like the river Seine)... Mischievous on stage...
+
 

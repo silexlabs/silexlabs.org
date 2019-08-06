@@ -3,10 +3,7 @@ author: "Tariq"
 comments: true
 date: "2017-10-23T18:23:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-latelier-node-js/"
-slug: "compte-rendu-de-latelier-node-js"
 title: "Compte rendu de l'atelier Node.js"
-wordpress_id: 207309
 categories: ["The Blog"]
 
 ---
@@ -272,4 +269,5 @@ Pour la page HTML et la configuration de Leaflet nous vous invitons à [follow F
 Nous restons à disposition sur le [chat](https://framateam.org/login?redirect_to=%2Fsilexlabs%2Fchannels%2Ftown-square), sur [twitter](https://twitter.com/silexlabs), sur [github](https://github.com/silexlabs) et par [mail](mailto:contact@silexlabs.org?Subject=Salut%20la%20compagnie) si vous avez la moindre question.
 
 A très vite !
+
 

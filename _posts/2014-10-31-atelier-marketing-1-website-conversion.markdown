@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-10-31T17:47:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-1-website-conversion/"
-slug: "atelier-marketing-1-website-conversion"
 title: "Atelier Marketing #1 : Website Conversion"
-wordpress_id: 203910
 categories: ["Atelier Marketing","Silex Labs Events","The Blog"]
 tags: ["marketing","pole mecatronique","powebco","référencement","UX","Yoann Bourdon"]
 
@@ -121,4 +118,5 @@ Vous pouvez déjà vous inscrire pour les ateliers suivants
 
 
 ![Atelier1-market-mecatron-carre](https://www.silexlabs.org/wp-content/uploads/2014/10/Atelier1-market-mecatron-carre.png)
+
 

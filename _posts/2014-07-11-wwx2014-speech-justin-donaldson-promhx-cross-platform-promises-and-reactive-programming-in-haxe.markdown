@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-11T15:22:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-justin-donaldson-promhx-cross-platform-promises-and-reactive-programming-in-haxe/"
-slug: "wwx2014-speech-justin-donaldson-promhx-cross-platform-promises-and-reactive-programming-in-haxe"
 title: "WWX2014 - Speech : Justin Donaldson \"Promhx : Cross-platform Promises and Reactive Programming in Haxe\""
-wordpress_id: 202971
 categories: ["Blog Haxe"]
 tags: ["Haxe","justin donaldson","promhx","wwx","wwx2014"]
 
@@ -164,6 +161,7 @@ We are sorry for the bad quality of this video, but we had some technical proble
 
 
 ## [![wwx2014-carre-j-donaldson](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-j-donaldson-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-j-donaldson.png)
+
 
 
 

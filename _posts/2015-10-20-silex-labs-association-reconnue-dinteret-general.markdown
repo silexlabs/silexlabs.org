@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2015-10-20T16:43:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-association-reconnue-dinteret-general/"
-slug: "silex-labs-association-reconnue-dinteret-general"
 title: "Silex Labs association reconnue d'intérêt général !!"
-wordpress_id: 205557
 categories: ["Blog Silex Labs"]
 tags: ["association","intérêt général","silex labs"]
 
@@ -45,4 +42,5 @@ C’est donc une bonne excuse pour vous inciter à faire un don à l’associati
 
 
 **![inter-gen-carre-final](https://www.silexlabs.org/wp-content/uploads/2015/10/inter-gen-carre-final.png)**
+
 

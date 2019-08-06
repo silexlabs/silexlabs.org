@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-26T15:31:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ag-silex/"
-slug: "ag-silex"
 title: "AG Silex!"
-wordpress_id: 844
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -256,6 +253,7 @@ le rôle de l'assos a été discuté :
 
 
   * pas de collectif et pas d'aspect business ou pro
+
 
 
 

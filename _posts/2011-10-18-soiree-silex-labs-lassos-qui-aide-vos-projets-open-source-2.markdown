@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-10-18T09:48:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/soiree-silex-labs-lassos-qui-aide-vos-projets-open-source-2/"
-slug: "soiree-silex-labs-lassos-qui-aide-vos-projets-open-source-2"
 title: "Soirée Silex Labs, l'assos qui vous sort de vos projets open source"
-wordpress_id: 134438
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -37,4 +34,5 @@ Métro Ligne 9 Croix de Chavaux
 
 
 [View Larger Map](http://www.google.com/maps?hl=en&q=Association+Silex+Labs&near=&mrt=yp&fb=1&ie=UTF8&view=map&cid=4769838128301823090&hq=Association+Silex+Labs&hnear=&ll=48.851565,2.434609&spn=0.006295,0.006295&t=m&vpsrc=0&iwloc=A&source=embed)
+
 

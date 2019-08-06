@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-07-09T11:11:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lets-make-amfphp-faster/"
-slug: "lets-make-amfphp-faster"
 title: "Let's make AmfPHP faster"
-wordpress_id: 133635
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -29,4 +26,5 @@ Before starting work, we would appreciate some feedback from our users.
 
 
 You can get back to us on this using the feedback form here [https://www.silexlabs.org/amfphp/feedback/](https://www.silexlabs.org/amfphp/feedback/), or by mail at contact at silexlabs dot org.  And please comment!
+
 

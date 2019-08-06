@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-04-22T08:12:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/jason-oneils-speech-for-wwx2013-web-apps-in-haxe-an-idea-whose-time-has-come-2/"
-slug: "jason-oneils-speech-for-wwx2013-web-apps-in-haxe-an-idea-whose-time-has-come-2"
 title: "Jason O'Neil's speech for wwx2013: Web Apps in Haxe (an idea whose time has come)"
-wordpress_id: 138217
 categories: ["Silex Labs Events"]
 tags: ["Haxe","Jason O'Neil","speaker","Web Apps","wwx2013"]
 
@@ -28,4 +25,5 @@ In this talk we’ll look at a recent web app we’ve made, share our experience
 If you are interested by this presentation [register now for the wwx 2013!](http://wwx2013.eventbrite.fr/)
 
 The speakers' list is available on the [wwx2013 website](http://wwx.silexlabs.org/2013/), and the content of their speeches will be announced soon.
+
 

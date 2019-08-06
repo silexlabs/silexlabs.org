@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-30T16:24:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-de-latelier-7-faites-votre-site/"
-slug: "compte-rendu-video-de-latelier-7-faites-votre-site"
 title: "Compte rendu vidéo de l'atelier #7 : Faites votre site !"
-wordpress_id: 202049
 categories: ["Blog Silex Labs","Silex","Tutorials Silex"]
 tags: ["atelier","design","silex","silexV2","site internet","webdesign"]
 
@@ -59,4 +56,5 @@ Pour vous sensibiliser au design, (à savoir comment est disposé le contenu, le
 
 
 ![Atelier 7](https://www.silexlabs.org/wp-content/uploads/2014/04/MDA-atelier-silex-07-carre-video-1.png)
+
 

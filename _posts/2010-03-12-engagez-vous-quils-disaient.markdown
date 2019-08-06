@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-12T15:42:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/engagez-vous-quils-disaient/"
-slug: "engagez-vous-quils-disaient"
 title: "Engagez-vous qu'ils disaient... ?!?"
-wordpress_id: 1513
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -126,4 +123,5 @@ _Bref Silex, c'est de la bombe atomique, une tuerie...._
 </td>
 </tr>
 </tbody></table>
+
 

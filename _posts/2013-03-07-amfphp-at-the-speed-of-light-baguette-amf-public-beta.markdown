@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2013-03-07T11:03:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-at-the-speed-of-light-baguette-amf-public-beta/"
-slug: "amfphp-at-the-speed-of-light-baguette-amf-public-beta"
 title: "AmfPHP At The Speed of Light - Baguette AMF public beta"
-wordpress_id: 137391
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -25,4 +22,5 @@ The tagline is **_AmfPHP at the Speed of Light _**as Baguette AMF makes AmfPHP u
 It is now in **public beta**, so please try it out!
 
 Please note that this is a commercial project and therefore not directly associated with Silex Labs.
+
 

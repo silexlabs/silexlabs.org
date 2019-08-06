@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2013-12-13T10:57:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-2-profiler-released/"
-slug: "amfphp-2-2-profiler-released"
 title: "Amfphp 2.2 Profiler Released"
-wordpress_id: 200755
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -105,4 +102,5 @@ You can now send and received AMF Vectors.
 
 
 Yes, this is a [profile](http://www.flickr.com/photos/tinou/2066166376/sizes/m/in/photostream/).
+
 

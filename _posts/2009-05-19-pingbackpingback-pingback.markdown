@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-19T17:16:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/pingbackpingback-pingback/"
-slug: "pingbackpingback-pingback"
 title: "PING...BACK...PING...BACK... PINGBACK !"
-wordpress_id: 181
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -32,4 +29,5 @@ Ping, back, ping, back, ping, back...PINGBACK !
 *********UPDATE***********
 
 I can't possibly write a post about Pingback without testing it right ? Let's do it ! If I got it right, Wordpress should automatically detect the url of the other blog's post... Let's try with Virginie's Wordpress blog and her post about[ a great wine bar in Saint-Germain des pres, Chez Georges !](http://lesvirginies.wordpress.com/2009/01/23/la-vague-a-lame/)
+
 

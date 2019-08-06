@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-07T08:02:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/getting-pragmatic-developers-started-with-haxe/"
-slug: "getting-pragmatic-developers-started-with-haxe"
 title: "Getting pragmatic developers started with Haxe"
-wordpress_id: 135257
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -35,6 +32,7 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 ## The video
+
 
 
 

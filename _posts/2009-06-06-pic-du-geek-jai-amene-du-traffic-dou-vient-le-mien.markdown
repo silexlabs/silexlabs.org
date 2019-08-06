@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-06T11:54:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/pic-du-geek-jai-amene-du-traffic-dou-vient-le-mien/"
-slug: "pic-du-geek-jai-amene-du-traffic-dou-vient-le-mien"
 title: "Pic du geek: j'ai amené du traffic, d'où vient le mien ?"
-wordpress_id: 539
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -19,4 +16,5 @@ Ce dernier est peut-être méconnu du grand public web, mais il m'a pourtant ame
 J'en tire deux conclusions : pour booster son blog, il faut trouver son public et les agrégateurs sont une des meilleures façons que je connaisse. Enfin, je ne connais pas d'agrégateur qui soit destiné au même public que Silex, ni mon blog qui se situe dans la veine  "développeur/tekos Flash Flex Logiciel libre".
 
 Quelqu'un pourra peut-être nous aiguiller ?
+
 

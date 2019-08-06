@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T11:53:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/soft-round-theme/"
-slug: "soft-round-theme"
 title: "Soft Round Theme"
-wordpress_id: 87408
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ A corporate design for this template with his variation Grey.
 [Original template](http://www.templatemo.com/preview/templatemo_296_soft_round)
 
 License : Creative Commons
+
 

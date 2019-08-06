@@ -3,10 +3,7 @@ author: "codam"
 comments: true
 date: "2012-06-01T14:30:24.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-seo-plugin/"
-slug: "silex-seo-plugin"
 title: "Silex SEO Plugin"
-wordpress_id: 132908
 categories: ["Blog Silex","Plugins"]
 
 ---
@@ -146,4 +143,5 @@ The snapshot plugin folder contains several files:
 
 
 They can be found on following subversion repository: [https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src](https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src)
+
 

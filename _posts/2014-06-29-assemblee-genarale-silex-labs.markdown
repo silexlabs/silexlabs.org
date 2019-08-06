@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-29T12:44:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/assemblee-genarale-silex-labs/"
-slug: "assemblee-genarale-silex-labs"
 title: "Assemblée Générale Silex Labs"
-wordpress_id: 203057
 categories: ["Silex Labs Events"]
 tags: ["AG","silexlabs"]
 
@@ -74,6 +71,7 @@ Ordre du jour :
 
 
 ![AG-SL](https://www.silexlabs.org/wp-content/uploads/2014/07/AG-SL.png)
+
 
 
 

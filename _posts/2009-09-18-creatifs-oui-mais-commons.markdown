@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-09-18T10:25:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/creatifs-oui-mais-commons/"
-slug: "creatifs-oui-mais-commons"
 title: "CreatiFs oui mais Commons !"
-wordpress_id: 1269
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["medias libres de droit","open source"]
 
@@ -45,4 +42,5 @@ Signification de chaque option :
 
 
 shoot du site site : [http://fr.creativecommons.org/contrats.htm](http://fr.creativecommons.org/contrats.htm)
+
 

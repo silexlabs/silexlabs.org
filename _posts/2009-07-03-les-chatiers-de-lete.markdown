@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-03T10:26:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/les-chatiers-de-lete/"
-slug: "les-chatiers-de-lete"
 title: "Les chantiers de l'été"
-wordpress_id: 971
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -137,6 +134,7 @@ Les objectifs de cet été pour la team :
 
 
     * commencer le chantier "aide" (rewrite? trad?)
+
 
 
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T13:35:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-lorant-pinter-conquering-uniform-cross-platform-text-rendering/"
-slug: "wwx2013-speech-lorant-pinter-conquering-uniform-cross-platform-text-rendering"
 title: "wwx2013 speech: Lorant Pinter \"Conquering uniform cross-platform text rendering\""
-wordpress_id: 142774
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["cross-platform","Haxe","Lorant Pinter","Prezi","wwx2013"]
 
@@ -61,6 +58,7 @@ Our product at Prezi is a presentation tool that needs to show presentations in 
 - [Talk Laszlo Pandy: **Automating cross-platform UI development at Prezi**](https://www.silexlabs.org/?p=142721)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

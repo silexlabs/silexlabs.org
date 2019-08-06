@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-14T10:18:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/du-temps-de-cerveaux-disponibles/"
-slug: "du-temps-de-cerveaux-disponibles"
 title: "Du temps de cerveaux disponibles"
-wordpress_id: 1657
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -69,4 +66,5 @@ Allez, je vais continuer mon deuxième thème :)
 </tr>
 </tbody>
 </table>
+
 

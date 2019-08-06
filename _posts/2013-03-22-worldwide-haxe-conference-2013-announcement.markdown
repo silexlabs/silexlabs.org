@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-03-22T17:01:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/worldwide-haxe-conference-2013-announcement/"
-slug: "worldwide-haxe-conference-2013-announcement"
 title: "Worldwide Haxe Conference 2013 Announcement"
-wordpress_id: 137756
 categories: ["Blog Labs","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","silex labs","world wide haxe conference","wwx2013"]
 
@@ -31,6 +28,7 @@ This event will be an exciting human experience and a great technological journe
 Just like last year, the first and last day are dedicated to socialization and contribution.
 
 [http://wwx.silexlabs.org/2013/](http://wwx.silexlabs.org/2013/)
+
 
 
 

@@ -3,13 +3,11 @@ author: "admin"
 comments: true
 date: "2010-07-15T08:09:30.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v16/"
-slug: "silex-v16"
 title: "Silex v1.6"
-wordpress_id: 3213
 categories: ["Blog Silex","The Blog"]
 tags: ["tips-fr"]
 
 ---
 L’histoire de Silex continue d’être pleine de surprises et de satisfactions. Nous travaillons sur Silex v1.6! La phase de développement est finie, débogage de la version beta.
+
 

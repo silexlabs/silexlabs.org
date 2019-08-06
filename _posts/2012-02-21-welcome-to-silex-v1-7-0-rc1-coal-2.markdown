@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-02-21T15:01:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/welcome-to-silex-v1-7-0-rc1-coal-2/"
-slug: "welcome-to-silex-v1-7-0-rc1-coal-2"
 title: "Welcome to \"Silex V1.7.0 RC1 COAL\" !"
-wordpress_id: 134440
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 
 ---
@@ -80,6 +77,7 @@ Yes ! [Click here to see documentation summary](https://www.silexlabs.org/silex/
 
   * **Silex, if I have some questions about it ?**
 Feel free to ask your questions on the Silex users forum : [https://www.silexlabs.org/groups/silex/silex-users/forum/](https://www.silexlabs.org/groups/silex/silex-users/forum/)
+
 
 
 

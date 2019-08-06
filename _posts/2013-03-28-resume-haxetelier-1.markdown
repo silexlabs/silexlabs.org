@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-03-28T16:41:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/resume-haxetelier-1/"
-slug: "resume-haxetelier-1"
 title: "Résumé Haxetelier #1"
-wordpress_id: 137796
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","haxetelier","open source","silex labs"]
 
@@ -61,4 +58,5 @@ Et pour ceux qui auraient raté ce premier Haxetelier ou qui veulent aller plus
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/03/photo.jpg)](https://www.silexlabs.org/137796/the-blog/resume-haxetelier-1/attachment/photo-2/)
+
 

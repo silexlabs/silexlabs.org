@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-04-30T13:10:36.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-8eme-edition/"
-slug: "atelier-silex-8eme-edition"
 title: "Atelier Silex - 8ème édition"
-wordpress_id: 132564
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -111,6 +108,7 @@ En maîtrisant les fonctionnalités ci-dessous, augmentez la visibilité de votr
 
 
   * Prévoyez une collation pour un dîner sur le pouce
+
 
 
 

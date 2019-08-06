@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-21T06:59:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-peter-sipos-senior-dev-tech-lead-at-prezi/"
-slug: "wwx2014-speech-peter-sipos-senior-dev-tech-lead-at-prezi"
 title: "WWX2014 - Speech : Péter Sipos \"Haxe as Web development platform?\""
-wordpress_id: 202977
 categories: ["Blog Haxe"]
 tags: ["Haxe","péter Sopos","Prezi","silex labs","wwx2014"]
 
@@ -160,6 +157,7 @@ Haxe is one of the most undervalued programming languages, it is a flexible and 
 
 
 ## [![wwx2014-carre-p-sipos](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-p-sipos-300x300.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-p-sipos.png)
+
 
 
 

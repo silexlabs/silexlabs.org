@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-10-15T16:14:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/les-videos-de-lhaxetelier4-passez-en-mode-node-js-pour-un-mhaxe-de-simplicite/"
-slug: "les-videos-de-lhaxetelier4-passez-en-mode-node-js-pour-un-mhaxe-de-simplicite"
 title: "Les vidéos de l'Haxetelier#4 : Passez en mode Node.js pour un mhaxe de simplicité"
-wordpress_id: 179836
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","haxetelier","node.js","video"]
 
@@ -60,4 +57,5 @@ Il est aussi le créateur de [Try Haxe](http://try.haxe.org/).
 Si vous voulez voir ou revoir le Lightning Talk de Clemos lors de la wwx2013 c’est [ici](http://www.youtube.com/watch?v=5z_Oc3EkRfs).
 
 github : [http//github.com/clemos](https://www.silexlabs.org/179221/the-blog/haxetelier4-passez-en-mode-node-js-pour-un-mhaxe-de-simplicite/http//github.com/clemos)
+
 

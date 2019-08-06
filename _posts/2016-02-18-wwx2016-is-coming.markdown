@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2016-02-18T20:24:51.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2016-is-coming/"
-slug: "wwx2016-is-coming"
 title: "WWX2016 is coming!!"
-wordpress_id: 205890
 categories: ["Blog Haxe","wwx2016"]
 tags: ["Haxe","mozilla","silexlabs","world wide haxe conference","wwx2016"]
 
@@ -72,4 +69,5 @@ The Thaxe Force Team
 Thanks to Valentin Lemière for this article
 
 Valentin Lemière has been using Haxe for 3 years and mainly works on HaxePunk [twitter.com/ibilon](http://twitter.com/ibilon)
+
 

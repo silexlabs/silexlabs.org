@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-13T13:09:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-mokick-story/"
-slug: "the-mokick-story"
 title: "The MOKICK Story"
-wordpress_id: 204865
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["cms","cross-platform","dev","Haxe","Haxe conference","Markus Raab","MOKICK","video","wwx","wwx2015"]
 
@@ -40,4 +37,5 @@ https://twitter.com/silexlabs/status/604970752782282753
 https://twitter.com/smugnier/status/604971046836572160
 
 https://twitter.com/silexlabs/status/604972670531301376
+
 

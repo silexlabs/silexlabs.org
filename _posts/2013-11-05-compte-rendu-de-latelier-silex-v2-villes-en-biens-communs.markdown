@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-11-05T18:37:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-latelier-silex-v2-villes-en-biens-communs/"
-slug: "compte-rendu-de-latelier-silex-v2-villes-en-biens-communs"
 title: "Compte rendu de l'atelier Silex v2 - Villes en biens communs"
-wordpress_id: 180104
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["atelier","Cifacom","silex V2","video","workshop"]
 
@@ -100,4 +97,5 @@ Merci à tous les participants ayant assisté à cet atelier de prendre 3 petite
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/11/VBC-LOGO.jpg)
+
 

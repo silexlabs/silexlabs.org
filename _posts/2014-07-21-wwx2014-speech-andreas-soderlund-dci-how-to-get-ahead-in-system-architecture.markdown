@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-21T06:58:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-andreas-soderlund-dci-how-to-get-ahead-in-system-architecture/"
-slug: "wwx2014-speech-andreas-soderlund-dci-how-to-get-ahead-in-system-architecture"
 title: "WWX2014 - Speech : Andreas Söderlund \"DCI - How to get ahead in system architecture\""
-wordpress_id: 203019
 categories: ["Blog Haxe","Silex Labs Events"]
 tags: ["andreas Söderlund","Haxe","world wide haxe conference","wwx2014"]
 
@@ -169,6 +166,7 @@ a lightning talk about the Design by Contract library ([https://github.com/cisco
 
 
 ## [![wwx2014-a-soderlund](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-a-soderlund-687x386.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-a-soderlund.png)
+
 
 
 

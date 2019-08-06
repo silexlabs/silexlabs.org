@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-19T16:05:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-les-fondamentaux-du-marketing-digital/"
-slug: "atelier-marketing-les-fondamentaux-du-marketing-digital"
 title: "Atelier Marketing : les fondamentaux du marketing digital"
-wordpress_id: 201676
 categories: ["Silex","Silex Labs Events"]
 tags: ["atelier marketing","marketing","marketing digital","powebco","silex labs"]
 
@@ -132,4 +129,5 @@ L’atelier aura lieu Lundi 28 avril de 19h à 20h30 à [Silicon Banlieue](http
 
 
 [![Atelier marketing](https://www.silexlabs.org/wp-content/uploads/2014/04/atelier-marketing-carre.png)](https://www.silexlabs.org/wp-content/uploads/2014/04/atelier-marketing-carre.png)
+
 

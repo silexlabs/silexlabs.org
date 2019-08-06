@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-26T00:15:25.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bilan-des-premiers-ateliers/"
-slug: "bilan-des-premiers-ateliers"
 title: "Master Class Silex - Atelier #4 : Bilan des premiers ateliers"
-wordpress_id: 201340
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["master class silex","silex","silexV2"]
 
@@ -125,4 +122,5 @@ Adhérer à Silex Labs c’est aussi s'impliquer dans une communauté et devenir
 
 
 ![MDA-atelier-silex-04-carre-bilan](https://www.silexlabs.org/wp-content/uploads/2014/02/MDA-atelier-silex-04-carre-bilan.png)
+
 

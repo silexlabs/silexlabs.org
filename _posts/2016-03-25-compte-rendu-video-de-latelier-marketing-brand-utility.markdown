@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-03-25T18:58:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-de-latelier-marketing-brand-utility/"
-slug: "compte-rendu-video-de-latelier-marketing-brand-utility"
 title: "Compte-rendu vidéo de l'atelier marketing : Brand Utility"
-wordpress_id: 206012
 categories: ["Atelier Marketing","Compte rendu Vidéo","The Blog","Vidéos"]
 tags: ["atelier marketing","brand utility","marketing","Matthieu Tylez","silex labs","video","webmarketing"]
 
@@ -98,4 +95,5 @@ Cet atelier entre dans le cadre du projet[ “Le tour du Web en 50 ateliers”](
 
 
 [![atelier-brand-utility-cr-video-carre.svg](https://www.silexlabs.org/wp-content/uploads/2016/03/atelier-brand-utility-cr-video-carre.svg_.png)](https://www.silexlabs.org/wp-content/uploads/2016/03/atelier-brand-utility-cr-video-carre.svg_.png)
+
 

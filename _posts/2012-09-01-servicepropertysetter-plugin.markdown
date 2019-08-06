@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-09-01T13:22:36.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/servicepropertysetter-plugin/"
-slug: "servicepropertysetter-plugin"
 title: "AmfPHP Plugin ServicePropertySetter"
-wordpress_id: 136145
 categories: ["Exchange amfPHP"]
 
 ---
@@ -35,6 +32,7 @@ For instance, if services need a connection to a database by using a PDO object,
 
 
 [https://github.com/baracil/FPC-AMFPHP-Plugins/blob/master/ServicePropertySetter/documentation.txt](https://github.com/baracil/FPC-AMFPHP-Plugins/blob/master/ServicePropertySetter/documentation.txt)
+
 
 
 

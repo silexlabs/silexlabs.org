@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-04-04T13:41:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-atelier-html5/"
-slug: "compte-rendu-video-atelier-html5"
 title: "Compte-rendu vidéo : Atelier HTML5"
-wordpress_id: 206104
 categories: ["Compte rendu Vidéo","The Blog","tuto","Vidéos"]
 tags: ["association","css","css3","html","html5","silex labs","silexlabs","Sourouche Bagherzadeh","tuto","video","webdev","website"]
 
@@ -171,4 +168,5 @@ Cet atelier était animé par Sourouche Bagherzadeh, Web designer et développeu
 
 
 ## ![html-fev-2016-cr-video-carre.svg](https://www.silexlabs.org/wp-content/uploads/2016/04/html-fev-2016-cr-video-carre.svg_.png)
+
 

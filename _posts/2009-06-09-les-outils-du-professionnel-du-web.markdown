@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-09T06:06:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/les-outils-du-professionnel-du-web/"
-slug: "les-outils-du-professionnel-du-web"
 title: "Après le caillou préhistorique, des perles pour les professionnels du web ** After the prehistoric rock, some gems for the web professionals"
-wordpress_id: 604
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["tips and tricks","tools","webdesign"]
 
@@ -40,5 +37,6 @@ tags: ["tips and tricks","tools","webdesign"]
 Avez vous quelques "perles" vous aussi?
 
 _Do you have any gems to share ?_
+
 
 

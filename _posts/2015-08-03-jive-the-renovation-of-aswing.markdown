@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-03T13:29:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/jive-the-renovation-of-aswing/"
-slug: "jive-the-renovation-of-aswing"
 title: "Jive: the renovation of AsWing"
-wordpress_id: 205171
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["AsWing","Haxe","Haxe conference","html5","Jive","Nickolay Grebenshikov","openFL","ui","video","wwx","wwx2015"]
 
@@ -57,6 +54,7 @@ https://twitter.com/grebenshikov_n/status/605755828407279616
 https://twitter.com/grebenshikov_n/status/611907881991041024
 
 https://twitter.com/grebenshikov_n/status/626699684975902720
+
 
 
 

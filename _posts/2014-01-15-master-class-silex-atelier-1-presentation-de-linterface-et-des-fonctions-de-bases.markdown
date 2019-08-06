@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-15T17:58:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-atelier-1-presentation-de-linterface-et-des-fonctions-de-bases/"
-slug: "master-class-silex-atelier-1-presentation-de-linterface-et-des-fonctions-de-bases"
 title: "Master Class Silex Atelier #1 : Présentation de l’interface et des fonctions de bases"
-wordpress_id: 200985
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","IESA","master class silex","silexV2"]
 
@@ -61,4 +58,5 @@ Alors rejoignez-nous !!
 
 
 ** ![MDA-atelier-silex-01-carre](https://www.silexlabs.org/wp-content/uploads/2014/01/MDA-atelier-silex-01-carre1.png)**
+
 

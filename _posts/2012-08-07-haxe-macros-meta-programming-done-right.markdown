@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-07T14:25:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-macros-meta-programming-done-right/"
-slug: "haxe-macros-meta-programming-done-right"
 title: "Haxe macros : meta-programming done right"
-wordpress_id: 135331
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -35,6 +32,7 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 ## The video
+
 
 
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-02-05T18:27:24.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-se-met-a-la-formation/"
-slug: "silex-labs-se-met-a-la-formation"
 title: "Silex Labs se met à la Formation"
-wordpress_id: 1455
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -21,4 +18,5 @@ Comme première action, nous organisons une série de **formations** pour répon
 Alors rendez-vous en 2010 sur le blog, les forums et dans les locaux de l'association Silex Labs à Montreuil (RER A - Vincennes).
 
 Et comme on ne le dit jamais assez: «Parlez en autour de vous, Silex vous le rendra !»
+
 

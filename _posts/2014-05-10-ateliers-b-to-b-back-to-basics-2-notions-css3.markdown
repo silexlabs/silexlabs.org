@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-05-10T14:25:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ateliers-b-to-b-back-to-basics-2-notions-css3/"
-slug: "ateliers-b-to-b-back-to-basics-2-notions-css3"
 title: "Ateliers B to B (Back To Basics) #2 : Notions CSS3"
-wordpress_id: 201972
 categories: ["Blog Silex Labs","Silex Labs Events"]
 tags: ["atelier","Back to Basics","css3","html5","industrial workflow","site internet"]
 
@@ -241,6 +238,7 @@ C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers po
 
 
 ![b-to-b-01-css3-carre-as](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-css3-carre-as.png)
+
 
 
 

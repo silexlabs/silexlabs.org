@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-29T14:50:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-hobbit-book-theme/"
-slug: "the-hobbit-book-theme"
 title: "The Hobbit Book Theme"
-wordpress_id: 93365
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ This flipbook version will delight all those who liked the template The Hobbit
 [Online demo](http://preprod.webschoolfactory.com/labo/2010-2011/silex/silex_server/?/the_hobbit_book)
 
 License : Creative Commons
+
 

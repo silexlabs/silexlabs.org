@@ -3,10 +3,7 @@ author: "Benjamin"
 comments: true
 date: "2010-11-29T08:54:40.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-html5generator/"
-slug: "the-html5generator"
 title: "The HTML5Generator"
-wordpress_id: 128955
 categories: ["Tutorials Silex"]
 
 ---
@@ -119,4 +116,5 @@ After deploying, you should activate the baseComponents plugin if it's not alrea
 ## Descriptors
 
 Because the html5Generator needs some information to instanciate components (such as where to look for the component's classes and the class name), we had to extend the descriptor files. We've only added the "html5Url" tag which has a textnode as a child. This text is composed of two parts: the first part is the path to the directory containing the classes (relative to the plugin's directory), then comes a # to separate both parts, and the second part is the name of the class to instanciate.
+
 

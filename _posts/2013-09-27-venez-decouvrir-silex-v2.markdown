@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-09-27T11:34:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/venez-decouvrir-silex-v2/"
-slug: "venez-decouvrir-silex-v2"
 title: "Venez découvrir Silex V2 !!"
-wordpress_id: 179471
 categories: ["Blog Silex","Silex","Silex Labs Events","The Blog"]
 tags: ["Cifacom","silex","silexV2"]
 
@@ -146,6 +143,7 @@ Silex offre de nombreux avantages quelles que soient vos compétences :
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/09/logo-cifacom.jpg)](www.cifacom.com)
+
 
 
 

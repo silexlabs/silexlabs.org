@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-09-26T17:46:24.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-v2-reloaded-is-out/"
-slug: "amfphp-v2-reloaded-is-out"
 title: "amfPHP v2 Reloaded is out"
-wordpress_id: 130225
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -29,4 +26,5 @@ plugins can now add services
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2011/09/header-amfphp-300x54.jpg)](https://www.silexlabs.org/the-blog/amfphp-v2-reloaded-is-out/attachment/header-amfphp/)
+
 

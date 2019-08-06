@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-08-13T13:21:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-plugin-silex-pour-wordpress/"
-slug: "the-plugin-silex-pour-wordpress"
 title: "The Silex plugin pour WordPress"
-wordpress_id: 1200
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -88,4 +85,5 @@ Il est temps maintenant de trouver un nom à ce plugin qui va ouvrir considérab
 Donnez votre avis en commentaire, car je ne sais vraiment pas quoi choisir.
 
 Merci d'avance pour vos idées car je pense qu'on peut trouver d'autres noms...
+
 

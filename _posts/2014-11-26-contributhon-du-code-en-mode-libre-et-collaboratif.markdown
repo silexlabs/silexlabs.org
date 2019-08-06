@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-26T18:03:37.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/contributhon-du-code-en-mode-libre-et-collaboratif/"
-slug: "contributhon-du-code-en-mode-libre-et-collaboratif"
 title: "Contributhon : Du code en mode Libre et Collaboratif"
-wordpress_id: 204031
 categories: ["Contributhon","Silex Labs Events","The Blog"]
 tags: ["42","Alexandre Hoyau","Backnode","contributhon","github","Haxe","jean baptiste richardet","Ronan Drouglazet"]
 
@@ -123,6 +120,7 @@ Alex Président de [Silex Labs](https://www.silexlabs.org/) et architecte logici
 
 
 [Billetterie en ligne](http://www.eventbrite.fr/r/etckt) pour [Contributhon : Du code en mode Libre et Collaboratif](https://www.eventbrite.fr/e/billets-contributhon-du-code-en-mode-libre-et-collaboratif-14632667703?ref=etckt) réalisé par [Eventbrite](http://www.eventbrite.fr?ref=etckt)
+
 
 
 

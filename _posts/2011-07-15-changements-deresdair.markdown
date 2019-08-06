@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-07-15T19:44:40.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/changements-deresdair/"
-slug: "changements-deresdair"
 title: "Changements d'ères/d'air"
-wordpress_id: 2775
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -41,4 +38,5 @@ Franck, Pol, Ariel, Chloé et moi, nous sommes réunis hier pour parler de ces m
 
 Voila pour cette news, faites nous des retours ici, voyons nous bientôt là bas,
 Bye!
+
 

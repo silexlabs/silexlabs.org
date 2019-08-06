@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-11-18T13:33:36.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/retour-sur-le-retour-des-ptt/"
-slug: "retour-sur-le-retour-des-ptt"
 title: "Retour sur le retour des PTT"
-wordpress_id: 130705
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 
 ---
@@ -21,6 +18,7 @@ Un tour d'horizon des sites faits avec notre petit bijou et qui sont apparus ré
 A bientôt pour les prochains ateliers PTT - suivez l'actu en vous inscrivant au [groupe de discussion Silex francophone](https://www.silexlabs.org/groups/silex/silex-utilisateurs-francophones/), à l'[évènement Facebook des PTT](http://www.facebook.com/event.php?eid=264117520301060), au [twitter de l'assos Silex Labs](https://twitter.com/silexlabs)...
 
 ![](https://www.silexlabs.org/wp-content/uploads/2011/11/ptt-image-677x467.jpg)
+
 
 
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-15T14:29:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/nice-shot-bigbuz/"
-slug: "nice-shot-bigbuz"
 title: "Nice shot / BigBuz"
-wordpress_id: 99
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -24,6 +21,7 @@ Un truc de ouf cette équipe... Ces locaux... Et Simon Mazières (le photographe
 
 
 Mystère...
+
 
 
 

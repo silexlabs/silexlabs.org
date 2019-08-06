@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-10T09:22:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-commutnity-forums-manager-1-gestionnaire-pour-les-forums-silex/"
-slug: "silex-commutnity-forums-manager-1-gestionnaire-pour-les-forums-silex"
 title: "Silex community forums manager / 1 Gestionnaire pour les forums SILEX"
-wordpress_id: 648
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -65,4 +62,5 @@ Si vous êtes motivé pour le faire,
 Merci pour l'intérêt que vous portez à la communauté,
 
 lex.
+
 

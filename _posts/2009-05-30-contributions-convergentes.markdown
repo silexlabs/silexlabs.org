@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-30T14:17:21.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/contributions-convergentes/"
-slug: "contributions-convergentes"
 title: "Contributions convergentes"
-wordpress_id: 315
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -25,4 +22,5 @@ C'est donc avec joie que je vous annonce que la traduction en Hindi a été int�
 Vous avez sans doute remarqué que ces boîtes à outils sont toutes neuves : nouveau design et des bugs en moins.
 
 Et ceci nous le devons à NiB (naines in black) [Nibelune, Flash coder de talent](http://www.nibelune.net/), encore un indépendant qui gravite autour de Silex et contribue depuis quelques années...
+
 

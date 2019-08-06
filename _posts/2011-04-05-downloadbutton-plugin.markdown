@@ -3,10 +3,7 @@ author: "Benjamin"
 comments: true
 date: "2011-04-05T15:59:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/downloadbutton-plugin/"
-slug: "downloadbutton-plugin"
 title: "DownloadButton plugin"
-wordpress_id: 15217
 categories: ["Plugins"]
 
 ---
@@ -75,4 +72,5 @@ You can easily retrieve the URL of the imported PDF file by using the following 
 
 
 <<silex.config.importedPDFFile>>
+
 

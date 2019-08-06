@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2015-02-26T11:07:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/"
-slug: "le-tour-du-web-en-50-ateliers-2"
 title: "LE TOUR DU WEB EN 50 ATELIERS"
-wordpress_id: 204553
 categories: ["Silex Labs Events","The Blog"]
 tags: ["css3","e-inclusion","ecole de la seconde chance","EEMI","Fondation Free","Haxe","html5","IESA","javaScript","le tour du web en 50 ateliers","mediabox","mozilla","node.js","php","pole mecatronique","silex labs","silexV2","silicon banlieue"]
 
@@ -264,4 +261,5 @@ Pour ne rien rater de ces événements suivez nous sur [Twitter](https://twitter
 
 
 ![tour-du-web-carre-octv2-2015](https://www.silexlabs.org/wp-content/uploads/2015/02/tour-du-web-carre-octv2-2015.png)
+
 

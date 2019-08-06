@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T12:37:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-nicolas-barradeau-aka-nicoptere-random-graphic-doodles/"
-slug: "wwx2013-speech-nicolas-barradeau-aka-nicoptere-random-graphic-doodles"
 title: "wwx2013 speech: Nicolas Barradeau aka nicoptère \"Random graphic doodles\""
-wordpress_id: 142737
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","Nicolas Barradeau","nicoptere","wwx2013"]
 
@@ -58,6 +55,7 @@ Randomized experiences and visions of a programmer diving into the Haxe ecosyste
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

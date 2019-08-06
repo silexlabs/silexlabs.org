@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-04T16:14:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-yannick-dominguez-raphael-harmel-cocktail-for-game-uis/"
-slug: "wwx2013-speech-yannick-dominguez-raphael-harmel-cocktail-for-game-uis"
 title: "wwx2013 speech: Yannick Dominguez & Raphaël Harmel \"Cocktail for game UIs\""
-wordpress_id: 142483
 categories: ["Blog Haxe","Silex Labs Events","The Blog"]
 tags: ["cocktail","Haxe","raphaël harmel","wwx2013","yannick dominguez"]
 
@@ -87,6 +84,7 @@ Cocktail, HTML / CSS rendering engine, is used to create UIs in Haxe NME / AIR /
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

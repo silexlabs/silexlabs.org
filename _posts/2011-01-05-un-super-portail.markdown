@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-01-05T17:47:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/un-super-portail/"
-slug: "un-super-portail"
 title: "Un URL peut en cacher plein d'autres..."
-wordpress_id: 2168
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -21,4 +18,5 @@ Grâce au portail de l’association, mis en ligne à l'aube de 2011, votre rêv
 Ainsi cette plate-forme magique permet d'accéder à tous les sites concernant Silex Labs, Oof, amfphp et Silex.
 
 Voici donc l’URL à retenir et à diffuser sans modération : [projects.silexlabs.org](http://projects.silexlabs.org/#/open.source.projects/portal)
+
 

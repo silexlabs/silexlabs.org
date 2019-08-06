@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-04-19T07:23:22.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-git-2-utilisation-avancee/"
-slug: "atelier-git-2-utilisation-avancee"
 title: "Atelier Git #2 : utilisation avancée"
-wordpress_id: 201667
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["git","github","industrial workflow","silex labs","workflow"]
 
@@ -154,6 +151,7 @@ Inscrivez-vous dès maintenant !
 
 
 [![Atelier Git](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-git-2-avril2014-carre.png)](https://www.silexlabs.org/wp-content/uploads/2014/04/Atelier-git-2-avril2014-carre.png)
+
 
 
 

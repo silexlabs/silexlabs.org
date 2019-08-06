@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-09-02T13:31:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/a-walk-through-of-haxe-js-kit/"
-slug: "a-walk-through-of-haxe-js-kit"
 title: "A walk-through of Haxe JS Kit"
-wordpress_id: 205328
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["Clément Charmet","dev","Haxe","Haxe conference","Haxe JS Kit","javaScript","js","JS kit","node.js","nodejs","NPM","video","webdev","wwx","wwx2015"]
 
@@ -69,4 +66,5 @@ Watch the video:
 [embed]https://youtu.be/YJ3IvE6qCEA[/embed]
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-07-20T08:36:14.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cocktail-v1-0-sunrise-cross-platform-uis-with-haxe/"
-slug: "cocktail-v1-0-sunrise-cross-platform-uis-with-haxe"
 title: "WWX 2012 - Cocktail v1.0 Sunrise, HTML / CSS rendering engine"
-wordpress_id: 133902
 categories: ["Blog Labs","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -68,6 +65,7 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 ## The slides
+
 
 
 

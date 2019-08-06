@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-06-10T11:27:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ruler-tool/"
-slug: "ruler-tool"
 title: "Ruler Tool"
-wordpress_id: 3212
 categories: ["tools"]
 
 ---
@@ -23,4 +20,5 @@ This _ruler_tool.zip_ contains :
 - read_me
 
 [Download _rules_tool.zip_](http://wp-manager.silex-ria.org/wp-content/uploads/2010/06/rules_tool.zip)
+
 

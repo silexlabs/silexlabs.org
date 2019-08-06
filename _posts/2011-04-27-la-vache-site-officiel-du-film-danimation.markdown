@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-04-27T07:23:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/la-vache-site-officiel-du-film-danimation/"
-slug: "la-vache-site-officiel-du-film-danimation"
 title: "LA VACHE ! site officiel du film d'animation"
-wordpress_id: 2586
 categories: ["The Blog"]
 
 ---
@@ -18,4 +15,5 @@ Ce film à était réalisé avec l'association l'Oeuf à la cOque de Toulouse, a
 L'équipe du tournage : Tristan Francia (réalisateur-scénariste), Léo Francia (compositing-design graphique-webdesigner), Estelle Charrié (dessinatrice)
 
 [![](https://www.silexlabs.org/wp-content/uploads/2011/04/lavache02.jpg)](http://www.lavache.fr.ht)
+
 

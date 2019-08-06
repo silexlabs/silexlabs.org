@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-07-13T15:35:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/html5-editor-a-new-tool-is-born/"
-slug: "html5-editor-a-new-tool-is-born"
 title: "HTML5 Editor : A new tool is born !"
-wordpress_id: 133747
 categories: ["Blog Labs","Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -45,4 +42,5 @@ With HTML5 Editor:
 
 
 Ready to use templates and plugins are available for free on Silex Labs Exchange Platform and brought to you by an active community !
+
 

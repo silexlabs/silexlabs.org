@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-07T14:33:26.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-juraj-kirchheim-haxe-on-wings/"
-slug: "wwx2014-speech-juraj-kirchheim-haxe-on-wings"
 title: "WWX2014 - Speech : Juraj Kirchheim \"Haxe on Wings\""
-wordpress_id: 202939
 categories: ["Blog Haxe"]
 tags: ["Tinkerbell","wwx2014"]
 
@@ -177,6 +174,7 @@ We had some problem with the beginning of the video, so we asked Hugh to make a 
 
 
 ## ![wwx2014-carre-j-kirchem](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-j-kirchem.png)
+
 
 
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-09T15:43:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/un-theme-qui-fleure-bon-les-champs/"
-slug: "un-theme-qui-fleure-bon-les-champs"
 title: "Un thème qui fleure bon les champs"
-wordpress_id: 2318
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -24,4 +21,5 @@ Rendez-vous [ici](http://silexprod.com/koala) pour la démo et [là](https://www
 **New :** ce thème s'accompagne d'un descriptif fonctionnel complet afin d'en comprendre la structure et de pouvoir aisément l'adapter à vos besoins.
 
 Enjoy !
+
 

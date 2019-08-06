@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-31T09:48:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-sur-le-web-encore/"
-slug: "silex-sur-le-web-encore"
 title: "Silex sur le web, encore"
-wordpress_id: 1161
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -21,4 +18,5 @@ Je suis allé faire un tour sur le web trouver du silex, et voici ce que j'ai tr
 [http://www.mondoinformatico.info/siti-flash-subitogratis-e-senza-dannarsi_post-15692.html](http://www.mondoinformatico.info/siti-flash-subitogratis-e-senza-dannarsi_post-15692.html) , traduit en [français](http://translate.google.com/translate?js=y&prev=_t&hl=fr&ie=UTF-8&u=http%3A%2F%2Fwww.mondoinformatico.info%2Fsiti-flash-subitogratis-e-senza-dannarsi_post-15692.html&sl=it&tl=fr&history_state0=)
 
 Ariel
+
 

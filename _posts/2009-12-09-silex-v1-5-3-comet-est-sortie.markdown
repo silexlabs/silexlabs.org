@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-12-09T16:13:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v1-5-3-comet-est-sortie/"
-slug: "silex-v1-5-3-comet-est-sortie"
 title: "Silex v1.5.3 Comet est sortie!"
-wordpress_id: 1381
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -89,6 +86,7 @@ categories: ["Blog Silex","The Blog"]
 
 
   * Utilisation des composants Oof pour le diaporama et le formulaire de contact. Mode “noScale”.
+
 
 
 

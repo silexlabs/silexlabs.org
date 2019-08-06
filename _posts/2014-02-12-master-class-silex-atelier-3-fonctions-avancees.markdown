@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-12T19:10:01.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-atelier-3-fonctions-avancees/"
-slug: "master-class-silex-atelier-3-fonctions-avancees"
 title: "Master Class Silex - Atelier #3 : Fonctions avancées"
-wordpress_id: 201247
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","IESA","mda02","silexV2"]
 
@@ -138,4 +135,5 @@ Adhérer à Silex Labs c’est aussi s'impliquer dans une communauté et devenir
 
 
 [![MDA-atelier-silex-03-carre](https://www.silexlabs.org/wp-content/uploads/2014/02/MDA-atelier-silex-03-carre1.png)](https://www.eventbrite.fr/e/billets-master-class-silex-atelier-3-fonctions-avancees-10605835339)
+
 

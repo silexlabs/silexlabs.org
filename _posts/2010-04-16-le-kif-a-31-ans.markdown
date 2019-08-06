@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-04-16T17:38:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-kif-a-31-ans/"
-slug: "le-kif-a-31-ans"
 title: "Le kif a 31 ans – 31 31 31 13 13 13"
-wordpress_id: 1578
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -29,4 +26,5 @@ Il a passé la journée à scanner, rappeler, encadrer, déformer et faire des b
 En tant qu'ancien formateur senior (salut papi!), Franck a aussi mis au carré les programmes de formation, il a organisé le local et réunis le matériel nécessaire pour que la 1ere session de formations ait lieu, il y a un mois. Depuis il n'arrête pas, il s'occupe des supports de cours et de tout ce qui fait que la formation Silex est dynamique et professionnelle. La 2e session approche, allez Francky tu tiens le bon bout !
 
 Merci en tous cas, pour tes bonnes blagues, pour la place que tu prends si bien, pour ton naturel naturellement nature... et pour TA PATATE PERMANANTE ! :D
+
 

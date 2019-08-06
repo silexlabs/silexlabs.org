@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2013-04-30T15:36:57.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cocktail-first-beta-released/"
-slug: "cocktail-first-beta-released"
 title: "Cocktail first beta released"
-wordpress_id: 137409
 categories: ["Blog Labs","Blog Silex Labs","The Blog"]
 tags: ["cocktail","Haxe","Haxe developers","WWX2012","wwx2013"]
 
@@ -72,4 +69,5 @@ And when you need help using Cocktail, the team will welcome you on [the dedicat
 
 
 ##
+
 

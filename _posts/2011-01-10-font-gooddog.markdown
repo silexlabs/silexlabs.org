@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2011-01-10T10:21:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/font-gooddog/"
-slug: "font-gooddog"
 title: "Font GoodDog"
-wordpress_id: 1717
 categories: ["Fonts"]
 
 ---
@@ -38,4 +35,5 @@ FONTS_LIST=GoodDog&
 
 
 You can download the source GoodDog Fla here:[ ](https://www.silexlabs.org/?attachment_id=1640)[GoodDog-fla](https://www.silexlabs.org/wp-content/uploads/2011/01/GoodDog-fla.zip)
+
 

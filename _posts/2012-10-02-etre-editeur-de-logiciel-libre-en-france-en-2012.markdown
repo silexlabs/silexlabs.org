@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-10-02T14:32:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/etre-editeur-de-logiciel-libre-en-france-en-2012/"
-slug: "etre-editeur-de-logiciel-libre-en-france-en-2012"
 title: "Etre éditeur de logiciel libre en France en 2012"
-wordpress_id: 136383
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["business","éditeur logiciel","free","libre","open source","software editor"]
 
@@ -125,4 +122,5 @@ révolution par les technos libres
 install party (venez avec votre ordi)
 rencontrer des éditeurs de logiciels libres
 apéro/gouter/concert acoustique à 18h
+
 

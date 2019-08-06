@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-25T06:19:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-html-5-yannick-dominguez/"
-slug: "back-to-basics-html-5-yannick-dominguez"
 title: "Back to basics - HTML 5 - Yannick Dominguez"
-wordpress_id: 203193
 categories: ["Back To Basics","Silex Labs Events"]
 tags: ["Back to Basics","IESA","silexlabs","yannick dominguez"]
 
@@ -156,6 +153,7 @@ Html 5 (Hypertext Markup Language) est un langage de base pour la création de s
 
 
 ##  [![b-to-b-01-html5-carre2](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-html5-carre2.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-html5-carre2.png)
+
 
 
 

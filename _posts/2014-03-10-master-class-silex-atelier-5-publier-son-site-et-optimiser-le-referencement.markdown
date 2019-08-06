@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-03-10T15:55:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-atelier-5-publier-son-site-et-optimiser-le-referencement/"
-slug: "master-class-silex-atelier-5-publier-son-site-et-optimiser-le-referencement"
 title: "Master Class Silex - Atelier #5 : Publier son site et optimiser le référencement"
-wordpress_id: 201463
 categories: ["Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["IESA","master class silex","mda02","seo","seo camp","silexV2"]
 
@@ -109,4 +106,5 @@ Inscrivez-vous dès maintenant pour l'atelier #5
 
 
 ![MDA-atelier-silex-05](https://www.silexlabs.org/wp-content/uploads/2014/03/MDA-atelier-silex-05-carre-publier.png)
+
 

@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-18T16:06:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/10-years-of-haxe-10-things-i-like/"
-slug: "10-years-of-haxe-10-things-i-like"
 title: "10 years of Haxe / 10 things I like"
-wordpress_id: 204856
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["cross-platform","Gamedev","Haxe","Haxe conference","nicolas cannasse","video","webdev","wwx","wwx2015"]
 
@@ -67,4 +64,5 @@ https://twitter.com/JbIPS/status/604557859989401600
 https://twitter.com/JbIPS/status/604566768259067904
 
 https://twitter.com/silexlabs/status/622440090355281920
+
 

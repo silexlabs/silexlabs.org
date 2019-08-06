@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-10-25T13:40:24.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-plugin-baguette-amf/"
-slug: "amfphp-plugin-baguette-amf"
 title: "AmfPHP Plugin Baguette AMF"
-wordpress_id: 136652
 categories: ["Exchange","Exchange amfPHP"]
 
 ---
@@ -34,4 +31,5 @@ AMF is a very compact binary format. It is however difficult to parse. AmfPHP on
 Baguette AMF is a product by [Ariel Sommeria-Klein](http://arielsommeria.com/blog/), team lead for [AmfPHP.](http://silexlabs.org/amfphp/)
 
 More info at the [Product Website](http://www.baguetteamf.com).
+
 

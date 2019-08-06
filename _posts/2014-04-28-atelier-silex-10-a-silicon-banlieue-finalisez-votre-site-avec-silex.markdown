@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-04-28T13:03:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-10-a-silicon-banlieue-finalisez-votre-site-avec-silex/"
-slug: "atelier-silex-10-a-silicon-banlieue-finalisez-votre-site-avec-silex"
 title: "Atelier Silex #10 à Silicon Banlieue : Finalisez et publiez votre site avec Silex"
-wordpress_id: 202079
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["atelier","silex","silexV2","silicon banlieue"]
 
@@ -95,4 +92,5 @@ Cet atelier est gratuit !
 
 
 ![SB-atelier-silex-10](https://www.silexlabs.org/wp-content/uploads/2014/05/SB-atelier-silex-10-carre-agglogo.png)
+
 

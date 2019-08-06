@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-07-01T12:13:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/floral-template/"
-slug: "floral-template"
 title: "Floral Template"
-wordpress_id: 98296
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ This blog template is zen and beautiful with its header. Original with its galle
 [Original Template](http://www.templatemo.com/preview/templatemo_295_floral_beige)
 
 License : Creative Commons
+
 

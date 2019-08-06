@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-01-06T16:17:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/animation-plugin/"
-slug: "animation-plugin"
 title: "Animation plugin"
-wordpress_id: 1564
 categories: ["Plugins"]
 
 ---
@@ -332,4 +329,5 @@ In this exemple we can see that the animation are executed in order, one at a ti
 There three  more modifiers you can use when you create a tween and another parameter described in the paragraph below. There is "onAnimationStart", called just before the tween animation begins, "onAnimationUpdate" called each frame during the tween, and "onAnimationCompleteBeforeStart" that can be called if the tweened component is already at the finishing position before the tween begins. Like the "onAnimationComplete" modifier you can either use the default modifier or create a custom one. The last parameter is the callbackTargetName, it can be used to change the component that will call the modifiers. By default the tweened component is the target, meaning that you must set the actions ("onAnimationComplete", "onAnimationStart"...) on him. You can specifiy anther component's name. It's useful when you want for instance that the component which started the tween calls the modifier. The complete startTween function is here :
 
 `onRelease _global.silexTween.startTween:myComponent,_x,500,1,easeInBounce,onXAnimationComplete,onXAnimationStart,onXAnimationUpdate,alternativeTargetName,onXAnimationCompleteBeforeStart`
+
 

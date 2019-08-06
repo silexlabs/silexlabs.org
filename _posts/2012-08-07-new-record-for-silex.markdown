@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-07T12:06:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/new-record-for-silex/"
-slug: "new-record-for-silex"
 title: "New record for Silex !"
-wordpress_id: 135295
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 
 ---
@@ -66,4 +63,5 @@ For the main releases :
 Silex had been downloaded in 190 different countries.
 
 Congratulations to all who work on Silex. Lots of advancements had been realised, and something tells me that the best is yet to come...
+
 

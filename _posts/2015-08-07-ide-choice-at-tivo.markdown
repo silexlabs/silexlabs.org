@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-07T13:40:57.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ide-choice-at-tivo/"
-slug: "ide-choice-at-tivo"
 title: "IDE choice at TiVo"
-wordpress_id: 205005
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["dev","Gamedev","Haxe","Haxe conference","ide","IntelliJ IDEA","Srikanth Ganapavarapu","tivo","video","webdev","wwx","wwx2015"]
 
@@ -36,4 +33,5 @@ Watch the video:
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 
 https://twitter.com/sganapavarapu1/status/605074670073876480
+
 

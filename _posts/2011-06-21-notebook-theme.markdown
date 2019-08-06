@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-21T14:26:59.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/notebook-theme/"
-slug: "notebook-theme"
 title: "Notebook Theme"
-wordpress_id: 86232
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ Reproduction of Moleskine Notebook Template on Silex with the new plugin FlipBoo
 [Original template](http://tympanus.net/codrops/2010/12/14/moleskine-notebook/)
 
 License : Tutorial & GPL
+
 

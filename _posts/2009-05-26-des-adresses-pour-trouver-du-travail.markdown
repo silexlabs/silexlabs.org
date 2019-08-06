@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-26T07:56:22.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/des-adresses-pour-trouver-du-travail/"
-slug: "des-adresses-pour-trouver-du-travail"
 title: "Des adresses pour trouver du travail **** Where to find work"
-wordpress_id: 230
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -40,4 +37,5 @@ Tell them you're contacting them on our behalf and introduce them to Silex !
 
 
 Ariel
+
 

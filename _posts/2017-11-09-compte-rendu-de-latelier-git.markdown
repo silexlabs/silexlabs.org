@@ -3,10 +3,7 @@ author: "Tariq"
 comments: true
 date: "2017-11-09T22:55:01.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-de-latelier-git/"
-slug: "compte-rendu-de-latelier-git"
 title: "Compte rendu de l'atelier git"
-wordpress_id: 207393
 categories: ["The Blog"]
 
 ---
@@ -212,4 +209,5 @@ La prez de JB :
 [https://jbips.github.io/slides/](https://jbips.github.io/slides/)
 
 Merci encore à toutes et à tous et à très vite.
+
 

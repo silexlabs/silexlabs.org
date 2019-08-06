@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-24T09:24:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/prospects-for-using-go-libraries-in-haxe/"
-slug: "prospects-for-using-go-libraries-in-haxe"
 title: "Prospects for using Go libraries in Haxe"
-wordpress_id: 204874
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["cross-platform","Elliott Stoneham","Go","Golang","Haxe","Haxe conference","Tardis Go","video","wwx","wwx2015"]
 
@@ -52,4 +49,5 @@ https://twitter.com/JbIPS/status/604592730099056641
 https://twitter.com/ElliottStoneham/status/605665239871295488
 
 https://twitter.com/silexlabs/status/624513707209441281
+
 

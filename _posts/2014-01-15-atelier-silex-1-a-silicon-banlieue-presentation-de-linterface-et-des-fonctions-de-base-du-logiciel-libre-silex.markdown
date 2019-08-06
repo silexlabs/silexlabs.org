@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-15T16:26:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-1-a-silicon-banlieue-presentation-de-linterface-et-des-fonctions-de-base-du-logiciel-libre-silex/"
-slug: "atelier-silex-1-a-silicon-banlieue-presentation-de-linterface-et-des-fonctions-de-base-du-logiciel-libre-silex"
 title: "Atelier Silex #1 à Silicon Banlieue : Présentation de l'interface et des fonctions de base du logiciel libre Silex"
-wordpress_id: 200975
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","silex","silexV2","silicon banlieue"]
 
@@ -107,4 +104,5 @@ Mardi 11 février de 18h30 à 20h30
 
 
 ![SB-atelier-silex-01-carre](https://www.silexlabs.org/wp-content/uploads/2014/01/SB-atelier-silex-01-carre.png)
+
 

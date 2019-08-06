@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-29T13:37:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/dating-theme/"
-slug: "dating-theme"
 title: "Dating Theme"
-wordpress_id: 93412
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ This theme is for the romantic which wish to share their creations
 [Original template](http://www.justfreetemplates.com/preview/web-templates/2002.html)
 
 License : Creative Commons
+
 

@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-07-01T08:19:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/mini-wave-theme/"
-slug: "mini-wave-theme"
 title: "Mini Wave Theme"
-wordpress_id: 97397
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ A design airy and colored for a modern website
 [Original Template](http://www.templatemo.com/preview/templatemo_303_mini_wave)
 
 License : Creative Commons
+
 

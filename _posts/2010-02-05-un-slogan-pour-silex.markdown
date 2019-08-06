@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-02-05T18:33:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/un-slogan-pour-silex/"
-slug: "un-slogan-pour-silex"
 title: "Un slogan pour Silex ?!?"
-wordpress_id: 1458
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -23,4 +20,5 @@ Vous avez jusqu'au **28 février** pour nous soumettre vos propositions en **com
 Pensez svp à indiquer si vous désirez participer à la formation si c'est le cas !
 
 Alors, à vos plumes... euh vos claviers !
+
 

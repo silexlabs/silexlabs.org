@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-07-05T17:33:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/search-plugin-for-silex/"
-slug: "search-plugin-for-silex"
 title: "Search plugin for Silex"
-wordpress_id: 735
 categories: ["Plugins"]
 tags: ["engine","index","indexation","plugin","search"]
 
@@ -85,4 +82,5 @@ It is made up of :
 search plugin for Silex
 
 [https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/search/src/](https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/search/src/)
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-03T20:43:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-atelier-2-liens-internes-externes-et-embeded/"
-slug: "master-class-silex-atelier-2-liens-internes-externes-et-embeded"
 title: "Master Class Silex - Atelier #2 : Liens internes externes et embeded"
-wordpress_id: 201165
 categories: ["Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["atelier","IESA","master class silex","mda02","silexV2"]
 
@@ -155,4 +152,5 @@ Adhérer à Silex Labs c’est aussi s'impliquer dans une communauté et devenir
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2014/02/MDA-atelier-silex-02-carre.png)
+
 

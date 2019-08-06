@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-06-25T14:20:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/first-contact-selling-haxe-to-clients-and-developers/"
-slug: "first-contact-selling-haxe-to-clients-and-developers"
 title: "First Contact : Selling Haxe to clients and developers"
-wordpress_id: 133423
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -52,4 +49,5 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 More presentations by David & Dominic [here](http://ui.massive.com.au/talks/).
+
 

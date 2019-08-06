@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-30T19:54:14.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/team-team-team-team-part-2/"
-slug: "team-team-team-team-part-2"
 title: "TEAM TEAM TEAM TEAM /part 2/"
-wordpress_id: 913
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["communication","équipe","formation","futur","gestion","gestuelle","groupe","informel","kairos","maslow","méharabian","muchielli","objectifs","personnalités","phase","psychologie","réalisation de soi","reconnaissance","régulation","réunions","richez","sécurité","stimulation","stratégie","tests"]
 
@@ -42,4 +39,5 @@ Une matinée intéressante et riche d'enseignement pour nous tous, dont voici le
 
 
 [![](http://widget-c3.slide.com/p1/3170534137691349443/ms_t017_v000_s0un_f00/images/xslide1.gif)](http://www.slide.com/pivot?cy=ms&at=un&id=3170534137691349443&map=1) [![](http://widget-c3.slide.com/p2/3170534137691349443/ms_t017_v000_s0un_f00/images/xslide2.gif)](http://www.slide.com/pivot?cy=ms&at=un&id=3170534137691349443&map=2) [![](http://widget-c3.slide.com/p4/3170534137691349443/ms_t017_v000_s0un_f00/images/xslide42.gif)](http://www.slide.com/pivot?cy=ms&at=un&id=3170534137691349443&map=F)
+
 

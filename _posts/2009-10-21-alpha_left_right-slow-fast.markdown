@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-21T16:53:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/alpha_left_right-slow-fast/"
-slug: "alpha_left_right-slow-fast"
 title: "Gabarit alpha_left_right (slow / fast)"
-wordpress_id: 401
 categories: ["Layouts"]
 
 ---
@@ -30,4 +27,5 @@ Movimiento de aparicion / desaparicion de izquierda a derecha.
 [Click here to see an online demo of this layout ](https://www.silexlabs.org/silex_server/?/layout.demo10#/start/page.2)
 
 **_Note :_** this demo concerns the alpha_slow_left_right layout
+
 

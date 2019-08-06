@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-07T17:25:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/quand-le-libre-sinstall-a-soissons-silex-est-de-la-party/"
-slug: "quand-le-libre-sinstall-a-soissons-silex-est-de-la-party"
 title: "Quand le Libre s'install à Soissons, Silex est de la party !"
-wordpress_id: 79
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -31,6 +28,7 @@ La salle de formation de Picardie en ligne a été prise d'assaut par les utilis
 
 
 A suivre les 5 et 6 juin  et sur [http://silex-ria.org/](http://silex-ria.org/)
+
 
 
 

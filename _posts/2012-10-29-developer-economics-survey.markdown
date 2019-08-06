@@ -3,10 +3,7 @@ author: "codam"
 comments: true
 date: "2012-10-29T16:12:14.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/developer-economics-survey/"
-slug: "developer-economics-survey"
 title: "Developer Economics survey"
-wordpress_id: 136674
 categories: ["Blog Silex Labs"]
 
 ---
@@ -53,6 +50,7 @@ The link to the survey is available here: [www.visionmobile.com/DE13Intermedia]
 More informations about the previous Vision Mobile reports.Cross-Platform Developer Tools 2012 where Haxe is highlighted:
 [http://www.visionmobile.com/product/cross-platform-developer-tools-2012/](http://www.visionmobile.com/product/cross-platform-developer-tools-2012/)Developer Economics 2012:
 [http://www.visionmobile.com/product/developer-economics-2012/](http://www.visionmobile.com/product/developer-economics-2012/)
+
 
 
 

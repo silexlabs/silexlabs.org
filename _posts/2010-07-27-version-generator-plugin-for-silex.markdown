@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-07-27T15:40:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/version-generator-plugin-for-silex/"
-slug: "version-generator-plugin-for-silex"
 title: "Version Generator plugin for Silex"
-wordpress_id: 3214
 categories: ["Plugins"]
 tags: ["plugin"]
 
@@ -54,4 +51,5 @@ La première checkbox correspond à “est-ce que l’on inclue le fichier/dossi
 **Allez vérifier** ensuite si le version.xml a bien été généré (en principe oui, mais comme on est en phase de test…) en vérifiant la date et l’heure de création du fichier et en vérifiant son contenu (il ne doit pas contenir pass.php ni /plugins/version_generator).
 
 [Download the Version Generator plugin for Silex](https://www.silexlabs.org/?attachment_id=1013)
+
 

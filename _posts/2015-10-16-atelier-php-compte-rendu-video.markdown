@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-10-16T11:36:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-php-compte-rendu-video/"
-slug: "atelier-php-compte-rendu-video"
 title: "Atelier php compte-rendu vidéo"
-wordpress_id: 204661
 categories: ["Back To Basics","Compte rendu Vidéo","The Blog","Vidéos"]
 tags: ["atelier","Back to Basics","le tour du web","le tour du web en 50 ateliers","php","Yann Le Scouarnec"]
 
@@ -128,4 +125,5 @@ C'est un langage peu typé, souple et donc facile à apprendre par un débutant 
 
 
 ##
+
 

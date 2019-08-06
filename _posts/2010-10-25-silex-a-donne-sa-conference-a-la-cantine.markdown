@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-10-25T16:26:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-a-donne-sa-conference-a-la-cantine/"
-slug: "silex-a-donne-sa-conference-a-la-cantine"
 title: "Silex a donné sa conférence à la Cantine !"
-wordpress_id: 1902
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -38,4 +35,5 @@ Et merci à Jérémie pour [les photos](http://www.flickr.com/photos/54796681@N0
 À très vite pour la suite...
 
 Le Team Silex
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2016-04-08T13:22:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fondation-batigere-soutient-tour-web-50-ateliers/"
-slug: "fondation-batigere-soutient-tour-web-50-ateliers"
 title: "La Fondation Batigère soutient le Tour du Web en 50 ateliers"
-wordpress_id: 206124
 categories: ["The Blog"]
 tags: ["fondation batigere","le tour du web en 50 ateliers","partenaire","silexlabs"]
 
@@ -129,4 +126,5 @@ Nos partenaires opérationnels (écoles, centres de formation, MJC, maison de qu
 
 
 ![tour-du-web-carre-avr-2016.svg](https://www.silexlabs.org/wp-content/uploads/2016/04/tour-du-web-carre-avr-2016.svg_-1.png)
+
 

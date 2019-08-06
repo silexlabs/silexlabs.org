@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-05-18T08:57:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/donnez-une-touche-bollywood-a-votre-site-silex/"
-slug: "donnez-une-touche-bollywood-a-votre-site-silex"
 title: "Donnez une touche Bollywood à votre site Silex *** Give your Silex site a Bollywood look"
-wordpress_id: 176
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -17,4 +14,5 @@ Avec ce site, vous pouvez prendre des extraits de films de Bollywood et leur don
 Est-ce que quelqu'un se sent d'attaque d'en créer un pour silex?
 
 Ariel
+
 

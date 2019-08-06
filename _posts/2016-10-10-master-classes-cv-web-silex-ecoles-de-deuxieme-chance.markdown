@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2016-10-10T20:56:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-classes-cv-web-silex-ecoles-de-deuxieme-chance/"
-slug: "master-classes-cv-web-silex-ecoles-de-deuxieme-chance"
 title: "Les Master Classes CV WEB Silex dans les Écoles de la deuxième chance"
-wordpress_id: 206362
 categories: ["Silex"]
 tags: ["CV Web","E2C91","E2C93","E2C94","E2C95","Master Class","silex","silexV2","site web CV"]
 
@@ -90,4 +87,5 @@ Les objectifs de ce projet sont nombreux :
 
 
 ![tour-du-web-carre-avr-2016.svg](https://www.silexlabs.org/wp-content/uploads/2016/04/tour-du-web-carre-avr-2016.svg_-1.png)
+
 

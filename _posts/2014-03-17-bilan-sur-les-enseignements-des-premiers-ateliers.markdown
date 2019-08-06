@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-03-17T00:07:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bilan-sur-les-enseignements-des-premiers-ateliers/"
-slug: "bilan-sur-les-enseignements-des-premiers-ateliers"
 title: "Atelier Silex #4 à Silicon Banlieue : Bilan sur les enseignements des premiers ateliers"
-wordpress_id: 201346
 categories: ["Silex","Silex Labs Events","Silex workshops"]
 tags: ["silex","silexV2"]
 
@@ -99,6 +96,7 @@ Le cinquième atelier est déjà planifié vous pouvez déjà noter la date : M
 
 
 ![SB-atelier-silex-04-carre-pratique](https://www.silexlabs.org/wp-content/uploads/2014/02/SB-atelier-silex-04-carre-pratique.png)
+
 
 
 

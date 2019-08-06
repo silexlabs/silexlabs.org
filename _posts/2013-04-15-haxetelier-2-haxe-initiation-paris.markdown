@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-04-15T08:33:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier-2-haxe-initiation-paris/"
-slug: "haxetelier-2-haxe-initiation-paris"
 title: "Haxetelier #2, Haxe initiation Paris"
-wordpress_id: 137734
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","haxetelier","open source","silex labs"]
 
@@ -50,4 +47,5 @@ Pour plus d'infos sur les Haxeteliers rendez-vous sur [l'article Haxetelier](htt
 Et si vous êtes un vrai Haxeur vous ne pouvez pas manquer [la wwx2013](https://www.silexlabs.org/137756/the-blog/blog-silex-labs/worldwide-haxe-conference-2013-announcement/).
 
 **En espérant te voir en chair et en Haxe !!**
+
 

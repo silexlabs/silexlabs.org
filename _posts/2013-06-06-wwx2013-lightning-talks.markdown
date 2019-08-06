@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-06T16:18:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-lightning-talks/"
-slug: "wwx2013-lightning-talks"
 title: "wwx2013 Lightning Talks"
-wordpress_id: 143115
 categories: ["Blog Haxe","Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Cifacom","Haxe","silex","silex labs","wwx2013"]
 
@@ -156,6 +153,7 @@ The Obelix team was composed of 4 Cifacom's students who worked on Silex V2 user
 - [Talk Laszlo Pandy: **Automating cross-platform UI development at Prezi**](https://www.silexlabs.org/?p=142721)
 
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
+
 
 
 

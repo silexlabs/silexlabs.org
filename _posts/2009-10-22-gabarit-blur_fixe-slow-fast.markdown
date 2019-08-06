@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-22T10:12:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/gabarit-blur_fixe-slow-fast/"
-slug: "gabarit-blur_fixe-slow-fast"
 title: "Gabarit blur_fixe (slow / fast)"
-wordpress_id: 425
 categories: ["Layouts"]
 
 ---
@@ -30,4 +27,5 @@ sin movimiento.
 [Click here to see an online demo of this layout](https://www.silexlabs.org/silex_server/?/layout.demo8#/start/page.2)
 
 _**Note :**_ this demo concerns the blur_slow layout
+
 

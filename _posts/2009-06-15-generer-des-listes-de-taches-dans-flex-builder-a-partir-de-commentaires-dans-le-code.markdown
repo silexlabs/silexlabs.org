@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-15T13:41:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/generer-des-listes-de-taches-dans-flex-builder-a-partir-de-commentaires-dans-le-code/"
-slug: "generer-des-listes-de-taches-dans-flex-builder-a-partir-de-commentaires-dans-le-code"
 title: "Générer des listes de tâches dans Flex Builder à partir de commentaires dans le code"
-wordpress_id: 789
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -19,4 +16,5 @@ J'étais en train de rêver dans les commentaires chez [Ted](http://onflash.org
 Faites suivre aux intéressés!
 
 _**POST IN ENGLISH **__[HERE](http://arielsommeria.com/blog/2009/06/15/generating-todos-from-code-comments-in-flex-builder/)_
+
 

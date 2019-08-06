@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-01-23T20:53:57.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/best-buttons/"
-slug: "best-buttons"
 title: "best buttons"
-wordpress_id: 2269
 categories: ["Plugins"]
 
 ---
@@ -148,4 +145,5 @@ This button can be used when you want to create a button with only a label, no b
 
 
 This button has the same properties than the BestLabelButton and add some. For each state, you can specify a background. The background must another component on the scene. For instance you can use a Geometry component filled with a gradient and with rounded corner as the background of your Up state, you just have to enter the name of the Geometry component in the Background Up comboBox, the Geometry component will move at the right place and take the same size as the button.
+
 

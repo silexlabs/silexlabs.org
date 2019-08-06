@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-04T16:33:36.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-laurence-taylor-make-it-fly-haxe-fp-and-arrows/"
-slug: "wwx2013-speech-laurence-taylor-make-it-fly-haxe-fp-and-arrows"
 title: "wwx2013 speech: Laurence Taylor \"Make it Fly (Haxe, Fp and Arrows)\""
-wordpress_id: 143188
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["Arrows","Fp","Haxe","Laurence Taylor","wwx2013"]
 
@@ -55,6 +52,7 @@ Asynchronousity is at the heart of most modern applications, be it mobile, web, 
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

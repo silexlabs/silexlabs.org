@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2016-04-25T16:59:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/nos-videos-realises-grace-soutien-de-nos-partenaires/"
-slug: "nos-videos-realises-grace-soutien-de-nos-partenaires"
 title: "Nos vidéos sont réalisés grâce au soutien de nos partenaires"
-wordpress_id: 206304
 categories: ["Compte rendu Vidéo","Vidéos"]
 tags: ["association","compte rendu","dev","fondation batigere","free fondation","initiation","le tour du web en 50 ateliers","Pôle emploi","Région Ile de France","silex labs","silexlabs","tw50","video","webdev"]
 
@@ -38,6 +35,7 @@ Silex Labs et ses partenaires organisent des ateliers pour découvrir les métie
 Ces ateliers animés par des bénévoles, professionnels du secteur numérique et se sont déroulent en Île de France (75, 91, 93, 95). Les ateliers sont ouvert à tous mais ciblent prioritairement les jeunes de moins de 25 ans sans formation particulière et les chômeurs pour qui les ateliers sont gratuits.
 
 ![tour-du-web-carre-avr-2016-fdblc](https://www.silexlabs.org/wp-content/uploads/2016/07/tour-du-web-carre-avr-2016-fdblc.png)
+
 
 
 

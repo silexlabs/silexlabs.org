@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T10:05:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wall-sheft-theme/"
-slug: "wall-sheft-theme"
 title: "Wall Shelf Theme"
-wordpress_id: 87360
 categories: ["Themes"]
 
 ---
@@ -31,4 +28,5 @@ Wall Shelt is a very nice template. With his variations, red and green, this tem
 [Original template](http://www.templatemo.com/preview/templatemo_294_wall_shelf)
 
 License : Creative Commons
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-12-20T15:22:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-back-to-basics-php/"
-slug: "atelier-back-to-basics-php"
 title: "Atelier Back to Basics PHP"
-wordpress_id: 204093
 categories: ["Back To Basics","Silex Labs Events"]
 tags: ["php","web development","Yann Le Scouarnec"]
 
@@ -132,4 +129,5 @@ Réservez votre Mercredi 28 Janvier de 19H-21H et venez à l’[EEMI](http://www
 
 
 ![b-to-bV2-PHP-carre](https://www.silexlabs.org/wp-content/uploads/2014/12/b-to-bV2-PHP-carre.png)
+
 

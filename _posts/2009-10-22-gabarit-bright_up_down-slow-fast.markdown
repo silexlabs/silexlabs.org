@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-22T10:23:25.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/gabarit-bright_up_down-slow-fast/"
-slug: "gabarit-bright_up_down-slow-fast"
 title: "Gabarit bright_up_down (slow / fast)"
-wordpress_id: 3205
 categories: ["Layouts"]
 
 ---
@@ -30,4 +27,5 @@ Movimiento de aparicion / desaparicion de arriba hacia abajo.
 [Click here to see an online demo of this layout](https://www.silexlabs.org/silex_server/?/layout.demo2#/start/page.2)
 
 _**Note : **_this demo concerns the bright_slow_up_down
+
 

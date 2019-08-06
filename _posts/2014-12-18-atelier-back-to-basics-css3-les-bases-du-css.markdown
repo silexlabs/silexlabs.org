@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-12-18T15:43:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-back-to-basics-css3-les-bases-du-css/"
-slug: "atelier-back-to-basics-css3-les-bases-du-css"
 title: "Atelier Back to Basics CSS3 : Les bases du CSS"
-wordpress_id: 204061
 categories: ["Back To Basics","Silex Labs Events","The Blog"]
 tags: ["css","css3","IESA","Sourouche Bagherzadeh"]
 
@@ -182,4 +179,5 @@ Réservez votre mardi 13 janvier 2015 et venez à [l’IESA Multimédia ](http:
 
 
 ![b-to-bV2-css3-01-carre](https://www.silexlabs.org/wp-content/uploads/2014/12/b-to-bV2-css3-01-carre.png)
+
 

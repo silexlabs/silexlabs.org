@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-10-12T13:15:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/actions-filters/"
-slug: "actions-filters"
 title: "Actions & Filters"
-wordpress_id: 1817
 categories: ["Blog Silex","The Blog"]
 tags: ["dev","Haxe","hooks"]
 
@@ -173,4 +170,5 @@ This function takes the name of the filter to be dispatched and the value to be 
 
 
 This function removes the filter handler from the list of filter handlers to be called for the specified filter.
+
 

@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-04-17T14:51:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-wwx-rox/"
-slug: "haxe-wwx-rox"
 title: "Haxe WWX ROX"
-wordpress_id: 132104
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -56,4 +53,5 @@ Thank you finally to our sponsors and everyone who helped out. We're happy and e
 
 
 ![](http://wwx.haxe.org/img/logo/silex.png)
+
 

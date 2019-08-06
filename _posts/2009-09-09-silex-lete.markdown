@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-09-09T09:42:40.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-lete/"
-slug: "silex-lete"
 title: "Silex l'été"
-wordpress_id: 1246
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -15,4 +12,5 @@ Se poser sur une chaise flottante dans la piscine de l'hôtel. Admirer les ébat
 Le bonheur !
 Silex - le seul CMS qui permet de créer des sites quand on est dans une piscine !
 Allez hop ! L'été est fini, remettez-vous au boulot feignasses !
+
 

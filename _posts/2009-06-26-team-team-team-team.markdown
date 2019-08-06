@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-26T16:27:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/team-team-team-team/"
-slug: "team-team-team-team"
 title: "TEAM, TEAM, TEAM, TEAM !"
-wordpress_id: 843
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["communication","équipe","formation","futur","gestion","gestuelle","groupe","informel","kairos","maslow","méharabian","muchielli","objectifs","personnalités","phase","psychologie","réalisation de soi","reconnaissance","régulation","réunions","richez","sécurité","stimulation","stratégie","tests"]
 
@@ -38,4 +35,5 @@ La vidéo : [_ici_](http://www.youtube.com/watch?v=pGFGD5pj03M)
 
 Le transcript : _[là](http://www.theitcrowd.co.uk/script/1.1/en/1-1.6-yesterdays-jam.htm)
 _
+
 

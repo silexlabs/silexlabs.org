@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-04-05T15:46:22.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lets-haxe-a-beer-together/"
-slug: "lets-haxe-a-beer-together"
 title: "Let's Haxe a beer together"
-wordpress_id: 137940
 categories: ["Silex Labs Events","The Blog"]
 tags: ["Haxe","Haxepéro","haxetelier","silex labs"]
 
@@ -22,4 +19,5 @@ Ce sera aussi l'occasion de parler de nos [Haxeteliers de formation au langage H
 Venez nombreux et faites tourner l'info nous Haxeptons tout le monde !!
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/04/haxepéro-18-avril-20132.jpeg)](https://www.silexlabs.org/137940/the-blog/lets-haxe-a-beer-together/attachment/haxepero-18-avril-2013-3/)
+
 

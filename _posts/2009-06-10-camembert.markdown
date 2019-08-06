@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-10T21:38:04.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/camembert/"
-slug: "camembert"
 title: "Camembert !"
-wordpress_id: 485
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -35,4 +32,5 @@ Open flash Chart dans Silex :
 - dans silex, clicker sur le bouton "AS3" et mettre l'adresse "media/open-flash-chart.swf?data-file=media/data.json" (sans les guillemets)
 
 Enfin, il y a d'autres utilisations possibles d'openflashchart, comme la liaison avec des bases de données (comme le font piwik)
+
 

@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-08-25T14:38:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-node-js-le-retour-yannick-dominguez-2/"
-slug: "back-to-basics-node-js-le-retour-yannick-dominguez-2"
 title: "Back to Basics - NODE JS LE RETOUR - Yannick Dominguez"
-wordpress_id: 203325
 categories: ["Back To Basics","Blog Silex Labs","The Blog"]
 tags: ["atelier","Back to Basics","IESA","node.js","silex labs","yannick dominguez"]
 
@@ -122,6 +119,7 @@ Veuillez nous excuser pour la qualité de la vidéo, nous avons eu des problème
 
 ##  [![b-to-b-06-node2-carre](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-06-node2-carre1.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-06-node2-carre1.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-node-carre-as.png)
+
 
 
 

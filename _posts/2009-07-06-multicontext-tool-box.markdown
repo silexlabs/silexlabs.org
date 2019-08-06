@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-06T11:31:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/multicontext-tool-box/"
-slug: "multicontext-tool-box"
 title: "multicontext tool box"
-wordpress_id: 3201
 categories: ["tools"]
 
 ---
@@ -74,6 +71,7 @@ To edit the source, paste "multi_context_tool.fla" in the dev kit directory "too
 [multicontext-tool-box](http://wp-manager.silex-ria.org/wp-content/uploads/2009/07/multicontext-tool-box.zip)
 
 > http://wp-manager.silex-ria.org/wp-content/uploads/2009/07/multicontext-tool-box.zip
+
 
 
 

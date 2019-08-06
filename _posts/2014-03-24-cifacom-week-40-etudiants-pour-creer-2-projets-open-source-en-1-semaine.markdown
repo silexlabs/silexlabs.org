@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-03-24T16:50:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cifacom-week-40-etudiants-pour-creer-2-projets-open-source-en-1-semaine/"
-slug: "cifacom-week-40-etudiants-pour-creer-2-projets-open-source-en-1-semaine"
 title: "Cifacom Week : 40 étudiants pour créer 2 projets open source en 1 semaine"
-wordpress_id: 201551
 categories: ["Contributhon","Silex Labs Events"]
 tags: ["Cifacom","cifacom week","projet pédagogique"]
 
@@ -101,4 +98,5 @@ Nous nous sommes inspiré de la méthodologie Scrum, dans une version adaptée �
 
 
 ![silexlabs-Cifacom-week-carre](https://www.silexlabs.org/wp-content/uploads/2014/03/silexlabs-Cifacom-week-carre.png)
+
 

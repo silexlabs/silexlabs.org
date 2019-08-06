@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-06-13T09:52:51.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-and-ocaml-united-followup/"
-slug: "haxe-and-ocaml-united-followup"
 title: "Haxe and OCaml united: followup!"
-wordpress_id: 133239
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -265,6 +262,7 @@ Thank you to
 
 
   * Haxe et OCaml for being such great tools, and making all this possible!
+
 
 
 

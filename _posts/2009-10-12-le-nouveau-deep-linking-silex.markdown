@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-10-12T17:16:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-nouveau-deep-linking-silex/"
-slug: "le-nouveau-deep-linking-silex"
 title: "Le nouveau deep linking silex"
-wordpress_id: 1251
 categories: ["Blog Silex","The Blog"]
 tags: ["innovation","new"]
 
@@ -170,5 +167,6 @@ Comment google trouve-t-il toutes les pages de mon site? Il n'y a pas de liens v
 > Vous remarquerez que ces liens sont des permalinks sans # pour que le bot voit les équivalent HTML des pages, cf explication ci-dessus.
 
 > Le bot a donc tous les liens et peut indexer les pages, même celles qui n'étaient pas linkées dans un article ou ailleurs sur le site.
+
 
 

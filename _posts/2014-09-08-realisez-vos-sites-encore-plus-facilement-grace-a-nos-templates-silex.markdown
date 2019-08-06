@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-09-08T15:35:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/realisez-vos-sites-encore-plus-facilement-grace-a-nos-templates-silex/"
-slug: "realisez-vos-sites-encore-plus-facilement-grace-a-nos-templates-silex"
 title: "Réalisez vos sites encore plus facilement grace à nos templates SILEX"
-wordpress_id: 203462
 categories: ["Blog Silex","Silex","The Blog","tuto","Tutorials Silex","Tutorials sites"]
 tags: ["silexV2","template","template silex","templates","tutoriel"]
 
@@ -159,6 +156,7 @@ Télécharger ce template sur [Templamatic](https://www.templamatic.com/template
 
 
   * Article réalisé par [Grégory](http://www.gregoryparodi.fr/) et Antonin
+
 
 
 

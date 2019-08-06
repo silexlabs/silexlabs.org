@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-08T19:59:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-marketing-1-storytelling-reseaux-sociaux/"
-slug: "atelier-marketing-1-storytelling-reseaux-sociaux"
 title: "Atelier Marketing #1 : Storytelling & réseaux sociaux"
-wordpress_id: 200931
 categories: ["Blog Silex","Blog Silex Labs","Silex","Silex Labs Events"]
 tags: ["marketing","réseaux sociaux","storytelling","waltermelon"]
 
@@ -40,4 +37,5 @@ Au moins 2 ateliers par mois sur le marketing et sur nos projets open source po
 Adhérer à Silex Labs c'est aussi devenir membre d'un réseau de professionnels du numérique et participer gratuitement aux autres type d'évènements de l'association : meet-up et [apéros thématiques](https://www.silexlabs.org/179230/the-blog/blog-silex-labs/lhaxepero-revient-de-vacances-le-jeudi-22-aout-a-19h-au-bistrot-marguerite/), hackathons, Nuits charrettes ....
 
 Alors rejoignez-nous !!
+
 

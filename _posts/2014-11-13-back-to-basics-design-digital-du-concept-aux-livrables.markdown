@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-13T11:34:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-design-digital-du-concept-aux-livrables/"
-slug: "back-to-basics-design-digital-du-concept-aux-livrables"
 title: "Back To Basics : Design Digital - du concept aux livrables"
-wordpress_id: 203944
 categories: ["Atelier Design","Back To Basics","Silex Labs Events","The Blog"]
 tags: ["charte graphique","design","pol goasdoué","prototypage","wireframing"]
 
@@ -170,4 +167,5 @@ Réservez votre mardi 18 novembre de 18h30 à 20h30 et venez à  à l’[EEMI](
 
 
 ![2014-10-01-eemi-atelier-design-carre-01](https://www.silexlabs.org/wp-content/uploads/2014/10/2014-10-01-eemi-atelier-design-carre-01.png)
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-05-04T08:15:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/new-screencasts-for-silex/"
-slug: "new-screencasts-for-silex"
 title: "New screencasts for Silex !"
-wordpress_id: 2639
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -38,4 +35,5 @@ A great initiative for Silex and it's community !
 So, if you can't not sleep, make screencasts :)
 
 _**Note :**_ Lexa used [Screenr](http://www.screenr.com/), a free tool that doesn't require any installation.
+
 

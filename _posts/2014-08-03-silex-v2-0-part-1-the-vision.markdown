@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2014-08-03T14:25:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v2-0-part-1-the-vision/"
-slug: "silex-v2-0-part-1-the-vision"
 title: "Silex v2.0 - Part 1, the vision"
-wordpress_id: 179359
 categories: ["Blog Silex","Blog Silex Labs","Silex","The Blog","Tutorials Silex"]
 tags: ["silex V2","silex-v2-vision"]
 
@@ -58,4 +55,5 @@ Nevertheless, there is room for improvements, and several important functionalit
 Right now, Silex v2 is functional and we already have produce several websites with it.
 
 More is coming soon, in the next article "Silex v2.0 - Part 2, what is it exactly?"
+
 

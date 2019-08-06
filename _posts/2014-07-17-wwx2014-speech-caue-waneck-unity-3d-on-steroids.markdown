@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-17T10:30:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-caue-waneck-unity-3d-on-steroids/"
-slug: "wwx2014-speech-caue-waneck-unity-3d-on-steroids"
 title: "WWX2014 Speech : Cauê Waneck \"Unity 3D on steroids\""
-wordpress_id: 203012
 categories: ["Blog Haxe"]
 tags: ["cauê waneck","Haxe","unity3D","wwx2014"]
 
@@ -162,6 +159,7 @@ In this quick talk, it is shown an overview of how it is possible to use Haxe wi
 
 
 ##  ![wwx2014-c-waneck](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-c-waneck-687x386.png)
+
 
 
 

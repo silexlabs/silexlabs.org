@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-09T13:35:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/drakarnage-slapping-data-from-web-servers-right-in-your-gpu/"
-slug: "drakarnage-slapping-data-from-web-servers-right-in-your-gpu"
 title: "Drakarnage: Slapping data from web servers right in your GPU"
-wordpress_id: 204954
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["David Elahee","Drakarnage","game","Gamedev","GPU","Haxe","Haxe conference","mobile","Motion Twin","video","web","wwx","wwx2015"]
 
@@ -50,4 +47,5 @@ Data flow of [Drakarnage](http://drakarnage.com) alongside some sample of what H
 https://twitter.com/blackmagic_mt/status/605539081280356353
 
 https://twitter.com/blackmagic_mt/status/605073716825993218
+
 

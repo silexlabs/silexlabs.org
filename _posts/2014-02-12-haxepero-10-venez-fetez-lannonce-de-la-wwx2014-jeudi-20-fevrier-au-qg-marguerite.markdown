@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-12T15:48:44.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxepero-10-venez-fetez-lannonce-de-la-wwx2014-jeudi-20-fevrier-au-qg-marguerite/"
-slug: "haxepero-10-venez-fetez-lannonce-de-la-wwx2014-jeudi-20-fevrier-au-qg-marguerite"
 title: "Haxepéro #10 : Venez fêter l'annonce de la WWX2014 jeudi 20 février au QG Marguerite"
-wordpress_id: 201241
 categories: ["Blog Haxe","Silex Labs Events"]
 tags: ["Haxe","Haxepéro","wwx2014"]
 
@@ -20,4 +17,5 @@ Pour fêter ça et commencer à discuter du programme, des speakers, des débhax
 On compte sur vous alors [dites nous si vous serez là !](https://plus.google.com/108940696681231990724/posts/RP4rwEJ8k1z)
 
 ![](https://www.silexlabs.org/wp-content/uploads/2014/02/haxepero-10-fev-2014-carre.png)
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T13:29:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-laszlo-pandy-automating-cross-platform-ui-development-at-prezi/"
-slug: "wwx2013-speech-laszlo-pandy-automating-cross-platform-ui-development-at-prezi"
 title: "wwx2013 speech: Laszlo Pandy \"Automating cross-platform UI development at Prezi\""
-wordpress_id: 142721
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["cross-platform","Haxe","Laszlo Pandy","Prezi","wwx2013"]
 
@@ -54,6 +51,7 @@ tags: ["cross-platform","Haxe","Laszlo Pandy","Prezi","wwx2013"]
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

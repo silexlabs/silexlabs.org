@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-29T15:58:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/blog-video-theme/"
-slug: "blog-video-theme"
 title: "Blog Video Theme"
-wordpress_id: 93400
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ This Blog is perfect for your gallery of photos or videos. There are two variati
 [Original template](http://opensourcetemplates.org/preview/film)
 
 License : Creative Commons
+
 

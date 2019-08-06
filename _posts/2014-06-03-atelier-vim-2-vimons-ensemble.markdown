@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-03T08:53:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-vim-2-vimons-ensemble/"
-slug: "atelier-vim-2-vimons-ensemble"
 title: "Atelier Vim #2 : Vimons ensemble !"
-wordpress_id: 202570
 categories: ["Blog Silex Labs","Industrial Workflow","Silex Labs Events","The Blog"]
 tags: ["developer","ide","mediabox","Vim"]
 
@@ -58,4 +55,5 @@ L’association [Silex Labs](https://www.silexlabs.org/) est composée des com
 Dans le domaine du développement, les outils sont en constante évolution, c’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers pour travailler ensemble avec des outils devenus incontournables, et partager des retours d’expériences sur les bonnes pratiques d’organisation et de travail collaboratif.
 
 ![Atelier-VIM-2-juin2014-carre](https://www.silexlabs.org/wp-content/uploads/2014/06/Atelier-VIM-2-juin2014-carre.png)
+
 

@@ -3,10 +3,7 @@ author: "cindy"
 comments: true
 date: "2011-07-13T10:21:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/rock-theme/"
-slug: "rock-theme"
 title: "Rock Theme"
-wordpress_id: 113417
 categories: ["Themes"]
 
 ---
@@ -23,4 +20,5 @@ Template sur le groupe de rock MUSE
 [Descriptif détaillé de ce thème en PDF](http://silexprod.com/silex_cindy/Description_rock.pdf)
 
 licence Creative Commons
+
 

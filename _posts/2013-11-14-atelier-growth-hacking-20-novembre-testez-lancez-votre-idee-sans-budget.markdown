@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-11-14T19:23:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-growth-hacking-20-novembre-testez-lancez-votre-idee-sans-budget/"
-slug: "atelier-growth-hacking-20-novembre-testez-lancez-votre-idee-sans-budget"
 title: "Atelier Growth Hacking 20 novembre : Testez & lancez votre idée sans budget !"
-wordpress_id: 180295
 categories: ["Silex Labs Events"]
 tags: ["growth hacking","silex labs","waltermelon"]
 
@@ -43,4 +40,5 @@ En somme, les bonnes pratiques pour maximiser ses chances de succès et donc mi
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/11/icone_inscription111.png)](https://www.eventbrite.fr/e/billets-lancez-testez-une-idee-sans-budget-9099323321?utm_term=concours&utm_medium=Soyezlean&utm_campaign=Le+crowdfunding+de+walter&utm_source=Soyezlean&utm_content=concours)
+
 

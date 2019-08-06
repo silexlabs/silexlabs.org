@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2012-11-05T14:51:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/multi-plateforme-sans-concession-silex-labs-a-lepita/"
-slug: "multi-plateforme-sans-concession-silex-labs-a-lepita"
 title: "Multi-plateforme sans concession, Silex Labs à l’Epita"
-wordpress_id: 136735
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -109,4 +106,5 @@ A l'EPITA, 14-16 rue Voltaire, Le Kremlin-Bicêtre, amphi 1Le mercredi 07 nove
 
 
 Open source, technos libres, éditeurs de logiciels libres, nme, haxe, cocktail, intermedia paris, écoles, silex labs, cross-platform,
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-10-28T10:49:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/discussion-business-modele-libre-pas-libre/"
-slug: "discussion-business-modele-libre-pas-libre"
 title: "Discussion business model : libre, pas libre?"
-wordpress_id: 1332
 categories: ["The Blog"]
 
 ---
@@ -17,4 +14,5 @@ http://www.gskinner.com/blog/archives/2009/03/gtween_and_twee.html
 
 Aux 2/3 de la page, chercher :
 _Wow, lots of drama about licensing_
+
 

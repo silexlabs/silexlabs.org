@@ -3,10 +3,7 @@ author: "codam"
 comments: true
 date: "2011-05-17T15:38:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/video-subtitle-player/"
-slug: "video-subtitle-player"
 title: "Video Subtitle Player (SRT Player)"
-wordpress_id: 49730
 categories: ["Plugins"]
 
 ---
@@ -324,6 +321,7 @@ They can be found on following subversion repository: https://silex.svn.sourcefo
 
 
 And also in this zip file: [SRT Player source files](https://www.silexlabs.org/?attachment_id=55851)
+
 
 
 

@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-06-06T12:15:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-1-generator-is-out/"
-slug: "amfphp-2-1-generator-is-out"
 title: "amfPHP 2.1 Generator is out!"
-wordpress_id: 132935
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -84,5 +81,6 @@ Once more, thanks for your support!
 Silex Labs
 
 [![](https://www.silexlabs.org/wp-content/uploads/2012/06/Amf-render-0291-677x451.png)](https://www.silexlabs.org/132935/the-blog/amfphp-2-1-generator-is-out/attachment/amf-render-029/)
+
 
 

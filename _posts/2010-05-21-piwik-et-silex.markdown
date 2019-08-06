@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-21T14:36:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/piwik-et-silex/"
-slug: "piwik-et-silex"
 title: "Piwik et Silex"
-wordpress_id: 1673
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -63,4 +60,5 @@ Site officiel :[ http://piwik.org]( http://piwik.org)
 
 
 Disponible sous Sourceforge : [http://sourceforge.net/projects/piwik/](http://sourceforge.net/projects/piwik/)
+
 

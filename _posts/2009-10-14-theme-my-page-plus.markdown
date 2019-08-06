@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-10-14T14:20:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/theme-my-page-plus/"
-slug: "theme-my-page-plus"
 title: "My Page plus Theme"
-wordpress_id: 385
 categories: ["Themes"]
 
 ---
@@ -70,4 +67,5 @@ Diaporama and contact form components made with Oof components."NoScale" mode.
 
 **[devkit_mypage_plus.zip](http://wp-manager.silex-ria.org/wp-content/uploads/2009/09/trunk_themes_mypage.zip)
 **
+
 

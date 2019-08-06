@@ -3,10 +3,7 @@ author: "jbips"
 comments: true
 date: "2018-04-24T22:16:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v2-createur-de-site-web-attendiez/"
-slug: "silex-v2-createur-de-site-web-attendiez"
 title: "Silex v2, le créateur de site web que vous attendiez"
-wordpress_id: 207616
 categories: ["The Blog"]
 
 ---
@@ -160,4 +157,5 @@ Créez librement,
 
 
 L'équipe Silex Labs
+
 

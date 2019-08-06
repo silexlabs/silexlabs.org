@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-21T17:55:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-html-5/"
-slug: "back-to-basics-html-5"
 title: "Back to Basics : HTML 5"
-wordpress_id: 203953
 categories: ["Back To Basics","Silex Labs Events"]
 tags: ["html5","IESA","Sourouche Bagherzadeh","web development"]
 
@@ -125,4 +122,5 @@ Réservez votre mardi 25 novembre de 18h à 20h et venez à l’[IESA Multimédi
 
 
 ![b-to-b-01-html5-carre](https://www.silexlabs.org/wp-content/uploads/2014/10/b-to-b-01-html5-carre.png)
+
 

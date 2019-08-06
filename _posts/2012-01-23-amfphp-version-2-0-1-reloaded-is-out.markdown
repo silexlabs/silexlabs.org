@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-01-23T21:21:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-version-2-0-1-reloaded-is-out/"
-slug: "amfphp-version-2-0-1-reloaded-is-out"
 title: "amfPHP version 2.0.1 reloaded is out!"
-wordpress_id: 131386
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 
 ---
@@ -31,4 +28,5 @@ call duration in service browser
 support for receiving ArrayCollections is back(no sending back to client yet)
 check arguments count option for service router
 filter out methods starting with a '_', giving the possibility to have public methods that aren't accessible from clients.
+
 

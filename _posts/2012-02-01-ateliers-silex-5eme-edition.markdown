@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-02-01T16:31:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ateliers-silex-5eme-edition/"
-slug: "ateliers-silex-5eme-edition"
 title: "Ateliers Silex - 5ème édition"
-wordpress_id: 131479
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events"]
 
 ---
@@ -85,6 +82,7 @@ A partir d'une page vierge :
 
 
   * Prévoyez une collation pour un dîner sur le pouce
+
 
 
 

@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2017-01-09T13:55:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bilan-master-classes-cv-web-silex-e2c/"
-slug: "bilan-master-classes-cv-web-silex-e2c"
 title: "Bilan des master classes CV web Silex e2c"
-wordpress_id: 206750
 categories: ["Blog Silex","Blog Silex Labs","Silex","Silex Labs Events","The Blog"]
 tags: ["apéro","association","css","e-inclusion","e2c","E2C91","E2C93","E2C94","E2C95","einclusion","FLOSS","fondation EDF","formation","foss","html","logiciel libre","logiciellibre","Master Class","mozilla","networking","paris","silex","silex labs","silex.me","silexV2","webdesign"]
 
@@ -184,4 +181,5 @@ https://twitter.com/JbIPS/status/804041381333368837
 https://twitter.com/E2C94/status/804039323922350081
 
 https://twitter.com/E2C95/status/800768116296818688
+
 

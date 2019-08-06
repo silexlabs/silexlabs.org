@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-04-27T22:04:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/pixlr-plugin-for-silex-edit-your-images-in-the-browser/"
-slug: "pixlr-plugin-for-silex-edit-your-images-in-the-browser"
 title: "Pixlr plugin for Silex – web design in the cloud"
-wordpress_id: 29769
 categories: ["Plugins"]
 tags: ["plugin"]
 
@@ -62,4 +59,5 @@ When you save in Pixlr and refresh your Silex page, your image will be updated -
 
 
 This plugin is licensed  under GPL
+
 

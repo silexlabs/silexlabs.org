@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-24T15:28:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-at-massive-interactive/"
-slug: "haxe-at-massive-interactive"
 title: "Haxe at Massive Interactive"
-wordpress_id: 205121
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["API","cross-platform","dev","Haxe","Haxe conference","Massive interactive","Philippe Elsass","tv","video","vod","wwx","wwx2015"]
 
@@ -60,6 +57,7 @@ Watch the video :
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 
 https://twitter.com/MassiveRon/status/603879015070466050
+
 
 
 

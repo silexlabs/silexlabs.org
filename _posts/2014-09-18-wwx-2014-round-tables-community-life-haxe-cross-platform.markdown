@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-09-18T17:11:26.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx-2014-round-tables-community-life-haxe-cross-platform/"
-slug: "wwx-2014-round-tables-community-life-haxe-cross-platform"
 title: "WWX 2014 Round Tables : Community Life - Haxe Cross Platform"
-wordpress_id: 203631
 categories: ["Blog Haxe","The Blog"]
 tags: ["Alexandre Hoyau","cauê waneck","franco ponticelli","Haxe","Hugh Sanderson","nicolas cannasse","Simon Krajewski","Sven Otto","todd kulick","wwx2014","wwx2014 speech"]
 
@@ -183,6 +180,7 @@ The participants of the round table about Haxe Cross Platform were :
 
 
 ## [![roundTablesCarre-1](https://www.silexlabs.org/wp-content/uploads/2014/09/roundTablesCarre-12.png)](https://www.silexlabs.org/wp-content/uploads/2014/09/roundTablesCarre-12.png)
+
 
 
 

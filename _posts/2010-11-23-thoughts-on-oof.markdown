@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2010-11-23T12:23:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/thoughts-on-oof/"
-slug: "thoughts-on-oof"
 title: "Thoughts on Oof"
-wordpress_id: 1985
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -247,4 +244,5 @@ We can feed this interface to an app that can generate a wrapper that  instancia
 So that the user experience can happen as described, the existing  modules need to be assembled together in a Flash class, the interface  can be extracted, and it can be fed to the wrapper generator. The macro  bit is dodgy but doable, as we already assemble components in Silex, it  can be used as a starting point.
 
 The whole marketplace thing is really more a social engineering thing  than a technical problem, so we can take care of that once the basics  are sorted out.
+
 

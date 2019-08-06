@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-06T16:04:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/kick-off-des-ateliers-silex-a-silicon-banlieue-le-14-janvier-a-18h/"
-slug: "kick-off-des-ateliers-silex-a-silicon-banlieue-le-14-janvier-a-18h"
 title: "Kick-off des Ateliers Silex à Silicon Banlieue le 14 Janvier à 18H"
-wordpress_id: 200911
 categories: ["Silex","Silex Labs Events","The Blog"]
 tags: ["silexV2","silicon banlieue"]
 
@@ -45,4 +42,5 @@ Les ateliers vous permettront de découvrir les fonctionnalités de l’outil, s
 
 
 ![Kickoff-ateliers-silex-carre](https://www.silexlabs.org/wp-content/uploads/2014/01/Kickoff-ateliers-silex-carre.png)
+
 

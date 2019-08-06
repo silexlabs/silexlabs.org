@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-08-16T15:16:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/creating-a-specific-panel/"
-slug: "creating-a-specific-panel"
 title: "Creating a specific panel"
-wordpress_id: 128991
 categories: ["Tutorials Silex"]
 
 ---
@@ -108,4 +105,5 @@ Here is an exemple from the Image component descriptor :
 
 
 ...
+
 

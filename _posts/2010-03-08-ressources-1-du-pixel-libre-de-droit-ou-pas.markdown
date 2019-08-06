@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-03-08T15:15:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ressources-1-du-pixel-libre-de-droit-ou-pas/"
-slug: "ressources-1-du-pixel-libre-de-droit-ou-pas"
 title: "Ressources 1 : Du pixel libre de droit ou pas, des sites et des tutos !"
-wordpress_id: 1489
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -75,4 +72,5 @@ Du basique au plus complexe quelques exercices de choix pour jongler avec Flash.
 N'hésitez pas à me faire parvenir vos adresses favorites !
 
 // // //
+
 

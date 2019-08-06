@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-05-23T15:38:19.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ptt-workshops-silex-fin-juin-a-paris/"
-slug: "ptt-workshops-silex-fin-juin-a-paris"
 title: "PTT - workshops Silex fin juin à Paris"
-wordpress_id: 55778
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -86,4 +83,5 @@ Et pour la petite histoire, nous serons accueillis par l'IESA multimédia, l'éc
 [plan d'accès](http://maps.google.fr/maps?f=q&source=s_q&hl=fr&geocode=&q=23+Rue+de+Bruxelles,+Paris&aq=0&sll=48.883453,2.331222&sspn=0.011105,0.027874&ie=UTF8&hq=&hnear=23+Rue+de+Bruxelles,+75009+Paris,+Ile-de-France&z=16)
 
 ![](https://www.silexlabs.org/wp-content/uploads/2011/05/iesa_footer.png)
+
 

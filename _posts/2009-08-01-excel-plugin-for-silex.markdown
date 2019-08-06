@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-08-01T18:02:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/excel-plugin-for-silex/"
-slug: "excel-plugin-for-silex"
 title: "Excel plugin for silex"
-wordpress_id: 250
 categories: ["Plugins"]
 
 ---
@@ -210,4 +207,5 @@ The following requirements should be met prior to using PHPExcel:
 
 
 - call the script without any parameter to display help
+
 

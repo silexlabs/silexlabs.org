@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2017-02-15T14:23:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-new-features-dashboard-sections/"
-slug: "silex-new-features-dashboard-sections"
 title: "Silex new features: dashboard & sections"
-wordpress_id: 206885
 categories: ["Blog Silex","Blog Silex Labs","Silex","The Blog","Tutorials Silex"]
 tags: ["design","foss","silex","silex V2","silexV2","site internet","web","webdev"]
 
@@ -80,4 +77,5 @@ There is [a new template](http://silex-templates.silex.me/smart-simple/), here i
 
 ![templates](https://www.silexlabs.org/wp-content/uploads/2017/01/templates.gif)
 [![screenshot-from-2017-02-07-14-18-18](https://www.silexlabs.org/wp-content/uploads/2017/02/Screenshot-from-2017-02-07-14-18-18.png)](http://silex-templates.silex.me/smart-simple/)
+
 

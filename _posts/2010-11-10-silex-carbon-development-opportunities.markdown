@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-11-10T10:33:18.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-carbon-development-opportunities/"
-slug: "silex-carbon-development-opportunities"
 title: "Silex Carbon development opportunities"
-wordpress_id: 1957
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -42,4 +39,5 @@ In particular, we think that two plugins are really missing, and we would like t
 Best,
 
 Silex Core team.
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-02-20T00:03:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/tutoriels-video-silex/"
-slug: "tutoriels-video-silex"
 title: "Tutoriels vidéo Silex"
-wordpress_id: 201324
 categories: ["Silex","Tutorials Silex"]
 tags: ["silex","silexV2","tutorial"]
 
@@ -163,4 +160,5 @@ La suite à venir très bientôt, [restez connecté !](https://twitter.com/silex
 
 
 ##### ![tuto-silex-bandeau](https://www.silexlabs.org/wp-content/uploads/2014/02/tuto-silex-bandeau.png)
+
 

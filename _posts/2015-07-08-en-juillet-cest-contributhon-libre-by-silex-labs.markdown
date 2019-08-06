@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2015-07-08T10:39:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/en-juillet-cest-contributhon-libre-by-silex-labs/"
-slug: "en-juillet-cest-contributhon-libre-by-silex-labs"
 title: "En Juillet c’est Contributhon libre By Silex Labs"
-wordpress_id: 204975
 categories: ["Blog Silex Labs","Contributhon","The Blog"]
 tags: ["Alexandre Hoyau","Backnode","contributhon","Haxe","jean baptiste richardet","pol goasdoué","silex","silex labs"]
 
@@ -100,4 +97,5 @@ Pol designer UX-UI et co-créateur de Silex
 
 
 ![AFFICHE-A4-CONTRIBUTHON-KCALM-SL](https://www.silexlabs.org/wp-content/uploads/2015/07/AFFICHE-A4-CONTRIBUTHON-KCALM-SL-486x687.png)
+
 

@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-29T14:54:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fruit-mix-theme/"
-slug: "fruit-mix-theme"
 title: "Fruit Mix Theme"
-wordpress_id: 93351
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ With his original design, Fruit mix is a template full of freshness
 [Original template](http://www.templatemo.com/preview/templatemo_238_fruit_mix)
 
 License : Creative Commons
+
 

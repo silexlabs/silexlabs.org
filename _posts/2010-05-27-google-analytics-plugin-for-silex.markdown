@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-05-27T14:21:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/google-analytics-plugin-for-silex/"
-slug: "google-analytics-plugin-for-silex"
 title: "Google Analytics Plugin for Silex"
-wordpress_id: 925
 categories: ["Plugins"]
 tags: ["analytics","engine","plugin"]
 
@@ -43,6 +40,7 @@ You can activate it for a specific site or for the entire Silex server (for all 
 
 
 [Sources - Google Analytics plugin for Silex](../?attachment_id=961)
+
 
 
 

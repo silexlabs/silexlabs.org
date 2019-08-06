@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-07-13T13:48:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-3-and-4-plans-for-world-domination/"
-slug: "haxe-3-and-4-plans-for-world-domination"
 title: "Haxe 3 and 4 – Plans for World Domination"
-wordpress_id: 133720
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -55,4 +52,5 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 **! Information !** You can find Nicolas Cannasse's interview (in french) on [Silicon Maniacs](http://www.siliconmaniacs.org/i-t-boys-i-t-girls-haxe/) - A very interesting interview realised during the haxe conf, also featuring Rob Fell, Peter Halacsy and Valerie alias Elimak
+
 

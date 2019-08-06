@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-01-18T13:18:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-v2-status-update/"
-slug: "amfphp-v2-status-update"
 title: "AMFPHP v2 Status Update"
-wordpress_id: 2189
 categories: ["Blog amfPHP"]
 
 ---
@@ -51,6 +48,7 @@ known issues:
 
 
   * apparently there are some problems with include paths. Including a class from one of the services somehow works differently from 1.9 and sometimes messes up. If anyone can shed some light on this, I'd be grateful, because I haven't been able to find the solution.
+
 
 
 

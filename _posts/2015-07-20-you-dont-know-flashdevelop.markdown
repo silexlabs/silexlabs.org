@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-20T15:46:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/you-dont-know-flashdevelop/"
-slug: "you-dont-know-flashdevelop"
 title: "You don't know FlashDevelop - Tips and future"
-wordpress_id: 204862
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["Actionscript","cross-platform","Flashdevelop","Gamedev","Haxe","Haxe conference","ide","Philippe Elsass","webdev","wwx","wwx2015"]
 
@@ -56,4 +53,5 @@ https://twitter.com/flashdevelop/status/612748416381272064
 https://twitter.com/elsassph/status/598121146651910144
 
 https://twitter.com/silexlabs/status/623162607034347520
+
 

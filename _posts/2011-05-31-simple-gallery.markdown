@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-05-31T22:02:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/simple-gallery/"
-slug: "simple-gallery"
 title: "Simple Gallery"
-wordpress_id: 64997
 categories: ["Plugins"]
 
 ---
@@ -228,6 +225,7 @@ sent when the next picture is displayed thanks to the autoplay
 
   * onChange
 A generic changed event dispatched with some  other events
+
 
 
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-10-02T09:29:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/contributhon-libre-42-born2contribute/"
-slug: "contributhon-libre-42-born2contribute"
 title: "Contributhon libre @ 42  \"Born2Contribute\""
-wordpress_id: 203775
 categories: ["Contributhon","Silex Labs Events","The Blog"]
 tags: ["42","amfphp","contributhon","git","Haxe","silex"]
 
@@ -191,4 +188,5 @@ Pol designer UX UI et co-créateur de Silex
 
 
 ![42-Contributhon-carre-01](https://www.silexlabs.org/wp-content/uploads/2014/09/42-Contributhon-carre-01.png)
+
 

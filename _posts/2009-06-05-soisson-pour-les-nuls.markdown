@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2009-06-05T20:18:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/soisson-pour-les-nuls/"
-slug: "soisson-pour-les-nuls"
 title: "Soissons pour les nuls *** Soissons for Dummies"
-wordpress_id: 447
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["cms","flash","open source","trophées du libre"]
 
@@ -69,4 +66,5 @@ Surprenant, non ?
 
 
 _Source : [RedHat ](http://www.redhat.com/about/where-is-open-source/activity/)_
+
 

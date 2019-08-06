@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-20T14:58:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silexs-survey/"
-slug: "silexs-survey"
 title: "Silex’s Survey"
-wordpress_id: 135638
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 
 ---
@@ -44,4 +41,5 @@ Here the items we focused on:
 
 
 [See the survey results on Arvixe !](http://blog.arvixe.com/silexs-survey/)
+
 

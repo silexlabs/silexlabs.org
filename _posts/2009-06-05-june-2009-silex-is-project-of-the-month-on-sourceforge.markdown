@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-05T12:17:25.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/june-2009-silex-is-project-of-the-month-on-sourceforge/"
-slug: "june-2009-silex-is-project-of-the-month-on-sourceforge"
 title: "JUNE 2009 : SILEX IS PROJECT OF THE MONTH ON SOURCEFORGE !"
-wordpress_id: 442
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["as2","as3","cms","code","design","developer","flash","free","hoyau","june","month","open","potm","project","repository","ria","software","source","sourceforge","team","trail"]
 
@@ -61,5 +58,6 @@ IF YOU WANT TO CONTRIBUTE TO THE SILEX PROJECT :[ "HELP WANTED"](http://sourcefo
 
 
 ******
+
 
 

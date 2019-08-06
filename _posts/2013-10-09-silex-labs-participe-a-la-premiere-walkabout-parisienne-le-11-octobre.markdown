@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-10-09T21:34:47.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-labs-participe-a-la-premiere-walkabout-parisienne-le-11-octobre/"
-slug: "silex-labs-participe-a-la-premiere-walkabout-parisienne-le-11-octobre"
 title: "Silex Labs participe à la première Walkabout parisienne le 11 octobre"
-wordpress_id: 179751
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["silex labs","simplon.co","walkabout"]
 
@@ -29,4 +26,5 @@ Pour en savoir plus sur la [Walkabout Paris](http://walkabout-paris.com./) consu
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/10/walk-about-carre-2.png)
+
 

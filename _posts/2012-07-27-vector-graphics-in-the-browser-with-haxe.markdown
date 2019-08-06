@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-07-27T08:07:36.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/vector-graphics-in-the-browser-with-haxe/"
-slug: "vector-graphics-in-the-browser-with-haxe"
 title: "Vector Graphics in the browser with Haxe"
-wordpress_id: 134056
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -46,4 +43,5 @@ Here are the other videos of the wwx2012 :
 
 
 [_http://www.weblob.net/demo/wwx2012/slides/assets/fallback/index.html_](http://www.weblob.net/demo/wwx2012/slides/assets/fallback/index.html)
+
 

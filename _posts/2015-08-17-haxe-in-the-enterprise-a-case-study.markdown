@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-17T16:02:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-in-the-enterprise-a-case-study/"
-slug: "haxe-in-the-enterprise-a-case-study"
 title: "Haxe in the Enterprise: A Case Study"
-wordpress_id: 205009
 categories: ["Blog Haxe","The Blog","wwx2015"]
 tags: ["Alfred Barberena","API","cross-platform","Haxe","openFL","tivo","wwx","wwx2015"]
 
@@ -54,4 +51,5 @@ https://twitter.com/Open_FL/status/604991561336803328
 https://twitter.com/Fiene_P/status/604992553088368640
 
 https://twitter.com/Julien_Kosinski/status/604989432798834688
+
 

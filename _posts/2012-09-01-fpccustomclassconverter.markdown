@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2012-09-01T13:18:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fpccustomclassconverter/"
-slug: "fpccustomclassconverter"
 title: "AmfPHP Plugin FPCCustomClassConverter"
-wordpress_id: 136139
 categories: ["Exchange amfPHP"]
 
 ---
@@ -85,4 +82,5 @@ not VO object (or not controlled by the develloper).
 
 
 [https://github.com/baracil/FPC-AMFPHP-Plugins/blob/master/FPCCustomClassConverter/documentation.txt](https://github.com/baracil/FPC-AMFPHP-Plugins/blob/master/FPCCustomClassConverter/documentation.txt)
+
 

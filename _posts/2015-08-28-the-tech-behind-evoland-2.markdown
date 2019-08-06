@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-28T16:49:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-tech-behind-evoland-2/"
-slug: "the-tech-behind-evoland-2"
 title: "The Tech behind Evoland 2"
-wordpress_id: 205483
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["dev","Evoland","Evoland 2","game","Gamedev","Haxe","Haxe conference","nicolas cannasse","Shiro games","wwx","wwx2015"]
 
@@ -53,4 +50,5 @@ https://twitter.com/smugnier/status/605050347602780161
 https://twitter.com/shirogames/status/636178470717009920
 
 https://twitter.com/shirogames/status/632198011972624385
+
 

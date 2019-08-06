@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-15T15:40:49.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hxcpp-state-of-the-enum-union/"
-slug: "hxcpp-state-of-the-enum-union"
 title: "Hxcpp : State of the enum (union)"
-wordpress_id: 204891
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["c++","CPPIA","Haxe","Hugh Sanderson","Hxcpp","wwx","wwx2015"]
 
@@ -65,6 +62,7 @@ https://twitter.com/smugnier/status/604980174506094593
 https://twitter.com/silexlabs/status/604980894429028352
 
 https://twitter.com/silexlabs/status/604981448068710400
+
 
 
 

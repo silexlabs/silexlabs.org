@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-02T13:26:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/utilisation-des-gabarits-traduction-es/"
-slug: "utilisation-des-gabarits-traduction-es"
 title: "UTILISATION DES GABARITS : Traduction (es)"
-wordpress_id: 164
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -36,4 +33,5 @@ y en la opcion de herramientas "Propriedades", uñero "NAVI"
 escribir el nombre del swf en la seccion "Nombre de la plantilla"
 
 **_Que les parece ??_**
+
 

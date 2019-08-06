@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-08-14T14:27:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier4-passez-en-mode-node-js-pour-un-mhaxe-de-simplicite/"
-slug: "haxetelier4-passez-en-mode-node-js-pour-un-mhaxe-de-simplicite"
 title: "Haxetelier#4 : Passez en mode Node.js pour un mhaxe de simplicité"
-wordpress_id: 179221
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","haxetelier","node.js"]
 
@@ -70,4 +67,5 @@ Si vous voulez voir ou revoir le Lightning Talk de Clemos lors de la wwx2013 c'e
 github : [http//github.com/clemos](http//github.com/clemos)
 
 twitter : @clemenchar
+
 

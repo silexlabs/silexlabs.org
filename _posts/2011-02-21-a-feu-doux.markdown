@@ -3,10 +3,7 @@ author: "admoon"
 comments: true
 date: "2011-02-21T12:12:57.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/a-feu-doux/"
-slug: "a-feu-doux"
 title: "... A FEU DOUX!!!"
-wordpress_id: 2443
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -53,4 +50,5 @@ Alexandre
 (Aujourd'hui encore, tes blagues trash me font cauchemarder Riwal
 
 Louer soit Moot!!! )
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-09-17T12:21:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxepero6/"
-slug: "haxepero6"
 title: "Haxepéro#6 le jeudi 26 septembre à 19H au Bistrot Marguerite"
-wordpress_id: 179478
 categories: ["Blog Haxe","Silex Labs Events"]
 tags: ["Haxe","Haxe community","Haxe developers","Haxepéro"]
 
@@ -26,4 +23,5 @@ Rendez-vous le jeudi 26 septembre dans notre QG habituel, le [Bistrot Marguerit
 [Bistrot Marguerite](https://plus.google.com/106096274486091738489/about?hl=fr), 1 Place de l'Hôtel de ville 75004 Paris‎
 
 Métro : Hôtel de Ville ou Cité
+
 

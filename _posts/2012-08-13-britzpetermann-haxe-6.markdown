@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-13T07:31:59.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/britzpetermann-haxe-6/"
-slug: "britzpetermann-haxe-6"
 title: "Britzpetermann & Haxe"
-wordpress_id: 135480
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -37,6 +34,7 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 ## The video
+
 
 
 

@@ -3,10 +3,7 @@ author: "Syara"
 comments: true
 date: "2010-12-23T17:16:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/zen-beaucoup/"
-slug: "zen-beaucoup"
 title: "Zen beaucoup"
-wordpress_id: 2150
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -53,4 +50,5 @@ J'ai appris plein de choses et remplis ma hotte de conseils et d'astuces.
 Si vous voulez vivre ma vie sans passer à la télé, je vous encourage à venir faire un tour au 138 pour rencontrer l'équipe, poser vos questions et participer aux séances quotidiennes de tortures de stagiaires.
 
 Brice et Seb
+
 

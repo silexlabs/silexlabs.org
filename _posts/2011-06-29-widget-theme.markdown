@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-29T15:27:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/widget-theme/"
-slug: "widget-theme"
 title: "Widget Theme"
-wordpress_id: 93372
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ Theme corporate very trendy and serious
 [Original template](http://www.freewebtemplates.com/download/templates/11142)
 
 License : Creative Commons
+
 

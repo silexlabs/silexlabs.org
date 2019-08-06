@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-17T17:35:23.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/create-a-gallery-with-oof-components/"
-slug: "create-a-gallery-with-oof-components"
 title: "Create a gallery with Oof components"
-wordpress_id: 1217
 categories: ["Tutorials Silex"]
 
 ---
@@ -243,6 +240,7 @@ This tutorial is finished, but you can look at the other tutorials linked to thi
 
 
   * [Customize your thumblist](https://www.silexlabs.org/?p=1336)
+
 
 
 

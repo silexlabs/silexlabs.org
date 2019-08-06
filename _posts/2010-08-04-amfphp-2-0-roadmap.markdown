@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-08-04T22:56:52.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-2-0-roadmap/"
-slug: "amfphp-2-0-roadmap"
 title: "AMFPHP 2.0 Roadmap"
-wordpress_id: 1743
 categories: ["Blog amfPHP"]
 tags: ["amfphp 2.0","roadmap"]
 
@@ -119,4 +116,5 @@ Security will be a big focus for us in AMFPHP 2.0; as mentioned above, we will b
 Another huge change to the system is **detailed documentation**. We will post more about this in future articles, but needless to say that it will be very thorough and we'll have both high-level and low-level documentation available.
 
 All in all, we have very big things planned for AMFPHP 2.0 and we welcome your comments, questions and suggestions! If there's anything that we've missed or that you'd like to see in AMFPHP 2.0, do give us a shout in the comments!
+
 

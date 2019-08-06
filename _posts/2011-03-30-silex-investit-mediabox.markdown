@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-03-30T15:41:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-investit-mediabox/"
-slug: "silex-investit-mediabox"
 title: "Silex investit Mediabox !"
-wordpress_id: 2500
 categories: ["Blog Silex","The Blog"]
 tags: ["mediabox","partners","silex flash cms"]
 
@@ -67,4 +64,5 @@ A noter :
 
 
 [Tweeter cet article !](http://twitter.com/home/?status=Silex%2C+1er+CMS+Flash+Open+Source+chez+Mediabox+%21+http%3A%2F%2Fblog.mediabox.fr%2F%3Fp%3D3306)
+
 

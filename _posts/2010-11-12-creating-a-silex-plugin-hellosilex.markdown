@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-11-12T10:25:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/creating-a-silex-plugin-hellosilex/"
-slug: "creating-a-silex-plugin-hellosilex"
 title: "Creating a silex plugin \"HelloSilex\""
-wordpress_id: 127
 categories: ["Tutorials Silex"]
 tags: ["tutorial"]
 
@@ -740,4 +737,5 @@ The value of the parameter is set from the Silex Manager
 ![](http://new.silex-ria.org/codex/files/2010/09/screen_6.jpg)
 
 You plugin is now complete, you can download the source of this 3 parts tutorial here : [Hello_Silex_Tutorial_source](https://www.silexlabs.org/wp-content/uploads/2012/05/Hello_Silex_Tutorial_source1.zip)
+
 

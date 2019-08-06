@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-30T09:30:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-bruno-garcia-flambe/"
-slug: "wwx2014-speech-bruno-garcia-flambe"
 title: "WWX2014 Speech : Bruno Garcia \"Flambe\""
-wordpress_id: 202765
 categories: ["Blog Haxe"]
 tags: ["bruno garcia","flambe","Haxe","video","wwx2014","wwx2014 speech"]
 
@@ -219,4 +216,5 @@ Flambe and Haxe has seen rapid adoption at companies like Disney, Nickelodeon, H
 
 
 ![wwx2014-carre-b-garcia](https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-carre-b-garcia.png)
+
 

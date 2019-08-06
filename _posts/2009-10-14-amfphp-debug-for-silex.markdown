@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-10-14T11:01:36.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-debug-for-silex/"
-slug: "amfphp-debug-for-silex"
 title: "amfphp debug for silex"
-wordpress_id: 375
 categories: ["tools"]
 
 ---
@@ -24,4 +21,5 @@ You will be able to test the php part of Silex.
 
 [service browser](https://www.silexlabs.org/375/exchange/exchange-silex/tools/amfphp-debug-for-silex/attachment/service-browser/)
     AmfPhp browser shows php errors
+
 

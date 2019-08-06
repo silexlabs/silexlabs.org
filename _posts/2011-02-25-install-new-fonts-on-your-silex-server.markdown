@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-25T15:20:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/install-new-fonts-on-your-silex-server/"
-slug: "install-new-fonts-on-your-silex-server"
 title: "Install new fonts on your Silex server"
-wordpress_id: 1477
 categories: ["Tutorials Silex"]
 
 ---
@@ -63,4 +60,5 @@ _**Note :**_ you can activate fonts only one by one - no multiple selection is p
 Now you can use the activated fonts in the concerned publication.
 
 This tutorial is finished !
+
 

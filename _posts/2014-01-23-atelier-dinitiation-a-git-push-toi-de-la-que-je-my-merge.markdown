@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-23T10:19:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-dinitiation-a-git-push-toi-de-la-que-je-my-merge/"
-slug: "atelier-dinitiation-a-git-push-toi-de-la-que-je-my-merge"
 title: "Atelier Git : Push toi de là que je m'y merge !!"
-wordpress_id: 201107
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["clemos","git","github"]
 
@@ -401,4 +398,5 @@ Adhérer à Silex Labs c’est aussi devenir membre d’un réseau de profession
 
 
 [![](https://lh5.googleusercontent.com/Qv4OAANN2qNWtdB9vXv8l50dVphyTWj3ewLkiKOlNjyhL2yE6yPiXoxRxekv6GK4FKZJSIFig1i3lfFlQYYYE_zcY07yvwsT-aWwOFKwhTv-7LEpQtoeLomasA)](https://www.eventbrite.fr/e/billets-atelier-dinitiation-a-git-push-toi-de-la-que-je-my-merge-10297462989)
+
 

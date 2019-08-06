@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-03T16:00:34.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/seance-conclusive-de-la-master-class-silex/"
-slug: "seance-conclusive-de-la-master-class-silex"
 title: "Séance conclusive de la Master Class Silex"
-wordpress_id: 202540
 categories: ["Blog Silex","Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["IESA","Master Class","master class silex","mda","silexV2"]
 
@@ -267,4 +264,5 @@ Pour faciliter la prise en main du logiciel nous avons mis en ligne les vidéos 
 </table>
 ![MDA-atelier-silex-10-carre](https://www.silexlabs.org/wp-content/uploads/2014/06/MDA-atelier-silex-10-carre1.png)
 <table cellpadding="0" cellspacing="0" border="1" dir="ltr" > </table>
+
 

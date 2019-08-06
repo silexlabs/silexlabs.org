@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-26T11:29:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-evangelism-with-silex-labs/"
-slug: "haxe-evangelism-with-silex-labs"
 title: "Haxe Evangelism with Silex Labs"
-wordpress_id: 205318
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["community","dev","Gamedev","Haxe","Haxe community","Haxe conference","jean baptiste richardet","silex","silex labs","silexV2","video","webdev","wwx","wwx2015"]
 
@@ -71,4 +68,5 @@ https://twitter.com/kulick/status/605152320477900800
 https://twitter.com/mikobhayangkara/status/605148211427340289
 
 https://twitter.com/silexlabs/status/605414672892850178
+
 

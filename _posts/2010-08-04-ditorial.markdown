@@ -3,12 +3,10 @@ author: "admin"
 comments: true
 date: "2010-08-04T07:59:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ditorial/"
-slug: "ditorial"
 title: "Editorial"
-wordpress_id: 1745
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
 Nous avons décidé de commencer à publier des articles techniques ici qui parlent des évolutions de nos projets. La langue de la technique étant l'Anglais (c'était le latin avant, estimons nous heureux), nous ne ferons pas de version française pour ces articles, en tout cas pour l'instant. Enfin, nous sommes à la recherche d'articles plus grand public s'adressant aux créatifs du Web, donc si vous avez des envies, contactez nous!
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-08-04T22:15:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v151-comet-is-out/"
-slug: "silex-v151-comet-is-out"
 title: "silex v1.5.1 Comet is out!"
-wordpress_id: 1179
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -31,6 +28,7 @@ silex v1.5.1 Comet is out!
 - lot of bug fixes (see change log [http://silex-ria.org/media/silex-ria/change_logs.txt](http://silex-ria.org/media/silex-ria/change_logs.txt) )
 - new url rewrite system. Now, all websites are seo friendly even if you do not have url rewrite on your server
 - new parameters in oof lists
+
 
 
 

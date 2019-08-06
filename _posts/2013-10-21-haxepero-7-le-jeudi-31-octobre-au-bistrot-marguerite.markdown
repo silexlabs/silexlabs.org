@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-10-21T16:05:20.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxepero-7-le-jeudi-31-octobre-au-bistrot-marguerite/"
-slug: "haxepero-7-le-jeudi-31-octobre-au-bistrot-marguerite"
 title: "Haxepéro #7 :  le jeudi 31 octobre au Bistrot Marguerite"
-wordpress_id: 179933
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","Haxepéro"]
 
@@ -26,4 +23,5 @@ Rendez-vous le jeudi 31 octobre dans notre QG habituel, le [Bistrot Marguerite]
 [Bistrot Marguerite](https://plus.google.com/106096274486091738489/about?hl=fr), 1 Place de l’Hôtel de ville 75004 Paris‎
 
 Métro : Hôtel de Ville ou Cité
+
 

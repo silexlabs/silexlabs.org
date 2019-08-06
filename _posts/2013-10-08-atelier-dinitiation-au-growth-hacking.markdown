@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-10-08T17:40:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-dinitiation-au-growth-hacking/"
-slug: "atelier-dinitiation-au-growth-hacking"
 title: "Atelier d'initiation au Growth Hacking"
-wordpress_id: 179734
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["atelier","communication","growth hacking","marketing"]
 
@@ -36,4 +33,5 @@ Si cet atelier vous intéresse [inscrivez-vous dès maintenant !!](https://growt
 L’atelier sera animé par Pierre Conreaux conseillé en création et en développement d’entreprises. Il tient également le blog Soyez Lean qui informe sur des approches récentes (Growth Hacking, Lean Startup, Crowdfunding) [soyezlean.fr](http://soyezlean.fr/) .
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/10/photo-pierreC-140x150.jpeg)
+
 

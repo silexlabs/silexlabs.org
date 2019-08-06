@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-03-06T06:27:30.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-exchange-platform/"
-slug: "silex-exchange-platform"
 title: "Plateforme d’échange Silex"
-wordpress_id: 1466
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -56,4 +53,5 @@ téléchargement de ces éléments depuis la section "Téléchargement" du manag
 **Conditions d'utilisation**
 
 Tout élément déposé sur cette platforme est considéré comme gratuit, open source et sous lisence GPL
+
 

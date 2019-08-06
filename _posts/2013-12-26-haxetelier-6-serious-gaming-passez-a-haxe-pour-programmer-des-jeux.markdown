@@ -3,10 +3,7 @@ author: "anto"
 comments: false
 date: "2013-12-26T16:17:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier-6-serious-gaming-passez-a-haxe-pour-programmer-des-jeux/"
-slug: "haxetelier-6-serious-gaming-passez-a-haxe-pour-programmer-des-jeux"
 title: "Les vidéos de l'Haxetelier #6 : Serious gaming ! Passez à Haxe pour programmer des jeux !"
-wordpress_id: 180328
 categories: ["Blog Haxe","Silex Labs Events","The Blog"]
 tags: ["grar","Haxe","haxetelier","serious gaming"]
 
@@ -121,4 +118,5 @@ Liens utiles : API Haxe [http://api.haxe.org](http://api.haxe.org) ; Doc Haxe 
 
 
 [![IESA Multimédia](https://www.silexlabs.org/wp-content/uploads/2013/05/iesa1-logo.jpg)](http://www.iesamultimedia.fr/)
+
 

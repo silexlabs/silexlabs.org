@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-22T16:18:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/cross-platform-game-development-with-the-gameduell-duelltool/"
-slug: "cross-platform-game-development-with-the-gameduell-duelltool"
 title: "Cross-Platform Game Development with the GameDuell DuellTool"
-wordpress_id: 204869
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["cross-platform","Duelltool","game","Gamedev","GameDuell","Haxe","Haxe conference","Rui Campos","Sven Otto","wwx","wwx2015"]
 
@@ -121,4 +118,5 @@ https://twitter.com/alebianco/status/604582168740937728
 https://twitter.com/silexlabs/status/623893433883734016
 
 https://twitter.com/silexlabs/status/623893433883734016
+
 

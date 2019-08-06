@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-21T12:13:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/environmental-brand-theme/"
-slug: "environmental-brand-theme"
 title: "Environmental Brand Theme"
-wordpress_id: 86216
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ Environmental Brand is a template for your Portfolio. It's a personal website. T
 [Original template](http://opensourcetemplates.org/preview/environmental-brand-free-template/)
 
 License : Creative Commons
+
 

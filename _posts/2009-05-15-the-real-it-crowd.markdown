@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-15T15:18:22.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-real-it-crowd/"
-slug: "the-real-it-crowd"
 title: "THE REAL I.T CROWD"
-wordpress_id: 96
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["cms","communauté","css","dev","flash","futur","geek","geeky","graphiste","lab","moss","nerd","oof","open source","référencement","ria","roy","sheldon","site","sourceforge","web","webmaster"]
 
@@ -126,4 +123,5 @@ Silexy Yours,
 
 
 Ooph
+
 

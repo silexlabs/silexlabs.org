@@ -3,10 +3,7 @@ author: "camille"
 comments: true
 date: "2010-09-06T13:08:24.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/a-propos/"
-slug: "a-propos"
 title: "About"
-wordpress_id: 129342
 categories: ["The Blog"]
 
 ---
@@ -28,4 +25,5 @@ The Silex team members have decided to formalize theire cooperation by creating 
 The goal is to promote the software and its related projects nationally and internationally. We are an official training center with a state accreditation, and the maintainer for Silex and amfPhp projects.
 
 Thanks for your support !
+
 

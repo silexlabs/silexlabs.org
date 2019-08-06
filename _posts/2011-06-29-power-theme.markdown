@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-29T14:11:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/power-theme/"
-slug: "power-theme"
 title: "Power Theme"
-wordpress_id: 93384
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ This futuristic theme is made for your site Silex
 [Original template](http://www.templatemo.com/preview/templatemo_299_power)
 
 License : Creative Commons
+
 

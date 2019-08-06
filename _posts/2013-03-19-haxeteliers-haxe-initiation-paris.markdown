@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-03-19T10:46:33.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxeteliers-haxe-initiation-paris/"
-slug: "haxeteliers-haxe-initiation-paris"
 title: "Le premier Haxetelier, Haxe initiation Paris"
-wordpress_id: 137619
 categories: ["Blog Labs","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","haxetelier"]
 
@@ -113,4 +110,5 @@ le **jeudi 25 avril 2013 de 9H00 à 12H00**
 
 
 [![](https://www.silexlabs.org/wp-content/uploads/2013/03/logo-alterway2.jpg)](http://www.alterway.fr/)
+
 

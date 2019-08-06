@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-09T15:53:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/a-countryside-theme/"
-slug: "a-countryside-theme"
 title: "A countryside theme"
-wordpress_id: 2323
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -24,4 +21,5 @@ Go [here](http://silexprod.com/koala) for the online demo and [there](https://ww
 **New :** this theme is given with a complete functional description in order to help you understand its structure, and then, adapt it easily to your needs.
 
 Enjoy !
+
 

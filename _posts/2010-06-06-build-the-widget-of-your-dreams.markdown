@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-06-06T15:21:13.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/build-the-widget-of-your-dreams/"
-slug: "build-the-widget-of-your-dreams"
 title: "Build the widget of your dreams. Silex ♥ Yahoo!"
-wordpress_id: 1705
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -133,4 +130,5 @@ illustration admin pannel
 
 
 After you have done a cool widget, let's submit it to yahoo! here http://widgets.yahoo.com/submit/
+
 

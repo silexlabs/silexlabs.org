@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-06-24T15:52:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-v2-reloaded-release-candidate-1-is-out/"
-slug: "amfphp-v2-reloaded-release-candidate-1-is-out"
 title: "amfPHP v2 Reloaded Release Candidate 1 is out"
-wordpress_id: 2709
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -44,4 +41,5 @@ From the changelog:
 Get it here:
 
 [http://sourceforge.net/projects/amfphp/files/amfphp/amfphp-2.0RC1.zip/download](http://sourceforge.net/projects/amfphp/files/amfphp/amfphp-2.0RC1.zip/download)
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-11-14T09:14:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/sourceforge-awards-2009/"
-slug: "sourceforge-awards-2009"
 title: "SourceForge awards 2009"
-wordpress_id: 1066
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -226,4 +223,5 @@ La prochaine version sera même capable d'imprimer des circuits électroniques!
 
 
 [RepRap](http://vimeo.com/5202148) from [Adrian Bowyer](http://vimeo.com/user403878) on [Vimeo](http://vimeo.com).
+
 

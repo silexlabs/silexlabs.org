@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-30T19:50:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/assossilex/"
-slug: "assossilex"
 title: "ASSOSSILEX"
-wordpress_id: 327
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -47,6 +44,7 @@ Mes idées en vrac :
 
 
   * Silex ASO (comme association)
+
 
 
 

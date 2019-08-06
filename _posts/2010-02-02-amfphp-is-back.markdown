@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-02-02T12:41:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/amfphp-is-back/"
-slug: "amfphp-is-back"
 title: "AMFPHP is back"
-wordpress_id: 1452
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -24,5 +21,6 @@ www: [http://amfphp.sourceforge.net/](http://amfphp.sourceforge.net/)
 Learn more: [http://amfphp.sourceforge.net/about.htm](http://amfphp.sourceforge.net/about.html)
 
 Please discuss in the comments.
+
 
 

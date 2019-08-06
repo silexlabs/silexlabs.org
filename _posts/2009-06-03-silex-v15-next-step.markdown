@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-03T07:51:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-v15-next-step/"
-slug: "silex-v15-next-step"
 title: "Silex v1.5 NEXT STEP"
-wordpress_id: 329
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -27,4 +24,5 @@ Ou alors Silex Polished, Silex Lustre (translucide), Silex Radiance, Silex  Glos
 <!-- more -->
 
 Sinon on pourrait aussi choisir des noms en rapport avec le silex : étincelle, feu, pierre à feu, cromagnon... C'est bon ça : Silex Croma
+
 

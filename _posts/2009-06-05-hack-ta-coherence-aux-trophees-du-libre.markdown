@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-05T20:50:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hack-ta-coherence-aux-trophees-du-libre/"
-slug: "hack-ta-coherence-aux-trophees-du-libre"
 title: "Hack ta cohérence aux Trophées du Libre *** Hack your coherence..."
-wordpress_id: 467
 categories: ["Blog Silex Labs","The Blog"]
 tags: ["hack","libre","linux","open source","pingouin","soissons","trophées du libre"]
 
@@ -34,4 +31,5 @@ Au retour d'un "buffet gaulois presque parfait" l'équipe rencontra le prof de T
 INTELLI'N, la télé présente pour filmer les candidats au trophée, n'a pu recevoir Pol qui n'avait qu'une chose à nous dire : "Demain j'arrête Spip !"
 
 **Que retenir :** Soissons est une jolie ville, Maxime et Dominique (nos hôtes) sont des anges, l'envie est un péché, 01net c'est chouette, Silex est un très vieil ordinateur des années 80, ne laissez pas cet endroit comme il l'a été le 7 mars 2006, la vidéo sur Silex tourne en 32 bit, d'où la transparence de mon hippopotame...
+
 

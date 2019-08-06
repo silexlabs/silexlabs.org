@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-01-22T17:49:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-widgets-and-gadgets-for-windows/"
-slug: "silex-widgets-and-gadgets-for-windows"
 title: "Silex widgets and gadgets"
-wordpress_id: 2198
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -53,4 +50,5 @@ Download and [install Yahoo! widgets here](http://widgets.yahoo.com/) **before**
 .
 
 For the curious ones, here are [Silex Labs Yahoo! widget sources](https://www.silexlabs.org/wp-content/uploads/2011/01/silex-yahoo-widget1.zip)
+
 

@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-11-26T09:01:12.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-silex-labs-decrypte-javascript/"
-slug: "back-to-basics-silex-labs-decrypte-javascript"
 title: "Back to Basics : Silex Labs décrypte Javascript"
-wordpress_id: 204009
 categories: ["Back To Basics","Contributhon","Silex Labs Events","The Blog"]
 tags: ["Alexandre Hoyau","contributhon","dojo","javaScript","jean baptiste richardet","js","silexlabs"]
 
@@ -76,4 +73,5 @@ Alex Président de [Silex Labs](https://www.silexlabs.org/) et architecte logici
 
 
 ![b-to-bV2-javascript-carre](https://www.silexlabs.org/wp-content/uploads/2014/11/b-to-bV2-javascript-carre.png)
+
 

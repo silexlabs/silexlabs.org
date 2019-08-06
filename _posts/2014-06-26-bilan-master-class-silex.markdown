@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-26T18:34:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bilan-master-class-silex/"
-slug: "bilan-master-class-silex"
 title: "Bilan Master Class Silex"
-wordpress_id: 202705
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["atelier","IESA","master class silex","mda02","open source","silexV2"]
 
@@ -321,4 +318,5 @@ Les atelier les plus importants ont été filmés et montés et des tutoriels vi
 
 
 [![MDA-bilan-master-class-carre](https://www.silexlabs.org/wp-content/uploads/2014/06/MDA-bilan-master-class-carre.png)](https://www.silexlabs.org/)
+
 

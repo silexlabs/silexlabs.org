@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-01-03T17:37:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/happy-new-year-2012/"
-slug: "happy-new-year-2012"
 title: "Happy new year 2012 !"
-wordpress_id: 131105
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -38,4 +35,5 @@ This passage of the years 2011 to 2012 is an opportunity for us to :
 Sincerely yours,
 
 The Silex Labs Team
+
 

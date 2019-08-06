@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-11T14:41:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxetelier-3-coup-de-flash-sur-openfl-le-workflow-tout-en-un/"
-slug: "haxetelier-3-coup-de-flash-sur-openfl-le-workflow-tout-en-un"
 title: "Haxetelier #3 : Coup de Flash sur OpenFL, le workflow tout-en-un"
-wordpress_id: 143492
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["Haxe","haxetelier","workshop"]
 
@@ -109,4 +106,5 @@ Des ordinateurs seront disponibles sur place, venez les mains dans les poches.
 ****Pour plus d’infos sur les Haxeteliers rendez-vous sur [l’article Haxetelier](https://www.silexlabs.org/137619/the-blog/blog-silex-labs/haxeteliers-haxe-initiation-paris/?#concept).
 
 Et si vous êtes un vrai Haxeur et que vous avez manquez la wwx2013 vous pouvez revoir les [vidéos de tous les speakers](https://www.silexlabs.org/140165/the-blog/wwx2013-was-haxeptional-thanks-to-you-all/#videos).
+
 

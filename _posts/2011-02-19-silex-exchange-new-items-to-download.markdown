@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2011-02-19T01:09:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-exchange-new-items-to-download/"
-slug: "silex-exchange-new-items-to-download"
 title: "Silex Exchange - new items to download"
-wordpress_id: 2402
 categories: ["Blog Silex","The Blog"]
 tags: ["communauté","équipe","open source"]
 
@@ -357,6 +354,7 @@ You can install it via your Manager and see if you realised it well !
 </tr>
 </tbody>
 </table>
+
 
 
 

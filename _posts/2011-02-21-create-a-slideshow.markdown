@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-21T17:28:54.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/create-a-slideshow/"
-slug: "create-a-slideshow"
 title: "Create a slideshow"
-wordpress_id: 1375
 categories: ["Tutorials Silex"]
 
 ---
@@ -73,4 +70,5 @@ And your slideshow is done !!
 _**Note :**_ contrary to the gallery, the slideshow doesn't require the display of the thumbnails. So, exactly as for the "PlayListUi", you can uncheck the "visible" box.
 
 This tutorial is finished.
+
 

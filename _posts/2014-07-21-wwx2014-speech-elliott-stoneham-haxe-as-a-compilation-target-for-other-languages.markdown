@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-21T06:59:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-elliott-stoneham-haxe-as-a-compilation-target-for-other-languages/"
-slug: "wwx2014-speech-elliott-stoneham-haxe-as-a-compilation-target-for-other-languages"
 title: "WWX2014 - Speech : Elliott Stoneham \"Haxe as a compilation target for other languages\""
-wordpress_id: 202984
 categories: ["Blog Haxe"]
 tags: ["Elliott Stoneham","Haxe","silexlabs","wwx2014"]
 
@@ -162,6 +159,7 @@ I will recount my experiences developing a Go->Haxe transpiler ([http://tardisgo
 
 
 ## [![wwx2014-carre-e-stoneham](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-e-stoneham.png)](https://www.silexlabs.org/wp-content/uploads/2014/07/wwx2014-carre-e-stoneham.png)
+
 
 
 

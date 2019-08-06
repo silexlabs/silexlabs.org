@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-09-14T14:58:17.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/oof-pour-silex/"
-slug: "oof-pour-silex"
 title: "OOF for Silex"
-wordpress_id: 319
 categories: ["Plugins"]
 
 ---
@@ -127,4 +124,5 @@ OOF permet donc de créer sans programmer, dans Flash comme dans SILEX :
 
 
 En [Français](http://silex.hoyau.info/forum/viewtopic.php?f=3&t=550&start=0)
+
 

@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-10-12T13:46:25.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/le-21-octobre-a-9h30-silex-se-met-a-table-a-la-cantine/"
-slug: "le-21-octobre-a-9h30-silex-se-met-a-table-a-la-cantine"
 title: "Le 21 octobre à 9h30 Silex se met à table à la cantine !"
-wordpress_id: 1806
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -30,4 +27,5 @@ Et, enfin, **Alex Hoyau**, star française de l'action script — passé par TF
 138, rue de Vincennes
 93100 Montreuil
 Mo Château de Vincennes
+
 

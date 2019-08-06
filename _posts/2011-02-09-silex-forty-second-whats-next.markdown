@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-09T15:31:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-forty-second-whats-next/"
-slug: "silex-forty-second-whats-next"
 title: "Silex forty-second ! What's next ?"
-wordpress_id: 2311
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -22,4 +19,5 @@ As usual the picture that proves it. Again thanks to all of you !
 To follow all our stats on Sourceforge, you can go [here](http://sourceforge.net/project/stats/?group_id=192954&ugn=silex).
 
 And to give your opinion on Silex it's [there](http://sourceforge.net/projects/silex/).
+
 

@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2010-10-14T16:42:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/specifications-for-amfphp-2/"
-slug: "specifications-for-amfphp-2"
 title: "Specifications for AMFPHP 2"
-wordpress_id: 1857
 categories: ["Blog amfPHP"]
 
 ---
@@ -325,4 +322,5 @@ The existing service browser can be refactored as a plugin
 
 
 A plugin to generate a report on whether or not the server configuration is compatible with AMFPHP, and if not to try to provide some helpful remarks on how to fix it
+
 

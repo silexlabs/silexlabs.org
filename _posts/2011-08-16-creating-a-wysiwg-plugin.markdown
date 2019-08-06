@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-08-16T15:17:06.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/creating-a-wysiwg-plugin/"
-slug: "creating-a-wysiwg-plugin"
 title: "Creating a Wysiwyg plugin"
-wordpress_id: 128994
 categories: ["Tutorials Silex"]
 
 ---
@@ -191,4 +188,5 @@ You first need to activate the plugin in the manager.
 Then launch your website and login to see the Viewmenu.
 
 When the wysiwyg properties toolbox is opened, you can now see that the new button appears, and that when clicked, it loads the Flex application displaying the "Hello Wysiwyg plugin !" text.
+
 

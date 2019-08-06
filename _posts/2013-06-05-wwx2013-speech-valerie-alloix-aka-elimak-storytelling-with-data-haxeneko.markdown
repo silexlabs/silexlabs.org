@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-06-05T12:25:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2013-speech-valerie-alloix-aka-elimak-storytelling-with-data-haxeneko/"
-slug: "wwx2013-speech-valerie-alloix-aka-elimak-storytelling-with-data-haxeneko"
 title: "wwx2013 speech: Valérie Alloix aka elimak \"Storytelling with data + Haxe/Neko\""
-wordpress_id: 142722
 categories: ["Blog Haxe","Silex Labs Events","The Blog"]
 tags: ["datavizualisation","Elimak","Haxe","neko","valérie Alloix","wwx2013"]
 
@@ -63,6 +60,7 @@ The main goal of data visualization is its ability to communicate information cl
 - [Talk Lorant Pinter: **Conquering uniform cross-platform text rendering**](https://www.silexlabs.org/?p=142774)
 
 - [Lightning Talks](https://www.silexlabs.org/?p=143115)
+
 
 
 

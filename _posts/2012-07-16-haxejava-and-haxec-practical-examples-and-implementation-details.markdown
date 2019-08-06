@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-07-16T15:30:32.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxejava-and-haxec-practical-examples-and-implementation-details/"
-slug: "haxejava-and-haxec-practical-examples-and-implementation-details"
 title: "Haxe/Java and Haxe/C#: Practical examples and implementation details"
-wordpress_id: 133823
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -53,6 +50,7 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 [Practical Haxe/Java & Haxe/C#](http://prezi.com/5ab8vzrd4qqt/practical-haxejava-haxec/) on [Prezi](http://prezi.com/)
+
 
 
 

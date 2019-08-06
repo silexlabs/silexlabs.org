@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2011-04-25T09:50:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/state-of-amfphp/"
-slug: "state-of-amfphp"
 title: "State of amfPHP"
-wordpress_id: 2578
 categories: ["Blog amfPHP","The Blog"]
 
 ---
@@ -34,4 +31,5 @@ On the side, here are some projects that could be of interest
 - writing a wikipedia page, an osflash page, etc.
 
 If you feel like you could help, or a comment, or idea, please give us a shout!
+
 

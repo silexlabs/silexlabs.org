@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-24T15:08:56.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/uninstall-an-item/"
-slug: "uninstall-an-item"
 title: "Uninstall an item"
-wordpress_id: 3095
 categories: ["Tutorials Silex"]
 
 ---
@@ -38,4 +35,5 @@ Click "yes" to confirm the uninstallation
 ![](https://www.silexlabs.org/wp-content/uploads/2011/02/the-uninstallation-is-done.png)The item is uninstalled !
 
 This tutorial is now finished !
+
 

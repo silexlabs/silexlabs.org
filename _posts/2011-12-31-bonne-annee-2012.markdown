@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-12-31T23:00:09.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bonne-annee-2012/"
-slug: "bonne-annee-2012"
 title: "Bonne année 2012 !"
-wordpress_id: 131088
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -46,4 +43,5 @@ Ce passage de l’année 2011 à 2012 c’est l’occasion pour nous de :
 Bien à vous,
 
 L'équipe Silex Labs
+
 

@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-08-19T12:52:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/quaxe-infinity-and-beyond/"
-slug: "quaxe-infinity-and-beyond"
 title: "Quaxe, infinity and beyond"
-wordpress_id: 205221
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["API","cross-platform","Daniel Glazman","Haxe","Haxe conference","Quaxe","video","wwx","wwx2015"]
 
@@ -48,6 +45,7 @@ watch the video:
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 
 https://twitter.com/larsiusprime/status/605009232111513600
+
 
 
 

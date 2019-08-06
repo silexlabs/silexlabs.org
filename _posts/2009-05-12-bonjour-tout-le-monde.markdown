@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-05-12T14:18:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bonjour-tout-le-monde/"
-slug: "bonjour-tout-le-monde"
 title: "READ ME FIRST"
-wordpress_id: 1
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -86,6 +83,7 @@ Pour partager un élément, ajoutez-le en remplissant une fiche descriptive comm
 
 
   * **Cliquer sur "Publier"** (zone à droite de l'artcle)
+
 
 
 

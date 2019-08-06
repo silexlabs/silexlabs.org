@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-26T08:33:30.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/flip-book-layout/"
-slug: "flip-book-layout"
 title: "Flip book animation layout"
-wordpress_id: 3209
 categories: ["Layouts"]
 tags: ["flip","flip book"]
 
@@ -403,4 +400,5 @@ FLIP
 Enfin, la page start ne mène pas automatiquement à la page.1 pourtant
 
 _______________________________
+
 

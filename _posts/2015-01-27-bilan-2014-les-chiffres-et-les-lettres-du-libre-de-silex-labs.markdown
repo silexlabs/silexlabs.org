@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2015-01-27T23:54:31.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs/"
-slug: "bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs"
 title: "Bilan 2014 : les chiffres et les lettres du libre de Silex Labs"
-wordpress_id: 204131
 categories: ["Silex Labs Events","The Blog"]
 tags: ["bilan 2014","contributhon","css","html","javaScript","node.js"]
 
@@ -272,4 +269,5 @@ L'adhésion annuelle de 15€ vous offre l'accès gratuit à l’ensemble des �
 ![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
 
 ![silexlabs-bilan-2014-carre](https://www.silexlabs.org/wp-content/uploads/2015/01/silexlabs-bilan-2014-carre.png)
+
 

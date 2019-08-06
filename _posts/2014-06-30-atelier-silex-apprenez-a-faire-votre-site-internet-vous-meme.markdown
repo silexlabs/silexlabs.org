@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-30T13:47:27.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-apprenez-a-faire-votre-site-internet-vous-meme/"
-slug: "atelier-silex-apprenez-a-faire-votre-site-internet-vous-meme"
 title: "Atelier Silex : Apprenez à faire votre site internet vous même !!"
-wordpress_id: 202894
 categories: ["Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["atelier","IESA","silexV2","website builder"]
 
@@ -179,4 +176,5 @@ N’oubliez pas que la petite adhésion annuelle à Silex Labs vous offre l’ac
 
 
 ![Atelier-Silex-Juillet-2014](https://www.silexlabs.org/wp-content/uploads/2014/07/Atelier-Silex-Juillet-2014.png)
+
 

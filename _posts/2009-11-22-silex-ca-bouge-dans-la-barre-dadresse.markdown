@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-11-22T17:50:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-ca-bouge-dans-la-barre-dadresse/"
-slug: "silex-ca-bouge-dans-la-barre-dadresse"
 title: "Silex, ca bouge dans la barre d'adresse"
-wordpress_id: 1367
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -46,4 +43,5 @@ Plusieurs remarques sur l'objectif de cette opération :
 
 
 Que pensez vous de tout ça? Il est encore temps de faire évoluer le concept...
+
 

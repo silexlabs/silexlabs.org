@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-31T17:57:00.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/tivo-activity-haxelib/"
-slug: "tivo-activity-haxelib"
 title: "TiVo Activity Haxelib"
-wordpress_id: 205023
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["API","framework","Haxe","Haxe community","Haxe conference","openFL","tivo","Tivo activity","todd kulick","tv","video","vod","wwx","wwx2015"]
 
@@ -52,6 +49,7 @@ https://twitter.com/smugnier/status/604638944748273664
 https://twitter.com/Fiene_P/status/604635490273398785
 
 https://twitter.com/damoebius/status/604636834023501824
+
 
 
 

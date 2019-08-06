@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-08-13T15:28:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lhaxepero-revient-de-vacances-le-jeudi-22-aout-a-19h-au-bistrot-marguerite/"
-slug: "lhaxepero-revient-de-vacances-le-jeudi-22-aout-a-19h-au-bistrot-marguerite"
 title: "L'HaxePéro revient de vacances le jeudi 22 aout à 19H au Bistrot Marguerite"
-wordpress_id: 179230
 categories: ["Blog Haxe","Blog Silex Labs","Silex Labs Events"]
 tags: ["Haxe","Haxepéro"]
 
@@ -44,6 +41,7 @@ Métro : Hôtel de Ville ou Cité
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/08/IMG_2592.png)
+
 
 
 

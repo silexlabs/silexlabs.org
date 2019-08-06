@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-12-08T16:43:10.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-3eme-edition/"
-slug: "atelier-silex-3eme-edition"
 title: "Atelier Silex - 3ème édition"
-wordpress_id: 130831
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -76,4 +73,5 @@ Pol, Alexandre, Yannick, Raphaël et Isabelle seront à votre disposition pour r
 _**A noter :**_ Les ateliers sont gratuits et ouverts à tous, et s’adressent aussi bien aux amateurs qu’aux graphistes, intégrateurs et développeurs.
 
 N'hésitez plus et à jeudi !
+
 

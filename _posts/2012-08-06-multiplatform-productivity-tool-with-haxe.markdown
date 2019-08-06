@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-08-06T09:26:17.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/multiplatform-productivity-tool-with-haxe/"
-slug: "multiplatform-productivity-tool-with-haxe"
 title: "Multiplatform productivity tool with Haxe"
-wordpress_id: 135169
 categories: ["Blog Silex Labs","Silex Labs Events","The Blog"]
 tags: ["WWX2012"]
 
@@ -41,4 +38,5 @@ Here are the other videos of the [WWX](http://wwx.haxe.org/) :
 
 
 **! Information !** You can find Peter Halacsy's interview (in french) on [Silicon Maniacs](http://www.siliconmaniacs.org/i-t-boys-i-t-girls-haxe/) - A very interesting interview realised during the haxe conf, also featuring Nicolas Cannasse, Rob Fell and Valerie alias Elimak
+
 

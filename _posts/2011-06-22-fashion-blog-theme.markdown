@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T09:07:43.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fashion-blog-theme/"
-slug: "fashion-blog-theme"
 title: "Fashion Blog Theme"
-wordpress_id: 86554
 categories: ["Themes"]
 
 ---
@@ -27,4 +24,5 @@ This template is for your personnal creation, with a gallery. A nice graphic wit
 [Original template](http://www.templatemo.com/preview/templatemo_194_fashion_blog)
 
 License : Creative Commons
+
 

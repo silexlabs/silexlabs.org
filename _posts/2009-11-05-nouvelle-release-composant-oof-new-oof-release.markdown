@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-11-05T09:52:15.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/nouvelle-release-composant-oof-new-oof-release/"
-slug: "nouvelle-release-composant-oof-new-oof-release"
 title: "nouvelle release composant OOF / new OOF release"
-wordpress_id: 1337
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -25,4 +22,5 @@ silex exchange:
 sourceforge:
 
 [http://sourceforge.net/projects/oof ](http://sourceforge.net/projects/oof)
+
 

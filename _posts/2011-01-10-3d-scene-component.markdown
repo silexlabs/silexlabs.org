@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-01-10T16:08:48.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/3d-scene-component/"
-slug: "3d-scene-component"
 title: "3D Scene component"
-wordpress_id: 1802
 categories: ["Plugins"]
 
 ---
@@ -24,5 +21,6 @@ This component let you simulate a 3d scene, animated by the mouse gesture
 [caption id="attachment_1926" align="alignnone" width="300" caption="3dscene component when mouse is in the center"][![3dscene component when mouse is in the center](https://www.silexlabs.org/wp-content/uploads/2011/01/center-300x150.jpg)](https://www.silexlabs.org/wp-content/uploads/2011/01/center.jpg)[/caption]
 
 [caption id="attachment_1927" align="alignnone" width="300" caption="3dscene component when mouse is on the right of the screen"][![3dscene component when mouse is on the right of the screen](https://www.silexlabs.org/wp-content/uploads/2011/01/right-300x150.jpg)](https://www.silexlabs.org/wp-content/uploads/2011/01/right.jpg)[/caption]
+
 
 

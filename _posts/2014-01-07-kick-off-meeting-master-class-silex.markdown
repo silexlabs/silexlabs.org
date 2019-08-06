@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-01-07T17:56:41.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/kick-off-meeting-master-class-silex/"
-slug: "kick-off-meeting-master-class-silex"
 title: "Kick-off meeting Master Class Silex"
-wordpress_id: 200928
 categories: ["Blog Silex Labs","Silex","Silex Labs Events"]
 tags: ["IESA","Master Class","mda02","silexV2"]
 
@@ -138,6 +135,7 @@ Permettre aux associations du centre de Paris de bénéficier de l’accompagnem
 
 
   * [Conseils pour créer son site internet](https://www.silexlabs.org/202049/silex/tutorials-silex/compte-rendu-video-de-latelier-7-faites-votre-site/)
+
 
 
 

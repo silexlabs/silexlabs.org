@@ -3,10 +3,7 @@ author: "lexa"
 comments: true
 date: "2010-10-18T20:55:37.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/try-silex-v1-6-carbon-online/"
-slug: "try-silex-v1-6-carbon-online"
 title: "Essayez Silex v1.6 Carbon en ligne"
-wordpress_id: 1865
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -40,4 +37,5 @@ Merci à tous pour votre collaboration.
 
 A très vite pour la suite,
 Le team Silex
+
 

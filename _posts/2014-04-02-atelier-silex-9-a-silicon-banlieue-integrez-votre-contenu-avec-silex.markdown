@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-04-02T12:53:29.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-9-a-silicon-banlieue-integrez-votre-contenu-avec-silex/"
-slug: "atelier-silex-9-a-silicon-banlieue-integrez-votre-contenu-avec-silex"
 title: "Atelier Silex #9 à Silicon Banlieue : Intégrez votre contenu avec Silex"
-wordpress_id: 202072
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops"]
 tags: ["atelier","silex","silexV2","silicon banlieue"]
 
@@ -81,4 +78,5 @@ Cet atelier est gratuit !
 
 
 ![SB-atelier-silex-09](https://www.silexlabs.org/wp-content/uploads/2014/05/SB-atelier-silex-09-carre-agglogo.png)
+
 

@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2012-03-08T17:55:35.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-silex-silicon-sentier-en-parle/"
-slug: "atelier-silex-silicon-sentier-en-parle"
 title: "Atelier Silex : Silicon Sentier en parle !"
-wordpress_id: 131845
 categories: ["Blog Silex","Blog Silex Labs"]
 
 ---
@@ -22,4 +19,5 @@ Parce que ça fait toujours plaisir de voir que des acteurs connus dans le monde
 
 
 [http://siliconsentier.org/atelier-silex-un-atelier-gratuit-a-lattention-des-designers-le-1503/](http://siliconsentier.org/atelier-silex-un-atelier-gratuit-a-lattention-des-designers-le-1503/)
+
 

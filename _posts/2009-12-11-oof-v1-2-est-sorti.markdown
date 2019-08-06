@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-12-11T11:10:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/oof-v1-2-est-sorti/"
-slug: "oof-v1-2-est-sorti"
 title: "OOF v1.2 est sorti!"
-wordpress_id: 1389
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -29,4 +26,5 @@ une nouvelle version de OOF est disponible. Les nouveautés sont( je [cite](http
 et le lien:
 
 [http://wp-manager.silex-ria.org/?p=319](http://wp-manager.silex-ria.org/?p=319)
+
 

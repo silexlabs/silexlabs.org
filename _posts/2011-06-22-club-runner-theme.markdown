@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-22T12:47:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/club-runner-theme/"
-slug: "club-runner-theme"
 title: "Club Runner Theme"
-wordpress_id: 87529
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ Club Runner is a template for your events or party. It's a event website.
 [Original template](http://www.templatemo.com/preview/templatemo_246_club)
 
 License : Creative Commons
+
 

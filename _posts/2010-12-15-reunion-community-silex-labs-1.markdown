@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-12-15T20:48:28.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/reunion-community-silex-labs-1/"
-slug: "reunion-community-silex-labs-1"
 title: "Silex Labs Communities #1 - compte rendu"
-wordpress_id: 2103
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -123,4 +120,5 @@ _Définition des objectifs à venir pour le 1er cercle_
 Démo de certains travaux réalisés récemment par des membres du 1er cercle.
 
 Echanges avec les anciens et les nouveaux :)
+
 

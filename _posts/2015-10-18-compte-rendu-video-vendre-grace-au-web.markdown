@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-10-18T16:54:53.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-vendre-grace-au-web/"
-slug: "compte-rendu-video-vendre-grace-au-web"
 title: "Compte-rendu vidéo: vendre grâce au web"
-wordpress_id: 204790
 categories: ["Compte rendu Vidéo","The Blog","Vidéos"]
 tags: ["atelier marketing","blog","le tour du web","web"]
 
@@ -112,4 +109,5 @@ Cet atelier entre dans le cadre du projet “Le Tour du Web en 50 ateliers” qu
 
 
 Plus d’infos sur [“Le tour du Web en 50 ateliers”](https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/).
+
 

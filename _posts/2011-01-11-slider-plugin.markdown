@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-01-11T08:37:26.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/slider-plugin/"
-slug: "slider-plugin"
 title: "Slider plugin"
-wordpress_id: 1883
 categories: ["Plugins"]
 
 ---
@@ -103,4 +100,5 @@ When the user moves the handle of the slider, the volume of the Audio component 
 
 
 The slider can be skinned with the source available here[ : slider_source](https://www.silexlabs.org/?attachment_id=86383). The zip contains the FLA of the slider and the Slider.as file, necessary to publish the FLA. In the FLA, you can change the design of the background of the slider, the progress bar and the handle.
+
 

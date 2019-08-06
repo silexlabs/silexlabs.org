@@ -3,10 +3,7 @@ author: "ariels"
 comments: true
 date: "2016-01-29T17:03:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/updates-for-amfphp-and-baguette-amf/"
-slug: "updates-for-amfphp-and-baguette-amf"
 title: "Updates for Amfphp and Baguette AMF"
-wordpress_id: 205876
 categories: ["Blog amfPHP","Blog Silex Labs","The Blog"]
 tags: ["amfphp","amfphp 2.2.2","php"]
 
@@ -20,6 +17,7 @@ PHP keeps on improving from release to release, as we have seen with PHP 5.6 the
 [Get Baguette AMF 1.1 here.](http://baguetteamf.com/)
 
 ![Logo amfphp](https://www.silexlabs.org/wp-content/uploads/2016/01/Logo-amfphp-687x450.png)
+
 
 
 

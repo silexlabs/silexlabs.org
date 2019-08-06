@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-11-08T19:39:17.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/descriptif-fonctionnel-theme-agro/"
-slug: "descriptif-fonctionnel-theme-agro"
 title: "\"Agro\" Theme"
-wordpress_id: 1035
 categories: ["Themes"]
 
 ---
@@ -344,4 +341,5 @@ _
 [Téléchargez la version PDF de ce descriptif](https://www.silexlabs.org/wp-content/uploads/2011/02/DESCRIPTIF-FONCTIONNEL.pdf)
 
 [Download the english version of this functional description](https://www.silexlabs.org/wp-content/uploads/2011/02/FUNCTIONAL-DESCRIPTION-–-AGRO-THEME.pdf)
+
 

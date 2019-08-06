@@ -29,3 +29,4 @@ Avoir un petit sens esthétique n’est jamais de trop quand on veut créer un s
 
 L’idéal est de venir avec son PC portable pour pouvoir créer son site tout au long de l’atelier.
 
+

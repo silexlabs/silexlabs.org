@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-06T12:28:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/blogs-francophones-qui-sinteressent-au-nouvelles-technologies-web/"
-slug: "blogs-francophones-qui-sinteressent-au-nouvelles-technologies-web"
 title: "Blogs francophones qui s'intéressent aux nouvelles technologies Web"
-wordpress_id: 542
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -23,4 +20,5 @@ Voici donc une petite sélection, avec des liens directs vers des billets qui m'
 [http://blog.kapit.fr/w2e/2009/04/17/du-social-networking-en-entreprise-pourquoi/ ](http://blog.kapit.fr/w2e/2009/04/17/du-social-networking-en-entreprise-pourquoi/)
 
 J'en ai encore d'autres mais qui sont vraiment des trucs de développeurs. Je ferai donc peut-être une suite à ce billet mais ça sera strictement du technique :-)
+
 

@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-25T14:18:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/fullscreen-component/"
-slug: "fullscreen-component"
 title: "Fullscreen Component"
-wordpress_id: 639
 categories: ["Plugins"]
 
 ---
@@ -193,6 +190,7 @@ In the FullScreenComponent.as:
 
 
   * setFullscreenState() - used to passer the variable about the fullscreen between the silex and the component
+
 
 
 

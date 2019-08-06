@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2016-01-20T16:42:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/tour-web-50-ateliers-bilan-2015/"
-slug: "tour-web-50-ateliers-bilan-2015"
 title: "Le Tour du Web en 50 ateliers : Bilan 2015"
-wordpress_id: 206287
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -130,4 +127,5 @@ Ces ateliers étaient découpés en 4 thématiques représentatives des métiers
 
 
 ![tour-du-web-carre-octv2-2015](https://www.silexlabs.org/wp-content/uploads/2016/02/tour-du-web-carre-octv2-2015.png)
+
 

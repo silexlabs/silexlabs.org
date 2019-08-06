@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2010-05-27T15:13:14.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/piwik-plugin-for-silex/"
-slug: "piwik-plugin-for-silex"
 title: "Piwik plugin for Silex"
-wordpress_id: 3210
 categories: ["Plugins"]
 tags: ["analytics","plugin"]
 
@@ -30,4 +27,5 @@ To install it drop the piwik folder in the silex plugins folder.
 You can activate it for a specific site or for the entire Silex server (for all sites hosted by your Silex server) through the Silex manager.
 
 [Sources - Piwik plugin for Silex](https://www.silexlabs.org/?attachment_id=979)
+
 

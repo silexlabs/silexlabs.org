@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-07-02T08:11:16.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/premier-post-pour-une-bonne-nouvelle/"
-slug: "premier-post-pour-une-bonne-nouvelle"
 title: "Premier post pour une bonne nouvelle !"
-wordpress_id: 939
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -23,4 +20,5 @@ Autant dire que l'équipe Silex a une influence des plus notables sur la planèt
 A ce soir,
 
 Florian
+
 

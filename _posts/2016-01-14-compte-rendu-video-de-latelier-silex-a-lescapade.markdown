@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2016-01-14T17:15:44.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/compte-rendu-video-de-latelier-silex-a-lescapade/"
-slug: "compte-rendu-video-de-latelier-silex-a-lescapade"
 title: "Compte-rendu vidéo de l'atelier Silex à l'Escapade"
-wordpress_id: 205807
 categories: ["Blog Silex","Compte rendu Vidéo","Silex","Silex Labs Events","Silex workshops","The Blog","tuto","Tutorials Silex","Vidéos"]
 tags: ["FLOSS","foss","logiciellibre","silex","silex labs","silexlabs","silexV2","video","webdesign","webdev","website builder","websitebuilder"]
 
@@ -190,4 +187,5 @@ https://youtu.be/eg_4QnQR4kw
 
 
 [![atelier-silex-escapade-cr-video-carre.svg](https://www.silexlabs.org/wp-content/uploads/2016/01/atelier-silex-escapade-cr-video-carre.svg_.png)](https://www.silexlabs.org/wp-content/uploads/2016/01/atelier-silex-escapade-cr-video-carre.svg_.png)
+
 

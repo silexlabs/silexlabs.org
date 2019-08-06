@@ -3,10 +3,7 @@ author: "Simo"
 comments: true
 date: "2015-07-27T06:53:07.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/haxe-for-the-web-getting-things-done/"
-slug: "haxe-for-the-web-getting-things-done"
 title: "Haxe for the Web: Getting things done"
-wordpress_id: 204945
 categories: ["Blog Haxe","Compte rendu Vidéo","The Blog","Vidéos","wwx2015"]
 tags: ["API","cross-platform","css3","developer","Front","Haxe","Haxe conference","html5","javaScript","Juraj Kirchheim","video","web","webdev","wwx","wwx2015"]
 
@@ -38,4 +35,5 @@ Watch the video:
 https://twitter.com/back2dos/status/604245210999189505
 
 https://twitter.com/silexlabs/status/625575209177886720
+
 

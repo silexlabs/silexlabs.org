@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-06-30T09:31:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/wwx2014-speech-hugh-sanderson-c-magic/"
-slug: "wwx2014-speech-hugh-sanderson-c-magic"
 title: "WWX2014 Speech : Hugh Sanderson \"C++ Magic\""
-wordpress_id: 202807
 categories: ["Blog Haxe"]
 tags: ["c++","Haxe","Haxe community","hugh sanserson","silex labs","speech","wwx2014","wwx2014 speech"]
 
@@ -169,6 +166,7 @@ We had some problem with the beginning of the video, so we asked Hugh to make a 
 
 
 ## ![wwx2014-carre-h-sanderson](https://www.silexlabs.org/wp-content/uploads/2014/06/wwx2014-carre-h-sanderson.png)
+
 
 
 

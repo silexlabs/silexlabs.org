@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-01-10T16:14:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/lite-design-component/"
-slug: "lite-design-component"
 title: "Lite Design component"
-wordpress_id: 1807
 categories: ["Plugins"]
 
 ---
@@ -42,4 +39,5 @@ In this file, you will find :
 
 
 All these elements light up on rollover.
+
 

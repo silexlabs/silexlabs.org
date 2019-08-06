@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2009-06-12T10:26:50.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hack-ton-picaro/"
-slug: "hack-ton-picaro"
 title: "Hack ton Picaro ! ** Hack your picaro !"
-wordpress_id: 701
 categories: ["Blog Silex Labs","The Blog"]
 
 ---
@@ -28,4 +25,5 @@ Jouez au jeu des 7 erreurs en comparant ces shoots écrans au site de [la cave d
 
 
 _Spot the differences between these screenshots and [the cave du picaro website](http://www.lacavedupicaro.com/#bar_a_tapas/montreuil/accueil)_
+
 

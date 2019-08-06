@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-07-28T07:05:42.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/back-to-basics-css3-by-yannick-dominguez/"
-slug: "back-to-basics-css3-by-yannick-dominguez"
 title: "BACK TO BASICS CSS3 by Yannick Dominguez"
-wordpress_id: 203268
 categories: ["Back To Basics","Blog Labs","Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -156,6 +153,7 @@ CSS3 (Cascading Style Sheets, ou feuilles de styles en cascade) permet de modifi
 
 ##  [![b-to-b-01-css3-carre-as](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-css3-carre-as.png)](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-01-css3-carre-as.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-03-javascript-carre2.png)
+
 
 
 

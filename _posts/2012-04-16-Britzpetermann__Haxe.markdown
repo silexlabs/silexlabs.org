@@ -3,11 +3,8 @@ author: "jhice"
 comments: true
 date: "2012-04-16T15:11:02.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/?p=132189"
 published: false
-slug: ""
 title: "Britzpetermann & Haxe"
-wordpress_id: 132189
 categories: ["Blog Silex","Blog Silex Labs","Silex Labs Events","The Blog"]
 
 ---
@@ -23,6 +20,7 @@ Coming from the ancients of computer graphics on my VC20 and Amiga, I joined the
 
 
 ## The video
+
 
 
 

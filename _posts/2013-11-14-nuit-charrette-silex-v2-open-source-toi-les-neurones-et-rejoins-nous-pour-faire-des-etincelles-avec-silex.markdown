@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2013-11-14T15:16:11.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/nuit-charrette-silex-v2-open-source-toi-les-neurones-et-rejoins-nous-pour-faire-des-etincelles-avec-silex/"
-slug: "nuit-charrette-silex-v2-open-source-toi-les-neurones-et-rejoins-nous-pour-faire-des-etincelles-avec-silex"
 title: "Nuit Charrette Silex v2 à Cifacom : Open source toi les neurones et rejoins nous pour faire des étincelles avec Silex !!"
-wordpress_id: 180269
 categories: ["Blog Silex","Blog Silex Labs","Contributhon","Silex Labs Events","The Blog"]
 tags: ["Cifacom","javaScript","node.js","silex labs","silexV2"]
 
@@ -133,6 +130,7 @@ Des tutoriels seront bientôt disponibles pour ne pas les louper suivez nous sur
 
 
 ![](https://www.silexlabs.org/wp-content/uploads/2013/11/logo-cifacom-blc1.jpg)
+
 
 
 

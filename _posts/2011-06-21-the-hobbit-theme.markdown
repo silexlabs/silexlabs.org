@@ -3,10 +3,7 @@ author: "devpix-web"
 comments: true
 date: "2011-06-21T13:57:55.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/the-hobbit-theme/"
-slug: "the-hobbit-theme"
 title: "The Hobbit Theme"
-wordpress_id: 86223
 categories: ["Themes"]
 
 ---
@@ -29,4 +26,5 @@ It's a fairy template with a very nice graphic. There are three variations : Gre
 [Original template](http://templates.arcsin.se/the-hobbit-website-template/)
 
 License : Creative Commons
+
 

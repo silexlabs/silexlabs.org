@@ -3,10 +3,7 @@ author: "yannick"
 comments: true
 date: "2011-08-16T15:14:58.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/creating-a-component-plugin/"
-slug: "creating-a-component-plugin"
 title: "Creating a component plugin"
-wordpress_id: 128983
 categories: ["Tutorials Silex"]
 
 ---
@@ -221,4 +218,5 @@ $ret.= 'description:'This is the TestGroup description'}]);';`
 }
 `
 You can then add component to the new group by modifing the <groupUid> tag in the component XML descriptor
+
 

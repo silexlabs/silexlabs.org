@@ -3,10 +3,7 @@ author: "cindy"
 comments: true
 date: "2011-07-01T08:23:39.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hotel-theme/"
-slug: "hotel-theme"
 title: "Hotel theme"
-wordpress_id: 97354
 categories: ["Themes"]
 
 ---
@@ -32,6 +29,7 @@ Ce thème est un template pour Hôtel de luxe.
 
 
 Licence  Creative Commons
+
 
 
 

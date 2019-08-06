@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-04-28T13:22:03.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/master-class-silex-9-faites-votre-site-la-suite/"
-slug: "master-class-silex-9-faites-votre-site-la-suite"
 title: "Master Class Silex #9 : Publiez votre site !"
-wordpress_id: 202085
 categories: ["Blog Silex Labs","Silex","Silex Labs Events","Silex workshops","The Blog"]
 tags: ["IESA","Master Class","master class silex","silex","silexV2"]
 
@@ -84,4 +81,5 @@ N’oubliez pas que la petite adhésion annuelle à Silex Labs vous offre l’ac
 
 
 ![MDA-atelier-silex-09](https://www.silexlabs.org/wp-content/uploads/2014/05/MDA-atelier-silex-09-carre.png)
+
 

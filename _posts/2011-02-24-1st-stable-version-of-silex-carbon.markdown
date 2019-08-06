@@ -3,10 +3,7 @@ author: "POL"
 comments: true
 date: "2011-02-24T20:46:46.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/1st-stable-version-of-silex-carbon/"
-slug: "1st-stable-version-of-silex-carbon"
 title: "1st stable version of Silex Carbon  |  1ere version stable de Silex Carbon"
-wordpress_id: 2468
 categories: ["Blog Silex","Blog Silex Labs","The Blog"]
 
 ---
@@ -80,4 +77,5 @@ http://www.facebook.com/profile.php?id=100001877199736](http://www.facebook.com/
 
 Merci pour votre enthousiasme ! ! !
 L'équipe Silex pour la communauté Silex Labs.
+
 

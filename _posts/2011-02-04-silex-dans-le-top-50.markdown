@@ -3,10 +3,7 @@ author: "koala"
 comments: true
 date: "2011-02-04T22:40:38.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/silex-dans-le-top-50/"
-slug: "silex-dans-le-top-50"
 title: "Silex dans le top 50 !"
-wordpress_id: 2253
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -70,4 +67,5 @@ Merci à vous tous de nous avoir permis d'occuper la 50 ème place du classement
 Bien à vous,
 
 La Team Silex
+
 

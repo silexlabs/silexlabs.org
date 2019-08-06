@@ -3,10 +3,7 @@ author: "Gregory"
 comments: true
 date: "2014-10-10T15:12:45.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/hackathon-code-combat-a-silicon-banlieue/"
-slug: "hackathon-code-combat-a-silicon-banlieue"
 title: "HACKATHON Code Combat à Silicon Banlieue"
-wordpress_id: 203685
 categories: ["Silex Labs Events","The Blog"]
 tags: ["code combat","code week","codecombat","hackathon","javaScript","silicon banlieue"]
 
@@ -97,6 +94,7 @@ Les premières missions permettent d'avancer très facilement et plus on avance 
 ](https://www.silexlabs.org/wp-content/uploads/2014/09/SB-atelier-silex-03-carre.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-06-node2-carre1.png)[
 ](https://www.silexlabs.org/wp-content/uploads/2014/07/b-to-b-01-node-carre-as.png)
+
 
 
 

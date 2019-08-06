@@ -3,10 +3,7 @@ author: "sophieb"
 comments: true
 date: "2014-05-09T14:31:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/ateliers-b-to-b-back-to-basics-3-utilisation-de-javascript/"
-slug: "ateliers-b-to-b-back-to-basics-3-utilisation-de-javascript"
 title: "Ateliers B to B (Back to Basics) #3 : Utilisation de JavaScript"
-wordpress_id: 201975
 categories: ["Blog Silex Labs","Silex Labs Events"]
 tags: ["atelier","Back to Basics","css3","html5","industrial workflow","javaScript","site internet"]
 
@@ -272,6 +269,7 @@ C’est pourquoi, Silex Labs a décidé d’organiser une série d’ateliers po
 
 
 ![b-to-b-03-javascript-carre2](https://www.silexlabs.org/wp-content/uploads/2014/04/b-to-b-03-javascript-carre2.png)
+
 
 
 

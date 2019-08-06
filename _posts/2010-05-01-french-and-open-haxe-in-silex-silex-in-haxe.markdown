@@ -3,10 +3,7 @@ author: "admin"
 comments: true
 date: "2010-05-01T13:50:05.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/french-and-open-haxe-in-silex-silex-in-haxe/"
-slug: "french-and-open-haxe-in-silex-silex-in-haxe"
 title: "French and open, haXe in Silex / Silex in haXe"
-wordpress_id: 1605
 categories: ["Blog Silex","The Blog"]
 
 ---
@@ -136,4 +133,5 @@ Can be MovieClips or any object with the method "play()".
 One or more classes in which you can implement the animation(s). For example a fade can let the content of the page appear. This class has to have at least the method "play()" which is called by Silex.
 
 The animations can change the layers appearance - the layers you registered and which contain the dynamic content, i.e. the user  media.
+
 

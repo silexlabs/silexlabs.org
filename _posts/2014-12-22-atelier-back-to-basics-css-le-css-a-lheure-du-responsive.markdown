@@ -3,10 +3,7 @@ author: "anto"
 comments: true
 date: "2014-12-22T15:39:08.000Z"
 layout: "post"
-link: "https://www.silexlabs.org/atelier-back-to-basics-css-le-css-a-lheure-du-responsive/"
-slug: "atelier-back-to-basics-css-le-css-a-lheure-du-responsive"
 title: "Atelier Back to Basics CSS : le CSS à l'heure du responsive"
-wordpress_id: 204070
 categories: ["Back To Basics","Silex Labs Events","The Blog"]
 tags: ["css","css3","IESA","responsive","Sourouche Bagherzadeh"]
 
@@ -138,4 +135,5 @@ Inscrivez-vous vite !**
 
 
 ![b-to-bV2-css3-02-carre](https://www.silexlabs.org/wp-content/uploads/2014/12/b-to-bV2-css3-02-carre.png)
+
 
