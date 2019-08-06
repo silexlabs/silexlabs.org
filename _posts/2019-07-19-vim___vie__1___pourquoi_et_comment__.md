@@ -1,13 +1,9 @@
 ---
-title: "Vim à vie #1 : Pourquoi et comment ?"
-layout: "post"
+title: 'Vim à vie #1 : Pourquoi et comment ?'
+layout: post
 
 ---
 ![2019-07-05-747294.png](http://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png)
-
-## Vim à vie #1 : Pourquoi et comment ?
-
-> 27 mars 2018 @ 19:00 - 21:00
 
 Vim c’est différent. Parce que c’est mieux.
 
