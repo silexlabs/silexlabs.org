@@ -5,7 +5,7 @@ plugins:
   - jekyll-paginate
 excerpt_separator: <!-- more -->
 baseurl: /silexlabs.org
-url: https://lexoyo.me
+url: 'https://lexoyo.me'
 permalink: '/:title:'
 defaults:
   - scope:
