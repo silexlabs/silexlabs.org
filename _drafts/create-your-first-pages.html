@@ -1,0 +1,81 @@
+---
+layout: post
+title: Create your first pages
+date: 
+type: post
+parent_id: '0'
+published: false
+password: ''
+status: draft
+categories:
+- Tutorials Silex
+tags: []
+meta:
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '14'
+  _itemCurrentVersion: ''
+author:
+  login: koala
+  email: isabelleb5@yahoo.fr
+  display_name: koala
+  first_name: ''
+  last_name: ''
+permalink: "/"
+---
+<h3>Move on to serious matters !</h3>
+<p>Now that you know how to create a site from a blank page and how the wysiwyg toolboxes work, we are going to see the page principles.</p>
+<p>Create a page is technically easy.</p>
+<p>But if you want to create a site with several pages  according to your wishes and needs, you must first understand the following principles :</p>
+<ul>
+<li>layers and sub-layers principle</li>
+<li>parent layer / children layer principle</li>
+</ul>
+<p>Don't worry ! You will find some tutorials linked to the page creation in the "Tutorials" category of the online help.</p>
+<p>Let's go !</p>
+<h4>Layers and sub-layers</h4>
+<p>A Silex publication is made up of layers and sub-layers (if you know Photoshop and Illustrator for example, it is the same principle).</p>
+<p>Each layer has necessarily one sub-layer. <strong>It's on the sub-layer that you put your components.</strong></p>
+<p>Example :</p>
+<p><img class="aligncenter size-full wp-image-1619" title="layer" src="{{ site.baseurl }}/assets/layer.png" alt="" width="570" height="322" /></p>
+<p><img class="aligncenter size-full wp-image-1620" title="sublayer" src="{{ site.baseurl }}/assets/sublayer.png" alt="" width="570" height="321" /></p>
+<p>Here, &lt;start&gt; is the layer and &lt;fade&gt; is its sub-layer. When you select &lt;start&gt; nothing appears in the components toolbox and you can not add components to it : it is completly normal !</p>
+<p>But if you select &lt;fade&gt;, components appear in the components toolbox and you can add some to it.</p>
+<p><span style="text-decoration: underline;"><strong><em>Note :</em></strong></span> a layer can have as many sub-layers as you want.</p>
+<h4>Parent-layer and children-layer</h4>
+<p>When you start editing a publication (a site) - if you choose "create a site from a blank page" - you will notice that one layer already exists : it is the &lt;start&gt; layer. This layer is very important because it is from it that you will build all your site.</p>
+<p>The &lt;start&gt; layer has the status of "parent-layer".</p>
+<p>Its partucularity is that all the components that you would add on it would be automatically on all the pages of your site. So, for example, if you want to add a video that only appears on the page 2 of your site, don't put it on the &lt;start&gt; layer !</p>
+<p>Of course the &lt;start&gt; layer can have "children-layers" - the children-layers of &lt;start&gt; would correspond to the different pages of your site.</p>
+<p>Note : the children layers of &lt;start&gt; can have themselves "children layers" and consequently be parent-layers.</p>
+<p>Let see it concretly with the Association theme :</p>
+<p>In this theme you have a "news" page</p>
+<p><img class="aligncenter size-full wp-image-1608" title="news_page" src="{{ site.baseurl }}/assets/news_page.png" alt="" width="700" height="425" /></p>
+<p>If you look at the wysiwyg, you will find this :</p>
+<p><img class="aligncenter size-full wp-image-1609" title="start_news" src="{{ site.baseurl }}/assets/start_news.png" alt="" width="570" height="339" /></p>
+<p>Here, the &lt;news&gt; layer is the children layer of start.</p>
+<p>If you take the &lt;works&gt; page :</p>
+<p><img class="aligncenter size-full wp-image-1612" title="works_home" src="{{ site.baseurl }}/assets/works_home.png" alt="" width="700" height="407" />and open the wysiwyg, you will see :</p>
+<p><img class="aligncenter size-full wp-image-1613" title="start_works" src="{{ site.baseurl }}/assets/start_works.png" alt="" width="570" height="336" /></p>
+<p>Here, it's a bit more complicated.</p>
+<p>&lt;works.home&gt; layer is the children layer of &lt;start&gt; as the same level as the &lt;news&gt; layer. It is also the parent layer of the &lt;works&gt; layer.</p>
+<p>&lt;works&gt; layer is the children layer of the &lt;works&gt; one, and, it is also the parent layer of the &lt;00&gt; layer.</p>
+<p>And &lt;00&gt; layer is the children layer of the &lt;works&gt; layer</p>
+<p>You can note that here we have 4 differents levels :</p>
+<p>&lt;start&gt; corresponds to the level 0 = all the elements that are on this layer would be find on all the pages and sub-pages of your publication.</p>
+<p>&lt;works.home&gt; corresponds to the level 1 = the elements that you will find here are those that you would put on this layer + those that are on the &lt;start&gt; layer</p>
+<p>&lt;works&gt; corresponds to the level 2 : the elements that you will find here are those that you would put on this layer + those that are on the &lt;start&gt; layer + those that are on the &lt;works.home&gt; layer</p>
+<p>&lt;00&gt; corresponds to the level 3 : the elements that you will find here are those that you would put on this layer + those that are on the &lt;start&gt; layer + those that are on the &lt;works.home&gt; layer + those that are on the &lt;works&gt; layer</p>
+<p>Look at this schema, maybe you would understand it better :</p>
+<p><img class="aligncenter size-full wp-image-1617" title="levels_layers_schema" src="{{ site.baseurl }}/assets/levels_layers_schema1.png" alt="" width="700" height="495" /></p>
+<p>Note :</p>
+<ul>
+<li>the black rectangles correspond to layers</li>
+</ul>
+<ul>
+<li>you can have as many levels as you want</li>
+<li>you can have as many layers as you want on each level</li>
+</ul>
+<p>Create a page</p>
+<p>To explain you the principle, we will only focus on the level 0 and the level 1. But, of course, you can apply this principle to all the different levels.</p>
+<p>To create a page from &lt;start&gt; (level 0) you must put a media (button, png, jpg...) on the stage and declare it as an icon.</p>

@@ -1,0 +1,88 @@
+---
+layout: post
+title: Mes premiers pas en React - Créer une app et l'heberger
+date: 
+type: post
+parent_id: '0'
+published: false
+password: ''
+status: draft
+categories:
+- The Blog
+tags: []
+meta:
+  _edit_last: '2427'
+  layout: "- Select -"
+  layout_header: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  wpautop: "- Select -"
+  _yoast_wpseo_primary_category: ''
+  _thumbnail_id: '207206'
+author:
+  login: Tariq
+  email: tariq.benezza@gmail.com
+  display_name: Tariq
+  first_name: Tariq
+  last_name: Benezza
+permalink: "/"
+---
+<p>Salut la compagnie, </p>
+<p>Dans le cadre de la saison 2018/2019 nous avons décidé de vous donner encore plus que l'année dernière. Plus de tutos, plus d'articles, plus d'ateliers mais jamais assez d'apéros !<br />
+Parce que tout le monde nous en parlait et que j'ai harcelé @Clemos pour animer un atelier autour de cette "techno" voilà ci-dessous un petit compte rendu de notre atelier du 23 Octobre chez nos amis du bon coin.</p>
+<h3>React --help :</h3>
+<p>React est une librairie Javascript, créée au début par et pour Facebook, qui permet d'écrire très rapidement des applis web. Et je dois vous avouer une chose me concernant, il y a clairement un avant et un après React. La première chose c'est que c'est très simple à mettre en place. Voilà la liste des ingrédients à avoir :</p>
+<ul>
+<li><a href="https://nodejs.org/en/">Node.js</a> : @Jb vous en parle assez pour savoir ce que c'est. Mais pour rappel il s'agit d'un environnement d'execution qui vous permet de faire du Javascript côté serveur</li>
+<li>Un terminal ou console pour executer quelques instructions en ligne de commande</li>
+<li>Un IDE, ou environnement de developpement. @Clemos ne jure que par <a href="https://www.sublimetext.com/">Sublime</a> et depuis que je lui ai avoué utiliser <a href="https://code.visualstudio.com/">Visual Studio Code</a> il ne me parle plus</li>
+</ul>
+<h3>Go go go !</h3>
+<h4>Le terminal</h4>
+<p>Une fois Node installé, voilà une commande à faire dans votre terminal qui va vous changer la vie :</p>
+<p><code>npm install -g create-react-app</code></p>
+<p>Cette simple commande installe un package vous permettant ensuite de créer une app react de base pour vos projets. Une fois que c'est chose faite, rendez vous sur votre repertoire de travail et tapez (évidemment vous pouvez appeler votre projet comme vous le souhaitez) :</p>
+<p><code>create-react-app my-app<br />
+cd my-app/<br />
+npm start</code></p>
+<p>Normalement là votre navigateur s'ouvre et votre première application react tourne :</p>
+<p><iframe src="https://giphy.com/embed/yidUzHnBk32Um9aMMw" width="480" height="240" frameborder="0" class="giphy-embed" allowfullscreen></iframe></p>
+<p>Si vous désirez en savoir plus sur ce package tout est disponible <a href="https://github.com/facebookincubator/create-react-app">ici</a></p>
+<h4>Markdown App</h4>
+<p>Nous allons maintenant apporter quelques modifications à cette magnifique application et en faire un éditeur de markdown. Très brièvement, markdown est un systeme de formatage de texte simple et minimaliste. Pour exemple il est utilisé sur <a href="htttp://www.github.com">Github</a> (le réseau social des développeurs) pour documenter ce qui est publié.</p>
+<p>Voilà ce vers quoi nous voulons aller :</p>
+<table>
+<tr>
+<th>Markdown</th>
+<th>Résultat</th>
+</tr>
+<tr>
+<th>
+<code># Title 1</code>
+</th>
+<th>
+<h1>Title 1</h1>
+</th>
+</tr>
+<tr>
+<th>
+<code>## Title 2</code>
+</th>
+<th>
+<h2>Title 2</h2>
+</th>
+</tr>
+<tr>
+<th>
+<code>### Title 3</code>
+</th>
+<th>
+<h3>Title 3</h3>
+</th>
+</tr>
+</table>
+<p>Et ce que nous obtiendrons à la fin :</p>
+<p><img src="{{ site.baseurl }}/assets/Capture-du-2017-09-19-11-29-47-300x130.png" alt="capture-du-2017-09-19-11-29-47" width="600" height="260" class="alignnone size-medium wp-image-207232" /></p>
+<h4>La forme</h4>
+<p>Avant de commencer nous allons préparer la forme du projet en utilisant <a href="http://getbootstrap.com/">Bootstrap</a>. Il s'agit d'une librairie qui va nous permettre de cadrier notre espace de travail. La finalité c'est d'avoir une colonne à gauche pour "le source" et une colonne à droite pour le résultat sans se prendre la tête.</p>
+<p>Pour cela nous allons donc intégrer </p>

@@ -1,0 +1,161 @@
+---
+layout: post
+title: Cocktail web app demo
+date: 
+type: post
+parent_id: '0'
+published: false
+password: ''
+status: draft
+categories:
+- Blog Silex Labs
+- The Blog
+tags: []
+meta:
+  _epLastMessage: ''
+  _epLastError: ''
+  _itemCurrentVersion: ''
+  _edit_last: '9'
+author:
+  login: lexoyo
+  email: tw_a13519b0a98377aeff928e0d5f6eb430@community.silexlabs.org
+  display_name: lexoyo
+  first_name: Alexandre
+  last_name: Hoyau
+permalink: "/"
+---
+<p><strong>This article is obsolete - </strong>it ended up <a href="http://haxe.org/com/libs/cocktail/cocktail_web_app_demo">on the haXe wiki here</a></p>
+<h2>A proof of concept</h2>
+<p>As explained in the article <a href="https://www.silexlabs.org/?p=130892">about Cocktail v1.0 alpha2</a>, Cocktail is the ideal haXe library to produce your cross platform applications. And by this I mean that 1 code can be compiled and packaged for</p>
+<ul>
+<li>android and iOS</li>
+<li>windows, mac OS desktops</li>
+<li>TV hardware and software as a native application</li>
+<li>browsers as a web application</li>
+<li>PHP in order to be able to generate and manipulate the client "view" - the DOM, on the server side</li>
+</ul>
+<div>Here is a little application which we have deployed and tested on each of these targets. For now, some functionalities are still missing, which make it impossible to navigate in the hole application on the TVs.</div>
+<blockquote>
+<div>This small app shows icons on start page, which let the user open the inner sections of the app, navigate in pages using lists of items.</div>
+<div>It is a very simple example which will show show you how easy it is to build cross platform applications with haXe and Cocktail.</div>
+</blockquote>
+<p>Feel free to download <a title="web app demo - cocktail cross platform library" href="https://github.com/silexlabs/Cocktail/tree/develop/demo/simple-webapp/src">the source code of the application</a> on github or <a href="https://github.com/silexlabs/Cocktail/tree/develop/demo/simple-webapp/bin">the compiled applications for each target</a>, though there is a direct link to download the compiled versions in the article bellow.</p>
+<p>The code to generate the home page is quite simple, there is a sample code at the end of the article.</p>
+<h2>iPhone and Android native apps</h2>
+<p><img class="alignleft" title="cocktail-iphoneH" src="{{ site.baseurl }}/assets/cocktail-iphoneH1-300x162.png" alt="" width="180" height="97" /></p>
+<p><img class="alignleft" title="cocktail-iphoneV" src="{{ site.baseurl }}/assets/cocktail-iphoneV1-162x300.png" alt="" width="97" height="180" />The mobile version of the app is just the first step to real native apps. For this first test we have used the Flash version and AIR in order to package the application. This is quite impressive to see how the application resizes and how fast it reacts, but we plan to compile Cocktail app directly in C language and package it without AIR, which is very heavy and not supported by all phones.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<h2>Web sites in HTML5 with a Flash fallback</h2>
+<p><img class="alignleft" title="cocktail-browser" src="{{ site.baseurl }}/assets/cocktail-browser1-300x214.png" alt="" width="300" height="214" /></p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<h2>TV application</h2>
+<p><img class="alignleft" title="cocktail-tv" src="{{ site.baseurl }}/assets/cocktail-tv1-300x225.png" alt="" width="300" height="225" /></p>
+<p>.<img class="alignleft size-medium wp-image-130942" title="photo" src="{{ site.baseurl }}/assets/photo1-300x225.jpg" alt="" width="300" height="225" /></p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<h2>Desktop applications or widget</h2>
+<p><img class="alignleft" title="cocktail-desktop-app" src="{{ site.baseurl }}/assets/cocktail-desktop-app1-300x265.png" alt="" width="300" height="265" /><br />
+.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<p>.</p>
+<h2>Take a look at the code</h2>
+<p>The code to generate the home page is quite simple,  - you will recognize Cocktail API</p>
+<div>
+<pre>// **
+// background
+var backGround:ImageDOMElement = new ImageDOMElement(NativeElementManager.createNativeElement(NativeElementTypeValue.image));
+backGround.load("images/blackPixel.png");
+
+// style is applied here even if image is not loaded so RichList assets are placed on the correct position
+backGround.style.position = PositionStyleValue.absolute;
+backGround.style.display = DisplayStyleValue.block;
+
+// 100% of height and width
+backGround.style.top = PositionOffsetStyleValue.length(px(0));
+backGround.style.left = PositionOffsetStyleValue.length(px(0));
+backGround.style.width = DimensionStyleValue.percent(100);
+backGround.style.height = DimensionStyleValue.percent(100);
+
+// **
+// create a list of icons
+
+// create the data
+var richListModel = [
+				{text:"Cal", imagePath:"images/calendrier_blanc.png" },
+				{text:"Music", imagePath:"images/icone_music_blanc.png" },
+				...
+			];
+
+// create a main container for the cells
+var content:ContainerDOMElement = new ContainerDOMElement(NativeElementManager.createNativeElement(neutral));
+content.style.display = block;
+
+// create list's cells
+var cellData:CellModel;
+for (cellData in richListModel)
+{
+	// create cell with text and image
+	// empty cell part
+	var cell:ContainerDOMElement = new ContainerDOMElement(NativeElementManager.createNativeElement(NativeElementTypeValue.custom("li")));
+
+	// image part
+	if (cellData.imagePath != "" &amp;&amp; cellData.imagePath != null)
+	{
+		var cellImage:ImageDOMElement = new ImageDOMElement();
+		// add image
+		cell.addChild(cellImage);
+		// load image
+		cellImage.load(cellData.imagePath);
+	}
+
+	// add text
+	var cellTextContainer:ContainerDOMElement = Utils.getContainer();
+	if (cellData.text != "" &amp;&amp; cellData.text != null)
+	{
+		var textElement:TextElement = new TextElement(cellData.text);
+		cellTextContainer.addText(textElement);
+		cell.addChild(cellTextContainer);
+	}
+
+	// add cell to instance
+	content.addChild(cell);
+
+}
+
+//**
+// the main screen
+
+// build the main container for all of our elements
+page.addChild(backGround);
+page.addChild(richList);
+
+// attach to the body (root timeline in flash or body in html)
+var body:BodyDOMElement = new BodyDOMElement();
+body.addChild(page);</pre>
+</div>

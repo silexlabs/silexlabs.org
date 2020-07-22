@@ -1,0 +1,45 @@
+---
+layout: post
+title: Packaging a finished plugin with the Silex Dev Kit
+date: 
+type: post
+parent_id: '0'
+published: false
+password: ''
+status: draft
+categories:
+- Tutorials Silex
+tags: []
+meta:
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '1'
+  _itemCurrentVersion: ''
+author:
+  login: yannick
+  email: yannick.dominguez@gmail.com
+  display_name: yannick
+  first_name: ''
+  last_name: ''
+permalink: "/"
+---
+<p>For this tutorial, you need the Silex Dev Kit available here and FLASH CS4 or CS5</p>
+<p>When you are done developing your plugin, using either SVN or the SWC of the Silex dev kit, it is good practice to package it in a way that will allow other developers or designers to easily use it and/or re-compile it. It is most useful when you develop a skinnable component, the aim is to provide designer with a FLA file that will be easy to edit and publish.</p>
+<h3>1/ SWCs list</h3>
+<ul>Here are the SWC contained in the silex dev kit :</p>
+<li>SilexFlashFramework : the main silex framework, contains all the core AS2 classes. For instance if your component extends UIBase, you will need this SWC in your FLA.</li>
+<li>SilexComponentsClasses : contains the AS2 base classes to create buttons in Silex, it is for instance used by the simple buttons and the label buttons.</li>
+<li>SilexFlashLoadersClasses : contains the classes used by the Silex loaders. If you want to create a custom loader, you will need those classes.</li>
+<li>SilexFlashLayoutAuthoringClasses : contains the classes used in for the layouts components.</li>
+<li>SilexBaseComponentsClasses : contains the classes for the base components (image, video, audio, asFrame, text), you will need them if your component extends one of those.</li>
+</ul>
+<p>Some SWC relies on others, for instance if you extend one of the base components, you will need to import SilexBaseComponentsClasses.swc in your FLA library but also SilexFlashFramework.swc as the base components relies on it.</p>
+<h3>2/ Installing the Silex SWCs</h3>
+<p>The Silex dev kit contains a number of SWC and MXP files. Each of the SWC needs to be installed to become available in your FLASH IDE component panel which wil then allow you to put them in the library of any FLA file.</p>
+<p>You can do it by hand by copying the SWC in the components folder of your FLASH install (you can find resource online for details, the component folder varying with FLash version), but it is simpler to double-click on the correponding MXP file (the one with the same name as the SWC) that will open the Adobe Extension Manager and automatically install the component (works for FLASH CS4 and CS5). You can now start or re-start FLASH and see the component in the component panel.</p>
+<h3>3/ Using the Silex SWCs</h3>
+<p>Once you installed the Silex SWCs in FLASH, you just needs to drop them from the component panel to the library to embed the SWC in your FLA. If you forgot one of the SWC containing classes used by your plugin, Flash will throw a compilation error.</p>
+<h3>4/ packaging your own SWC</h3>
+<p>To be usable by designers, your plugin needs to be self-reliant. The ultimate step in this direction is to package your own classes as a SWC included in your FLA. To create a SWC, in the library right-click on the clip linked to the main class of your plugin and select "export as a SWC". The created SWC can then be installed in Flash and imported in your FLA's library from the component panel.</p>
+<p>IMPORTANT : to reduce the size of the created SWC, you must put an exclude file in the same folder as your FLA that will have the same name + "_exclude.xml". For instance, if the name of your FLA is "myComponent.FLA", you must have in the same folder a "myComponent_exclude.xml" file. You can find the content for th exclude file here : https://silex.svn.sourceforge.net/svnroot/silex/trunk/framework/silex_exclude.xml</p>
+<p>The aim of the exclude file is to prevent Flash from compiling all of the Silex framework classes within your SWC. Those classes are not needed are they are already included in the silex server and loaded at startup. You can save up to 60ko this way.</p>
