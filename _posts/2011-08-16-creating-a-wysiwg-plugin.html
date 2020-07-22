@@ -1,0 +1,122 @@
+---
+layout: post
+title: Creating a Wysiwyg plugin
+date: 2011-08-16 15:17:06.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Tutorials Silex
+tags: []
+meta:
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '16'
+  _itemCurrentVersion: ''
+  wpautop: "- Select -"
+  skin: "- Select -"
+  layout_footer: "- Select -"
+  layout_header: "- Select -"
+  layout: "- Select -"
+author:
+  login: yannick
+  email: yannick.dominguez@gmail.com
+  display_name: yannick
+  first_name: ''
+  last_name: ''
+permalink: "/creating-a-wysiwg-plugin/"
+---
+<p>In this section, we will create a silex plugin that will display a "hello silex !" text in the properties panel of the wysiwyg.</p>
+<p>The plugin will be based on an index.php file initialising the plugin, on a Flex application that will be displayed in the Wysiwyg, and on a button, visible in the properties toolbox header and displaying our plugin.</p>
+<p>This document implies a knowledge of object-oriented PHP5, ActionScript3/Flex and Javascript. It also implies that you know how to create a Silex plugin and how to use the Silex Toolbar system (i.e. ViewMenu).<!--more--></p>
+<h2>I/ Creating the plugin Index</h2>
+<p>Creating a Silex plugin is out of the scope of this document. You can find all the necessary information <a href="http://community.silexlabs.org/silex/codex/?page_id=10">here</a>.</p>
+<p>As we will create a new Silex plugin, it needs to have it's own folder in the "plugins" directory. In the "plugins" folder of your silex server, create a new folder called "helloWysiwygPlugin" and create the index.php class. You should have the following structure: silex_trunksilex_serverpluginshelloWysiwygPlugin</p>
+<h2>II/ Creating the Flex application</h2>
+<p>We will now create a simple Flex application, and display the resulting SWF in the Wysiwyg properties toolbox. You can also use pure AS3 SWF, but Flex framework is often more convenient to build interfaces as you can use all the skinned controls of the wysiwyg.</p>
+<p>In Flex or FlashDevelop, create a new project and set the build path to the "helloWysiwygPlugin" folder of your Silex Server, using "helloWysiwygPlugin.swf" as the name of the output file. The project will only be constituted of a main Application class as you can see in the following code:</p>
+<p style="text-align: left;">&lt;?xml version="1.0" encoding="utf-8"?&gt;<br />
+&lt;mx:Application xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:mx="library://ns.adobe.com/flex/mx" layout="absolute" width="100%" height="100%"&gt;<br />
+&lt;mx:Text text="Hello Wysiwyg plugin !" /&gt;<br />
+&lt;/mx:Application&gt;</p>
+<p>Once loaded in the Wysiwyg, the application will display a text "Hello Wysiwyg plugin !".</p>
+<h2>III/ Adding the plugin's opening button to the properties toolbox toolbar</h2>
+<p>The next step is to add a button in the properties toolbox header that will, when clicked, display the "helloWysiwygPlugin" plugin in the properties toolbox body.</p>
+<p>At first we need to create the button as a separate SWF file and then add this button to the toolbar using the SilexAdminAPI in JavaScript.</p>
+<h3>a/ Creating the button</h3>
+<p>The button will be an independant Flash project with it's own logic. It will be include a FLA file (button design) and an ActionScript3 class. We will use Flash IDE as it is the simplest way to create graphical assets but you can also create the button with code only (by using FlashDevelop for instance).</p>
+<h3>b/ Creating the graphical asset</h3>
+<ul>
+<li>Create a new folder such as silex_trunkprojectstoolshelloWysiwygPlugin</li>
+<li>Open Flash IDE and create a new ActionScript3 project in it.</li>
+<li>Set the size of the Stage to 20x20</li>
+<li>Create a new Button in the library and design it. This asset will be the one displayed in the properties toolbox header.</li>
+<li>Put one instance of the item on the stage and name its intance "button".</li>
+<li>Set the document class to "HelloWysiwygPluginButton", this is the name of the class that will control the button logic. This class has to be created and saved in the same folder.</li>
+<li>Set the publication path of the FLA to the "helloWysiwygPlugin" folder of your Silex Server (silex_trunksilex_serverpluginshelloWysiwygPlugin) and set the output file to "helloWysiwygPluginButton.swf".</li>
+<li>In the FLA, add the following source folder : silex_trunkprojectstoolswysiwigToolBoxAPIsrc. We will use these packages to communicate with the wysiwyg.</li>
+<li>Save the FLA</li>
+</ul>
+<h3>c/ Creating the button class</h3>
+<p>Create an ActionScript class file and call it "HelloWysiwygPluginButton.as". Save it in the folder where you saved your FLA.</p>
+<p>You can use the following code for your class :</p>
+<p><code>package  {<br />
+import flash.display.Sprite;<br />
+import flash.events.MouseEvent;<br />
+import flash.display.SimpleButton;<br />
+import org.silex.wysiwyg.toolboxApi.ToolBoxAPIController;</code></p>
+<p>public class HelloWysiwygPluginButton extends Sprite {</p>
+<p>/**<br />
+* This is a reference to the button that you put on the stage of your FLA<br />
+*/<br />
+public var button:SimpleButton;</p>
+<p>/**<br />
+* This is the url of the Flex Application that we want to load in the wysiwyg<br />
+* It is the relative path starting from the server root<br />
+*/<br />
+private static const pluginUrl:String = "plugins/helloWysiwygPlugin/helloWysiwygPlugin.swf";</p>
+<p>/**<br />
+* We add a listener to the click of the button<br />
+*/<br />
+public function HelloWysiwygPluginButton()<br />
+{<br />
+button.addEventListener(MouseEvent.MOUSE_DOWN, mouseDownHandler);<br />
+}</p>
+<p>/**<br />
+* When the user clicks the button, we get an instance of the ToolBoxApiController and ask it<br />
+* to load our Flex application in the properties toolbox<br />
+*/<br />
+private function mouseDownHandler(event:MouseEvent):void<br />
+{<br />
+ToolBoxAPIController.getInstance().loadEditor(pluginUrl, "Hello Wysiwyg plugin description");<br />
+}<br />
+}</p>
+<p>}</p>
+<p>Publish the FLA to SWF.</p>
+<h3>d/ the ToolBoxAPI</h3>
+<p>In HelloWysiwygPluginButton class, we use the ToolBoxAPI project to communicate with the Wysiwyg. This project is an API exposing method controlling some of the key behaviour of the Wysiwyg. It is mainly used by plugins to load their editor in the Wysiwyg properties ToolBox. To do se, they use the ToolBoxAPIController class. It is a singleton that exposes methods to load editors and get info on the loaded editor. It exposes the following method :</p>
+<p><code>loadEditor(editorUrl:String, description:String):void</code></p>
+<p>This method loads the requested editorUrl, and also  displays the description of the editor in the Wysiwyg. This method dispatches a ToolBoxAPIEvent.LOAD_EDITOR event that can be used to keep track of the loaded editor. For instance, you can use it to toggle the plugin's editor button and disable it when the corresponding editor is loaded.</p>
+<p><code>setAsDefault(editorUrl:String, description:String)</code></p>
+<p>This method sets the requested editor as the default editor but does not load it. The corresponding editor will be only loaded when the wysiwyg closes and re-opens the properties panel. Any plugin can become the default plugin. Tthe Specific Plugin is the default.</p>
+<p><code>getDefaultEditor():Object</code></p>
+<p>Returns an object containing the defaultEditor Url and description.</p>
+<h3>e/ adding the button to the properties toolbox toolbar</h3>
+<p>Once the SWF button is generated, the javaScript SilexAdminAPI has to be used to add it to the Wysiwyg properties toolbox toolbar. You can find a more detailed information on how to use and create toolbars here. (LINK TO TOOLBAR PAGE)</p>
+<p>In the Index.php class of your plugin, add a callback to the "admin-body-end" PHP hook. Add the following script in the callback :</p>
+<p>silexNS.SilexAdminApi.callApiFunction("toolBarItems", "addItem",<br />
+[{name:"HelloWysiwygPluginButton",<br />
+hasBackground:false,<br />
+uid:"silex.Properties.ToolItem.HelloWysiwygPluginButton",<br />
+groupUid:"silex.Properties.ToolItemGroup.Display",<br />
+level:0, toolUid:"silex.Properties.Tool",<br />
+label:"the HelloWysiwygPlugin label",<br />
+description:" the HelloWysiwygPlugin description",<br />
+url:$rootUrl+"plugins/helloWysiwygPlugin/helloWysiwygPluginButton.swf"}]);</p>
+<p style="text-align: left;">This script calls the "addItem" method on SilexAdminAPI's "toolbarItems" which adds the SWF to the properties toolbar. This method's parameters are used to define to which toolbar and group our new item has to be added, but aso the item's informations (name, description, level in the group...) and finally the SWF button's url.</p>
+<h3>f/ testing</h3>
+<p>You first need to activate the plugin in the manager.</p>
+<p>Then launch your website and login to see the Viewmenu.</p>
+<p>When the wysiwyg properties toolbox is opened, you can now see that the new button appears, and that when clicked, it loads the Flex application displaying the "Hello Wysiwyg plugin !" text.</p>

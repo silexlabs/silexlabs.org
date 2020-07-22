@@ -1,0 +1,111 @@
+---
+layout: post
+title: Creating a component plugin
+date: 2011-08-16 15:14:58.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Tutorials Silex
+tags: []
+meta:
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '16'
+  _itemCurrentVersion: ''
+author:
+  login: yannick
+  email: yannick.dominguez@gmail.com
+  display_name: yannick
+  first_name: ''
+  last_name: ''
+permalink: "/creating-a-component-plugin/"
+---
+<p>This article assumes that you know how to create a plugin in Silex, you can find all the infos here: <a href="https://www.silexlabs.org/silex/docs-silex/codex-silex/silex-plugins-creation/">https://www.silexlabs.org/silex/docs-silex/codex-silex/silex-plugins-creation/</a>.</p>
+<p>A component plugin is a plugin adding components that the admin user can add to the publication and edit in the wysiwyg. For instance the BaseComponents, oofComponents and silexComponents of the base distribution are all component plugins, as their goal is to add an array of components available in the wysiwyg. For instance if you create a gallery for Silex, developed in AS2, you will need to create a plugin component to easily make it available for the user in the wysiwyg.<!--more--></p>
+<h2>The PluginLibraryComponentBase PHP class</h2>
+<p>Like any plugin, the component plugins must extends the plugin_base class to be activated by Silex. However the Silex distribution include tht PluginLibraryComponentBase, a class extending plugin_base, automating the process of creating a component plugin. You can for instance look into the index.php file of the baseComponents plugin. The BaseComponents class extends the PluginComponentLibraryBase and does'nt need to do anything else to work as a component library. It works by having PluginComponentLibraryBase look for all the required infos to add a component in the XML descriptors of each component. We won't detail how the class works, you can find it  in your server in cgi/includes/PluginComponentLibraryBase.</p>
+<h2>Looking at the Image descriptor</h2>
+<p>We will use an exemple to illustrate how to add a component to the wysiwyg. You can find the Image XML descriptor in you silex server in the plugins/baseComponents/descriptors/Image.xml</p>
+<h2>The metaData tag</h2>
+<p>All the added info required by the PluginComponentLibraryBase are contained in the metaData tag. We will look at each node we find in it.</p>
+<div id="_mcePaste"><code><code>&lt;metaData&gt;</code></code></div>
+<div id="_mcePaste"><code>&lt;pluginRelativeUrl&gt;plugins/baseComponents/&lt;/pluginRelativeUrl&gt;</code></div>
+<div id="_mcePaste"><code>&lt;addComponentParams&gt;</code></div>
+<div id="_mcePaste">&lt;name&gt;NewImage&lt;/name&gt;</div>
+<div id="_mcePaste">&lt;uid&gt;silex.AddComponent.ToolItem.AddImage&lt;/uid&gt;</div>
+<div id="_mcePaste">&lt;groupUid&gt;silex.AddComponent.ToolItemGroup.Images&lt;/groupUid&gt;</div>
+<div id="_mcePaste">&lt;toolUid&gt;silex.AddComponent.Tool&lt;/toolUid&gt;</div>
+<div id="_mcePaste">&lt;label&gt;LABEL_IMAGE&lt;/label&gt;</div>
+<div id="_mcePaste">&lt;description&gt;DESCRIPTION_IMAGE&lt;/description&gt;</div>
+<div id="_mcePaste">&lt;level&gt;0&lt;/level&gt;</div>
+<div id="_mcePaste">&lt;action&gt;addMediaComponent&lt;/action&gt;</div>
+<div id="_mcePaste">&lt;initPropertyName&gt;url&lt;/initPropertyName&gt;</div>
+<div id="_mcePaste">&lt;iconUrl&gt;icons/images.swf&lt;/iconUrl&gt;</div>
+<div id="_mcePaste">&lt;/addComponentParams&gt;</div>
+<div id="_mcePaste">&lt;/metaData&gt;</div>
+<h3>PluginRelativeUrl</h3>
+<p>Indicates the url of the plugin relative to the silex server. It is used for instance to locate the url of the icon located in the plugin to display in the component panel next to the component's name. This info can be retrieved in As3 using the SilexAdminAPI</p>
+<h3>addComponentParams</h3>
+<p>This tag contains all the info to add an item in the wysiwyg "addComponents" panel. It use the toolbar system of the Silex, if you're not familiar with it, you can fid the infos here : (TO DO).  The name tag is the name of the component that will appear in the component's panel once added.</p>
+<p>The uid is an unique identifier for the item in the "addComponent" panel.</p>
+<p>The groupUid is used to place your component' item in the right group in the "addComponent" panel. For instance we see here that the item is added in the "silex.AddComponent.ToolItemGroup.Images" group. If you want to add it to another group, you can either create your own group or use another existing one. You can find the uid of existing group either by looking into the descriptors of components belonging to the group you look or by looking into the index.php of the wysiwyg, which add most of the basic groups.</p>
+<p>The toolUid is used to place the item in the right toolbar. For now only the "AddComponent" toolbar can be used as other toolbar such as the view menu are not compatible with the add component system but eventually other compatible toolbars might be created.</p>
+<p>The label and description are displayed in the AddComponent panel next to the button and as tooltips.</p>
+<p>The level is the place you want your item to appear in the group. If you level is 0, the plugin will appear at the beginning or near the begining, if it 10 or more it will most likely appear at the end. This system is necessary as we can't now at first how many items will appear in a group, so the item can't just choose a place but instead request a place.</p>
+<p>The action tag determine what will happen when the user clicks on the button, there are three possible values:</p>
+<ul>
+<li>addComponent : When the user clicks on the button, the component is instantly added to the selected subLayer.</li>
+<li>addMediaComponent : When the user clicks on the button, the library is opened as the user needs to choose a media. When the user import is media, the component is added to the publication</li>
+<li>addSkinnableComponent : When the user clicks on the button, a panel opens asking the user to choose a skin for the component. When the user chooses a skin, the component is added to the publication. It is used for component that can be skinned such as buttons or lists. For more info, read the "skinned component" paragraph below.</li>
+</ul>
+<p>For the initPropertyName, read the "media component" paragraph below.</p>
+<p>iconUrl is the url of the icon displayed in the AddComponent panel and in the components panel.</p>
+<h2>Descriptors location</h2>
+<p>For the PluginLibraryComponentBase to find the descriptors, they must be located in your plugin, in a folder called "descriptors", like in the baseComponents or oofComponents plugins.</p>
+<h2>The three components type</h2>
+<p>There are three  types of component, each one corresponding to an action. The media and skinned component type add extra tags to the metaData of the component.</p>
+<h3>Component</h3>
+<p>The simpler type of component, used for component that does'nt need extra ste to add.For instance non-visual components like an XMLConnector, don't need extra step as they are neither media nor skinned.</p>
+<h3>Media Component</h3>
+<p>Media components are components that rely on a media such as a video, an image, an mp3. For instance in the baseComponents, you can find Image,Video and Audio which all work with different kinds of media. The media components require one extra tag : the &lt;initPropertyName&gt; tag. It is the name of the property that needs to be initiliased with the component that is the media url. For instance, in the Image XML descriptor, we can see that the initPropertyName is "url". Here is the "url" property, found below in the descriptor :</p>
+<p><code> &lt;url&gt;<br />
+&lt;type&gt;String&lt;/type&gt;<br />
+&lt;subType&gt;Url&lt;/subType&gt;<br />
+&lt;description&gt;PROPERTIES_LABEL_URL&lt;/description&gt;<br />
+&lt;defaultValue&gt;defaultUrl&lt;/defaultValue&gt;<br />
+&lt;isRegistered&gt;true&lt;/isRegistered&gt;<br />
+&lt;extensions&gt;jpg,jpeg,gif,png,swf&lt;/extensions&gt;<br />
+&lt;group&gt;attributes&lt;/group&gt;<br />
+&lt;/url&gt;</code></p>
+<p>When the user clicks on the component button in the addComponent toolbox, this property will be used to open the library and set it's authorised extensions with the value of &lt;extensions&gt; tag. When the user selects a media in the opened library, an instance of the component is created and it's &lt;initPropertyName&gt; property is initialised with the url of the media chosen by the user. The subType "Url" will also insure that when the user wants to swap the media of the component, the library opens with the right authorised extensions.</p>
+<h3>Skinned Component</h3>
+<p>Skinned component are components that can have multiple different design. For instance a button or a list is a skinnable component, a designer can create a new appearance for the plugin without altering it's behaviour. You can add any number of skin to a component, by adding a &lt;skins&gt; tag in the metaData of the drescriptor. Let's look at the RichTextList descriptor found in plugins/oofComponents/descriptors/RichTextList.xml.</p>
+<p>In it we can see the following tag :<br />
+<code><br />
+&lt;skins&gt;<br />
+&lt;skin&gt;<br />
+&lt;label&gt;RichTextList skin 1&lt;/label&gt;<br />
+&lt;url&gt;as2/RichTextList/RichTextList1.swf&lt;/url&gt;<br />
+&lt;description&gt;skin1 description&lt;/description&gt;<br />
+&lt;/skin&gt;<br />
+&lt;/skins&gt;<br />
+</code><br />
+This tag add one skin, define it's label, url and description. You can add as many&lt;skin&gt; tag as you have skins. If a designer create skins that are not included in the plugin, he can add them by first clicking on the component button, then clicking the "+" button next to the skins list that will open the library, allowing the user to browse to it's skinned component.</p>
+<h2>Adding groups</h2>
+<p>If you need to create one or many groups in the addComponent toolbox, specifically for your plugin, you can override the "addToolBar" PHP method of the PluginComponentLibraryBase class. This method returns a string that contain the JavaScript required to add one or many groups. By default it returns nothing. Here is an exemple of how to add a group called TestGroup :<br />
+<code><br />
+protected function addToolBarGroups(){</code></p>
+<p><code>$ret = 'silexNS.SilexAdminApi.callApiFunction('toolBarGroups', 'addItem', [{';<br />
+$ret.= 'name:'TestGroup',';<br />
+$ret.= 'uid:'silex.AddComponent.ToolItemGroup.TestGroup',';<br />
+$ret.= 'level:0,';<br />
+$ret.= 'toolUid:'silex.AddComponent.Tool',';<br />
+$ret.= 'label:'This is the TestGroup label',';<br />
+$ret.= 'description:'This is the TestGroup description'}]);';</code></p>
+<p><code>return $ret;<br />
+}<br />
+</code><br />
+You can then add component to the new group by modifing the &lt;groupUid&gt; tag in the component XML descriptor</p>

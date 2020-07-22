@@ -1,0 +1,78 @@
+---
+layout: post
+title: Sencha Touch 2 and amfPHP2
+date: 2012-04-25 09:58:08.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog amfPHP
+- The Blog
+tags: []
+meta:
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '11'
+  _syntaxhighlighter_encoded: '1'
+  _itemCurrentVersion: ''
+  _thumbnail_id: '135923'
+  layout: "- Select -"
+  layout_header: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  wpautop: "- Select -"
+author:
+  login: ariels
+  email: sommeria.ariel@gmail.com
+  display_name: Ariel Sommeria-Klein
+  first_name: Ariel
+  last_name: Sommeria-Klein
+permalink: "/sencha-touch-2-and-amfphp2/"
+---
+<p><em><a href="http://creativeskills.be/user/Coenego/">Mathieu Decoene</a>  <a href="https://twitter.com/Coenego">@Coenego</a> here shares some insights on using <a href="http://www.sencha.com/products/touch/">Sencha Touch 2 </a>with amfPHP 2</em></p>
+<p><em>For those who don’t know Sencha Touch: it’s a javascript framework for mobile (based on Sencha</em><br />
+<em>Ext).</em></p>
+<p>It’s always a bit trial and error when new updates are released; new methods, deprecated stuff... I’m<br />
+talking about Sencha Touch 2 and amfPHP 2 in this case.<br />
+<em><br />
+</em>Since we’re talking about mobile apps, Ajax-requests are basically used to receive or send our<br />
+data (because we want it to run behind the screens). So, amfPHP is a perfect partner for<br />
+communication between Sencha Touch (or any other client framework) and the services.<br />
+But some things have changed since boths v1’s... For example: You don’t have to specify your service and<br />
+method name any longer in the url-property (to which the request is sent) of the Ajax-request. Now<br />
+you have to add both names as a property value together with the other parameters.<br />
+Examples of usage:</p>
+<p>consider this amfPHP service:</p>
+<p>[code]<br />
+&lt;!--?php class MyService{ function myMethod($data){ // do something with property1 } } ?--&gt;</p>
+<p>[/code]</p>
+<p>To call it from Sencha Touch when running it in amfPHP v1, do the following:</p>
+<p>[code]<br />
+var myParams = {<br />
+property1: ‘value1’,<br />
+property2: ‘value2’<br />
+};<br />
+Ext.Ajax.request({<br />
+method: 'POST',<br />
+url: ‘http://www.yoururl.com/amfphp/json.php/MyService.myMethod’,<br />
+params: myParams<br />
+});</p>
+<p>?&gt;</p>
+<p>[/code]</p>
+<p>To call it from Sencha Touch when running it in amfPHP v2, do the following:</p>
+<p>[code]</p>
+<p>var myParams = {<br />
+serviceName: 'MyService',<br />
+methodName: 'myMethod',<br />
+parameters: [<br />
+{'dataroot': [‘value1’,’value2’]}<br />
+]<br />
+};</p>
+<p>Ext.Ajax.request({<br />
+method: 'POST',<br />
+url: ‘http://www.yoururl.com/amfphp/?contentType=application/json’,<br />
+params: JSON.stringify(myParams);<br />
+});</p>
+<p>[/code]</p>

@@ -1,0 +1,80 @@
+---
+layout: post
+title: Ultralign
+date: 2011-04-20 10:29:23.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Plugins
+tags: []
+meta:
+  color: red
+  _epDependencies: a:0:{}
+  _itemCurrentVersion: beta1.3
+  _wp_old_slug: ''
+  _selectedProject: Silex
+  _selectedVersionsArray: v1.6.1
+  _itemCurrentFileName: Ultralign.zip
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '20'
+author:
+  login: yannick
+  email: yannick.dominguez@gmail.com
+  display_name: yannick
+  first_name: ''
+  last_name: ''
+permalink: "/ultralign/"
+---
+<p><a href="https://www.silexlabs.org/?attachment_id=24222" rel="attachment wp-att-24222"><img class="aligncenter size-full wp-image-24222" title="plugin" src="{{ site.baseurl }}/assets/plugin1.png" alt="" width="180" height="85" /></a></p>
+<p>This component align components to the stage borders, scene borders or to the component position.</p>
+<h2>Installation</h2>
+<p>To use this component, you must first install it on your silex server and then activate it for your publication or for the entire server.</p>
+<h2>Properties</h2>
+<ul>
+<li>
+<h3>Anchor Point</h3>
+<p>The point to align the components to. Might be one of the scene or stage corners or the ultralign component himself.</li>
+<li>
+<h3>Aligned Components</h3>
+<p>Lists all the names of the components which must be aligned by the ultralign components. It can be others ultralign components.</li>
+<li>
+<h3>Xoffsets</h3>
+<p>Lists all the x offsets of the aligned components, for instance the first Xoffset in the lists is the Xoffset of the first component in the Aligned Components lists.</li>
+<li>
+<h3>Yoffsets</h3>
+<p>Same for Yoffsets.</li>
+<li>
+<h3>Positioning</h3>
+<p>Determine how to align the aligned components, <strong>absolut</strong> moves all the components to the anchor point, <strong>vertical</strong> arrange the aligned components in a column where the first component in the Aligned Components list is at the top of the column, <strong>horizontal</strong> arrange them in a row, where the first component in the Aligned Components list is at the left of the row.</li>
+</ul>
+<p><!--more--></p>
+<h2>Illustration</h2>
+<p>For the illustration, we have a green rectangle and a yellow ellipse. We are going to align them with the Ultralign component.</p>
+<p><img class="size-full wp-image-141081 alignnone" title="2_components_to_align" src="{{ site.baseurl }}/assets/2_components_to_align.png" alt="" width="570" height="291" /></p>
+<p>Let's see the different positioning (in the following examples, the anchor point is "self") :</p>
+<p><strong>Absolut :</strong></p>
+<p><img class="aligncenter size-full wp-image-141084" title="absolut_positioning" src="{{ site.baseurl }}/assets/absolut_positioning.png" alt="" width="700" height="357" /></p>
+<p><strong>Horizontal :</strong></p>
+<p><img class="aligncenter size-full wp-image-141088" title="horizontal-positioning" src="{{ site.baseurl }}/assets/horizontal-positioning.png" alt="" width="700" height="365" /></p>
+<p><strong>Vertical :</strong></p>
+<p><img class="aligncenter size-full wp-image-141090" title="vertical_positioning" src="{{ site.baseurl }}/assets/vertical_positioning.png" alt="" width="700" height="357" /></p>
+<p>Let's see the different anchor point (in the following examples, positioning = absolut)</p>
+<p><strong>SceneTopLeft :</strong></p>
+<p><img class="aligncenter size-full wp-image-141093" title="scene_top_left" src="{{ site.baseurl }}/assets/scene_top_left.png" alt="" width="700" height="613" /></p>
+<p><strong>SceneTopRight :</strong></p>
+<p><img class="aligncenter size-full wp-image-141094" title="scene_top_right" src="{{ site.baseurl }}/assets/scene_top_right.png" alt="" width="700" height="611" /><strong>SceneBottomLeft :</strong></p>
+<p><img class="aligncenter size-full wp-image-141096" title="scene_bottom_left" src="{{ site.baseurl }}/assets/scene_bottom_left.png" alt="" width="700" height="613" /></p>
+<p><strong>SceneBottomRight :</strong></p>
+<p><img class="aligncenter size-full wp-image-141097" title="scene_bottom_right" src="{{ site.baseurl }}/assets/scene_bottom_right.png" alt="" width="700" height="610" /></p>
+<p><em><strong>Note :</strong></em> it's exactly the same principle for stage anchor point.</p>
+<h2>Notes</h2>
+<ul>
+<li>You can change the  x and y position of the ultralign component only if the anchor point is on "self"</li>
+</ul>
+<ul>
+<li>You can align several ultralign components only if the ultralign components aligned to another one have their anchor point on "self"</li>
+</ul>

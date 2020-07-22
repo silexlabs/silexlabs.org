@@ -1,0 +1,65 @@
+---
+layout: post
+title: Fonctionnalités avancées de Node.js
+date: 2017-01-09 17:44:27.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog Silex Labs
+- Compte rendu Vidéo
+- The Blog
+tags:
+- backend
+- compte rendu
+- dev
+- javaScript
+- jean baptiste richardet
+- node.js
+- nodejs
+- silex labs
+- video
+- webdev
+meta:
+  _edit_last: '2424'
+  _oembed_b1faf68157cb08e4dd7121d159d366ac: "{{unknown}}"
+  _oembed_28bfa16b45cfef188c9a08bdd752789a: "{{unknown}}"
+  _oembed_e23a09430b50992bd07d39e703b7db32: <iframe width="607" height="341" src="https://www.youtube.com/embed/vbTJNZegLJQ?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+  _oembed_time_e23a09430b50992bd07d39e703b7db32: '1483980528'
+  layout: post-layout
+  layout_header: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  wpautop: "- Select -"
+  _yoast_wpseo_primary_category: '5318'
+  media_url: https://youtu.be/vbTJNZegLJQ
+  media_title: 'Atelier Node.js avancé avec Jean-Baptiste Richardet '
+  _thumbnail_id: '206873'
+author:
+  login: jbips
+  email: jb@silexlabs.org
+  display_name: Jean-Baptiste Richardet
+  first_name: Jean-Baptiste
+  last_name: Richardet
+permalink: "/fonctionnalites-avancees-de-node-js/"
+---
+<p><em>Cet atelier nécessite une compréhension basique de la syntaxe Javascript et des débuts en Node.js faciliteront la compréhension.</em></p>
+<p><a href="https://youtu.be/raFkAYZiNxA">Vous pouvez voir l'atelier débutant ici pour voir quelques basiques </a></p>
+<p>Durant cet atelier, nous nous sommes attaqués au problème de transfert de gros fichier sur un réseau sans surcharger la mémoire des machines. Nous avons donc constitué un réseau d'une dizaine de machines, toutes équipées de Node.js v4 et nous avons pris comme fichier de départ un extrait de log serveurs de 13 Go.</p>
+<p><!--more--></p>
+<p>Tout le processus repose sur la gestion de <em>streams</em>, ces objets Node.js que l'on peut voir comme des tuyaux avec une entrée, une sortie et un flux de donnée à l'intérieur. Ici, le fichier de log est inséré depuis une machine qui crée un <em>stream </em>vers la machine suivante. Seul un bout des données est envoyé et la suite ne vient que quand le destinataire a fini de traiter le premier bout (aussi appelé <em>chunk</em>). Ainsi, les 13 Go de logs ne viendront pas remplir la mémoire d'un coup mais le fichier sera bien lu dans son entièreté.</p>
+<p>Pour vous aider, vous pouvez commencer avec le code présent ici :</p>
+<p><a href="https://github.com/JbIPS/atelier-node-1/">https://github.com/JbIPS/atelier-node-1/</a>.</p>
+<p>Si vous bloquez vraiment, retrouvez le code fini et enrichi ici :</p>
+<p><a href="https://github.com/JbIPS/atelier-node-1/tree/finish">https://github.com/JbIPS/atelier-node-1/tree/finish</a></p>
+<p>&nbsp;</p>
+<p>Bon visionnage et n'hésitez pas à poser des questions et laisser des commentaires sur YouTube ou GitHub !</p>
+<p>&nbsp;</p>
+<p>[embed]https://youtu.be/vbTJNZegLJQ[/embed]</p>
+<p>&nbsp;</p>
+<h3><b>Le tour du Web en 50 ateliers</b></h3>
+<p>Cet atelier entre dans le cadre du projet<a href="https://www.silexlabs.org/le-tour-du-web-en-50-ateliers-2/"> “Le tour du Web en 50 ateliers”</a> qui propose des ateliers d’initiation aux métiers du numérique par la pratique pour permettre aux personnes défavorisées face à l’accès au numérique, de comprendre ce secteur et de s’initier à ses métiers.</p>
+<p><img class="alignnone size-full wp-image-206646" src="{{ site.baseurl }}/assets/tour-du-web-carre-avr-2016-fdblc_simplon.png" alt="tour-du-web-carre-avr-2016-fdblc_simplon" width="640" height="640" /></p>

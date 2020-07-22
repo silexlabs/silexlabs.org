@@ -1,0 +1,72 @@
+---
+layout: post
+title: Search plugin for Silex
+date: 2010-07-05 19:33:16.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Plugins
+tags:
+- engine
+- index
+- indexation
+- plugin
+- search
+meta:
+  AuthorName: Thomas Fétiveau (Żabojad)
+  Description: This plugin allows you to index the contents of a given site though
+    the new Silex manager. It then makes possible performing search queries in the
+    indexed site's contents.
+  Version: '1.1'
+  SilexVersion: "> 1.6.x"
+  FlashPlayerVersion: n/a
+  AuthorEmail: thomas.fetiveau.tech@gmail.com
+  ZipUrl: http://wp-manager.silexlabs.org/?attachment_id=739
+  color: orange
+  _epLastError: ''
+  _epLastMessage: ''
+  _itemCurrentVersion: v1.4
+  _epDependencies: a:1:{i:0;s:6:"132908";}
+  _itemCurrentFileName: search_plugin.zip
+  _selectedProject: Silex
+  _selectedVersionsArray: v1.6.0,v1.6.1,v1.6.2
+  _edit_last: '15'
+author:
+  login: lexa
+  email: lexoyo@yahoo.com
+  display_name: lexa
+  first_name: lexa
+  last_name: ''
+permalink: "/search-plugin-for-silex/"
+---
+<p><img class="size-full wp-image-741 alignnone" src="{{ site.baseurl }}/assets/plugin.png" alt="search plugin" width="180" height="85" /></p>
+<h3>Description</h3>
+<p>This plugin allows you to index the contents of a given site through the new Silex manager. It then makes possible performing search queries in the indexed site's contents.</p>
+<h3>Example provided !!!</h3>
+<p>This plugin is provided with an example publication named "test_search" so you can easily try this functionality.</p>
+<h3>Prerequisite</h3>
+<p>The search plugin uses the Silex Seo plugin. This required plugin is included within the search plugin.</p>
+<h3>Installation instructions</h3>
+<p>To install this plugin on a silex server, use the manager's plugin installer (exchange platform), or copy the plugin folder in the silex_server/plugins folder.</p>
+<h3>Use</h3>
+<p>To index a site, open the silex manager and go to manage&gt;[your_site]&gt;plugins. Activate the search plugin for your site and then select it in the installed plugins list. The administration page of the plugin will show up and should propose to click on a "index" button. Once the site indexed, a message confirming that the site has been indexed should be printed.</p>
+<p>Once a site is indexed, this plugin also allows you to perform search queries in the site's contents.</p>
+<p>To do so, go in the Wysiwyg, select a sublayer and click "Add Component", go Buttons section, then choose "Add Search Component".</p>
+<p>The needed elements will be automatically added and configured. You just have to move and resize the components as you wish.</p>
+<p>note: there is no use to activate this plugin at the Silex server level. You may use it only at Silex site level.</p>
+<h3>Technical information</h3>
+<p>The script you have to call for such queries is the feed.php script inside the plugin directory (its use doesn't require that you activate the search plugin for a given site). The results of the queries are return in the rss format. To read the instructions for using this feed.php script, simply open a web browser and give it the script's address without passing any GET parameters (for example : http://[my_silex_server_address]/plugins/search/feed.php). The feed.php help page should then show up.</p>
+<p>It is made up of :</p>
+<ul>
+<li>index.php : contains the management class of the plugin</li>
+<li>create_website_index.php : the script performing the indexation of a given site</li>
+<li>feed.php : the script that allows to consult indexed contents</li>
+<li>silex_search.php : class used by the indexation</li>
+<li>The Zend libraries used by the indexation.</li>
+</ul>
+<h3>Sources</h3>
+<p>search plugin for Silex</p>
+<p><a href="https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/search/src/">https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/search/src/</a></p>

@@ -3,6 +3,7 @@ title: >-
   Développez une application web qui n’explose pas – Programmation d’un démineur
   en Elm
 layout: post
+date: 2019-05-22
 
 ---
 ![2019-07-05-131129.png](https://lexoyo.me/silexlabs.org//assets/2019-07-05-131129.png)

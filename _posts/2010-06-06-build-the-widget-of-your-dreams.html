@@ -1,0 +1,68 @@
+---
+layout: post
+title: Build the widget of your dreams. Silex ♥ Yahoo!
+date: 2010-06-06 17:21:13.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog Silex
+- The Blog
+tags: []
+meta:
+  color: orange
+  disable_wpautop: '0'
+  disable_wptexturize: '0'
+  disable_convert_chars: '0'
+  disable_convert_smilies: '0'
+author:
+  login: admin
+  email: contact@silexlabs.org
+  display_name: Silex Labs
+  first_name: Silex Labs
+  last_name: ''
+permalink: "/build-the-widget-of-your-dreams/"
+---
+<p>How to make a <a href="http://widgets.yahoo.com/" target="_blank">Yahoo! widget</a> out of a Silex publication ? It is quite simple since Silex has a widget mechanism. It was made to allow you to put a publication on a <a href="http://www.myspace.com/lexayo" target="_blank">myspace</a> page, to create an application out of a publication with Zinc...</p>
+<p>Let's use this functionality of Silex and the <span style="font-size: 13.3333px;">Yahoo! widgets system, </span><span style="font-size: 13.3333px;">in order to <strong>make a desktop application</strong> with installation, update and configuration.</span></p>
+<p><!--start_raw--><iframe scrolling="no" frameborder="0" src="http://badge.ydp.clientapps.yahoo.com/badge/widgets/badge?aid=w8334&tc=575757&bc=ffffff&cn=silex-labs-news" style="width:180px;height:190px;padding:0;border:0;" allowtransparency="true"></iframe><!--end_raw--></p>
+<p><span style="font-size: 13.3333px;">Here is <a href="https://www.silexlabs.org/wp-content/uploads/2010/06/silex-yahoo-widget.widget">my sample widget</a>. And <a href="https://www.silexlabs.org/wp-content/uploads/2010/06/silex-yahoo-widget.zip">here are the sources</a>.</span></p>
+<p><span style="font-size: 13.3333px;"> </span></p>
+<p>[caption id="attachment_1727" align="alignnone" width="343" caption="widget test for Silex: it gives you some news about Silex on your desktop"]<a href="https://www.silexlabs.org/wp-content/uploads/2010/06/silex-yahoo-widget.png"><img class="size-full wp-image-1727  " title="silex-yahoo-widget" src="{{ site.baseurl }}/assets/silex-yahoo-widget.png" alt="widget test for Silex" width="343" height="439" /></a>[/caption]</p>
+<p><!--more--></p>
+<p><span style="font-size: 13.3333px;">Yahoo! Widgets is a free application platform for Mac OS X and Microsoft Windows. </span></p>
+<ul>
+<li><span style="font-size: 13.3333px;">http://en.wikipedia.org/wiki/Yahoo!_Widgets</span></li>
+<li><span style="font-size: 13.3333px;">http://widgets.yahoo.com/</span></li>
+</ul>
+<p>Here is how to make a Yahoo! widget with Silex:</p>
+<ul>
+<li><span style="font-size: 13.3333px;"> <span style="font-size: 11.1111px;">in a silex server, create one site with the parameter "layer skin" set to "layer_skin_light.swf" and no embed fonts (all text field should have the parameter "include font" unchecked). You can remove the folders fonts, logs, cgi, conf, install, js, loaders, plugins, tools, trash and all files in the root folder except silex.swf</span></span></li>
+<li><span style="font-size: 13.3333px;">in a new folder where you will put all the yahoo plugin, put a "Resources" folder with the "silex_server" folder inside it.</span></li>
+<li><span style="font-size: 13.3333px;">use the file "fla/loader_projector.fla" of the dev kit to generate the loader, which I called "loader_yahoo_widget.swf". This file contains the website configuration, your site name for example. Tip : leave this line uncommented (i do not know why exactly):</span></li>
+</ul>
+<pre style="padding-left: 60px;">rootUrl = "../silex_server/";</pre>
+<ul>
+<li><span style="font-size: 13.3333px;">create a .kon file which is the yahoo widget conf file, see the example I did. You just need to embed the loader_yahoo_widget.swf file. You also can define properties which the user will be able to modify and which will be available in Silex as accessors (in &lt;&lt;silex.config.YOUR PROPERTY FROM YAHOO CONFIG PANNEL&gt;&gt;)</span></li>
+</ul>
+<p>[caption id="attachment_1707" align="alignnone" width="665" caption="silex yahoo widget admin pannel"]<img class="size-full wp-image-1707" title="silex yahoo widget admin pannel" src="{{ site.baseurl }}/assets/silex-yahoo-widget.jpg" alt="silex yahoo widget admin pannel" width="665" height="177" />[/caption]</p>
+<ul>
+<li><span style="font-size: 13.3333px;">install yahoo widget and use the "open widget" menu in order to load your widget.</span></li>
+</ul>
+<p>After you have done a cool widget, do not forget to <a href="http://widgets.yahoo.com/submit/" target="_blank">submit it to yahoo! here</a>.</p>
+<p>Note: the widget background is transparent, which is pretty cool :)</p>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">How to make a Yahoo! widget out of a Silex publication ? It is quite simple since Silex has a widget mechanism. It was made to allow you to put a publication on a myspace page, to create an application out of a publication with Zinc...</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">http://en.wikipedia.org/wiki/File:Konfabulator_screenshot.jpg</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Yahoo! Widgets is a free application platform for Mac OS X and Microsoft Windows.</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">&gt; http://en.wikipedia.org/wiki/Yahoo!_Widgets</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">&gt; http://widgets.yahoo.com/</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- in a silex server, create one site with the parameter "layer skin" set to "layer_skin_light.swf" and no embed fonts (all text field should have the parameter "include font" unchecked). You can remove the folders fonts, logs, cgi, conf, install, js, loaders, plugins, tools, trash and all files in the root folder except silex.swf</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- in a new folder where you will put all the yahoo plugin, put a "Resources" folder with the "silex_server" folder inside it.</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- use the file "fla/loader_projector.fla" of the dev kit to generate the loader, which I called "loader_yahoo_widget.swf". This file contains the website configuration, your site name for example. Tip : leave this line uncommented (i do not know why exactly):</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;"><span style="white-space: pre;"> </span>rootUrl = "../silex_server/";</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- create a .kon file which is the yahoo widget conf file, see the example I did. You just need to embed the loader_yahoo_widget.swf file. You also can define properties which the user will be able to modify and which will be available in Silex as accessors (in &lt;&lt;silex.config.YOUR PROPERTY FROM YAHOO CONFIG PANNEL&gt;&gt;)</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">illustration admin pannel</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- install yahoo widget and use the "open widget" menu in order to load your widget.</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">After you have done a cool widget, let's submit it to yahoo! here http://widgets.yahoo.com/submit/</div>

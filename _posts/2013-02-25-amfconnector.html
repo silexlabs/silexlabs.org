@@ -1,0 +1,78 @@
+---
+layout: post
+title: AMFConnector
+date: 2013-02-25 09:37:43.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Exchange
+- Exchange amfPHP
+tags:
+- AMFConnector
+- amfphp
+- Flex 3
+- Flex 4
+- Multiple Calls
+- NetConnection
+meta:
+  layout: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  _selectedVersionsArray: v2.0.0
+  _selectedProject: AMFPHP
+  _itemCurrentVersion: ''
+  _epLastError: ''
+  wpautop: "- Select -"
+  layout_header: "- Select -"
+  _epLastMessage: ''
+  _edit_last: '10'
+  _thumbnail_id: '131388'
+  _syntaxhighlighter_encoded: '1'
+author:
+  login: deleu
+  email: dp_fjg@yahoo.com.br
+  display_name: Deleu
+  first_name: Deleu
+  last_name: ''
+permalink: "/amfconnector/"
+---
+<p><strong>AMFConnector </strong>is an AS3 library that uses NetConnection Adobe's class to perform connections between ActionScript and amfPHP. It's goal is to avoid facing connection errors through the Flash Debug, simplify the connection, provide a way of knowing when a call is still being processed and allow multiple calls for different Service Browser's class through a single established connection.</p>
+<p><strong>1. Installing AMFConnector</strong></p>
+<p>For simple and fast installation, you can download the .swc file <a title="AMFConnector" href="https://www.silexlabs.org/wp-content/uploads/2013/02/AMFConnector.rar" target="_blank">here</a> and place it at your <em>libs</em> folder inside your Flex project.<br />
+You can also download the <a title="AMFConnector Source Code" href="https://www.silexlabs.org/wp-content/uploads/2013/02/AMFConnector-source.rar" target="_blank">source code</a> and attach it to the library for debug purpose if you like.</p>
+<p><strong>2. Configurating Amfphp class</strong></p>
+<p><em>path: </em>Folder in which the index.php file of amfPHP is located. Configurated as <strong>Amfphp/</strong>by default.<br />
+<em>automaticBusyCursor: </em>Boolean variable that sets the cursor as busy through CursorManager.setBusyCursor(); every time a call is made. <strong>True</strong> by default.<br />
+Example of usage: If your AmfPHP folder is located at the same folder as the index.swf file, you don't need to change the path config. But if you have an libs/Amfphp structure, for instance, all you have to do is the following:</p>
+<p>[code]Amfphp.getInstance().path = &quot;libs/Amfphp/&quot;;[/code]</p>
+<p><em>Don't forget to finish it with a slash (/).</em></p>
+<p>You only have to change the config of the library once each runtime.</p>
+<p>Since this is a compiled library, it doesn't actually need to be configurated at source-code level. But there are two variables that can be changed to work along with your project. The first one is the <em>path</em> variable that reflects on where the Amfphp folder is located relatively to the index.swf. For instance, let's say your project is being compiled to <span style="text-decoration: underline;">C:\xampp\httpdocs\myFirstProject\index.swf</span> and you placed the Amfphp library at <span style="text-decoration: underline;">C:\xampp\httpdocs\myFirstProject\Amfphp</span>, in this case, it means that relatively to the index.swf file, the AmfPHP Framework is located at <strong>Amfphp/</strong><br />
+<span style="text-decoration: underline;">Example 2:</span> Now, say that your project is located at <span style="text-decoration: underline;">/var/www/html/MyProjectName/index.swf</span> and the Amfphp framework is located at <span style="text-decoration: underline;">/var/www/html/Amfphp/index.php</span><br />
+In this case, the Amfphp folder is located outside of your project's folder and relatively to your index.swf, you'd have to go up and then go to Amfphp's folder. To configure it like this, you'd do:</p>
+<p>[code]Amfphp.getInstance().path = &quot;../Amfphp/&quot;;[/code]</p>
+<p>The second variable is automaticBusyCursor, a boolean variable that will decide whether set the cursor to busy or not while using the library. To change it, you can simply add:</p>
+<p>[code]Amfphp.getInstance().automaticBusyCursor = false;[/code]</p>
+<p><strong>3. Simple Service Call</strong></p>
+<p>A simple call can be made from any file of your project with the following code:</p>
+<p>[code]CallGateway.getInstance().call(&quot;ExampleService/returnOneParam&quot;, resultFunction, firstParameter);[/code]</p>
+<p>You can also make direct NetConnection calls through Amfphp class. The above call using this method would be similar to the following:</p>
+<p>[code]Amfphp.getInstance().gateway.call(&quot;ExampleService/returnOneParam&quot;, new Responder(resultFunction, faultFunction), firstParameter);[/code]</p>
+<p><em>Note: if you make more than one call through Amfphp class directly, all calls will be made normally, since you're making the call direct through the NetConnection object. But if you use CallGateway class to make more than one call, consider using multiple-calls method (explained on the next topic), since the act of making more than one call simultaneously will make the library behave badly because the calls might be lost. A probable fix might come in future versions.</em></p>
+<p><strong>4. Multiple Service Calls</strong></p>
+<p>For this utility, we will need a PHP file placed at your Service Browser's folder. The main reason is because instead of establishing tons of calls to the server, we'll establish only one call carrying information of all calls. The server will then call itself and store all the returned data to deliver it back to Flex in a single communication tunnel. <a title="CallGateway.php" href="https://www.silexlabs.org/?attachment_id=137245" target="_blank">You can download the PHP file here</a>.</p>
+<p>[code]CallGateway.getInstance().addCall(&quot;ExampleService/returnOneParam&quot;, resultFirstCall, &quot;Parameter1&quot;);<br />
+CallGateway.getInstance().addCall(&quot;ExampleService/returnOneParam&quot;, resultSecondCall, &quot;Parameter2&quot;);<br />
+CallGateway.getInstance().addCall(&quot;ExampleService/returnOneParam&quot;, resultThirdCall, &quot;Parameter3&quot;);<br />
+CallGateway.getInstance().dispatchCalls();[/code]</p>
+<p>The above code will store 3 different calls inside the library and dispatchCalls(); method will establish one single call for amfPHP (CallGateway.php file) in which each individual call will be made from the server to the server. After every data collection is done, each result function will be invoked receiving their respective server response.</p>
+<p><strong>5. Preventing users from overflowing the server with multiple clicks on action button</strong></p>
+<p>At the end of your form you have an action button that will make the call to the server. In a hypothetical situation, your user types everything that the forms requires and then he clicks the button 10 different times and the information filled was stored inside your database 10 different times. You can prevent this by simply binding <em>amf_busy </em>library's property with the <em>enabled</em> attribute of your clickable component that will trigger the action. The following code will make the button disable whenever a call is made to the server and re-enable when the call is finished:</p>
+<p><code>&lt;s:Button id="actionButton" label="Click me!" enabled="{!AMFConnector.Amfphp.getInstance().amf_busy}" /&gt;</code></p>
+<p><strong>6. Installing example</strong></p>
+<p><strong></strong>If you downloaded and placed Amfphp's folder inside your local server, you noticed that it has an <span style="text-decoration: underline;">Examples</span> folder inside of it. Navigate to <span style="text-decoration: underline;">Examples/Php/ExamplesServices</span> and place the <a title="CallGateway.php" href="https://www.silexlabs.org/?attachment_id=137245" target="_blank">CallGateway</a> file mentioned at the section 4 of this doc. After that, download <a href="https://www.silexlabs.org/137242/exchange/exchange-amfphp/amfconnector/attachment/amfconnectorexample/" rel="attachment wp-att-137347">AMFConnectorExample</a> and place it at <span style="text-decoration: underline;">Examples/Flex/</span>. The Flex project has the view-source available.</p>
+<p>For now, this is all the library is capable of doing. Suggestions for improvements would be appreciated. Download it and try now.<br />
+Library written by Marco Aurélio Deleu.</p>

@@ -1,0 +1,99 @@
+---
+layout: post
+title: Silex SEO Plugin
+date: 2012-06-01 16:30:24.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog Silex
+- Plugins
+tags: []
+meta:
+  _epLastError: ''
+  _itemCurrentVersion: '1.0'
+  _edit_last: '15'
+  _epLastMessage: ''
+  _selectedVersionsArray: v1.6.2,v1.7.0
+  _selectedProject: Silex
+  _epDependencies: a:0:{}
+  _itemCurrentFileName: ''
+  _thumbnail_id: '132915'
+  wpautop: "- Select -"
+  skin: "- Select -"
+  layout_footer: "- Select -"
+  layout_header: "- Select -"
+  layout: "- Select -"
+author:
+  login: codam
+  email: raphael.harmel@gmail.com
+  display_name: codam
+  first_name: codam
+  last_name: ''
+permalink: "/silex-seo-plugin/"
+---
+<div>
+<p><a href="https://www.silexlabs.org/132908/the-blog/blog-silex/silex-seo-plugin/attachment/plugin-2/" rel="attachment wp-att-132915"><img class="size-full wp-image-132915 alignnone" title="plugin" src="{{ site.baseurl }}/assets/plugin1.png" alt="" width="180" height="85" /></a></p>
+</div>
+<h3>Description</h3>
+<p>This plugin adds the possiblity to generate SEO (Search Engine Optimization) informations for a silex site in some specific cases.</p>
+<p>Normal cases are already taken care of by Silex.</p>
+<p><!--more--></p>
+<p>It is specifically designed for these cases:</p>
+<ul>
+<li>when different pages (or deeplinks) share the same layer (useful for multiple languages contexts).</li>
+<li>when dynamic content is used. In that case the seo plugin should be run regularly.</li>
+</ul>
+<p>This includes:</p>
+<ul>
+<li>accessors resolving</li>
+<li>Oof selector children resolving and parsing</li>
+</ul>
+<p>Silex natively takes care of the following cases, when you are saving the layers via the Wysiwyg:</p>
+<ul>
+<li>only one deeplink is used per layer</li>
+<li>html compatible components (text, images, label buttons...)</li>
+</ul>
+<h3>Example provided !!!</h3>
+<p>This plugin is provided with an example publication named "test_seo_plugin" so you can easily try this functionality.</p>
+<h3>Installation</h3>
+<p>To install this plugin on a silex server, use the manager's plugin installer (exchange platform), or copy the plugin folder in the silex_server/plugins folder.</p>
+<h3>Activation</h3>
+<p>This plugin has to be activated at publication level.</p>
+<p>Specific publication activation:</p>
+<p>In the server's manager go to "Manage", click on the publication on which the plugin should be activated, then click on "Plugins &gt; Activate a plugin", and finally click on the plugin icon and then on "confirm".</p>
+<h3>Use</h3>
+<p>To generate seo information for all layers of the publication:</p>
+<p>-In the server's manager go to "Manage", click on the publication for which the seo should be generated, then click on "Generate Seo".</p>
+<p>-The plugin will update the /silex_server/contents/site_id/*.seodata.xml files contents.</p>
+<p>-As a result, the sitemap of the site (accessible here: /silex_server/sitemap.php?id_site=site_id) will be updated.</p>
+<p>It can be useful to check the sitemap before and after running the SEO generation process.</p>
+<h3>Parameters</h3>
+<p>None</p>
+<h3>Content</h3>
+<p>The snapshot plugin folder contains several files:</p>
+<ul>
+<li>index.php
+<ul>
+<li>contains the php needed to load the plugin.</li>
+</ul>
+</li>
+<li>directories
+<ul>
+<li>hx
+<ul>
+<li>contains the PHP seo project generated with Haxe</li>
+</ul>
+</li>
+<li>lang
+<ul>
+<li>contains the translations files</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3>Sources</h3>
+<p>They can be found on following subversion repository: <a href="https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src" target="_blank">https://silex.svn.sourceforge.net/svnroot/silex/apps/third-party/plugins/seo/src</a></p>

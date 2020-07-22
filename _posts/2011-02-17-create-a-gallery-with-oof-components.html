@@ -1,0 +1,116 @@
+---
+layout: post
+title: Create a gallery with Oof components
+date: 2011-02-17 17:35:23.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Tutorials Silex
+tags: []
+meta:
+  selectedProject: ''
+  selectedVersion: ''
+  color: red
+  _wp_old_slug: ''
+author:
+  login: koala
+  email: isabelleb5@yahoo.fr
+  display_name: koala
+  first_name: ''
+  last_name: ''
+permalink: "/create-a-gallery-with-oof-components/"
+---
+<p>This tutorial will help you to create an image gallery in Silex with Oof components.</p>
+<p>You will find in this post  the different steps to get there. You will also find the <a href="https://www.silexlabs.org/wp-content/uploads/2011/02/gallery.zip">.zip of the images</a> that were used for this tutorial so that you can reproduce it on your Silex server.<br />
+You can <a href="https://www.silexlabs.org/?cat=55" target="_blank">download the working gallery</a> on the exchange platform and see the <a href="http://silexprod.com/tutorial.gallery" target="_blank">online result</a> here.</p>
+<p>Good work !</p>
+<h3>Pre-requisites</h3>
+<p>To do this tutorial you need :</p>
+<ul>
+<li>full-sized images</li>
+<li>the corresponding thumbnails</li>
+</ul>
+<p>For the sake of this tutorial we have choosed 4 images : image1.jpg ; image2.jpg ; image3.jpg and image4.jpg</p>
+<p>Let's go !</p>
+<p><!--more--></p>
+<ol>
+<li>create a "gallery" directory in the "media" folder of your Silex server</li>
+<li>in this "gallery" directory create a "full-sized" directory and a "thumb" directory</li>
+<li>put your full-sized images in the "full-sized" directory and your thumb images in the "thumb directory"</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-1219" title="your-gallery-directory" src="{{ site.baseurl }}/assets/your-gallery-directory.png" alt="" width="617" height="625" /></p>
+<p><em><strong><span style="text-decoration: underline;">Note :</span> your full-sized and thumb images must absolutely have the same name and the same extension ! Your images can be in .jpg, .png or .swf format</strong></em></p>
+<h3>Step 1 : Display the gallery thumbnail</h3>
+<ul>
+<li>Put 3 components on the stage from your library :<br />
+- DataSelector ("Selecteur de données" in french)<br />
+- ThumbList skin1 ("Liste de Miniatures" in french)<br />
+- RssConnector ("Connecteur RSS" in french)</li>
+</ul>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1265" title="add_oof_components" src="{{ site.baseurl }}/assets/add_oof_components1.jpg" alt="" width="700" height="720" /></p>
+<p style="text-align: center;">
+<ul>
+<li>Configure your components</li>
+</ul>
+<p><strong>- RssConnector :</strong></p>
+<p>There is two fields to configure : url base ("URL du fichier" in french) and name ("nom" in french).<br />
+For the url base edit this = &lt;&lt;silex.rootUrl&gt;&gt;cgi/scripts/rss_browse_folder.php?folder_path=media/gallery/thumb and for the name just put "connector"</p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1269" title="connector-properties" src="{{ site.baseurl }}/assets/connector-properties1.png" alt="" width="700" height="211" /></p>
+<p style="text-align: left;"><strong>- ThumbList :</strong></p>
+<p style="text-align: left;">For this component you only have to configure its name and named it "thumbList" and that's all or almost !</p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1273" title="thumblist properties" src="{{ site.baseurl }}/assets/thumblist-properties1.png" alt="" width="700" height="120" /></p>
+<p style="text-align: left;">In fact, depending on the result that you want, you can change the visual parameters of your thumlist as the row height or the items per row, etc...</p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1274" title="thumblist visual parameters" src="{{ site.baseurl }}/assets/thumblist-visual-parameters.png" alt="" width="700" height="125" /></p>
+<p style="text-align: left;">Note that for a better display of your thumbnails, it's better to uncheck the "resize image" box ("redimensionner images" in french) <a rel="attachment wp-att-1275" href="https://www.silexlabs.org/?attachment_id=1275"><img class="alignnone size-full wp-image-1275" title="resize image box" src="{{ site.baseurl }}/assets/resize-image-box.png" alt="" width="80" height="41" /></a></p>
+<p style="text-align: left;"><strong>- DataSelector :</strong></p>
+<p style="text-align: left;">4 fields to configure : the "connector name", the "list name", the "icon field" and the "name"</p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1276" title="selector properties" src="{{ site.baseurl }}/assets/selector-properties.png" alt="" width="700" height="212" /></p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1277" title="selector properties 2" src="{{ site.baseurl }}/assets/selector-properties-2.png" alt="" width="700" height="183" /></p>
+<p style="text-align: left;">Note : save the page, refresh and the thumbnails must appear...</p>
+<p style="text-align: left;">
+<p style="text-align: left;">Important ! to see your thumbnails correctly, you must configure accordingly the height and width of your thumblist component and the row height ("hauteur de cellule" in french). Note that you can display several images per line, for that you only have to put the wanted number in the "item per row" box ("éléments par ligne" in french)</p>
+<p style="text-align: left;"><span style="text-decoration: underline;"><strong>Here is the result on our example :</strong></span></p>
+<p style="text-align: left;"><img class="aligncenter size-full wp-image-1278" title="the thumbnails appear" src="{{ site.baseurl }}/assets/the-thumbnails-appear.png" alt="" width="700" height="718" /></p>
+<h3 style="text-align: left;">Step 2 : Display the full-sized images when click on thumbnails</h3>
+<ul>
+<li>Add the Image Display component.</li>
+</ul>
+<p><img class="aligncenter size-full wp-image-1279" title="add-image-display-component" src="{{ site.baseurl }}/assets/add-image-display-component.jpg" alt="" width="620" height="134" /></p>
+<ul>
+<li>Configure your Image Display component</li>
+</ul>
+<p>The only thing to change is the width and the height of your image display. Generally it is better to make them match with the width and the height of your full-sized images.</p>
+<p><img class="aligncenter size-full wp-image-1282" title="the image display properties" src="{{ site.baseurl }}/assets/the-image-display-properties.png" alt="" width="700" height="239" /></p>
+<ul>
+<li>Fill the "commands to execute on click" in the selector component</li>
+</ul>
+<p style="padding-left: 30px;">- Select your selector<br />
+- choose "commands to execute on click"<br />
+- click on "edit"<br />
+- click on the "+"<br />
+- enter the following command = ImageDisplay.value=media/gallery/full-sized/&lt;&lt;title&gt;&gt;<br />
+- click on "ok"<br />
+- save and refresh your page</p>
+<p><img class="aligncenter size-full wp-image-1283" title="command to add on your selector" src="{{ site.baseurl }}/assets/command-to-add-on-your-selector.png" alt="" width="700" height="217" />Your gallery is done !</p>
+<p><span style="text-decoration: underline;"><strong>Here is the result on our example :</strong></span></p>
+<p><span style="text-decoration: underline;"><strong><img class="size-full wp-image-1287 alignleft" title="gallery image1" src="{{ site.baseurl }}/assets/gallery-image1.png" alt="" width="300" height="238" /> <img class="size-full wp-image-1289 alignright" title="gallery image2" src="{{ site.baseurl }}/assets/gallery-image21.png" alt="" width="300" height="238" /></strong></span></p>
+<p><span style="text-decoration: underline;"><strong><img class="alignleft size-full wp-image-1294" title="gallery image 3" src="{{ site.baseurl }}/assets/gallery-image-3.png" alt="" width="300" height="238" /></strong></span></p>
+<p><img class="size-full wp-image-1296 alignright" title="gallery image4" src="{{ site.baseurl }}/assets/gallery-image41.png" alt="" width="300" height="238" /></p>
+<h3>Step 3 (optional) : Load a first image automatically</h3>
+<p>For this :</p>
+<p style="padding-left: 30px;">- select your selector<br />
+- open the "action" toolbox<br />
+- enter the following action : onResult selectedIndex=0<br />
+- confirm<br />
+- save and refresh</p>
+<p><img class="aligncenter size-full wp-image-1301" title="action on the selector" src="{{ site.baseurl }}/assets/action-on-the-selector.png" alt="" width="700" height="163" /></p>
+<p>The first image of your gallery appears automatically without to have to click on its thumbnail !</p>
+<p>This tutorial is finished, but you can look at the other tutorials linked to this one :</p>
+<ul>
+<li><a href="https://www.silexlabs.org/?p=1375" target="_blank">Turn your gallery into a slideshow</a></li>
+<li><a href="https://www.silexlabs.org/?p=1336" target="_blank">Customize your thumblist</a></li>
+</ul>
+<p style="padding-left: 30px;">

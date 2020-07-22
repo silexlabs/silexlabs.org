@@ -1,0 +1,54 @@
+---
+layout: post
+title: HTMLGenerator - display Silex sites in HTML 5
+date: 2011-02-18 18:36:57.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Plugins
+tags:
+- html
+meta:
+  _epLastMessage: ''
+  _epLastError: ''
+  _itemCurrentVersion: '1.2'
+  _selectedProject: Silex
+  _selectedVersionsArray: v1.6.1,v1.6.2,v1.7.0
+  _epDependencies: a:0:{}
+  _itemCurrentFileName: silex-plugin.zip
+  _wp_old_slug: ''
+  color: orange
+  _edit_last: '9'
+author:
+  login: Benjamin
+  email: benjamin.dasnois@gmail.com
+  display_name: Benjamin
+  first_name: ''
+  last_name: ''
+permalink: "/htmlgenerator/"
+---
+<p>This plugin allows you to generate an HTML version of your websites. This is perfect for mobiles or internet tablets. And this is lighter too.</p>
+<p>If your visitor do not have Flash, he should be automatically redirected to the HTML version of your website. If he does not have Flash nor Javascript, a link is displayed to visit the HTML version of the website.</p>
+<p><img title="HTML Generator" src="{{ site.baseurl }}/assets/plugin2.png" alt="HTML 5 plugin for Silex" width="180" height="85" /></p>
+<h3>Abotu this plugin</h3>
+<p>After having installed and activated it, you can access the HTML version of your websites by accessing your website's URL followed by &amp;format=html For example, if you access your website at the URL : http://myserver/?/myPublication then you can access the HTML version of it at http://myserver/?/myPublication&amp;format=html</p>
+<p>Also note that deeplinks should be put directly after the publication's name without any hash. For example, in if in Flash version you have the following URL:<br />
+&gt; http://myserver/?/testsimple#/start/test</p>
+<p>You can access the HTML version by going at<br />
+&gt; http://myserver/?/testsimple/start/test&amp;format=html</p>
+<h3>Installation</h3>
+<p>To install this plugin on a silex server, use the <a href="https://www.silexlabs.org/?p=1447">manager's plugin installer - see the tutorial</a>, or copy the plugin folder in the silex_server/plugins folder.</p>
+<h3>Activation</h3>
+<p>In the manager, go to "Manage", click on the publication on which the plugin should be activated, then click on "Plugins &gt; Activate a plugin", and finally click on the plugin icon and then on "confirm".</p>
+<p>Then you can click on the plugin name which appeared in the list of activated plugins, and edit its parameters.</p>
+<h3>Parameters</h3>
+<p>The parameters :</p>
+<ul>
+<li>Default format: values can be 'html' or 'flash'. It is the format which will be displayed by default, i.e. if there is not a format given in the URL (the '&amp;format=html' or '&amp;format=flash' in the address).</li>
+<li>CSS declaration: Enter here CSS declaration, e.g. "body{font-family: Verdana;}". Only taken into account in HTML version of the site. Your CSS must be URL-encoded, you can <a href="http://www.albionresearch.com/misc/urlencode.php">use this tool to do it</a>. It should look like this: body%7Bfont-family%3A%20Verdana%3B%7D</li>
+</ul>
+<p>Source code of the plugin</p>
+<p>Here is the source code of this plugin, which is written in haXe (php target): <a href="https://www.silexlabs.org/wp-content/uploads/2011/02/html5generator.zip">html5generator</a></p>

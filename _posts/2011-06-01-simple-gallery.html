@@ -1,0 +1,122 @@
+---
+layout: post
+title: Simple Gallery
+date: 2011-06-01 00:02:32.000000000 +02:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Plugins
+tags: []
+meta:
+  _selectedVersionsArray: v1.6.1,v1.6.2,v1.7.0
+  _itemCurrentVersion: beta1.1
+  _wp_old_slug: ''
+  _epLastMessage: ''
+  _epLastError: ''
+  _epDependencies: a:0:{}
+  _itemCurrentFileName: download.zip
+  color: blue
+  _selectedProject: Silex
+  _edit_last: '16'
+  layout: "- Select -"
+  layout_header: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  wpautop: "- Select -"
+author:
+  login: yannick
+  email: yannick.dominguez@gmail.com
+  display_name: yannick
+  first_name: ''
+  last_name: ''
+permalink: "/simple-gallery/"
+---
+<p>This component is a simple picture gallery, just drop it in your site and input the urls of your gallery's pictures.</p>
+<p>Authors : Camille GERARD HIRNE, Yannick DOMINGUEZ</p>
+<h2>2 galleries</h2>
+<p>This plugin adds 2 components : the gallery and the autoplay gallery. They are both the same component with different configuration. The autoplay gallery will automatically switch pictures every few seconds and won't display the next and previsou buttons.</p>
+<h2>Use</h2>
+<p>[caption id="attachment_73235" align="aligncenter" width="300"]<a href="https://www.silexlabs.org/?attachment_id=73235" rel="attachment wp-att-73235"><img class="size-medium wp-image-73235 " title="simpleGallery_panel" src="{{ site.baseurl }}/assets/simpleGallery_panel-300x139.png" alt="simple gallery panel" width="300" height="139" /></a> the panel of the simple gallery (click to zoom)[/caption]</p>
+<p>The gallery has the following parameters :</p>
+<p><!--more--></p>
+<h3>Pictures URLs</h3>
+<p>This is the urls of the pictures that you want to display in your gallery. The pictures can either come from your media folder (ex: "media/logosilex.jpg") or from another website (ex: "http://www.google.fr/images/logos/ps_logo.png"). The gallery can display .jpg, .jpeg, .gif (but not animated), .png (transparent or opaque) and .swf pictures.</p>
+<h3>Autoplay</h3>
+<p>If the autoplay checkbox is checked, the picture will automatically be switched every few seconds. You can specify the interval with the "Autoplay duration" parameter.</p>
+<h3>Autoplay duration</h3>
+<p>The interval in seconds before displaying the next picture, if the autoplay is activated.</p>
+<h3>Loop</h3>
+<p>If the loop checkbox is checked, once the user reaches the last picture, if he clicks the next button, the first picture will be displayed, same for the first picture with the previous button.</p>
+<h3>Transition Type</h3>
+<p>Determine the transition animation between 2 pictures, here are the current transitions types :</p>
+<ul>
+<li>Fade</li>
+<li>Swipe</li>
+<li>Zoom</li>
+</ul>
+<h3>Transition duration</h3>
+<p>The duration of the transition between 2 pictures in seconds.</p>
+<h3>Show controls</h3>
+<p>If the checkbox is checked, the next and previous buttons are displayed</p>
+<h3>Show loader</h3>
+<p>If the checkbox is checked, the loader will be displayed when a picture is loading</p>
+<h3>Controls vertical align</h3>
+<p>Detrmine the vertical position of the next and previous button, can be top, middle or bottom.</p>
+<h3>Scale mode</h3>
+<p>The scale mode applied to the pictures, there are 3 scale modes :</p>
+<ul>
+<li>
+<h4>noscale</h4>
+<p>The picture won't be resized and will be displayed at their full size</li>
+<li>
+<h4>fill</h4>
+<p>The picture will take the dimensions of the gallery. It will probably deform the picture</li>
+<li>
+<h4>exactFit</h4>
+<p>The picture will take the biggest size they can within the gallery without being deformed</li>
+</ul>
+<h3>Show background</h3>
+<p>If the checkbox is checked, display the background of the gallery. Hiding the background is useful if you want a transparent background or a custom background added in Silex.</p>
+<h3>Background color</h3>
+<p>The color of the gallery background</p>
+<h2>Skinning the gallery</h2>
+<p>The simple gallery is a skinnable component, you can download the source FLA here : <a href="https://www.silexlabs.org/?attachment_id=86570" rel="attachment wp-att-86570">SimpleGallery_source</a>. This FLA allows to create your own design by customising :</p>
+<ul>
+<li>The next button</li>
+<li>the previous button</li>
+<li>the loader displayed when a picture is loading</li>
+<li>the error panel displayed when a picture was not found</li>
+</ul>
+<p>The folder "silex framework" in the Flash library contain all the necessary clips to make the gallery work as a Silex component and shouldn't be changed. The "gallery asset" folder contains some graphics which can be customised.</p>
+<h2>Controlling the gallery with actions</h2>
+<p>You can use any component to act as the next and previous button of your gallery by adding an action to them.</p>
+<p>Ex : for a simple gallery called "myGallery".</p>
+<p>Add the following action on the component yout want to use as the next button :</p>
+<p><code>onRelease myGallery.next</code></p>
+<p>Add the following action on the component yout want to use as the previous button :</p>
+<p><code>onRelease myGallery.previous</code></p>
+<h2>Event sent by the gallery</h2>
+<p>For a more advanced use of the gallery with actions, here is the list of the event dispatched by it :</p>
+<ul>
+<li>onStartPictureLoading<br />
+sent when a picture loading start</li>
+<li>onPictureLoaded<br />
+sent when a picture has been successfuly loaded</li>
+<li>onPictureLoadingError<br />
+sent when there was an error during picture loading</li>
+<li>onPictureStartTransition<br />
+sent when the transition start between 2 pictures</li>
+<li>onPictureTransitionComplete<br />
+sent when the transition is complete between 2 pictures</li>
+<li>onNextPicture<br />
+sent when the process to display the next picture starts</li>
+<li>onPreviousPicture<br />
+sent when the process to display the previous picture starts</li>
+<li>onNextPictureAutoPlay<br />
+sent when the next picture is displayed thanks to the autoplay</li>
+<li>onChange<br />
+A generic changed event dispatched with some  other events</li>
+</ul>

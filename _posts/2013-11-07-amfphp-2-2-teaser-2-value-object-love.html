@@ -1,0 +1,74 @@
+---
+layout: post
+title: 'AmfPHP 2.2 Teaser #2 Value Object Love'
+date: 2013-11-07 17:28:27.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog amfPHP
+- Blog Silex Labs
+- The Blog
+tags: []
+meta:
+  _epLastError: ''
+  _epLastMessage: ''
+  _edit_last: '10'
+  _syntaxhighlighter_encoded: '1'
+  _itemCurrentVersion: ''
+  _thumbnail_id: '135923'
+  layout: "- Select -"
+  layout_header: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  wpautop: "- Select -"
+author:
+  login: ariels
+  email: sommeria.ariel@gmail.com
+  display_name: Ariel Sommeria-Klein
+  first_name: Ariel
+  last_name: Sommeria-Klein
+permalink: "/amfphp-2-2-teaser-2-value-object-love/"
+---
+<p><em>This is the second of a series of articles discussing ongoing developments with AmfPHP. The idea is to give the community the chance to give feedback before a final release is made, and of course simply to let people know what is going on. <a href="https://www.silexlabs.org/179725/the-blog/amfphp-2-2-teaser-1-putting-your-code-comments-to-good-use/">The first is here</a>. <a href="http://sourceforge.net/projects/amfphp/files/amfphp-2.2_vos.zip/download">Get the download here </a></em></p>
+<p>One of the key selling points of the AMF format is that you can use it to transmit typed objects. Previous versions of AmfPHP had a plugin, AmfphpCustomClassConverter, whose responsibility was to manage these typed objects. It did its job reasonably well, but had some limitations which have been adressed in its successor.</p>
+<p><!--more--></p>
+<p><img class="alignleft" src="{{ site.baseurl }}/assets/a-little-love-free-creative-commons-pink-heart_l.jpg" alt="" width="360" height="401" /></p>
+<h1>Better performance</h1>
+<p>If you use AmfPHP to transfer large amounts of typed data, you should see some significant performance increases. This is especially for <a title="Baguette AMF, Move your data fast" href="http://baguetteamf.com">Baguette AMF</a> users. One tester was sending 600 kbytes of nested objects, and was having performance issues: Some of his requests would take 15 seconds to process. He went from 15 seconds to 5 seconds per request when installing Baguette AMF, then down to 1 second per request with this update.</p>
+<p>This only works for AMF(not JSON), and should have a significant impact if you're sending large quantities of data, even more so if the data contains nested typed objects. The technicalities are beyond the scope of this article, but might be discussed elsewhere.</p>
+<h1>Better developer experience</h1>
+<p>Vo conversion is optional. As typing is not enforced in PHP, it makes sense to do without it completely and just use anonymous objects with "_explicitType" marked to whatever type you want to send back to your client. Hence by default the Vo Converter's default behavior when it doesn't find a class with a certain type is just to give you an anonymous object.</p>
+<p>This is fine for production, but when developing, it would be nice to be informed when a class is missing. So a new feature is the "enforceConversion" flag. If set to true, an exception is thrown when a VO class is not found. This exception contains information about what was sought, and the various possible paths where it could be found, so be sure to remove it for production.</p>
+<h1>Namespace Support</h1>
+<p>It is now possible to use namespaces in your Value Objects.<br />
+Here is a snippet to show how you would configure the Vo Converter. the first entry in the array is the path to the folder, and the second is for the root namespace, 'NVo'. So a "\NVo\MyVO" class in "NamespaceVo/MyVO.php" can be sent with a client(explicit) type "MyVO".</p>
+<p>[code]<br />
+$voFolders = array();<br />
+//add the folder with the namespace. 1st comes the pass, 2nd comes the namespace root.<br />
+$voFolders[] = array(dirname(__FILE__) . '/NamespaceVo/', 'NVo');<br />
+$config-&gt;pluginsConfig['AmfphpVoConverter'] = array('voFolders' =&gt; $voFolders);<br />
+[/code]</p>
+<p>Note that this is the same system as for service folders.</p>
+<h1>Better Name</h1>
+<p>Nobody knew what the custom class converter did without looking it up. It's now called Vo Converter.</p>
+<h1>Other Goodies</h1>
+<ul>
+<li>The back office tells you what version of AmfPHP you're running and whether you're up to date. A mini RSS reader is also tucked away so that you can get AmfPHP news.</li>
+<li>You can choose to make calls from the Service Browser either in JSON or AMF.</li>
+<li>Put an @amfphpHide tag in your service or method's comments, and it won't appear in the back office</li>
+<li>The service browser now truncates data when it's too much to display. This avoids you killing your browser when you've loaded big data in the service browser.</li>
+<li>The AmfPHPErrorHandler has been enhanced so that it does not throw exception for which reporting has been disabled.</li>
+<li>Yes we're still working on the styling of the back office. So here's yet another look, tell us what you think!</li>
+<li><a href="www.silexlabs.org/amfphp/documentation/upgrading-from-2-0-x-and-2-1-x-to-2-2/">A guide to migrating your config can be found here</a>.</li>
+</ul>
+<h1>Thank You</h1>
+<ul>
+<li>Thanks <a href="https://twitter.com/tomvanmechgelen">Tommie</a> for all the testing and feedback.</li>
+<li>Thanks <a href="https://www.silexlabs.org/members/danfranklinusa/">Dan Franklin</a> for the AmfphpErrorHandler suggestion and code</li>
+</ul>
+<p><a href="http://sourceforge.net/projects/amfphp/files/amfphp-2.2_vos.zip/download">The packaged version is available here, so please try it.</a></p>
+<p><a href="https://github.com/silexlabs/amfphp-2.0/releases/tag/v2.2_vos">The code is here, if you feel like making a contribution.</a></p>
+<p><a href="http://foter.com/photo/a-little-love-free-creative-commons-pink-heart/">The heart picture was taken here</a>.</p>

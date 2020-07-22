@@ -1,0 +1,57 @@
+---
+layout: post
+title: AMFPHP v2 Status Update
+date: 2011-01-18 15:18:31.000000000 +01:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Blog amfPHP
+tags: []
+meta:
+  color: red
+  _wp_old_slug: ''
+  disable_convert_smilies: '0'
+  disable_convert_chars: '0'
+  disable_wptexturize: '0'
+  disable_wpautop: '0'
+  _epLastError: ''
+  _epLastMessage: ''
+  _thumbnail_id: '135923'
+  _edit_last: '11'
+  _itemCurrentVersion: ''
+  layout: "- Select -"
+  layout_header: "- Select -"
+  layout_footer: "- Select -"
+  skin: "- Select -"
+  wpautop: "- Select -"
+author:
+  login: ariels
+  email: sommeria.ariel@gmail.com
+  display_name: Ariel Sommeria-Klein
+  first_name: Ariel
+  last_name: Sommeria-Klein
+permalink: "/amfphp-v2-status-update/"
+---
+<p>The bare bones version of AMFPHP 2 is just about ready. It's a no frills, clean implementation of a system to deserialize an AMF Packet, route the contained requests to the corresponding services, and serialize the answers back to AMF. If you're interested in taking a look, drop us a line and we'll send you a zip. The working repository is at <a href="https://github.com/amfphp/amfphp-2.0" target="_blank">https://github.com/amfphp/amfphp-2.0</a> . Sourceforge will still be updated with distributable zips though.</p>
+<p><!--more-->What's new:</p>
+<ul>
+<li>unit tests everywhere. The biggest share by far is for serializing/deserializing, and they cover the basics as well as some more advanced stuff. They are surely not complete, but if someone finds a problem, the current set up should be a sound basis for fixing the code quickly and permanently.</li>
+<li>Streamlined code. There are little or no dependencies between the various classes. The previous code was a bit of a mess from that standpoint, for historical reasons, so this version takes a firm stance on everything that shouldn't be included. For the same reasons, all references to globals are abolished.</li>
+<li>The possibility to separate cleanly the amfphp code from the code in your project, to use it as a lib to integrate into other frameworks etc. The “services” folder is still supported for legacy reasons, but it should not be considered the only way forward. Individual classes and folders can be registered with the gateway as services and service folders respectively.</li>
+<li>Support for PHP 4 has been dropped, and the code is compatible with PHP 5.0 to 5.3 and more.</li>
+</ul>
+<p>What's missing for this to be a replacement for AMFPHP 1.9 :</p>
+<ul>
+<li>The plugin/hook/configuration system</li>
+<li>the following plugins which are going to be expected by the community : Custom class mapping, authentication, charset handling</li>
+<li>Flex support. Flex sends messages that are not Remote Procedure Calls, and these are not yet supported.</li>
+<li>reintegrate the service browser</li>
+<li>json support would be nice too, if only for testing purposes</li>
+</ul>
+<p>known issues:</p>
+<ul>
+<li>apparently there are some problems with include paths. Including a class from one of the services somehow works differently from 1.9 and sometimes messes up. If anyone can shed some light on this, I'd be grateful, because I haven't been able to find the solution.</li>
+</ul>

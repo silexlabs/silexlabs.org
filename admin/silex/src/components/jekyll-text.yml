@@ -1,0 +1,21 @@
+---
+name: Text
+description: Add your content as a demo text and a liquid template
+doc: https://jekyllrb.com/docs/liquid/
+category: Jekyll
+faIconClass: fa-code
+baseElement: text
+# enableEdit: true
+props:
+- name: preview
+  displayName: Preview content
+  type: action
+  description: 'Markdown text for preview'
+  default: |
+    # Title
+    Text content for preview
+- name: liquid
+  displayName: Liquid templates
+  type: action
+  description: 'Liquid template which will eventually replace your content.'
+  default: '{{ content }}'
