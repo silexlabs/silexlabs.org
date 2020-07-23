@@ -1,11 +1,4 @@
 <ul>
-  {% for item in site.pages %}
-  {% if item.nav and item.url != '/2/' %}
-    <li>
-      <a class="{% if item.url == page.url %}page-link-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.nav }}</a>
-    </li>
-  {% endif %}
-{% endfor %}
 {% for item in site.data.nav %}
   <li>
     <a class="{% if item.url == page.url %}page-link-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>

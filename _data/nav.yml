@@ -1,5 +1,7 @@
-- name: Evènements
+- name: Accueil
   url: /
+- name: Evènements
+  url: /events
 - name: A propos
   url: /silexlabs
 - name: Services
