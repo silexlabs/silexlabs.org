@@ -1,8 +1,6 @@
-paginate: 10
-paginate_path: '/:num'
 plugins:
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
 excerpt_separator: <!-- more -->
 baseurl: /silexlabs.org
 url: 'https://lexoyo.me'
@@ -12,3 +10,10 @@ defaults:
       path: ''
     values:
       date: 12 aout 2015
+
+pagination:
+  enabled: true
+  debug: true
+  per_page: 10
+  permalink: '/page/:num/'
+ 
