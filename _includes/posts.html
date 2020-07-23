@@ -2,7 +2,11 @@
   {% for post in paginator.posts %}
   <article>
     <a href="{{ site.baseurl }}{{ post.url }}">
-      <h2>{{ post.title }}</h2><div class="post-date">{{ post.date | date_to_long_string }}</div>
+      <h2>{{ post.title }}</h2>
+      <div class="post-date">{{ post.date | date_to_long_string }}</div>
+      {% if (post.tags.first) %}
+        <span class="tag">{{ post.tags.first }}</span>
+      {% endif %}
       {{ post.excerpt | replace: '<a', '<div' | replace: '</a>', '</div>' | truncate: 800 }}
     </a>
   </article>

@@ -13,90 +13,533 @@
   <link rel="stylesheet" href="http://localhost:6805/static/2.11/normalize.css" data-silex-static="">
   <link rel="stylesheet" href="http://localhost:6805/static/2.11/front-end.css" data-silex-static="">
 
-  <style type="text/css" class="silex-style">img {max-width: 100%;}.post-date {margin: 10px; font-weight: bold; font-size: small; color: #D95B44;}.posts-list article {border-radius: 2px; box-shadow: 0 0px 1px rgba(0, 0, 0, .17) inset; margin-bottom: 20px; padding-bottom: 10px;}@media only screen and (min-width: 481px), only screen and (min-device-width: 481px) {.style-nav li {display: inline-block;}}.bg-shadow-top {-webkit-box-shadow: 0 0 6px rgba(0, 0, 0, .2); -moz-box-shadow: 0 0 6px rgba(0, 0, 0, .2); box-shadow: 0 0 6px rgba(0, 0, 0, .2);}.bg-shadow {-webkit-box-shadow: 0 6px 6px rgba(0, 0, 0, .2); -moz-box-shadow: 0 6px 6px rgba(0, 0, 0, .2); box-shadow: 0 6px 6px rgba(0, 0, 0, .2);}.static {text-align: center;}.static>.editable-style {vertical-align: top; display: inline-block; position: relative; top: 0; left: 0; margin: 0 20px; text-align: left;}.paged-element-hidden {display: none !important;}.max-height {max-height: 500px; overflow: auto;}</style>
+  <style type="text/css" class="silex-style">img {max-width: 100%;}.post-date {margin: 10px; font-weight: bold; font-size: small; color: #D95B44; display: inline; line-height: 3;}.posts-list > article {border-radius: 2px; border-bottom: 1px solid rgba(0, 0, 0, .1); margin-bottom: 20px; padding-bottom: 10px;}.posts-list > article > a > div, .posts-list > article > a > em {margin: 10px;}blockquote {border-left: 1px solid gray; padding: 10px; margin: 10px;}.tags h2 {font-size: 15px; margin-top: 100px;}.tags ul {padding: 0;}.tags li a {text-decoration: none;}.tag {list-style: none; display: inline; border: 1px solid lightgray; padding: 5px;}@media only screen and (min-width: 481px), only screen and (min-device-width: 481px) {.style-nav li {display: inline-block;}}.bg-shadow-top {-webkit-box-shadow: 0 0 6px rgba(0, 0, 0, .2); -moz-box-shadow: 0 0 6px rgba(0, 0, 0, .2); box-shadow: 0 0 6px rgba(0, 0, 0, .2);}.bg-shadow {-webkit-box-shadow: 0 6px 6px rgba(0, 0, 0, .2); -moz-box-shadow: 0 6px 6px rgba(0, 0, 0, .2); box-shadow: 0 6px 6px rgba(0, 0, 0, .2);}.static {text-align: center;}.static>.editable-style {vertical-align: top; display: inline-block; position: relative; top: 0; left: 0; margin: 0 20px; text-align: left;}.paged-element-hidden {display: none !important;}.max-height {max-height: 500px; overflow: auto;}</style>
   <script type="text/javascript" class="silex-script"></script>
-  <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1); position: static;}.silex-id-1563543778332-2 {border-width: 4px 0 0 0; border-style: solid; border-color: rgba(217,91,68,1); background-color: rgba(255,255,255,1); position: static; margin-top: -1px;}.silex-id-1563543778136-1 {background-color: ;border-width:; border-style: ;border-color: rgba(217,91,68,1); min-height: 20px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1478366444112-1 {background-color: rgba(255,255,255,1); position: static; margin-top: -1px;}.silex-id-1478366444112-0 {background-color: transparent; min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1563543746145-0 {width: 375px; top: 0px; left: -1px; height: 86px; position: absolute;}.silex-id-1564083497965-0 {width: 711px; top: 36px; left: 390px; min-height: 45px; position: absolute;}.silex-id-1564093276656-2 {width: 100px; background-color: rgb(255, 255, 255); top: 13px; left: 544px; min-height: 52px; position: absolute;}.silex-id-1563544245802-4 {background-color: rgba(255,255,255,1); position: static; margin-top: -1px;}.silex-id-1563544245599-3 {background-color: rgba(253,253,254,1); border-radius: 2px 2px 0 0; min-height: 24px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1474394621033-3 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1474394621032-2 {background-color: rgba(253,253,254,1); min-height: 760.4666748046875px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1563563640945-15 {width: 688px; top: 0px; left: 0px; min-height: 695px; position: absolute;}.silex-id-1563555279939-14 {width: 688px; top: 50px; left: -320px; min-height: 1589px; position: absolute;}.silex-id-1563647203158-0 {width: 640px; top: 0px; left: 0px; min-height: 48px; position: absolute;}.silex-id-1563544735127-7 {width: 300px; background-color: rgb(255, 255, 255); top: 5px; left: 0px; min-height: 950px; position: absolute;}.silex-id-1563544847465-8 {width: 300px; top: 18px; left: 0px; min-height: 41px; position: absolute;}.silex-id-1563544962714-9 {width: 163px; background-color: transparent; top: 59px; left: 55px; min-height: 68px; position: absolute;}.silex-id-1563554584898-11 {width: 300px; background-color: rgb(255, 255, 255); top: 204px; left: 0px; min-height: 200px; position: absolute;}.silex-id-1563545454222-10 {width: 300px; top: 129px; left: 0px; min-height: 41px; position: absolute;}.silex-id-1564088083884-1 {width: 300px; background-color: rgb(255, 255, 255); top: 440px; left: 0px; min-height: 500px; position: absolute;}.silex-id-1563568766409-1 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1563568766280-0 {background-color: rgba(253,253,254,1); min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1563569184200-0 {width: 640px; top: 20px; left: 226px; min-height: 48px; position: absolute;}.silex-id-1478366450713-3 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1478366450713-2 {background-color: rgba(253,253,254,1); min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1442914737143-3 {width: 349px; top: 29px; left: 369px; min-height: 53px; position: absolute;}.silex-id-1563544667829-6 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1563544667707-5 {background-color: ;min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}@media only screen and (max-width: 480px) {.silex-id-1478366444112-0 {top: 0px; left: 0px; width: 467px; min-height: 165px;}.silex-id-1563543746145-0 {top: 0px; left: 0px; width: 440.3000183105469px; height: 100.96761141503727px;}.silex-id-1564093276656-2 {top: 0px; left: 0px; width: 100px; min-height: 20px;}.silex-id-1563544245599-3 {top: 0px; left: 0px; width: 467px; min-height: 20px;}.silex-id-1474394621032-2 {top: 0px; left: 0px; width: 467px; min-height: 3102px;}.silex-id-1563563640945-15 {top: 0px; left: 0px; width: 421px; min-height: 422.83331298828125px;}.silex-id-1563555279939-14 {top: 0px; left: 0px; width: 467px; min-height: 2613px;}.silex-id-1563647203158-0 {top: 0px; left: 0px; width: 421px; min-height: 72px;}.silex-id-1563544735127-7 {top: 0px; left: 0px; width: 421px; min-height: 397px;}.silex-id-1563544847465-8 {top: 0px; left: 0px; width: 500px; min-height: 41px;}.silex-id-1563554584898-11 {top: 0px; left: 0px; width: 500px; min-height: 200px;}.silex-id-1563545454222-10 {top: 0px; left: 0px; width: 500px; min-height: 41px;}}</style>
+  <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1); position: static;}.silex-id-1563543778332-2 {border-width: 4px 0 0 0; border-style: solid; border-color: rgba(217,91,68,1); background-color: rgba(255,255,255,1); position: static; margin-top: -1px;}.silex-id-1563543778136-1 {background-color: ;border-width:; border-style: ;border-color: rgba(217,91,68,1); min-height: 20px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1478366444112-1 {background-color: rgba(255,255,255,1); position: static; margin-top: -1px;}.silex-id-1478366444112-0 {background-color: transparent; min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1563543746145-0 {width: 375px; top: 0px; left: -1px; height: 86px; position: absolute;}.silex-id-1564083497965-0 {width: 711px; top: 36px; left: 390px; min-height: 45px; position: absolute;}.silex-id-1564093276656-2 {width: 100px; background-color: rgb(255, 255, 255); top: 13px; left: 544px; min-height: 52px; position: absolute;}.silex-id-1563544245802-4 {background-color: rgba(255,255,255,1); position: static; margin-top: -1px;}.silex-id-1563544245599-3 {background-color: rgba(253,253,254,1); border-radius: 2px 2px 0 0; min-height: 24px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1474394621033-3 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1474394621032-2 {background-color: rgba(253,253,254,1); min-height: 760.4666748046875px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1563563640945-15 {width: 688px; top: 0px; left: 0px; min-height: 695px; position: absolute;}.silex-id-1563555279939-14 {width: 688px; top: 0px; left: 5px; min-height: 1946px; position: absolute;}.silex-id-1563647203158-0 {width: 640px; top: 0px; left: 0px; min-height: 48px; position: absolute;}.silex-id-1563544735127-7 {width: 300px; background-color: rgb(255, 255, 255); top: 5px; left: 0px; min-height: 950px; position: absolute;}.silex-id-1563544847465-8 {width: 300px; top: 18px; left: 0px; min-height: 41px; position: absolute;}.silex-id-1563544962714-9 {width: 163px; background-color: transparent; top: 59px; left: 55px; min-height: 68px; position: absolute;}.silex-id-1563554584898-11 {width: 300px; background-color: rgb(255, 255, 255); top: 204px; left: 0px; min-height: 200px; position: absolute;}.silex-id-1563545454222-10 {width: 300px; top: 129px; left: 0px; min-height: 41px; position: absolute;}.silex-id-1564088083884-1 {width: 300px; background-color: rgb(255, 255, 255); top: 440px; left: 0px; min-height: 500px; position: absolute;}.silex-id-1563568766409-1 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1563568766280-0 {background-color: rgba(253,253,254,1); min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1563569184200-0 {width: 640px; top: 20px; left: 226px; min-height: 48px; position: absolute;}.silex-id-1478366450713-3 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1478366450713-2 {background-color: rgba(253,253,254,1); min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}.silex-id-1442914737143-3 {width: 441px; top: 39px; left: 359px; min-height: 31px; position: absolute;}.silex-id-1563544667829-6 {background-color: rgba(110,110,122,1); position: static; margin-top: -1px;}.silex-id-1563544667707-5 {background-color: ;min-height: 100px; position: relative; margin-left: auto; margin-right: auto;}@media only screen and (max-width: 480px) {.silex-id-1478366444112-0 {top: 0px; left: 0px; width: 467px; min-height: 165px;}.silex-id-1563543746145-0 {top: 0px; left: 0px; width: 440.3000183105469px; height: 100.96761141503727px;}.silex-id-1564093276656-2 {top: 0px; left: 0px; width: 100px; min-height: 20px;}.silex-id-1563544245599-3 {top: 0px; left: 0px; width: 467px; min-height: 20px;}.silex-id-1474394621032-2 {top: 0px; left: 0px; width: 467px; min-height: 3102px;}.silex-id-1563563640945-15 {top: 0px; left: 0px; width: 421px; min-height: 422.83331298828125px;}.silex-id-1563555279939-14 {top: 0px; left: 0px; width: 467px; min-height: 2613px;}.silex-id-1563647203158-0 {top: 0px; left: 0px; width: 421px; min-height: 72px;}.silex-id-1563544735127-7 {top: 0px; left: 0px; width: 421px; min-height: 397px;}.silex-id-1563544847465-8 {top: 0px; left: 0px; width: 500px; min-height: 41px;}.silex-id-1563554584898-11 {top: 0px; left: 0px; width: 500px; min-height: 200px;}.silex-id-1563545454222-10 {top: 0px; left: 0px; width: 500px; min-height: 41px;}}</style>
   <title>{{ page.title | default: site.title }}</title>
   
 
 
-<style class="silex-prodotype-style" type="text/css" data-style-id="all-style">h1 {font-weight: normal; font-size: 24px;}h2 {font-weight: normal; font-size: 20px;}h3 {font-weight: normal;}.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; color: #414b52;}p {font-size: 14px; margin-top: 0px;}a {color: #6e6e7a; text-decoration: none;}[data-silex-href] {color: #6e6e7a; text-decoration: none;}.editable-style {}a:hover {color: #D95B44;}[data-silex-href]:hover {color: #D95B44;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {h1 {font-size: 1.5em;}h2 {font-size: 1.5em;}h3 {font-size: 1.2em;}.text-element > .silex-element-content {font-size: 150%;}p {font-size: 1em;}}</style><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><style type="text/css" class="silex-style-settings">.website-width {width: 1100px;}@media (min-width: 481px) {.silex-editor {min-width: 1300px;}}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-button-red">.style-button-green.text-element > .silex-element-content {color: #384428; text-align: center; text-transform: uppercase; padding-top: 10px; padding-left: px; padding-bottom: 10px; border-style: solid; border-width: 1px; border-color: #acc488; background: linear-gradient(#c2de98, #99c461);}.style-button-green a {text-decoration: none;}.style-button-green [data-silex-href] {text-decoration: none;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-button-green">.style-footer p {text-align: center;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-footer">.style-pagination.text-element > .silex-element-content {text-align: center;}.style-pagination a {text-decoration: none; line-height: 2; padding-top: 10px; padding-left: 10px; padding-bottom: 10px; padding-right: 10px; background: linear-gradient(#c2de98, #99c461);}.style-pagination [data-silex-href] {text-decoration: none; line-height: 2; padding-top: 10px; padding-left: 10px; padding-bottom: 10px; padding-right: 10px; background: linear-gradient(#c2de98, #99c461);}.style-pagination b {font-weight: normal; padding-top: 40px; padding-left: 40px; padding-bottom: 40px; padding-right: 40px;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-pagination">.style-nav.text-element > .silex-element-content {font-size: 14px; text-align: right; text-transform: uppercase;}.style-nav a {text-decoration: none;}.style-nav [data-silex-href] {text-decoration: none;}.style-nav ul li {list-style-type: none; margin-right: 40px;}.style-nav .page-link-active {color: #D95B44;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.style-nav.text-element > .silex-element-content {font-size: 1.3em; text-align: center; line-height: 2;}}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.style-nav h2:first-child {margin-top: 1px;}}</style><meta name="description" content="{{ page.description | default: site.description }}"><meta name="twitter:description" content="{{ page.description | default: site.description }}"><meta name="og:description" content="{{ page.description | default: site.description }}"><meta name="twitter:title" content="{{ page.title | default: site.title }}"><meta name="og:title" content="{{ page.title | default: site.title }}"><meta name="twitter:site" content="@silexlabs"><style class="silex-prodotype-style" type="text/css" data-style-id="style-nav">.style-posts h2 {margin-left: 10px; margin-bottom: 5px; margin-right: 10px; padding-top: 10px;}.style-posts h3 {margin-left: 10px; margin-right: 10px;}.style-posts p {margin-left: 10px; margin-bottom: 20px; margin-right: 10px;}.style-posts a {text-decoration: none;}.style-posts [data-silex-href] {text-decoration: none;}.style-posts a:hover {color: #6e6e7a;}.style-posts [data-silex-href]:hover {color: #6e6e7a;}.style-posts p:first-child {margin-top: 0px; margin-left: 0px; margin-bottom: 0px; margin-right: 0px;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.style-posts h2 {margin-top: 0px;}}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-posts">.style-post a {text-decoration: underline;}.style-post [data-silex-href] {text-decoration: underline;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-post">#id_1563545054962_481.share-buttons {list-style: none; padding: 0;}#id_1563545054962_481.share-buttons li {display: inline;}#id_1563545054962_481.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style><link href="../../favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"></head>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><style type="text/css" class="silex-style-settings">.website-width {width: 1100px;}@media (min-width: 481px) {.silex-editor {min-width: 1300px;}}</style><meta name="description" content="{{ page.description | default: site.description }}"><meta name="twitter:description" content="{{ page.description | default: site.description }}"><meta name="og:description" content="{{ page.description | default: site.description }}"><meta name="twitter:title" content="{{ page.title | default: site.title }}"><meta name="og:title" content="{{ page.title | default: site.title }}"><meta name="twitter:site" content="@silexlabs"><link href="../../favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"><style class="silex-prodotype-style" type="text/css" data-style-id="all-style">h1 {font-weight: normal; font-size: 24px;}h2 {font-weight: normal; font-size: 20px;}h3 {font-weight: normal;}.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; color: #414b52;}p {font-size: 14px; margin-top: 0px;}a {color: #414b52; text-decoration: none;}[data-silex-href] {color: #414b52; text-decoration: none;}.editable-style {}a:hover {color: #D95B44;}[data-silex-href]:hover {color: #D95B44;}@media only screen and (max-width: 480px) {h1 {font-size: 1.5em;}h2 {font-size: 1.5em;}h3 {font-size: 1.2em;}.text-element > .silex-element-content {font-size: 150%;}p {font-size: 1em;}}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-button-red">.style-button-red.text-element > .silex-element-content {color: #F3D5D4; text-decoration: none; text-align: center; text-transform: uppercase; padding-top: 10px; padding-left: px; padding-bottom: 10px; border-style: solid; border-width: 1px; border-color: #9b3128; background: linear-gradient(#d95d51, #c1342b);}.style-button-red a {text-decoration: none;}.style-button-red [data-silex-href] {text-decoration: none;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-button-green">.style-button-green.text-element > .silex-element-content {color: #384428; text-align: center; text-transform: uppercase; padding-top: 10px; padding-left: px; padding-bottom: 10px; border-style: solid; border-width: 1px; border-color: #acc488; background: linear-gradient(#c2de98, #99c461);}.style-button-green a {text-decoration: none;}.style-button-green [data-silex-href] {text-decoration: none;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-footer">.style-footer p {text-align: center;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-pagination">.style-pagination.text-element > .silex-element-content {text-align: center;}.style-pagination a {text-decoration: none; line-height: 2; padding-top: 10px; padding-left: 10px; padding-bottom: 10px; padding-right: 10px; background: linear-gradient(#c2de98, #99c461);}.style-pagination [data-silex-href] {text-decoration: none; line-height: 2; padding-top: 10px; padding-left: 10px; padding-bottom: 10px; padding-right: 10px; background: linear-gradient(#c2de98, #99c461);}.style-pagination b {font-weight: normal; padding-top: 40px; padding-left: 40px; padding-bottom: 40px; padding-right: 40px;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-nav">.style-nav.text-element > .silex-element-content {font-size: 14px; text-align: right; text-transform: uppercase;}.style-nav a {text-decoration: none;}.style-nav [data-silex-href] {text-decoration: none;}.style-nav ul li {list-style-type: none; margin-right: 40px;}.style-nav .page-link-active {color: #D95B44;}@media only screen and (max-width: 480px) {.style-nav.text-element > .silex-element-content {font-size: 1.3em; text-align: center; line-height: 2;}}@media only screen and (max-width: 480px) {.style-nav h2:first-child {margin-top: 1px;}}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-posts">.style-posts h2 {margin-left: 10px; margin-bottom: 5px; margin-right: 10px; padding-top: 10px;}.style-posts h3 {margin-left: 10px; margin-right: 10px;}.style-posts p {margin-left: 10px; margin-bottom: 20px; margin-right: 10px;}.style-posts a {text-decoration: none;}.style-posts [data-silex-href] {text-decoration: none;}.style-posts a:hover {color: #000000;}.style-posts [data-silex-href]:hover {color: #000000;}.style-posts p:first-child {margin-top: 0px; margin-left: 0px; margin-bottom: 0px; margin-right: 0px;}@media only screen and (max-width: 480px) {.style-posts h2 {margin-top: 0px;}}</style><style class="silex-prodotype-style" type="text/css" data-style-id="style-post">.style-post a {text-decoration: underline;}.style-post [data-silex-href] {text-decoration: underline;}</style></head>
 
 <body data-silex-id="body-initial" class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime" data-silex-type="container-element" style=""><div data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563543778332-2 section-element" data-silex-id="silex-id-1563543778332-2"><div data-silex-type="container-element" class="editable-style silex-id-1563543778136-1 container-element silex-element-content website-width" data-silex-id="silex-id-1563543778136-1" style=""></div></div><div data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" data-silex-id="silex-id-1478366444112-1" style="">
       <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" data-silex-id="silex-id-1478366444112-0" style=""><div data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" data-silex-id="silex-id-1563543746145-0" style="" data-silex-href="{{ site.url }}{{site.baseurl}}/"><img src="assets/silexlabs.org_.2015.png" class=""></div><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" data-silex-id="silex-id-1564083497965-0" style=""><div class="silex-element-content normal"><span class="prodotype-preview prodotype-runtime-strict">
-<ul>
-<li>Page 1</li>
-<li>Page 2</li>
-<li>Page 3</li>
+  <ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li>
+    <a class="" href="/silexlabs.org/">Evènements</a>
+  </li>
+
+  <li>
+    <a class="" href="/silexlabs.org/silexlabs">A propos</a>
+  </li>
+
+  <li>
+    <a class="" href="/silexlabs.org/services">Services</a>
+  </li>
+
 </ul>
 </span>
-<span class="prodotype-published">
-{% include nav.html %}
-
-</span>
+<silex-template>
+  {% include nav.html %}
+</silex-template>
 </div></div><div data-silex-type="html-element" class="editable-style silex-id-1564093276656-2 html-element" data-silex-id="silex-id-1564093276656-2" style=""><div class="silex-element-content">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N48MBGD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) --></div></div></div>
   </div><div data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544245802-4 section-element hide-on-mobile" data-silex-id="silex-id-1563544245802-4"><div data-silex-type="container-element" class="editable-style silex-id-1563544245599-3 container-element silex-element-content website-width bg-shadow-top" data-silex-id="silex-id-1563544245599-3" style=""></div></div><div data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable" data-silex-id="silex-id-1474394621033-3" style="">
       <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width bg-shadow static" data-silex-id="silex-id-1474394621032-2" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563563640945-15 text-element silex-component page-post paged-element page-page style-post" data-silex-id="silex-id-1563563640945-15" style=""><div class="silex-element-content normal"><span class="prodotype-preview prodotype-runtime-strict">
-  <h1 id="vimvie1pourquoietcomment">Vim à vie #1 : Pourquoi et comment ?</h1>
-<p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png" alt="2019-07-05-747294.png"></p>
-<blockquote>
-  <p>27 mars 2018 @ 19:00 - 21:00</p>
-</blockquote>
-<p>Vim c’est différent. Parce que c’est mieux.</p>
-<p>Avec une telle intro, il ne devrait pas y avoir de fanboy d’emacs ou Eclipse ! Mais la question reste : pourquoi, en 2018, des gens s’obstinent à utiliser un éditeur de texte dans une console ? Pire, pourquoi le revendiquent-ils ?</p>
+  <article>
+  <h1>Assemblée générale Silex Labs 2019</h1><div class="post-date">31 May 2020</div>
+  <p></p><p>Bonjour à tous,</p>
+<p>Voici venu le temps de l'AG annuelle. Seules les personnes à jour de leur cotisation de 15€ ont le droit de voter, <a href="https://www.silexlabs.org/silexlabs/">pensez à adhérer avant l’AG</a>. Merci d'avance !</p>
+<p><strong>L’assemblée Générale Ordinaire de Silex Labs aura lieu en ligne le samedi 10 juillet 2020 à 18 heures</strong></p>
+<p>Si vous ne pouvez pas vous joindre à nous, il vous est possible de vous faire représenter en envoyant un mail à contact [à] silexlabs.org ainsi libellé :</p>
+<blockquote><p>Je donne procuration à toute personne désignée par les membres du conseil d’administration pour me représenter à l’assemblée générale ordinaire qui aura lieu le 13 juin 2020".</p></blockquote>
+<p>Les adhérents recevront un mail avant le début de la réunion avec un lien pour nous rejoindre.</p>
+<p>Ordre du jour de l’AG qui couvrira les exercices 2018 et 2019 :</p>
+<p>• Mot de bienvenue du président<br>
+• Présentation et approbation des Rapports d’activité 2018 et 2019<br>
+• Présentation et approbation des Rapports financiers 2018 et 2019<br>
+• Questions diverses</p>
+<p>Nous sommes à votre disposition si vous avez des remarques et/ou questions que vous souhaiteriez évoquer lors de l’AG.</p>
+<p>Le bureau de Silex labs</p>
+<p></p>
+
+  <section class="tags">
+    <h2>Tags</h2>
+        <ul>
+
+
+        <li class="tag"><a href="/tag/silex-labs"><code class="highligher-rouge"><nobr>silex labs</nobr></code>&nbsp;</a></li>
+
+    </ul>
+  </section>
+
+</article>
 </span>
-<span class="prodotype-published">
+<silex-template>
   {% include post.html %}
-</span>
+</silex-template>
 </div></div><div data-silex-type="text-element" class="editable-style silex-id-1563555279939-14 text-element silex-component page-home paged-element style-posts" data-silex-id="silex-id-1563555279939-14" style=""><div class="silex-element-content normal"><span class="prodotype-preview prodotype-runtime-strict">
-  <h2 id="dveloppezuneapplicationwebquinexplosepasprogrammationdundmineurenelm">Développez une application web qui n’explose pas – Programmation d’un démineur en Elm</h2>
-<blockquote>
-  <p>27 mars 2018 @ 19:00 - 21:00</p>
-</blockquote>
-<p><img src="https://www.silexlabs.org/wp-content/uploads/2019/05/Atelier-Elm1-687x159.png" alt="featured image"></p>
-<p>Qu’est ce que Elm ? Elm (https://elm-lang.org/ ) est un langage permettant de créer des applications web fiables. Le plus étonnant est que cette fiabilité est obtenue avec un très faible nombre de concepts, faisant de Elm un langage rapide à apprendre. Au programme Nous verrons à quel point « The…</p>
-<h3 id="testh3">test H3</h3>
-<p>test extra content</p>
-<h2 id="dchiffreetdelettrepisodeii">Déchiffre et Delettre* – Épisode II</h2>
-<blockquote>
-  <p>27 mars 2018 @ 19:00 - 21:00</p>
-</blockquote>
-<p><img src="https://www.silexlabs.org/wp-content/uploads/2019/04/De%CC%81chiffre-et-Delettre-final-687x159.png" alt="featured image"></p>
-<p>Cet atelier est la suite de l’atelier Dechiffre et Delettre – Episode I. Cependant il n’est pas nécessaire d’y avoir participé pour pouvoir suivre l’épisode 2. Avant 1996, le chiffrement privé était interdit en France. Pire, il était considéré comme « une arme de guerre de deuxième catégorie”. C’est grâce, entre…</p>
-<p><img src="https://www.silexlabs.org/wp-content/uploads/2019/04/Intro-Design-Thinking-687x159.png" alt="featured image"></p>
-<h2 id="dchiffreetdelettrepisodei">Déchiffre et Delettre* – Épisode I</h2>
-<blockquote>
-  <p>27 mars 2018 @ 19:00 - 21:00</p>
-</blockquote>
-<p>Salut la compagnie ! Qui n’a jamais entendu parler d’UX ? Plus qu’un sujet à la mode, plus qu’un engouement, il s’agit d’une véritable mentalité. Et peut être même d’une façon de vivre ? De nombreuses anecdotes autour de l’UX foisonnent sur les Internets; une de mes préférées concerne d’ailleurs…</p>
-<p><img src="https://www.silexlabs.org/wp-content/uploads/2019/01/silex-webinar2-wide-687x268.png" alt="featured image"></p>
-<h2 id="silexwebsitebuilderfreelancevipsession2">Silex website builder, Freelance VIP session #2</h2>
-<blockquote>
-  <p>27 mars 2018 @ 19:00 - 21:00</p>
-</blockquote>
-<p>Bienvenue à vous Silexiens débutants ! Cet atelier fait partie d’une série d’ateliers Silex en ligne: Atelier 1: initiation, pour débutants, inscription ici Atelier 2: produire des sites pour des clients, fonctionnalités avancées, inscription ici Atelier 3: héberger Silex et le customizer pour la production de sites pro, inscription ici…</p>
-<p>","liquid":"{% include posts.html %}"},"silex-id-1563563640945-15":{"name":"jekyll-text2","templateName":"jekyll-text","preview":"# Vim à vie #1 : Pourquoi et comment ?</p>
-<p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png" alt="2019-07-05-747294.png"></p>
-<blockquote>
-  <p>27 mars 2018 @ 19:00 - 21:00</p>
-</blockquote>
+  <div class="posts-list">
+
+  <article>
+    <a href="/silexlabs.org/assemblee-generale-silex-labs-2029/">
+      <h2>Assemblée générale Silex Labs 2019</h2>
+      <div class="post-date">31 May 2020</div>
+
+        <span class="tag">silex labs</span>
+
+      <p>Bonjour à tous,</p>
+<p>Voici venu le temps de l'AG annuelle. Seules les personnes à jour de leur cotisation de 15€ ont le droit de voter, </p><div href="https://www.silexlabs.org/silexlabs/">pensez à adhérer avant l’AG</div>. Merci d'avance !<p></p>
+<p><strong>L’assemblée Générale Ordinaire de Silex Labs aura lieu en ligne le samedi 10 juillet 2020 à 18 heures</strong></p>
+<p>Si vous ne pouvez pas vous joindre à nous, il vous est possible de vous faire représenter en envoyant un mail à contact [à] silexlabs.org ainsi libellé :</p>
+<blockquote><p>Je donne procuration à toute personne désignée par les membres du conseil d’administration pour me représenter à l’assemblée générale ordinaire qui aura lieu le 13 juin 2020".</p></blockquote>
+</a><p><a href="/silexlabs.org/assemblee-generale-silex-labs-2029/">Les adhérents recevront un mail avant le début de la ...
+    </a>
+  </p></article>
+
+  <article>
+    <a href="/silexlabs.org/Aperopensource-1582585731477:">
+      <h2>Aperopensource</h2>
+      <div class="post-date">29 July 2019</div>
+
+      <p>Le but des apéros L’idée est juste de discuter. Nous pouvons parler évidemment d’opensource mais également de vos projets, de vos idées et des technologies en vogue. Témoignages La mission de Silex Labs est de lutter contre la fracture numérique en faisant la promotion des technologies libres et de la contribution. Pour cela nous vous aidons à découvrir les métiers du web, à vous ré-orienter et à vous transmettre notre savoir. VENEZ NOMBREUX ! Où ? Quand ? Comment ? L’Apéro Open Source se déroule dans notre QG : Les Frangins. Voici l’adresse : Les Frangins3 rue des Gobelins75013 Paris</p>
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/vim___vie__1___pourquoi_et_comment__:">
+      <h2>Vim à vie #1 : Pourquoi et comment ?</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-747294.png" alt="2019-07-05-747294.png"></p>
+
 <p>Vim c’est différent. Parce que c’est mieux.</p>
+
 <p>Avec une telle intro, il ne devrait pas y avoir de fanboy d’emacs ou Eclipse ! Mais la question reste : pourquoi, en 2018, des gens s’obstinent à utiliser un éditeur de texte dans une console ? Pire, pourquoi le revendiquent-ils ?</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/tech__n__marketing__3:">
+      <h2>Tech ‘n’ Marketing #3</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-214616.png" alt="2019-07-05-214616.png"></p>
+
+<p>Oui, il est possible de faire du marketing quand on est dans la tech ! Il existe énormément d’outils, libres, gratuits ou payants.</p>
+
+<p>Pour naviguer dans cet océan de possibilité, notre équipe est là pour vous donner le cap.</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/tech__n__marketing__2:">
+      <h2>Tech ‘n’ Marketing #2</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-549346.png" alt="2019-07-05-549346.png"></p>
+
+<p>Oui, il est possible de faire du marketing quand on est dans la tech ! Il existe énormément d’outils, libres, gratuits ou payants.</p>
+
+<p>Pour naviguer dans cet océan de possibilité, notre équipe est là pour vous donner le cap.</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/tech__n__marketing__1___testez_vos_id_es_de_startup_avec_silex:">
+      <h2>Tech ‘n’ Marketing #1 – Testez vos idées de Startup avec Silex</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-953330.jpg" alt="2019-07-05-953330.jpg"></p>
+
+<h3 id="une-landing-page-pour-tester-votre-idée">Une landing page pour tester votre idée</h3>
+
+<p>Pour tester une idée de startup, rien de tel que de créer une « landing page » ou site vitrine, pour proposer aux gens votre futur service.</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/silex_v2__le_cr_ateur_de_site_web_que_vous_attendiez:">
+      <h2>Silex v2, le créateur de site web que vous attendiez</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-553834.jpg" alt="2019-07-05-553834.jpg"></p>
+
+<p>Il est aujourd’hui indispensable d’avoir un pied dans le web, que vous soyez une entreprise, une association ou un groupe de musique. Devant la demande grandissante, le marché des éditeurs de site web a été très secoué par les acteurs du secteur, GAFAM ou autres.</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/regarder__publier__partager__avec_graphql__:">
+      <h2>Regarder, publier, partager… avec GraphQL !</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-904443.jpg" alt="2019-07-05-904443.jpg"></p>
+
+<p>De nos jours, les API sont partout : vos réseaux sociaux, votre banque et votre vie amoureuse en dépendent. Il est donc intéressant de comprendre comment cet écosystème évolue et arrive à s’adapter à des contraintes aussi diverses.</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/le_50_me_ap_ro_open_source_de_silex_labs:">
+      <h2>Le 50éme apéro Open Source de Silex Labs</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-962685.png" alt="2019-07-05-962685.png"></p>
+
+<p>Pour le 50éme apéro Open Source Silex Labs est heureux de vous convier chez notre amphitryon d’un soir Leboncoin.</p>
+
+<p>Inutile de les présenter il s’agit juste du premier site de petites annonces en France, la team est top et elle nous accueille dans ses locaux pour cette cinquantième.</p>
+
+
+    </a>
+  </article>
+
+  <article>
+    <a href="/silexlabs.org/introduction___javascript___partie_3:">
+      <h2>Introduction à Javascript – Partie 3</h2>
+      <div class="post-date">19 July 2019</div>
+
+      <p><img src="https://lexoyo.me/silexlabs.org//assets/2019-07-05-814110.jpg" alt="2019-07-05-814110.jpg"></p>
+
+<h3 id="ma-1ère-application-java-script-">Ma 1ère application Java Script …</h3>
+
+<p>Après avoir appris les bases de JS durant les 2 ateliers précédents, nous allons écrire une vraie application web, simple mais cohérente et correspondant à une situation concrète. Nous commencerons par  »réviser » la programmation des actions utilisateurs (ex: les clics sur boutons) puis nous entamerons la création de notre webapp.</p>
+
+<ul>
+  <li>Durée de l’atelier : 2 heures.</li>
+  <li>Cible : Débutants.</li>
+</ul>
+
+
+    </a>
+  </article>
+
+</div>
 </span>
 <silex-template>
   {% include posts.html %}
 </silex-template>
 </div></div><div data-silex-type="text-element" class="editable-style text-element silex-component silex-id-1563647203158-0 hide-on-desktop style-pagination page-home paged-element" data-silex-id="silex-id-1563647203158-0" style=""><div class="silex-element-content normal"><span class="prodotype-preview prodotype-runtime-strict">
-<p>Previous Page 1 of 25 <a href="#">Next</a></p>
+  <h1 id="title">Title</h1>
+<p>Text content for preview</p>
 </span>
-<span class="prodotype-published">
-{% include pagination.html %}
-</span>
+<silex-template>
+  {{ content }}
+</silex-template>
 </div></div><div data-silex-type="container-element" class="editable-style silex-id-1563544735127-7 container-element " data-silex-id="silex-id-1563544735127-7" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563544847465-8 text-element style-button-red" data-silex-id="silex-id-1563544847465-8" style="" data-silex-href="https://www.silexlabs.org/silexlabs/"><div class="silex-element-content normal">Adhérez à Silex Labs</div></div><div data-silex-type="html-element" class="editable-style silex-id-1563544962714-9 html-element silex-component" data-silex-id="silex-id-1563544962714-9" style=""><div class="silex-element-content">
-<ul class="share-buttons" id="id_1595437300263_728">
+<ul class="share-buttons" id="id_1595497991078_238">
   
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://yoursite.com&amp;t=Your site title" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" data-silex-static="" src="/static/2.7/simplesharingbuttons/simple_icons_black/Facebook.png"></a></li>
   
@@ -118,7 +561,7 @@
   
 </ul>
 
-<style type="text/css">#id_1595437300263_728.share-buttons {list-style: none; padding: 0;}#id_1595437300263_728.share-buttons li {display: inline;}#id_1595437300263_728.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
+<style type="text/css">#id_1595497991078_238.share-buttons {list-style: none; padding: 0;}#id_1595497991078_238.share-buttons li {display: inline;}#id_1595497991078_238.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
 </div></div><div data-silex-type="html-element" class="editable-style silex-id-1563554584898-11 html-element hide-on-mobile" data-silex-id="silex-id-1563554584898-11" style=""><div class="silex-element-content">
 
 
@@ -132,11 +575,11 @@
 <script type="text/{% if site %}{% endif %}javascript" async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div></div></div></div>
   </div><div data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563568766409-1 section-element page-home paged-element hide-on-mobile" data-silex-id="silex-id-1563568766409-1"><div data-silex-type="container-element" class="editable-style silex-id-1563568766280-0 container-element silex-element-content website-width bg-shadow" data-silex-id="silex-id-1563568766280-0"><div data-silex-type="text-element" class="editable-style silex-id-1563569184200-0 text-element silex-component page-home paged-element style-pagination" data-silex-id="silex-id-1563569184200-0" style=""><div class="silex-element-content normal"><span class="prodotype-preview prodotype-runtime-strict">
-<p>Previous Page 1 of 25 <a href="#">Next</a></p>
+  
 </span>
-<span class="prodotype-published">
-{% include pagination.html %}
-</span>
+<silex-template>
+  {% include pagination.html %}
+</silex-template>
 </div></div></div></div>
   
 
@@ -171,8 +614,7 @@
       <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width bg-shadow" data-silex-id="silex-id-1478366450713-2">
 
           <div data-silex-id="silex-id-1442914737143-3" class="editable-style silex-id-1442914737143-3 text-element style-footer" data-silex-type="text-element" style="">
-              <div class="silex-element-content normal"><a href="https://www.silex.me/"></a><p><br></p><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a></p><a href="https://jekyllrb.com/"></a>
-              </div>
+              <div class="silex-element-content normal"><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a><a href="https://pages.github.com/">, </a>hosted on Github pages<a href="https://jekyllrb.com/"><br></a></p><p><a href="https://jekyllrb.com/"></a></p></div>
           </div>
       </div>
   </div><div data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544667829-6 section-element" data-silex-id="silex-id-1563544667829-6"><div data-silex-type="container-element" class="editable-style silex-id-1563544667707-5 container-element silex-element-content website-width" data-silex-id="silex-id-1563544667707-5"></div></div></body></html>
