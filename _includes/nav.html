@@ -1,7 +1,8 @@
 <ul>
 {% for item in site.data.nav %}
   <li>
-    <a class="{% if item.url == page.url %}page-link-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
+    {% assign url = page.url | replace: '/index.html', '' %}
+    <a class="{% if url == item.url %}page-link-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
   </li>
 {% endfor %}
 </ul>
