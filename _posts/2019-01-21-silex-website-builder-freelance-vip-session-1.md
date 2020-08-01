@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 'Silex website builder, Freelance VIP session #1'
-
 type: post
-parent_id: '0'
-published: true
+parent_id: "0"
 password: ''
 status: publish
 categories: []
@@ -17,42 +15,35 @@ tags:
 - silexV2
 - site internet
 - webdesign
-
-_edit_last: '9'
+_edit_last: "9"
 _EventShowMapLink: ''
 _EventShowMap: ''
-
-
-
-
-_EventDuration: '3600'
+_EventDuration: "3600"
 _EventCurrencySymbol: ''
 _EventCurrencyPosition: suffix
 _EventCost: ''
-
 _EventTimezone: Europe/Paris
 _EventTimezoneAbbr: CET
-_yoast_wpseo_primary_post_cat: '42906'
-_thumbnail_id: '207773'
-_EventVenueID: '201135'
-_EventOrganizerID: '179633'
-
+_yoast_wpseo_primary_post_cat: "42906"
+_thumbnail_id: "207773"
+_EventVenueID: "201135"
+_EventOrganizerID: "179633"
 display_name: lexa
 first_name: lexa
 last_name: ''
 permalink: "/event/silex-website-builder-freelance-vip-session-1/"
+
 ---
+![](/assets/silex-webinar-wide.png)
 
 Bienvenue à vous Silexiens débutants !
 
 Cet atelier fait partie d'une série d'ateliers Silex en
-ligne: 
-*   Atelier
+ligne:
 
-*   Atelier
-
-*   Atelier
-
+* Atelier
+* Atelier
+* Atelier
 
 Depuis 10 ans des makers, entrepreneurs et designers utilisent Silex pour leurs sites ou ceux de leurs clients, en toute liberté puisque Silex est libre et open source.
 
@@ -68,21 +59,22 @@ L'objectif est de vous donner un aperçu de ce que vous pouvez faire avec Silex 
 
 Prérequis
 
-*   avoir un compte Github
-*   avoir regardé la vidéo de la session précédente qui vous sera communiquée lors de votre inscription
+* avoir un compte Github
+* avoir regardé la vidéo de la session précédente qui vous sera communiquée lors de votre inscription
 
 Au programme
 
-*   petit tour de chauffe, on publie un site en 5 min
-*   focus sur les récentes optimisations
-: responsive, resize, multi-pages
-*   focus sur les textes
-: style editor, font manager
-*   test des nouvelles options de publication
-: “github pages” et “Jekyll layouts”
-*   exemple d’application
-: un site multilingue
-*  
+* petit tour de chauffe, on publie un site en 5 min
+* focus sur les récentes optimisations
+  : responsive, resize, multi-pages
+* focus sur les textes
+  : style editor, font manager
+* test des nouvelles options de publication
+  : “github pages” et “Jekyll layouts”
+* exemple d’application
+  : un site multilingue
+* 
+
 conclusion: Silex est votre outil de prod et vous êtes un réseau de compétences
 
 [Inscription ici](https://www.meetup.com/Ateliers-du-libre-et-de-lopen-source/events/258110084/).

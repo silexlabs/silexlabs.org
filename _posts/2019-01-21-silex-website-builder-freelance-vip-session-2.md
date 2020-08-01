@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 'Silex website builder, Freelance VIP session #2'
-
 type: post
-parent_id: '0'
-published: true
+parent_id: "0"
 password: ''
 status: publish
 categories: []
@@ -15,42 +13,35 @@ tags:
 - silex labs
 - silexV2
 - site internet
-
-_edit_last: '9'
+_edit_last: "9"
 _EventShowMapLink: ''
 _EventShowMap: ''
-
-
-
-
-_EventDuration: '3600'
+_EventDuration: "3600"
 _EventCurrencySymbol: ''
 _EventCurrencyPosition: suffix
 _EventCost: ''
-
 _EventTimezone: Europe/Paris
 _EventTimezoneAbbr: CET
-_yoast_wpseo_primary_post_cat: '42906'
-_thumbnail_id: '207777'
-_EventVenueID: '201135'
-_EventOrganizerID: '179633'
-
+_yoast_wpseo_primary_post_cat: "42906"
+_thumbnail_id: "207777"
+_EventVenueID: "201135"
+_EventOrganizerID: "179633"
 display_name: lexa
 first_name: lexa
 last_name: ''
 permalink: "/event/silex-website-builder-freelance-vip-session-2/"
+
 ---
+![](/assets/silex-webinar2-wide.png)
 
 Bienvenue à vous Silexiens débutants !
 
 Cet atelier fait partie d'une série d'ateliers Silex en
-ligne: 
-*   Atelier
+ligne:
 
-*   Atelier
-
-*   Atelier
-
+* Atelier
+* Atelier
+* Atelier
 
 Depuis 10 ans des makers, entrepreneurs et designers utilisent Silex pour leurs sites ou ceux de leurs clients, en toute liberté puisque Silex est libre et open source.
 
@@ -66,18 +57,19 @@ L'objectif est de vous donner un aperçu de ce que vous pouvez faire avec Silex 
 
 Prérequis
 
-*   avoir un compte Github et un compte Heroku
-*   avoir regardé les vidéos des sessions précédentes qui vous seront communiquées lors de votre inscription
+* avoir un compte Github et un compte Heroku
+* avoir regardé les vidéos des sessions précédentes qui vous seront communiquées lors de votre inscription
 
 Au programme
 
-*   petit tour de chauffe, on publie un site en 5 min
-*   héberger votre instance Silex sur heroku en 1 click
-*   focus sur les options de customization d’une instance Silex
-*   focus sur les composants Silex
-*   exemple d’application
-: créer un composant “ajouter à mon panier” pour le paiement en ligne et l’ajouter à votre instance Silex
-*  
+* petit tour de chauffe, on publie un site en 5 min
+* héberger votre instance Silex sur heroku en 1 click
+* focus sur les options de customization d’une instance Silex
+* focus sur les composants Silex
+* exemple d’application
+  : créer un composant “ajouter à mon panier” pour le paiement en ligne et l’ajouter à votre instance Silex
+* 
+
 conclusion: Silex est votre outil de prod et vous êtes un réseau de compétences
 
 [Inscription ici](https://www.meetup.com/Ateliers-du-libre-et-de-lopen-source/events/258110363/).
