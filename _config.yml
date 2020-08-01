@@ -16,5 +16,7 @@ pagination:
   debug: true
   per_page: 10
   permalink: '/page/:num/'
-exclude:
-  - admin 
+
+# this breaks the build, cf https://jekyllrb.com/docs/troubleshooting/
+# exclude:
+#  - admin 
