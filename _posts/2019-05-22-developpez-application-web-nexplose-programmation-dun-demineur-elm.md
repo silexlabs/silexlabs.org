@@ -1,30 +1,8 @@
 ---
 layout: post
-title: Développez une application web qui n'explose pas - Programmation d'un démineur
-  en Elm
-type: post
-parent_id: "0"
-password: ''
-status: publish
-categories: []
-tags: []
-_edit_last: "2427"
-_EventShowMapLink: "1"
-_EventShowMap: "1"
-_EventDuration: "7200"
-_EventCurrencySymbol: ''
-_EventCurrencyPosition: suffix
-_EventCost: ''
-_EventURL: ''
-_EventTimezone: Europe/Paris
-_EventTimezoneAbbr: CEST
-_yoast_wpseo_primary_post_cat: ''
-_EventVenueID: "207612"
-_thumbnail_id: "207847"
-display_name: Tariq
-first_name: Tariq
-last_name: Benezza
+title: Développez une application web qui n'explose pas - Programmation d'un démineur en Elm
 permalink: "/event/developpez-application-web-nexplose-programmation-dun-demineur-elm/"
+image: /assets/atelier-elm1.png
 
 ---
 ![](/assets/atelier-elm1.png)

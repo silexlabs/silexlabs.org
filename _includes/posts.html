@@ -4,12 +4,16 @@
   <article>
     <link rel="prefetch" href="{{post.url | absolute_url}}">
     <a href="{{post.url  | absolute_url}}">
+      <img src="{{ post.image | absolute_url }}" alt="{{post.title}}">
       <h2>{{ post.title }}</h2>
       <div class="post-date">{{ post.date | date_to_long_string }}</div>
-      {% if (post.tags.first) %}
-        <span class="tag">{{ post.tags.first }}</span>
-      {% endif %}
-      {{ post.excerpt | replace: '<a', '<div' | replace: '</a>', '</div>' | truncate: 800 }}
+      {% for tag in post.tags limit: 3 %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <li class="tag"><a href="{{site.url}}{{site.baseurl}}/tag/{{ tag_name | slugify }}">{{ tag_name }}</a></li>
+      {% endfor %}
+    </a>
+    <a href="{{post.url  | absolute_url}}">
+      {{ post.excerpt | markdownify | strip_html | markdownify | truncate: 500 }}
     </a>
   </article>
   {% endfor %}

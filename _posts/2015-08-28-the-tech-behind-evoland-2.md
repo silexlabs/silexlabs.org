@@ -52,7 +52,7 @@ last_name: ''
 permalink: "/the-tech-behind-evoland-2/"
 ---
 
-[![wwx2015-evoland2]({{ site.baseurl }}/assets/wwx2015-evoland2.png)](https://www.silexlabs.org/wp-content/uploads/2015/08/wwx2015-evoland2.png)
+[![wwx2015-evoland2]({{ site.baseurl }}/assets/wwx2015-evoland2.png)]({{site.baseurl}}/wp-content/uploads/2015/08/wwx2015-evoland2.png)
 
 #### Nicolas Cannasse's speech at the world wide Haxe conference WWX2015
 

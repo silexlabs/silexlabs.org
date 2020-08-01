@@ -7,7 +7,7 @@
 		<ul>
       {% for tag in page.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <li class="tag"><a href="{{url}}{{baseurl}}/tag/{{ tag_name | slugify }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a></li>
+        <li class="tag"><a href="{{site.url}}{{site.baseurl}}/tag/{{ tag_name | slugify }}">{{ tag_name }}</a></li>
       {% endfor %}
     </ul>
   </section>

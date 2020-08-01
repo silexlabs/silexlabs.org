@@ -1,7 +1,7 @@
 
 plugins:
-- jekyll-sitemap
-- jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-paginate-v2
 
 excerpt_separator: "<!-- more -->"
 
@@ -21,3 +21,19 @@ pagination:
 
 exclude:
   - admin 
+
+autopages:
+  enabled: true
+  tags:
+    layouts:
+      - 'tags.html'
+    title: 'Posts tagged with :tag'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: 'default'
+      case: false
+  categories:
+    enabled: false
+  collections: 
+    enabled: false
+

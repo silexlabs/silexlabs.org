@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Assemblée générale Silex Labs 2019
+image: /assets/screenshot-from-2020-08-01-18-08-12.png
 
 ---
-**![Assemblée générale Silex Labs](/assets/screenshot-from-2020-08-01-18-08-12.png "Assemblée générale Silex Labs")**
+**![Assemblée générale Silex Labs]({{site.url}}{{site.baseurl}}/assets/screenshot-from-2020-08-01-18-08-12.png "Assemblée générale Silex Labs")**
 
 Bonjour à tous,
 
