@@ -12,7 +12,7 @@ Notre conviction : la contribution change la vie de celui qui contribue et amél
 
 <iframe src="https://www.youtube.com/embed/oDaRn-_tubU?feature=oembed" allow="autoplay; encrypted-media" allowfullscreen="" width="607" height="341" frameborder="0"></iframe>
 
-**ADHÉREZ À SILEX LABS**
+## ADHÉREZ À SILEX LABS
 
 En payant l’adhésion de 15€ vous deviendrez membre de Silex Labs pour l’année **2018**.
 
@@ -23,7 +23,7 @@ En payant l’adhésion de 15€ vous deviendrez membre de Silex Labs pour l’a
 Si vous le souhaitez vous pouvez aussi donner un peu plus et ainsi faire un don pour soutenir l’association (vos dons sont déductibles de vos impôts à 66%).
 ![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
 
-**NOS OBJECTIFS**
+## NOS OBJECTIFS
 
 Avec les logiciels méthodologies et langages libres, nous fournissons les connaissances, les outils et l’inspiration pour :
 
@@ -31,7 +31,7 @@ Avec les logiciels méthodologies et langages libres, nous fournissons les conna
 *   **Enseigner et démocratiser** l’accès aux technologies open source et diffuser les valeurs du logiciel libre au plus grand nombre pour inspirer, inciter à contribuer et **faire découvrir les métiers du numérique** ;
 *   **Intégrer** les participants dans nos communautés et nos réseaux pour **favoriser leur insertion dans l’emploi.**
 
-**NOS ACTIONS**
+## NOS ACTIONS
 
 Silex Labs organise des ateliers sur des langages, des logiciels et des méthodologies qui couvrent un large spectre des métiers du numérique, depuis 2013 ans nous avons organisé plus de 160 ateliers qui ont réunit plus de 2000 participants. ([Bilan 2013](https://www.silexlabs.org/bilan-2013-de-silex-labs/), [Bilan 2014,](https://www.silexlabs.org/bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs/)<span style="font-weight: 400;"> [Bilan 2015).](https://www.silexlabs.org/2015-bilan-dune-annee-bien-remplibre/)</span>
 
@@ -39,7 +39,7 @@ En **2016** Silex Labs a organisé 63 événements en Île-de-France qui ont ras
 
 <span style="font-weight: 400;">.</span>Nous organisons aussi des événements plus longs comme des conférences ([World Wide Haxe Conference](https://www.silexlabs.org/wrapping-up-wwx2015/)) et des [contributhons](https://www.silexlabs.org/cifacom-week-40-etudiants-pour-creer-2-projets-open-source-en-1-semaine/).
 
-**NOS MÉTHODOLOGIES**
+## NOS MÉTHODOLOGIES
 
 Nous avons avons mis en place des méthodologies et des “outils” innovants pour faciliter l’apprentissage et inciter à la contribution.
 
@@ -48,7 +48,7 @@ Nous avons avons mis en place des méthodologies et des “outils” innovants p
 *   Le logiciel libre [Silex](http://www.silex.me/) qui permet de s’initier facilement au Html et au CSS.
 *   Nos événements sont filmés, montés et mis en ligne sur [notre chaîne youtube](https://www.youtube.com/user/Silexlabs) pour permettre au plus grand nombre d’accéder à nos contenus.
 
-**NOTRE RÉSEAU**
+## NOTRE RÉSEAU
 
 Nous nous appuyons sur [un réseau de partenaires riche et diver](https://www.silexlabs.org/partners/)s : écoles supérieures, centres de formation, maisons de quartier, MJC, Établissement Public Numérique, collectivités. Ces structures nous permettent non seulement d’avoir accès à des salles et du matériel de qualité mais aussi de toucher un public beaucoup plus divers, tant géographiquement que socialement.
 
@@ -62,7 +62,7 @@ Beaucoup de nos événements sont gratuits mais si vous souhaitez avoir accès �
 </form>
 ![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
 
-**RESTONS CONNECTÉS**
+## RESTONS CONNECTÉS
 
 N’oubliez pas de mettre le site internet de [Silex Labs](https://www.silexlabs.org/) dans vos favoris !
 
@@ -125,7 +125,7 @@ You can make a donation too, we will use it to organize workshops:
 * * *
 
 
-**Liens / Links**
+## Liens / Links
 
 *   [Adhérer / Get involved](https://www.silexlabs.org/silexlabs/join/ "get involved")
 *   [Silex Labs partners](https://www.silexlabs.org/partners/ "Silex Labs partners")
