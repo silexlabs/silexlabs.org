@@ -1,0 +1,19 @@
+---
+label: Posts
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: title
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: permalink
+  label: permalink
