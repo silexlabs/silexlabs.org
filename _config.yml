@@ -5,12 +5,6 @@ excerpt_separator: <!-- more -->
 baseurl: /silexlabs.org
 url: 'https://lexoyo.me'
 permalink: '/:title:'
-defaults:
-  - scope:
-      path: ''
-    values:
-      date: 12 aout 2015
-
 pagination:
   enabled: true
   debug: true
