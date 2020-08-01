@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Compte rendu de l'atelier git
-date: 2017-11-09 23:55:01.000000000 +01:00
+date: 2017-11-09T23:55:01.000+01:00
 type: post
-parent_id: '0'
-published: true
+parent_id: "0"
 password: ''
 status: publish
 categories:
@@ -17,9 +16,9 @@ meta:
   layout_footer: "- Select -"
   layout: "- Select -"
   layout_header: "- Select -"
-  _edit_last: '2427'
+  _edit_last: "2427"
   _oembed_137336c2aeb0fa0f344aa0b8608d755b: "{{unknown}}"
-  _thumbnail_id: '207420'
+  _thumbnail_id: "207420"
 author:
   login: Tariq
   email: tariq.benezza@gmail.com
@@ -29,6 +28,7 @@ author:
 permalink: "/compte-rendu-de-latelier-git/"
 
 ---
+![](/assets/atelier-git.png)
 
 Avant tout un grand merci à toutes et à tous. Nous étions un peu moins d'une trentaine à découvrir git, à renforcer nos acquis ou tout simplement à prendre la température (je parle de moi là).
 
@@ -36,23 +36,20 @@ Merci à [JB](https://github.com/JbIPS), notre seigneur git, qui a réussi à no
 
 Un grand merci à [Florian](https://github.com/FTwex), notre clutch player, qui une fois de plus a assuré et a pu animer un atelier dissident sans avoir besoin de recharger son PC
 
-  
-
 ### Le compte rendu
 
 #### Un gestionnaire de version ?
 
-Voici en introduction une petite vidéo illustrant l'arborescence des versions d'un projet - ici [Unifile](https://github.com/silexlabs/unifile)\- où nous pouvons déjà constater combien git peut faciliter la vie. Et ce surtout quand les contributeurs viennent de partout.
+Voici en introduction une petite vidéo illustrant l'arborescence des versions d'un projet - ici [Unifile](https://github.com/silexlabs/unifile)- où nous pouvons déjà constater combien git peut faciliter la vie. Et ce surtout quand les contributeurs viennent de partout.
 
 #### Pourquoi git ?
 
 git remplis quatre critères :
 
-*   **Libre** : git n'est porté par aucun GAFAM (Google Apple Facebook Amazon Microsoft), vous pouvez voir son code [ici](https://github.com/git)
-*   **Décentralisé** : Il n'y a pas de serveur où tout votre code est stocké. Les utilisateurs peuvent se synchroniser entre eux.
-*   **Local** : Chaque contributeur dispose du projet en local
-*   **Rapide** :
-    
+* **Libre** : git n'est porté par aucun GAFAM (Google Apple Facebook Amazon Microsoft), vous pouvez voir son code [ici](https://github.com/git)
+* **Décentralisé** : Il n'y a pas de serveur où tout votre code est stocké. Les utilisateurs peuvent se synchroniser entre eux.
+* **Local** : Chaque contributeur dispose du projet en local
+* **Rapide** :
 
 #### Attention please
 
@@ -69,9 +66,7 @@ Dans un premier temps il va falloir installer git. Rendez vous [ici](https://git
 
 Une fois que c'est fait, ouvrez votrer terminal préféré et lancez la commande suivante :
 
-`mkdir ma-recette && cd ma-recette  
-git init  
-`
+`mkdir ma-recette && cd ma-recette git init`
 
 Il s'agit là de la création du répertoire "ma-recette", nous nous y plaçons et enfin nous initialisons git pour ce _repo_
 
@@ -79,13 +74,11 @@ Il s'agit là de la création du répertoire "ma-recette", nous nous y plaçons 
 
 On crée un fichier et on ajoute notre liste d'ingrédients
 
-`touch recette.txt  
-git status`
+`touch recette.txt git status`
 
 git status nous indique l'état de notre dépôt. Ici on voit que notre fichier n'est pas suivi, il faut l'ajouter à l'index.
 
-`git add recette.txt  
-git status`
+`git add recette.txt git status`
 
 #### Le commit
 
@@ -93,9 +86,7 @@ Par définition le commit est un enregistrement des modifications dans le _repo_
 
 Maintenant que notre index est prêt nous pouvons créer ce fameux commit
 
-`git commit  
-git status  
-git log`
+`git commit git status git log`
 
 #### Retour vers le futur avec la commande revert
 
@@ -111,8 +102,7 @@ Dans la commande ci-dessus on revient à l'état du dernier commit.
 Après ce travail en local, il est temps de partager la recette.  
 Créez un dépôt sur [GitHub](https://github.com/) avec le nom que vous voulez (dans notre exemple nous opterons pour atelier-git) et ne l'initialisez pas.
 
-`git remote add origin https://github.com/$USER/atelier-git.git  
-git push origin master`
+`git remote add origin https://github.com/$USER/atelier-git.git git push origin master`
 
 Vous pouvez maintenant voir votre code sur GitHub !
 
