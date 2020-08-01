@@ -2,7 +2,7 @@
 layout: post
 title: Déchiffre et Delettre* - Épisode II
 type: post
-parent_id: "0"
+parent_id: '0'
 password: ''
 status: publish
 categories: []
@@ -10,24 +10,25 @@ tags:
 - chiffrement
 - javaScript
 - Jean Michel Delettre
-_edit_last: "2427"
+_edit_last: '2427'
 _oembed_cbfb10db81f2be392bc951733a80f9e0: "{{unknown}}"
-_EventShowMapLink: "1"
-_EventShowMap: "1"
-_EventDuration: "7200"
+_EventShowMapLink: '1'
+_EventShowMap: '1'
+_EventDuration: '7200'
 _EventCurrencySymbol: ''
 _EventCurrencyPosition: suffix
 _EventCost: ''
 _EventTimezone: Europe/Paris
 _EventTimezoneAbbr: CEST
-_yoast_wpseo_primary_post_cat: "42957"
-_EventVenueID: "203812"
-_EventOrganizerID: "179633"
-_thumbnail_id: "207817"
+_yoast_wpseo_primary_post_cat: '42957'
+_EventVenueID: '203812'
+_EventOrganizerID: '179633'
+_thumbnail_id: '207817'
 display_name: Jean-Baptiste Richardet
 first_name: Jean-Baptiste
 last_name: Richardet
 permalink: "/event/dechiffre-delettre-episode-ii/"
+image: "/assets/dechiffre-et-delettre.png"
 
 ---
 ![](/assets/dechiffre-et-delettre.png)

@@ -2,7 +2,7 @@
 layout: post
 title: Déchiffre et Delettre* - Épisode I
 type: post
-parent_id: "0"
+parent_id: '0'
 password: ''
 status: publish
 categories: []
@@ -11,24 +11,25 @@ tags:
 - javaScript
 - Jean Michel Delettre
 - vie privée
-_EventShowMap: "1"
-_EventShowMapLink: "1"
+_EventShowMap: '1'
+_EventShowMapLink: '1'
 _oembed_31c4c9ec330b76136f7bcc607922839d: "{{unknown}}"
-_edit_last: "2427"
+_edit_last: '2427'
 _EventOrigin: events-calendar
-_EventOrganizerID: "179633"
-_EventDuration: "7200"
+_EventOrganizerID: '179633'
+_EventDuration: '7200'
 _EventCurrencySymbol: ''
 _EventCurrencyPosition: suffix
 _EventCost: ''
 _EventTimezone: Europe/Paris
 _EventTimezoneAbbr: CEST
-_yoast_wpseo_primary_post_cat: "42957"
-_thumbnail_id: "207810"
+_yoast_wpseo_primary_post_cat: '42957'
+_thumbnail_id: '207810'
 display_name: Jean-Baptiste Richardet
 first_name: Jean-Baptiste
 last_name: Richardet
 permalink: "/event/dechiffre-delettre-episode-i/"
+image: "/assets/dechiffre-et-delettre-final.png"
 
 ---
 ![](/assets/dechiffre-et-delettre-final.png)

@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Compte rendu de l'atelier git
-date: 2017-11-09T23:55:01.000+01:00
+date: '2017-11-09T23:55:01.000+01:00'
 type: post
-parent_id: "0"
+parent_id: '0'
 password: ''
 status: publish
 categories:
 - The Blog
-tags: []
+tags:
+- atelier
+- git
 meta:
   wpautop: "- Select -"
   _yoast_wpseo_primary_category: ''
@@ -16,9 +18,9 @@ meta:
   layout_footer: "- Select -"
   layout: "- Select -"
   layout_header: "- Select -"
-  _edit_last: "2427"
+  _edit_last: '2427'
   _oembed_137336c2aeb0fa0f344aa0b8608d755b: "{{unknown}}"
-  _thumbnail_id: "207420"
+  _thumbnail_id: '207420'
 author:
   login: Tariq
   email: tariq.benezza@gmail.com
@@ -26,6 +28,7 @@ author:
   first_name: Tariq
   last_name: Benezza
 permalink: "/compte-rendu-de-latelier-git/"
+image: "/assets/atelier-git.png"
 
 ---
 ![](/assets/atelier-git.png)

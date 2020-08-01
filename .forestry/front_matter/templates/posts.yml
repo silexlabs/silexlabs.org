@@ -17,3 +17,8 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- _posts/2017-11-09-compte-rendu-de-latelier-git.md
+- _posts/2019-04-16-dechiffre-delettre-episode-i.md
+- _posts/2019-04-30-dechiffre-delettre-episode-ii.md
+- _posts/2020-05-31-assemblee-generale-silex-labs-2029.md
