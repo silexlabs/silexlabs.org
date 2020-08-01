@@ -2,10 +2,11 @@
 title: Activités proposées par Silex Labs
 layout: page
 lang: en
+
 ---
 Here is a list of the services provided by [Silex Labs](https://www.silexlabs.org/silexlabs/ "Silex Labs non profit organization") to open source communities.
 
-The services provided by Silex Labs to open source communities are provided for free. To attend the events though, you might need to</span> [be a member]( https://www.silexlabs.org/silexlabs/join/  "Join Silex Labs").
+The services provided by Silex Labs to open source communities are provided for free. To attend the events though, you might need to [be a member](https://www.silexlabs.org/silexlabs/join/  "Join Silex Labs").
 
 ## A flow of events
 
@@ -29,11 +30,11 @@ Before, during and after the event, we have helped the community be organized an
 
 Many blog posts and tweets have been written by the community and the communication group is still active.
 
-*   [Silex Labs “Haxe WWX ROX”](https://www.silexlabs.org/132104/the-blog/haxe-wwx-rox/ "Haxe conference WWX")
-*   [Franco Ponticelli “Haxe 2.09 – WWX 2012″](http://www.weblob.net/2012/haxe-2-09-wwx-2012/)
-*   [Luca Mezzalira “WWX 2012: HAXE CONFERENCE IN PARIS”](http://lucamezzalira.com/2012/04/16/wwx-2012-haxe-conference-in-paris/)
-*   [Nicolas Cannasse “WWX Conference Review”](http://ncannasse.fr/blog/wwx_review)
-*   [Ariel Sommeria “Haxe WWX Conference, what’s next?”](http://arielsommeria.com/blog/2012/04/17/haxe-wwx-conference-whats-next/)
+* [Silex Labs “Haxe WWX ROX”](https://www.silexlabs.org/132104/the-blog/haxe-wwx-rox/ "Haxe conference WWX")
+* [Franco Ponticelli “Haxe 2.09 – WWX 2012″](http://www.weblob.net/2012/haxe-2-09-wwx-2012/)
+* [Luca Mezzalira “WWX 2012: HAXE CONFERENCE IN PARIS”](http://lucamezzalira.com/2012/04/16/wwx-2012-haxe-conference-in-paris/)
+* [Nicolas Cannasse “WWX Conference Review”](http://ncannasse.fr/blog/wwx_review)
+* [Ariel Sommeria “Haxe WWX Conference, what’s next?”](http://arielsommeria.com/blog/2012/04/17/haxe-wwx-conference-whats-next/)
 
 Also you can check [the #wwx hash tag](https://twitter.com/#!/search/%23WWX) and soon we will release the pictures and videos, stay tuned [Silex Labs on twitter,](https://twitter.com/silexlabs "Silex Labs on twitter") [on facebook](http://www.facebook.com/groups/143614919006712/ "Silex Labs on facebook") and [Silex Labs blog](https://www.silexlabs.org/category/the-blog/blog-silex-labs/ "Silex Labs blog").
 
