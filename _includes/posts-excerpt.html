@@ -1,0 +1,13 @@
+<div class="posts-list">
+  {% for post in site.posts limit:5 %}
+  <article>
+    <link rel="prefetch" href="{{post.url | absolute_url}}">
+    <a href="{{post.url  | absolute_url}}">
+      <div>{{ post.title }}</div>
+      <div class="post-date">{{ post.date | date_to_long_string }}</div>
+    </a>
+    {% if (post.tags.first) %}
+      <span class="tag">{{ post.tags.first }}</span>
+    {% endif %}  </article>
+  {% endfor %}
+</div>

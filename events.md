@@ -1,6 +1,6 @@
 ---
 title: Silex Labs évènements
-layout: page-posts
+layout: posts
 description: Evènements de l'association à but non lucratif Silex Labs
 lang: fr
 pagination:
