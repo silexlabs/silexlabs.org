@@ -20,3 +20,6 @@ pagination:
 # this breaks the build, cf https://jekyllrb.com/docs/troubleshooting/
 # exclude:
 #  - admin 
+
+# this fixes an issue in forestry preview server
+repository: lexoyo/silexlabs.org
