@@ -17,3 +17,18 @@ pagination:
 
 # this fixes an issue in forestry preview server
 repository: lexoyo/silexlabs.org
+
+autopages:
+  enabled: true
+  tags:
+    layouts:
+      - 'tags.html'
+    title: 'Posts tagged with :tag'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: 'default'
+      case: false
+  categories:
+    enabled: false
+  collections: 
+    enabled: false
