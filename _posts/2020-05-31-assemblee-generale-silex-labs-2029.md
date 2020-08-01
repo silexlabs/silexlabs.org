@@ -7,13 +7,15 @@ tags:
 - ag
 
 ---
+![](/assets/screenshot-from-2020-08-01-18-08-12.png)
+
 **![Assemblée générale Silex Labs]({{site.url}}{{site.baseurl}}/assets/screenshot-from-2020-08-01-18-08-12.png "Assemblée générale Silex Labs")**
 
 Bonjour à tous,
 
 Voici venu le temps de l'AG annuelle. Seules les personnes à jour de leur cotisation de 15€ ont le droit de voter, [pensez à adhérer avant l’AG](https://www.silexlabs.org/silexlabs/). Merci d'avance !
 
-**L’assemblée Générale Ordinaire de Silex Labs aura lieu en ligne le samedi** 
+**L’assemblée Générale Ordinaire de Silex Labs aura lieu en ligne le samedi**
 
 Si vous ne pouvez pas vous joindre à nous, il vous est possible de vous faire représenter en envoyant un mail à contact \[à\] silexlabs.org ainsi libellé :
 
