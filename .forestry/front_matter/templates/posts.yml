@@ -17,6 +17,13 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: post
 pages:
 - _posts/2017-11-09-compte-rendu-de-latelier-git.md
 - _posts/2019-04-16-dechiffre-delettre-episode-i.md
