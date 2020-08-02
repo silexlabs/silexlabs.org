@@ -1,59 +1,55 @@
+<!-- forestryio: ignore; forestryio: admin -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Stastic Jekyll Editor</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      margin: 0;
-      overflow: hidden;
-    }
-    #stastic {
-      width: 100%;
-      height: 100%;
-      border: none;
-      position: absolute;
-    }
-  </style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="noindex" />
+    <title>Admin</title>
+    <meta name="description" content=" " />
+    <meta name="author" content=" " />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="320" />
+    <!-- Use maximum-scale and user-scalable at your own risk. It disables pinch/zoom. Think about usability/accessibility before including.-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+    <!-- Fort awesome icon kit -->
+    <script src="https://use.fortawesome.com/b6f38602.js"></script>
+
 </head>
 <body>
-  <iframe id="stastic"></iframe>
-  <script>
-    var freez = false;
-    function setIframeSrc() {
-      var API_ROOT_URL = 'https://stastic.net/admin.html';
-      var url = API_ROOT_URL
-        + '#' + encodeURIComponent(window.location.href.replace(window.location.search, '').replace(window.location.hash, '').replace('/admin', ''))
-        + '/' + encodeURIComponent('silexlabs.org/master')
-        + '/' + window.location.hash.substr(1);
+<div id="app">
 
-      document.getElementById('stastic').src = url;
-    }
-    window.addEventListener('hashchange', function(event) {
-      // if(freez) return;
+</div>
+<script id="admin-config-script" type="text/javascript">
+  var env = {
+      siteId: "ncq38ch3yqgrdw",
+      local: false
+  };
 
-      document.getElementById('stastic').contentWindow.postMessage({
-        type: 'hashChanged',
-        route: window.location.hash.substr(1),
-      }, '*');
-      // setIframeSrc();
+  function uuidv4() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+      var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+      return v.toString(16);
     });
-    window.addEventListener('message', function(event) {
-      // if(freez) return;
+  }
 
-      if(event.data.type && event.data.route && event.data.type === 'hashChanged') {
-        freez = true;
-        if(event.data.replace) window.location.replace('#' + event.data.route);
-        else window.location.hash = '#' + event.data.route;
-        setTimeout(function() { freez = false; }, 0);
-      }
-      if(event.data.type && event.data.url && event.data.type === 'redirect') {
-        window.location.href = event.data.url;
-      }
-    }, false);
-    setIframeSrc();
-  </script>
+  var uuid = uuidv4()
+  var script = document.createElement('script');
+  script.src = "https://app.forestry.io/admin/forestry.min.js?hash=" + uuid
+  script.id = "forestry-admin";
+  document.body.appendChild(script);
+
+  var link = document.createElement("link");
+  link.type = "text/css";
+  link.rel = "stylesheet";
+  link.href = "https://app.forestry.io/admin/main.css?hash=" + uuid
+  document.head.appendChild(link);
+
+</script>
+
 </body>
 </html>
