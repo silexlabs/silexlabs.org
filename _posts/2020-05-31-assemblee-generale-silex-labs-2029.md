@@ -23,8 +23,8 @@ Si vous ne pouvez pas vous joindre à nous, il vous est possible de vous faire r
 
 Les adhérents recevront un mail avant le début de la réunion avec un lien pour nous rejoindre.
 
-Ordre du jour de l’AG qui couvrira les exercices 2018 et 2019
-:
+Ordre du jour de l’AG qui couvrira les exercices 2018 et 2019 :
+
 • Mot de bienvenue du président  
 • Présentation et approbation des Rapports d’activité 2018 et 2019  
 • Présentation et approbation des Rapports financiers 2018 et 2019  
