@@ -13,7 +13,7 @@
       {% endfor %}
     </a>
     <a href="{{post.url  | absolute_url}}">
-      {{ post.excerpt | markdownify | strip_html | markdownify | truncate: 500 }}
+      {{ post.excerpt | markdownify | strip_html | markdownify | truncatewords: 500 }}
     </a>
   </article>
   {% endfor %}
