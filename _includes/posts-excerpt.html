@@ -7,7 +7,7 @@
       <div class="post-date">{{ post.date | date_to_long_string }}</div>
     </a>
     {% if (post.tags.first) %}
-      <span class="tag">{{ post.tags.first }}</span>
+      <a class="tag" href="{{site.url}}{{site.baseurl}}/tag/{{ post.tags.first | slugify }}">{{ post.tags.first }}</a>
     {% endif %}  </article>
   {% endfor %}
 </div>

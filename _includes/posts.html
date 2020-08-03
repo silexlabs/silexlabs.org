@@ -4,7 +4,9 @@
   <article>
     <link rel="prefetch" href="{{post.url | absolute_url}}">
     <a href="{{post.url  | absolute_url}}">
+      {% if post.image %}
       <img src="{{ post.image | absolute_url }}" alt="{{post.title}}">
+      {% endif %}
       <h2>{{ post.title }}</h2>
       <div class="post-date">{{ post.date | date_to_long_string }}</div>
       {% for tag in post.tags limit: 3 %}
@@ -13,7 +15,7 @@
       {% endfor %}
     </a>
     <a href="{{post.url  | absolute_url}}">
-      {{ post.excerpt | markdownify | strip_html | markdownify | truncatewords: 500 }}
+      {{ post.excerpt | markdownify | strip_html | markdownify | truncatewords: 50 }}
     </a>
   </article>
   {% endfor %}
