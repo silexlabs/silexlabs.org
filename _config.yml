@@ -11,9 +11,15 @@ pagination:
   per_page: 10
   permalink: '/page/:num/'
 
-# this breaks the build, cf https://jekyllrb.com/docs/troubleshooting/
-# exclude:
-#  - admin 
+# add vendor to fix the build on github pages, after the github action
+# default values from https://jekyllrb.com/docs/troubleshooting/
+exclude:
+  - vendor
+  - admin
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
 
 # this fixes an issue in forestry preview server
 repository: lexoyo/silexlabs.org
