@@ -1,8 +1,10 @@
 ---
 title: A propos de Silex Labs
 layout: page
-description: A propos de l'association Silex Labs, pour la diversité dans les métiers du numériques
+description: A propos de l'association Silex Labs, pour la diversité dans les métiers
+  du numériques
 lang: fr
+
 ---
 ## Présentation de Silex Labs
 
@@ -27,9 +29,9 @@ Si vous le souhaitez vous pouvez aussi donner un peu plus et ainsi faire un don 
 
 Avec les logiciels méthodologies et langages libres, nous fournissons les connaissances, les outils et l’inspiration pour :
 
-*   **Aider et accompagner** les citoyens notamment les demandeurs d’emploi et les jeunes déscolarisés à **reprendre le contrôle de leur vie numérique et professionnelle** ;
-*   **Enseigner et démocratiser** l’accès aux technologies open source et diffuser les valeurs du logiciel libre au plus grand nombre pour inspirer, inciter à contribuer et **faire découvrir les métiers du numérique** ;
-*   **Intégrer** les participants dans nos communautés et nos réseaux pour **favoriser leur insertion dans l’emploi.**
+* **Aider et accompagner** les citoyens notamment les demandeurs d’emploi et les jeunes déscolarisés à **reprendre le contrôle de leur vie numérique et professionnelle** ;
+* **Enseigner et démocratiser** l’accès aux technologies open source et diffuser les valeurs du logiciel libre au plus grand nombre pour inspirer, inciter à contribuer et **faire découvrir les métiers du numérique** ;
+* **Intégrer** les participants dans nos communautés et nos réseaux pour **favoriser leur insertion dans l’emploi.**
 
 ## NOS ACTIONS
 
@@ -43,10 +45,10 @@ En **2016** Silex Labs a organisé 63 événements en Île-de-France qui ont ras
 
 Nous avons avons mis en place des méthodologies et des “outils” innovants pour faciliter l’apprentissage et inciter à la contribution.
 
-*   Les ateliers en mode dojo, basés sur la méthodologie agile pour permettre de coder et d‘apprendre ensemble.
-*   Les contributhons : pour faire collaborer des élèves, des professionnels bénévoles et des passionnés pour créer ou améliorer des projets libres et gratuits.
-*   Le logiciel libre [Silex](http://www.silex.me/) qui permet de s’initier facilement au Html et au CSS.
-*   Nos événements sont filmés, montés et mis en ligne sur [notre chaîne youtube](https://www.youtube.com/user/Silexlabs) pour permettre au plus grand nombre d’accéder à nos contenus.
+* Les ateliers en mode dojo, basés sur la méthodologie agile pour permettre de coder et d‘apprendre ensemble.
+* Les contributhons : pour faire collaborer des élèves, des professionnels bénévoles et des passionnés pour créer ou améliorer des projets libres et gratuits.
+* Le logiciel libre [Silex](http://www.silex.me/) qui permet de s’initier facilement au Html et au CSS.
+* Nos événements sont filmés, montés et mis en ligne sur [notre chaîne youtube](https://www.youtube.com/user/Silexlabs) pour permettre au plus grand nombre d’accéder à nos contenus.
 
 ## NOTRE RÉSEAU
 
@@ -56,11 +58,10 @@ Deux permanents en poste sont chargés de la communication et de l’organisatio
 
 Beaucoup de nos événements sont gratuits mais si vous souhaitez avoir accès à l’ensemble des ateliers et nous soutenir vous pouvez adhérer à l’association (cotisation annuelle de 15€) ou faire une donation plus importante si vous le souhaitez (vos dons sont déductibles de vos impôts à 66%).
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
+<br/><br/><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="h_dden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="VY5MXUNYUDVKA">
 <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">
-</form>
-![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
+</form>_<br/><br/>
 
 ## RESTONS CONNECTÉS
 
@@ -68,25 +69,25 @@ N’oubliez pas de mettre le site internet de [Silex Labs](https://www.silexlabs
 
 Suivez nous sur les réseaux sociaux, cliquez, likez, retweetez, partagez nos news !
 
-*   [Facebook Silex Labs](https://www.facebook.com/silexlabs)
-*   [Twitter @silexlabs](https://twitter.com/silexlabs)
-*   [Diaspora Silex Labs](https://framasphere.org/people/f37438103a9b013250aa2a0000053625)
-*   [Linkedin SIlexlabs](https://www.linkedin.com/company/silex-labs)
-*   [Communauté Silex Labs sur Google +](https://plus.google.com/u/0/communities/107373636457908189681)
-*   [Les photos de nos événements sur Flickr](https://www.flickr.com/photos/120854033@N02/albums/)
+* [Facebook Silex Labs](https://www.facebook.com/silexlabs)
+* [Twitter @silexlabs](https://twitter.com/silexlabs)
+* [Diaspora Silex Labs](https://framasphere.org/people/f37438103a9b013250aa2a0000053625)
+* [Linkedin SIlexlabs](https://www.linkedin.com/company/silex-labs)
+* [Communauté Silex Labs sur Google +](https://plus.google.com/u/0/communities/107373636457908189681)
+* [Les photos de nos événements sur Flickr](https://www.flickr.com/photos/120854033@N02/albums/)
 
 Visionnez ou revisionnez les ateliers, tutoriels et conférences :
 
-*   [Abonnez vous à notre chaîne Youtube](http://www.youtube.com/subscription_center?add_user=silexlabs)
+* [Abonnez vous à notre chaîne Youtube](http://www.youtube.com/subscription_center?add_user=silexlabs)
 
 et bien sur venez participer aux évènements !
 
-*   [Newsletter mensuelle](http://eepurl.com/F48q5)
-*   [Agenda Silex Labs](https://www.silexlabs.org/events/liste/)
+* [Newsletter mensuelle](http://eepurl.com/F48q5)
+* [Agenda Silex Labs](https://www.silexlabs.org/events/)
 
 ![montage-tw50-3](https://www.silexlabs.org/wp-content/uploads/2015/02/montage-tw50-3.png)
 
-* * *
+***
 
 ## What is Silex Labs ?
 
@@ -114,30 +115,18 @@ If you want to change the world, contribute and show others how good it is to co
 
 You can make a donation too, we will use it to organize workshops:
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
+<br/><br/><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">
 
 <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_paynowCC_LG.gif" type="image"> <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">
 
+</form><br/><br/>
 
-</form>
-
-* * *
-
+***
 
 ## Liens / Links
 
-*   [Adhérer / Get involved](https://www.silexlabs.org/silexlabs/join/ "get involved")
-*   [Silex Labs partners](https://www.silexlabs.org/partners/ "Silex Labs partners")
-*   Follow us on [Twitter](http://twitter.com/silexlabs "Twitter SilexLabs"), [Facebook](http://www.facebook.com/silexlabs "Facebook SilexLabs"), [the blog](https://www.silexlabs.org/ "Silex Labs blog"), or [subscribe to our newsletter](http://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&id=2e1b03a5f0 "Silex Labs news and events")
-*   Contribute [to our projects](https://www.silexlabs.org/labs/ "Silex Labs projects") or let us know yours by coming to [our events](https://www.silexlabs.org/events/ "Silex Labs projects")
-*   [Read the 2014 statement](https://www.silexlabs.org/bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs/ "Latest Silex Labs end of year statement") on the blog
-*   [Silex Labs official’s Status](https://www.silexlabs.org/wp-content/uploads/2011/08/Annexe-4-Silex-Labs-Statuts-version-signee.pdf "Silex Labs Statuts")
-
-* * *
-
-We supports [several projects](https://www.silexlabs.org/labs/ "Silex Labs projects") and [events](https://www.silexlabs.org/events/ "Silex Labs events"). Our goal is to help projects expand and be sustainable. **The projects are mostly technically close and complementary**, so that the communities can influence and benefit from each other. For example, **Haxe** and **Amfphp** are upstream projects for **Cocktail** and **Silex**.
-
-Our projects are documented in order to be usable by other people in other places. We intend to mix communities of different projects and mix people from different places and professional backgrounds.
-
-In the page about [Silex Labs services](https://www.silexlabs.org/silexlabs/services/), you will find examples of what we do for open source projects since 2009 with a growing team of volunteers and tech enthusiasts from all kind of professional backgrounds.
+* [Adhérer / Get involved](https://www.silexlabs.org/silexlabs/join/ "get involved")
+* Follow us on [Twitter](http://twitter.com/silexlabs "Twitter SilexLabs"), [Facebook](http://www.facebook.com/silexlabs "Facebook SilexLabs"), [the blog](https://www.silexlabs.org/ "Silex Labs blog"), or [subscribe to our newsletter](http://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&id=2e1b03a5f0 "Silex Labs news and events")
+* [Read the 2014 statement](https://www.silexlabs.org/bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs/ "Latest Silex Labs end of year statement") on the blog
+* [Silex Labs official’s Status](https://www.silexlabs.org/wp-content/uploads/2011/08/Annexe-4-Silex-Labs-Statuts-version-signee.pdf "Silex Labs Statuts")
