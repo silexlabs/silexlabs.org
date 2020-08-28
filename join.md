@@ -3,6 +3,7 @@ title: Rejoindre Silex Labs
 layout: page
 description: Rejoignez les bénévoles de l'association Silex Labs, pour la diversité dans les métiers du numériques
 lang: fr
+permalink: join/
 ---
 
 ## Rejoignez les bénévoles de l'association Silex Labs, pour la diversité dans les métiers du numériques

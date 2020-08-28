@@ -43,6 +43,10 @@ _yoast_wpseo_primary_category: '1'
 display_name: lexa
 first_name: lexa
 last_name: ''
+
+redirect_from:
+- crowdfunding-silex
+
 permalink: "/silex-v2-crowd-funding-appel-aux-dons/"
 ---
 
