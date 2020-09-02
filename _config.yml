@@ -3,8 +3,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
 excerpt_separator: <!-- more -->
-baseurl: /silexlabs.org
-url: 'https://lexoyo.me'
+# baseurl: /silexlabs.org
+url: 'https://www.silexlabs.org'
 permalink: '/:title:'
 pagination:
   sort_reverse: true
