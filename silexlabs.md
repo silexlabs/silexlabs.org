@@ -12,11 +12,11 @@ lang: fr
 
 Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.
 
-<iframe src="https://www.youtube.com/embed/oDaRn-_tubU?feature=oembed" allow="autoplay; encrypted-media" allowfullscreen="" width="607" height="341" frameborder="0"></iframe> 
+<iframe src="https://www.youtube.com/embed/oDaRn-_tubU?feature=oembed" allow="autoplay; encrypted-media" allowfullscreen="" width="607" height="341" frameborder="0"></iframe>
 
 ## ADHÉREZ À SILEX LABS
 
-En payant l’adhésion de 15€ vous deviendrez membre de Silex Labs pour l’année **2018**.
+En payant l’adhésion de 15€ vous deviendrez membre de Silex Labs pour l’année **2020**.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">
