@@ -12,7 +12,7 @@ lang: fr
 
 Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.
 
-<iframe src="https://www.youtube.com/embed/oDaRn-_tubU?feature=oembed" allow="autoplay; encrypted-media" allowfullscreen="" width="607" height="341" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/oDaRn-_tubU?feature=oembed" allow="autoplay; encrypted-media" allowfullscreen="" width="607" height="341" frameborder="0"></iframe> 
 
 ## ADHÉREZ À SILEX LABS
 
