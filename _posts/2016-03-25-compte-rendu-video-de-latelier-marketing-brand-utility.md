@@ -70,19 +70,23 @@ Slides de l'atelier
 **1- La marque et la publicité
 : survol de l’Outbound marketing.**
 
-[embed]https://www.youtube.com/watch?v=iFfdzoy10Tc[/embed]
+[voir la video](https://www.youtube.com/watch?v=iFfdzoy10Tc)
+
 
 **2- Inbound marketing et création de contenus, pourquoi ? Comment ?**
 
-[embed]https://youtu.be/nQh2p4fiOeY[/embed]
+[voir la video](https://youtu.be/nQh2p4fiOeY)
+
 
 **3- Promouvoir en rendant service, la brand utility est-elle une tendance de fond ?**
 
-[embed]https://www.youtube.com/watch?v=a_vSt-lGZGk[/embed]
+[voir la video](https://www.youtube.com/watch?v=a_vSt-lGZGk)
+
 
 **4 - Qu’est ce que le marketing utile, utopie ou tendance de fond pour le futur du marketing et de la communication ?**
 
-[embed]https://www.youtube.com/watch?v=5mswh_SJQ0w[/embed]
+[voir la video](https://www.youtube.com/watch?v=5mswh_SJQ0w)
+
 
 >>>
 

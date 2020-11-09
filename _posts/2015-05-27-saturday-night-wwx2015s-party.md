@@ -50,7 +50,8 @@ The saturday night WWX's party will be organised in a charming and luxury Parisi
 
 Haxe’s logo maded by [Scengrafics](http://www.scengrafics.com/)
 
-[embed]http://scengrafics.com/HAXE2014/LOGO_HAXE.mp4[/embed]
+[voir la video](http://scengrafics.com/HAXE2014/LOGO_HAXE.mp4)
+
 
 [Pictures of some WWX ‘s parties](http://www.scengrafics.com/pictures.php)
 

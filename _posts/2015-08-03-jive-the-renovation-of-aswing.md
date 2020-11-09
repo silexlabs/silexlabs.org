@@ -83,7 +83,8 @@ The second part is about his opinions about UI librairies
 
 Watch the
 video: 
-[embed]https://youtu.be/unVLQIp9WIk[/embed]
+[voir la video](https://youtu.be/unVLQIp9WIk)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

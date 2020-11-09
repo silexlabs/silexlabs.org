@@ -111,7 +111,8 @@ permalink: "/10-years-of-haxe-10-things-i-like/"
 
 Watch the
 video: 
-[embed]https://youtu.be/sM8VhotrIJs[/embed]
+[voir la video](https://youtu.be/sM8VhotrIJs)
+
 
 Nicolas Cannasse said "10 years is a long time but still went quite fast. This talk was a good occasion to look back and focus on the things that makes Haxe unique, the reasons I created it in the first place".
 

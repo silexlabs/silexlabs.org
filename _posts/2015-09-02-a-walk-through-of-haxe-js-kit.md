@@ -71,6 +71,7 @@ This includes miscellaneous sexy stuff, from MongoDB modelling to ReactJS integr
 
 Watch the
 video: 
-[embed]https://youtu.be/YJ3IvE6qCEA[/embed]
+[voir la video](https://youtu.be/YJ3IvE6qCEA)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)

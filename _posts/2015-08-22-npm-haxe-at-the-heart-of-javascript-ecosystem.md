@@ -97,7 +97,8 @@ focus
 
 Watch the
 video: 
-[embed]https://youtu.be/YgbxqFx9qak[/embed]
+[voir la video](https://youtu.be/YgbxqFx9qak)
+
 
 [More WWX2015 videos](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

@@ -120,7 +120,8 @@ permalink: "/cross-platform-game-development-with-the-gameduell-duelltool/"
 
 **Watch the video:**
 
-[embed]https://youtu.be/43Ycna0WtN0[/embed]
+[voir la video](https://youtu.be/43Ycna0WtN0)
+
 
 [More WWX2015 videos](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

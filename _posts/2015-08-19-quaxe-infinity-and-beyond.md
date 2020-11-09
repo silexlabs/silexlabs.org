@@ -68,7 +68,8 @@ permalink: "/quaxe-infinity-and-beyond/"
 
 watch the
 video: 
-[embed]https://youtu.be/JfZ_QADfveU[/embed]
+[voir la video](https://youtu.be/JfZ_QADfveU)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

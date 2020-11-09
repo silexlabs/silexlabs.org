@@ -77,11 +77,13 @@ In this lightning talk **“IDE choice at TiVo“**, Srikanth shares an overview
 
 [Slides of "IDE choice at TiVo"](http://www.slideshare.net/SilexLabs/ide-choice-at-tivo):
 
-[embed]http://www.slideshare.net/SilexLabs/ide-choice-at-tivo[/embed]
+[voir la video](http://www.slideshare.net/SilexLabs/ide-choice-at-tivo)
+
 
 Watch the
 video: 
-[embed]https://youtu.be/94IUqA0YLHg[/embed]
+[voir la video](https://youtu.be/94IUqA0YLHg)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

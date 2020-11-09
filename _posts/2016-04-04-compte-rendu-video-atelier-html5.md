@@ -62,12 +62,14 @@ Html 5 (Hypertext Markup Language) est un langage de base pour la création de s
 
 Présentation de l’intervenant et bref présentation des différents langages utilisés pour le côté front (HTML, JavaScript, CSS)
 
-[embed]https://youtu.be/gZspF0Wghng[/embed]
+[voir la video](https://youtu.be/gZspF0Wghng)
+
 
 **Qu’est-ce que le HTML, HTML5 ?**
 ----------------------------------
 
-[embed]https://youtu.be/JGHOnyRfU54[/embed]
+[voir la video](https://youtu.be/JGHOnyRfU54)
+
 
 **Les balises <html>, <head>, <title>, <link>**
 -----------------------------------------------
@@ -78,7 +80,8 @@ On verra dans cette vidéo qu’est ce qu’un fichier html, à quoi correspond 
 
 Un document HTML est lié à une feuille de style css, on établiera le lien vers cette feuille de style avec la balise link.
 
-[embed]https://youtu.be/7iQRrJgHycM[/embed]
+[voir la video](https://youtu.be/7iQRrJgHycM)
+
 
 **Structure du document HTML** **avec les balises <header>, <body>, <main>, <footer> et insertion d’une image**
 ---------------------------------------------------------------------------------------------------------------
@@ -87,7 +90,8 @@ Dans cette vidéo on commencera la structure de notre document HTML avec les bal
 
 ( description des balises html, head, title, main, footer)
 
-[embed]https://youtu.be/95dK2H4tO4k[/embed]
+[voir la video](https://youtu.be/95dK2H4tO4k)
+
 
 **Création d’une deuxième page et de la navigation**
 ----------------------------------------------------
@@ -96,14 +100,16 @@ Dans cette partie, on créera une deuxième page contact.html avec son lien.
 
 Ici on découvrira les balises navigation <nav> et ancre <a>
 
-[embed]https://youtu.be/ruNVsjORm8A[/embed]
+[voir la video](https://youtu.be/ruNVsjORm8A)
+
 
 **Les balises titres <h1>, <h2>, <h3>...**
 ------------------------------------------
 
 Ici on verra les balises titres “heading1” <h1> et “heading2” < h2> qui définissent l’importance (elles vont jusqu’à h6)
 
-[embed]https://youtu.be/bYttv-QAXIQ[/embed]
+[voir la video](https://youtu.be/bYttv-QAXIQ)
+
 
 **Les listes avec les balises <ul>, <ol>, <li>**
 ------------------------------------------------
@@ -111,14 +117,16 @@ Ici on verra les balises titres “heading1” <h1> et “heading2” < h2> qui 
 Ici on verra comment faire des listes
 : les “bullet point” avec la balise <ul>, et les listes numérotées avec la balise <ol>.
 
-[embed]https://youtu.be/HzV78uQf5Rw[/embed]
+[voir la video](https://youtu.be/HzV78uQf5Rw)
+
 
 **Balises <footer>, <small>, <adress>**
 ---------------------------------------
 
 Dans cette vidéo on verra le pied de page avec la balise <footer>, la balise <small>, <adress>
 
-[embed]https://youtu.be/sMqA0oj48vQ[/embed]
+[voir la video](https://youtu.be/sMqA0oj48vQ)
+
 
 ### **Le tour du Web en 50 ateliers**
 

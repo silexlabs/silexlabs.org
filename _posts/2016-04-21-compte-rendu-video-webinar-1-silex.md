@@ -68,38 +68,46 @@ permalink: "/compte-rendu-video-webinar-1-silex/"
 
 *   Editeur pour le responsive mobile pour créer une version mobile conviviale du site (preprod)
 
-[embed]https://youtu.be/jJQL0eDQ4pA[/embed]
+[voir la video](https://youtu.be/jJQL0eDQ4pA)
+
 
 Chapitrage de ce Webinar #1 Silex (FR)
 --------------------------------------
 
 #### Présentation du logiciel libre Silex et de l'association qui maintient le logiciel Silex Labs
 : 
-[embed]https://youtu.be/FmYUt0NoBNQ[/embed]
+[voir la video](https://youtu.be/FmYUt0NoBNQ)
+
 
 #### Partir d'une template gratuite Silex et l'éditer
 : 
-[embed]https://youtu.be/r3It2wae0hQ[/embed]
+[voir la video](https://youtu.be/r3It2wae0hQ)
+
 
 #### Intégrer une galerie flickr dans votre site fait avec Silex
 : 
-[embed]https://youtu.be/sG22-2_p3N0[/embed]
+[voir la video](https://youtu.be/sG22-2_p3N0)
+
 
 ####  Intégrer une carte Open Street Map dans votre site fait avec Silex
 : 
-[embed]https://youtu.be/r6kPBhILwC4[/embed]
+[voir la video](https://youtu.be/r6kPBhILwC4)
+
 
 #### Mettre un formulaire de contact dans votre site Silex
 : 
-[embed]https://youtu.be/U2jrjvOypks[/embed]
+[voir la video](https://youtu.be/U2jrjvOypks)
+
 
 #### Intégrer Piwik analytic dans votre site
 : 
-[embed]https://youtu.be/wvyIxIoP_pc[/embed]
+[voir la video](https://youtu.be/wvyIxIoP_pc)
+
 
 #### Publication sur internet du site Silex avec Netlify
 : 
-[embed]https://youtu.be/tJVIfFhZN4g[/embed]
+[voir la video](https://youtu.be/tJVIfFhZN4g)
+
 
 ### [Webinar #2 Silex
 
@@ -118,7 +126,8 @@ Crowdfunding Silex
 
 A la fin avril 2016 Silex Labs lance une [campagne de financement participatif  pour le logiciel Silex](https://www.ulule.com/silex-websitebuilder/) car nous avons l’ambition de donner à ce logiciel une portée internationale en créant une documentation et des tutoriels multilingues. De plus, votre participation nous permettra de faire plus de templates libres pour faciliter le démarrage de votre site.
 
-[embed]https://youtu.be/tBdW9TkDGLU[/embed]
+[voir la video](https://youtu.be/tBdW9TkDGLU)
+
 
 [Silex](http://www.silex.me) est un outil libre et gratuit pour faire des sites web. Depuis 2009, des designers, des entrepreneurs, des développeurs web l'utilisent et le développent pour créer des sites vitrines professionnels, en partant d’une page vierge ou sur la base de templates d’exemple fournies gratuitement.
 

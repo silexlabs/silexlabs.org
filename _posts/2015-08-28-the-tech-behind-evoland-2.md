@@ -66,7 +66,8 @@ permalink: "/the-tech-behind-evoland-2/"
 
 Watch the
 video: 
-[embed]https://youtu.be/QTMKFx2CWJE[/embed]
+[voir la video](https://youtu.be/QTMKFx2CWJE)
+
 
 
 

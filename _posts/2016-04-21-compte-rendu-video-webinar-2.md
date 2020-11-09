@@ -80,7 +80,8 @@ Crowdfunding Silex
 
 A la fin avril 2016 Silex Labs lance une [campagne de financement participatif  pour le logiciel Silex](https://www.ulule.com/silex-websitebuilder/) car nous avons l’ambition de donner à ce logiciel une portée internationale en créant une documentation et des tutoriels multilingues. De plus, votre participation nous permettra de faire plus de templates libres pour faciliter le démarrage de votre site.
 
-[embed]https://youtu.be/tBdW9TkDGLU[/embed]
+[voir la video](https://youtu.be/tBdW9TkDGLU)
+
 
 [Silex](http://www.silex.me) est un outil libre et gratuit pour faire des sites web. Depuis 2009, des designers, des entrepreneurs, des développeurs web l'utilisent et le développent pour créer des sites vitrines professionnels, en partant d’une page vierge ou sur la base de templates d’exemple fournies gratuitement.
 

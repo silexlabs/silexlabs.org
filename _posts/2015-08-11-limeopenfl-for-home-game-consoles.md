@@ -122,7 +122,8 @@ In his talk **Lars Doucet** shares how they solved both the technical and the le
 
 Watch the
 video: 
-[embed]https://youtu.be/4lL2N2siHlE[/embed]
+[voir la video](https://youtu.be/4lL2N2siHlE)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

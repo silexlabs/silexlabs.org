@@ -69,21 +69,24 @@ Cet atelier est découpé en 3
 
 Une introduction sur les technologies, l’explication des termes serveur et clients. les requêtes HTTP, la notion GET et POST ($_GET et $_POST )
 
-[embed]https://youtu.be/HTaERtG06QQ[/embed]
+[voir la video](https://youtu.be/HTaERtG06QQ)
+
 
 ** 2. Réaliser un formulaire**
 ------------------------------
 
 Passons à la pratique. Réalisation avec php d’un petit formulaire, ici on fera une petite addition.
 
-[embed]https://youtu.be/a9MhTrhEb2s[/embed]
+[voir la video](https://youtu.be/a9MhTrhEb2s)
+
 
 ** 3. Base de données MySQL**
 -----------------------------
 
 Le php nous servira ici à la communication avec une base de données créée via MySQLi. Il sera question de créer, modifier et supprimer des éléments de la base de données grâce à php.
 
-[embed]https://youtu.be/1a8yc_SaZUM[/embed]
+[voir la video](https://youtu.be/1a8yc_SaZUM)
+
 
 **Intervenant**
 ---------------
@@ -106,5 +109,6 @@ Twitter
 
 C'est un langage peu typé, souple et donc facile à apprendre par un débutant car il ne s'encombre pas de théorie et a tendance à choisir le chemin le plus direct. La communauté est énorme et travaille sans relâche à l’amélioration de ce langage.
 
-[embed]https://twitter.com/silexlabs/status/560507667022893058[/embed]
+[voir la video](https://twitter.com/silexlabs/status/560507667022893058)
+
 

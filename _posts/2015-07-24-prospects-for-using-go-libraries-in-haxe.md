@@ -95,7 +95,8 @@ permalink: "/prospects-for-using-go-libraries-in-haxe/"
 
 Watch the
 video: 
-[embed]https://youtu.be/hlHlQ32IEPg[/embed]
+[voir la video](https://youtu.be/hlHlQ32IEPg)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 
