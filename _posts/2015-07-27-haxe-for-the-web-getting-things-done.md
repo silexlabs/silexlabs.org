@@ -77,7 +77,8 @@ Web: Getting things done”**, **Juraj Kirchheim** shares with us a pragmatic ap
 
 Watch the
 video: 
-[embed]https://youtu.be/TQvW0_OWens[/embed]
+[voir la video](https://youtu.be/TQvW0_OWens)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

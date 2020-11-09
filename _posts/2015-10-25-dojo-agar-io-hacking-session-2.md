@@ -65,9 +65,11 @@ Nous listerons nos objectifs en début d’atelier pour les deux heures à venir
 
 **Vidéos de la première session :**
 
-[embed]https://www.youtube.com/watch?v=OzPJf-6WN2g[/embed]
+[voir la video](https://www.youtube.com/watch?v=OzPJf-6WN2g)
 
-[embed]https://www.youtube.com/watch?v=twqOcZUkFaA[/embed]
+
+[voir la video](https://www.youtube.com/watch?v=twqOcZUkFaA)
+
 
 ### **Le concept de “Dojo” by Silex Labs**
 

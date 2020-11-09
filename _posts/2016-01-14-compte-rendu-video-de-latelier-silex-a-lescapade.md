@@ -84,49 +84,56 @@ Le compte-rendu vidéo est découpé en parties
 
 
 
-[embed]https://youtu.be/Cpb4eJLluvg[/embed]
+[voir la video](https://youtu.be/Cpb4eJLluvg)
+
 
 2- META-CONTAINER ET BACKGROUND
 ===============================
 
 Dans la deuxième partie on verra la notion de meta-container et de background de votre site
 
-[embed]https://youtu.be/4nJrOAC8HEs[/embed]
+[voir la video](https://youtu.be/4nJrOAC8HEs)
+
 
 3- INSÉRER UN BLOC TEXTE ET SAUVEGARDER SA PUBLICATION
 ======================================================
 
 Dans cette troisième partie on verra l'insertion d'un bloc texte et la sauvegarde sur dropbox du site internet
 
-[embed]https://youtu.be/GMLwaFgGeqY[/embed]
+[voir la video](https://youtu.be/GMLwaFgGeqY)
+
 
 4- INSÉRER UNE IMAGE
 ====================
 
 Dans cette quatrième partie on verra l'insertion d'une image et l'interaction avec la dropbox
 
-[embed]https://youtu.be/HjoqFEprpZY[/embed]
+[voir la video](https://youtu.be/HjoqFEprpZY)
+
 
 5- INSÉRER UN CONTAINER
 =======================
 
 Dans cette cinquième vidéo on verra le "container", qui permet de grouper plusieurs éléments.
 
-[embed]https://youtu.be/AcpR6cMi5iM[/embed]
+[voir la video](https://youtu.be/AcpR6cMi5iM)
+
 
 6- CRÉER UNE PAGE ET AFFICHER DES ÉLÉMENTS
 ==========================================
 
 Dans cette partie on verra comment créer une page sur le site édité par [Silex et](http://www.silex.me/) comment créer un lien vers cette page. On verra aussi comment afficher un élément sur une ou plusieurs pages avec l'option "show only on".
 
-[embed]https://youtu.be/W9P_i8yM1DI[/embed]
+[voir la video](https://youtu.be/W9P_i8yM1DI)
+
 
 7- INSÉRER UNE VIDÉO AVEC UNE HTML BOX
 ======================================
 
 Dans cette vidéo on verra comment ajouter une vidéo sur votre site internet grâce à la HTML box
 
-[embed]https://youtu.be/vj_0WhVOOKU[/embed]
+[voir la video](https://youtu.be/vj_0WhVOOKU)
+
 
 AUTRES EXEMPLE D'INSERTION D'ÉLÉMENTS AVEC UNE HTML BOX
 : =========================================================
@@ -136,21 +143,24 @@ AUTRES EXEMPLE D'INSERTION D'ÉLÉMENTS AVEC UNE HTML BOX
 
 Avec le même principe que pour la vidéo, ici, on insérera un Soundcloud en copiant le code iframe dans une HTML box
 
-[embed]https://youtu.be/f5aTY5BM4xY[/embed]
+[voir la video](https://youtu.be/f5aTY5BM4xY)
+
 
 9- INSÉRER UNE CARTE AVEC GOOGLE MAP
 ====================================
 
 Autre exemple d'insertion ici avec une google map
 
-[embed]https://youtu.be/jAIDA64tE9g[/embed]
+[voir la video](https://youtu.be/jAIDA64tE9g)
+
 
 10- S'INITIER AU CSS DANS SILEX
 ===============================
 
 
 
-[embed]https://youtu.be/fBU1zlTe7Wg[/embed]
+[voir la video](https://youtu.be/fBU1zlTe7Wg)
+
 
 Pour la publication de votre site fait avec Silex voici la documentation
 : 

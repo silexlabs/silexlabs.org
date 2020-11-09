@@ -112,7 +112,8 @@ The presentation has been made on the website [Ufront.net](http://ufront.net/).
 
 Watch the
 video: 
-[embed]https://youtu.be/iAwwfe-BGLI[/embed]
+[voir la video](https://youtu.be/iAwwfe-BGLI)
+
 
 Jason
 O'Neil: "Being part of the WWX Haxe conference this year was a real privilege. So many game-changing ideas, people working on great projects, and great ideas buzzing around the different groups of delegates.  I definitely left feeling inspired with some of the projects that were shared, ideas that were explored, and people that I got to meet with.  Lots of fun, lots of code, not much sleep.  Can't wait for WWX 2016."

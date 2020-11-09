@@ -84,7 +84,8 @@ Hugh Sanderson -
 
 Watch the
 video: 
-[embed]https://youtu.be/hltXpZ3Upxg[/embed]
+[voir la video](https://youtu.be/hltXpZ3Upxg)
+
 
 Hugh
 Sanderson: "I had a fantastic time at wwx this year - great to see some new faces and some old ones.  I think I talked to most people at some stage and found the diversity of ideas and uses for haxe very inspiring".

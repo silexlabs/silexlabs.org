@@ -81,7 +81,8 @@ Data flow of [Drakarnage](http://drakarnage.com) alongside some sample of what H
 
 ### Watch the
 video: 
-[embed]https://youtu.be/6tbE4NU6sjs[/embed]
+[voir la video](https://youtu.be/6tbE4NU6sjs)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

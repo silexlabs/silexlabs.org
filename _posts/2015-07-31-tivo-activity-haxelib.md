@@ -100,7 +100,8 @@ In this talk **“TiVo Activity Haxelib”**, **Todd Kulick** presents the conce
 
 Watch the
 video: 
-[embed]https://youtu.be/YAICeJdzptk[/embed]
+[voir la video](https://youtu.be/YAICeJdzptk)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

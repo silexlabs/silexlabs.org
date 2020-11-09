@@ -72,7 +72,8 @@ In his talk  **“The MOKICK Story” Markus Raab** gives us a sneak preview on
 
 Watch the
 video: 
-[embed]https://youtu.be/63C_QeXrYPM[/embed]
+[voir la video](https://youtu.be/63C_QeXrYPM)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

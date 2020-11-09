@@ -75,12 +75,14 @@ En résumé le shell fournit toutes les fonctionnalités de base pour pouvoir la
 
 [![screenshotsshellcommandesbase]({{ site.baseurl }}/assets/screenshotsshellcommandesbase.png)](https://www.silexlabs.org/wp-content/uploads/2015/12/screenshotsshellcommandesbase.png)
 
-[embed]https://youtu.be/hkCylHyPut8[/embed]
+[voir la video](https://youtu.be/hkCylHyPut8)
+
 
 *   **2ème partie**
 : ici on verra la commande man qui donne accés au manuel d’une fonction, la commande info, uname, history. Puis on s’attaquera à l’affectation et accès aux variables, et aux tableaux. On finira par un petit exercice qui sera la création d’un script test-fichier permettant de savoir si l’argument est un fichier ou un répertoire
 
-[embed]https://youtu.be/S5mFLBHWszw[/embed]
+[voir la video](https://youtu.be/S5mFLBHWszw)
+
 
 *   Dans cette **3ème partie** de l'atelier Script Shell il est question des structures conditionnelles, de tests avancés, et des boucles
 : 
@@ -94,12 +96,14 @@ En résumé le shell fournit toutes les fonctionnalités de base pour pouvoir la
 
 Puis une mise en application avec un exercice dont le but est de faire un script qui génère un nombre aléatoire et l'utilisateur doit trouver ce nombre en un minimum de tentatives.
 
-[embed]https://youtu.be/MMGaXxKKw28[/embed]
+[voir la video](https://youtu.be/MMGaXxKKw28)
+
 
 *   **4ème partie**, on verra les filtres tels que les commandes
 : expand, unexpand-head, tail...
 
-[embed]https://youtu.be/wdzgjCdpW8U[/embed]
+[voir la video](https://youtu.be/wdzgjCdpW8U)
+
 
 ### **Animateur**
 

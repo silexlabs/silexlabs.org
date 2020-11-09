@@ -78,7 +78,8 @@ Silex est fait pour vous quelles que soient vos compétences
 
 ### Vidéo du 1er webinar
 : 
-[embed]https://youtu.be/jJQL0eDQ4pA[/embed]
+[voir la video](https://youtu.be/jJQL0eDQ4pA)
+
 
 ### Animateur
 

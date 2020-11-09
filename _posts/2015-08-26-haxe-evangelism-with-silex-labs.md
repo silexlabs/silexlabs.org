@@ -81,7 +81,8 @@ The FOSS website-buider
 
 Watch the
 video: 
-[embed]https://youtu.be/XEQ7LI9EAJw[/embed]
+[voir la video](https://youtu.be/XEQ7LI9EAJw)
+
 
 [More WWX2015 videos](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

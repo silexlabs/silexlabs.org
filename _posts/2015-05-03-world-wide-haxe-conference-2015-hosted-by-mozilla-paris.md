@@ -38,7 +38,8 @@ last_name: ''
 permalink: "/event/world-wide-haxe-conference-2015-hosted-by-mozilla-paris/"
 ---
 
-[embed]https://www.youtube.com/watch?v=9bjs3mq0jVQ[/embed]  
+[voir la video](https://www.youtube.com/watch?v=9bjs3mq0jVQ)
+
 The 4 day conference will take place in Paris from May 29th May to 1st June 2015. It will be hosted by [Mozilla Paris](https://www.mozilla.org/en-US/contact/spaces/paris/ "Mozilla Paris"), in a magnificent and historic building, offering a perfect place to host the Haxe community in downtown Paris!
 
 ![]({{ site.baseurl }}/assets/c1d9e96f7d766d2ed6db511027efdb.png)

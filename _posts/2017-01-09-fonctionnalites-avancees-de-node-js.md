@@ -59,7 +59,8 @@ Si vous bloquez vraiment, retrouvez le code fini et enrichi ici
 
 Bon visionnage et n'hésitez pas à poser des questions et laisser des commentaires sur YouTube ou GitHub !
 
-[embed]https://youtu.be/vbTJNZegLJQ[/embed]
+[voir la video](https://youtu.be/vbTJNZegLJQ)
+
 
 ### **Le tour du Web en 50 ateliers**
 

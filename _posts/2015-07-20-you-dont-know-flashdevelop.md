@@ -57,7 +57,8 @@ In his  lightning talk **“You don’t know FlashDevelop – tips and future�
 
 Watch the
 video: 
-[embed]https://www.youtube.com/watch?v=myRUlJ0KFcc[/embed]
+[voir la video](https://www.youtube.com/watch?v=myRUlJ0KFcc)
+
 
 [More WWX2015 videos](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

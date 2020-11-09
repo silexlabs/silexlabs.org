@@ -79,11 +79,13 @@ Enterprise: A Case Study”**, **Alfred Barberena** presents Tivo's experiences 
 [Slides of the talk **“Haxe in the
 
 
-[embed]http://www.slideshare.net/SilexLabs/haxe-in-the-enterprise-a-case-study[/embed]
+[voir la video](http://www.slideshare.net/SilexLabs/haxe-in-the-enterprise-a-case-study)
+
 
 Watch the
 video: 
-[embed]https://youtu.be/o-KV5PlhvBk[/embed]
+[voir la video](https://youtu.be/o-KV5PlhvBk)
+
 
 More WWX2015 videos [here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 

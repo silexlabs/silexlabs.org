@@ -64,7 +64,8 @@ Web
 
 Watch the video
 : 
-[embed]https://youtu.be/_2Xm96xU4OQ[/embed]
+[voir la video](https://youtu.be/_2Xm96xU4OQ)
+
 
 [More WWX2015 videos here](https://www.silexlabs.org/wrapping-up-wwx2015/)
 
