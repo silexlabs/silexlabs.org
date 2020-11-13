@@ -22,12 +22,11 @@ En payant l’adhésion de 15€ vous deviendrez membre de Silex Labs pour l’a
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">
 <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_paynowCC_LG.gif" type="image">     <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image"></form>
 
-Si vous le souhaitez vous pouvez aussi donner un peu plus et ainsi faire un don pour soutenir l’association (vos dons sont déductibles de vos impôts à 66%).
-![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
+Si vous le souhaitez, vous pouvez aussi donner un peu plus et ainsi faire un don pour soutenir l’association (vos dons sont déductibles de vos impôts à 66%). ![](https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif)
 
 ## NOS OBJECTIFS
 
-Avec les logiciels méthodologies et langages libres, nous fournissons les connaissances, les outils et l’inspiration pour :
+Avec les logiciels, méthodologies et langages libres, nous fournissons les connaissances, les outils et l’inspiration pour :
 
 * **Aider et accompagner** les citoyens notamment les demandeurs d’emploi et les jeunes déscolarisés à **reprendre le contrôle de leur vie numérique et professionnelle** ;
 * **Enseigner et démocratiser** l’accès aux technologies open source et diffuser les valeurs du logiciel libre au plus grand nombre pour inspirer, inciter à contribuer et **faire découvrir les métiers du numérique** ;
