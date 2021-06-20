@@ -9,6 +9,15 @@ permalink: join/
 ---
 ## Rejoignez les bénévoles de l'association Silex Labs, pour la diversité dans les métiers du numériques
 
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+hbspt.forms.create({
+region: "na1",
+portalId: "20269360",
+formId: "e2c8d021-73e0-4cbd-8bdd-23000027fa53"
+});
+</script>
+
 Voici les différents moyens de nous rejoindre
 
 1. [Venez à notre rencontre sur le chat framateam](https://framateam.org/signup_email?id=x1ay4zdjdffh5j67xzkfsofpyw), ou contactez nous par mail à contact \[à\] silexlabs.org
