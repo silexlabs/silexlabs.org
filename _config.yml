@@ -3,7 +3,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-redirect-from
 excerpt_separator: <!-- more -->
-# baseurl: /silexlabs.org
+baseurl: /
 url: 'https://www.silexlabs.org'
 permalink: '/:title:'
 pagination:
