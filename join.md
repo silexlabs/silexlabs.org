@@ -24,4 +24,4 @@ Voici les autres moyens de nous rejoindre
 2. Venez aux [apéro et aux ateliers](/events/ "Evenements Silex Labs"), [restez informés en vous inscrivant à la lettre d'information](https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&id=2e1b03a5f0)
 3. [Adhérez à Silex Labs en ligne ou faites un don]({{site.url}}{{site.baseurl}}/silexlabs#adhérez-à-silex-labs)
 
-Vous pourrez alors discuter avec nous de ce que vous pourez apporter et recevoir.
+Vous pourrez alors discuter avec nous de ce que vous pourrez apporter et recevoir.
