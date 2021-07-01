@@ -10,7 +10,7 @@ tags:
 permalink: "/premiers-pas-nous-donner-5-minutes/"
 
 ---
-![](/assets/benevolat.jpg)
+![Aider les personnes en reconversion professionnelle](/assets/reconversion-professionnelle-adulte.jpg)![](/assets/benevolat.jpg)
 
 Bonjour à tout.es
 
@@ -18,7 +18,7 @@ Si vous lisez ceci c'est probablement que vous êtes ouverts au bénévolat. Je 
 
 > Silex Labs aide des personnes en reconversion professionnelle - souvent des minorités, à trouver un boulot dans l'informatique
 
- vos bons cœurs m'sieur-dames, aidons les en leur apprenant à pêcher... des jobs dans l'informatique
+vos bons cœurs m'sieur-dames, aidons les en leur apprenant à pêcher... des jobs dans l'informatique
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
