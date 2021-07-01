@@ -1,0 +1,341 @@
+<!doctype html><html class="" lang=""><head>
+  <meta charset="UTF-8">
+  <!-- generator meta tag -->
+  <!-- leave this for stats and Silex version check -->
+  <meta name="generator" content="Silex v2.2.12">
+  <!-- End of generator meta tag -->
+  <script type="text/javascript" src="https://www.silexlabs.org/js/jquery.js"></script>
+  
+  
+  <script type="text/javascript" src="https://www.silexlabs.org/js/front-end.js"></script>
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/normalize.css">
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/front-end.css">
+
+  
+  <script type="text/javascript" class="silex-script"></script>
+  
+  <title>PDF import plugin</title>
+  
+
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="og:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:title" content="PDF import plugin"><meta name="og:title" content="PDF import plugin"><meta name="twitter:site" content="@silexlabs"><link href="https://www.silexlabs.org/css/favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><meta name="og:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><script src="https://www.silexlabs.org/js/script.js" type="text/javascript"></script><link href="https://www.silexlabs.org/css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime silex-published" data-silex-type="container-element" style="" data-current-page="page-post">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563543778332-2 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563543778136-1 container-element silex-element-content website-width" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" style=""><a href="https://www.silexlabs.org/" data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" style=""><img src="https://www.silexlabs.org/assets/silexlabs.org_.2015.png" class=""></a><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" style=""><div class="silex-element-content normal">
+
+  <ul>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/">Accueil</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/events">Evènements</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/silexlabs">A propos</a>
+  </li>
+
+</ul>
+
+
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1564093276656-2 html-element" style=""><div class="silex-element-content"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N48MBGD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544245802-4 section-element hide-on-mobile page-index paged-element page-page page-posts page-post page-404 paged-element-visible"><div data-silex-type="container-element" class="editable-style silex-id-1563544245599-3 container-element silex-element-content website-width bg-shadow-top" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-page-posts page-page-post page-page-404 page-page paged-element page-posts page-post page-404 page-tags paged-element-visible" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width bg-shadow" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563563640945-15 text-element silex-component style-post page-page-postaaa page-page-post page-post paged-element page-page paged-element-visible" style=""><div class="silex-element-content normal">
+
+  <article>
+  <h1>PDF import plugin</h1><div class="post-date">22 December 2010</div>
+  <p><p><img src="/assets/plugin.png" alt="" title="plugin" /></p>
+
+<h3 id="description">Description</h3>
+
+<p>This plugin is used to import pdf files into a template publication.</p>
+
+<h3 id="download">Download</h3>
+
+<dl>
+  <dt>Source files are available here</dt>
+  <dd><a href="https://www.silexlabs.org/wp-content/uploads/2010/12/pdfImport-sources.zip">PDF import plugin for Silex - sources</a></dd>
+</dl>
+
+<h3 id="installation">Installation</h3>
+
+<p>To use this plugin, you need first to install SWFTools on the server.</p>
+
+<h4 id="swftools-install">SWFTools Install</h4>
+
+<p><strong>On Windows</strong>, download windows version (binary) on SWFTools official</p>
+
+<p>Or you can download SWFTools for Windows from Silex Labs server here  <a href="https://www.silexlabs.org/wp-content/uploads/2010/12/swftools-0.9.1-windows.zip">swftools-0.9.1-windows</a></p>
+
+<p>Then install it to C:SWFTools.</p>
+
+<p>!!! <strong>Make sure to not install it to the default path C:Program FilesSWFTools !!!</strong></p>
+
+<p><strong>On Mac OSX</strong>, XCode should be installed first. It is normally already installed on most Macs.</p>
+
+<p>Then a compiler such as macports needs to be installed.</p>
+
+<p>Then download linux version from SWFTools official</p>
+
+<p>Or you can download SWFTools for Mac os from Silex Labs server here <a href="https://www.silexlabs.org/wp-content/uploads/2010/12/swftools-0.9.1.tar.gz" title="Or you can download SWFTools for Mac os from Silex Labs server">swftools-0.9.1.tar</a></p>
+
+<p>Then install it, by opening Terminal (it is under Applications &gt; Tools) and running following
+command: 
+sudo port install swftools</p>
+
+<p><em><strong>Note :</strong></em> you must running at minima a 10.6 Mac OS version</p>
+
+<p><strong>On Linux</strong>, download the Linux version of SWFTools (swftools-0.x.x.tar.gz) from SWFTools official</p>
+
+<p>Then compile the source
+files: 
+Type on the command-line:</p>
+
+<p>tar -xzf swftools-0.x.x.tar.gz</p>
+
+<p>cd swftools-0.x.x</p>
+
+<p>./configure</p>
+
+<p>make</p>
+
+<p>make install</p>
+
+<p><strong>Plugin Install:</strong></p>
+
+<p>On Windows, MacOSX and Linux just copy the pdfImport folder into your silex’s server’s plugin directory.</p>
+
+<h4 id="template">Template</h4>
+<p>install: 
+Publication templates specific to pdfImport plugin have to be added in the server before importing a pdf.</p>
+
+<p>They can be found</p>
+
+<p>They have to be placed in servercontents_themes folder.</p>
+
+<h3 id="access">Access</h3>
+
+<p>There are two possible ways to access this
+plugin:</p>
+<ul>
+  <li>access via standalone
+mode: 
+server/plugins/pdfImport/standalone.php</li>
+</ul>
+
+<p>You do not need to be connected to use this mode.</p>
+
+<ul>
+  <li>access via the manager</li>
+</ul>
+
+<p>You need to be connected to use this mode</p>
+
+<h3 id="settings">Settings</h3>
+
+<h4 id="plugin">Plugin</h4>
+<p>activation: 
+Go to your server’s manager click on Settings &gt; Plugins &gt; Activate a plugin, choose PDFImport plugin and click on “confirm”.</p>
+
+<h4 id="path-to-swftools-parameter-setting">Path to SWFTools parameter setting</h4>
+
+<p>(only if accessed via manager. If accessed via standalone mode, to be done by sever
+admin): 
+#####
+Value: 
+The “Path to SWFTools” parameter needs also to be filled with the path where SWFTools has been installed.</p>
+
+<p>Using the method provided above, the path should be C:SWFTools on Windows, and /opt/local/bin/ on MacOSX.</p>
+
+<p>On MacOSX and Linux, the path can be found by opening a terminal and entering the following
+command: “which pdf2swf” or “whereis pdf2swf”.</p>
+
+<p>The correct path is given by removing the “pdf2swf” string to the output.</p>
+
+<h5 id="ui">UI</h5>
+<p>setting: 
+Then to access the plugin, go to Settings &gt; Plugins &gt; pdfImport.</p>
+
+<h5 id="manual">Manual</h5>
+<p>setting: 
+It is also possible to set it in silex_server/contents_utilities/manager/conf.txt and adding the following
+line: 
+pathToSWFTools = ‘/opt/local/bin’;</p>
+
+<h4 id="linux-server-safe-mode-specific-settings"><strong>Linux server safe mode specific settings:</strong></h4>
+
+<p>When the server is in safe mode, following issues can
+happen:</p>
+<h5 id="owner-issue"><strong>Owner issue:</strong></h5>
+
+<p>When safe mode is activated on the server, make sure that both silex server and plugins files and directories have the same owner than the one executing the scripts. To do so, you can use following command on your silex server or plugin root and replace “user” and “group” by the correct
+values: 
+“chown -R user:group .”</p>
+
+<h5 id="swftools-execution-issue"><strong>SwfTools execution issue:</strong></h5>
+
+<p>If safe mode is activated, possible execution durectories are stored in php.ini safe_mode_exec_dir directive.</p>
+
+<dl>
+  <dt>Update its value accordingly</dt>
+  <dd>safe_mode_exec_dir = “/usr/local/bin”</dd>
+</dl>
+
+<p>The most secure way to do would be to copy all swftools scripts from “/usr/local/bin” to “/usr/local/bin/swftools” and then update php.ini</p>
+
+<p>safe_mode_exec_dir = “/usr/local/bin/swftools”</p>
+
+<p>In that case, do not for get to update manager’s plugin’s pathToSWFTools parameter accordingly:</p>
+
+<p>pathToSWFTools = ‘/opt/local/bin/swftools’;</p>
+
+<h5 id="generic-issues"><strong>Generic issues:</strong></h5>
+
+<p>To resolve installation or execution problem, try using chmod on you plugin
+dir: 
+chmod 755 (or chmod 777 for testing thus it is not recommended for production environement))</p>
+
+<h3 id="use">Use</h3>
+
+<p>Fill the form with needed
+parameters: 
+Publication
+name: the name of the publication to be created.</p>
+
+<p>Select a
+PDF: the pdf file to be imported in the publication. If it is not already on the server, upload it by a using the next form.</p>
+
+<p>Upload a
+PDF: form to upload a pdf to the server, either via ftp (access via manager) or php upload (standalone mode).</p>
+
+<p>Select a
+template: theme to be used to generate publication.</p>
+
+<p>Advanced
+settings: avanced pdf import plugin parameters</p>
+
+<p>Once the publication has been generated with the pdf data, click the link to access the publication.</p>
+
+<p><strong>Advanced parameters</strong></p>
+
+<ul>
+  <li>Use
+as: Allows you to choose wether the pages will be extracted in the SWF or in the JPG format.</li>
+  <li>Whole document /specified
+range: If you select “Whole Document”, the whole PDF file will get imported. If you select “Specified Range”, you will be given the possibility to choose a range of pages to import.</li>
+  <li>First/Last page to
+extract: Use when selecting “specified range” to specify the range of pages to be imported.</li>
+  <li>
+    <dl>
+      <dt>Has double pages</dt>
+      <dd>Should we take two pages from the PDF file to put the first one on the left of the SILEX page and the second one on the right of the SILEX page.</dd>
+    </dl>
+  </li>
+  <li>SWF files’ name
+prefix: The name of the pictures representing pages. The number of the page will get appended to it.</li>
+  <li>SWF
+directory: The folder in which the generated pictures should be placed
+(e.g: media/myPublication)</li>
+  <li>Layer’s
+name: The name of the layers generated. The number of the left page is appended to it.</li>
+  <li>First Silex page to include
+into: The number of the Silex page in which to include the first page extracted from PDF</li>
+</ul>
+
+<h3 id="important-note">Important Note</h3>
+
+<p>Everything that is in a vectorial form in the PDF file is going to get transformed into a bitmap. As a result of this, if texts are vectorized in the PDF, they are going to be transformed into a bitmap resulting in a bad quality rendering, particularly when zooming on elements.</p>
+
+<p>Also, bitmaps are compressed and, as such, some artefacts can appear on them. Those artefacts are going to be particularly visible when zooming.</p>
+
+<p>Users are advised to let texts as texts instead of converting them to vectors.</p>
+</p>
+  
+</article>
+
+
+</div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1595517439711-1" style=""><a href="https://www.silexlabs.org/join" data-silex-type="text-element" class="editable-style silex-id-1563544847465-8 text-element style-button-green" style="width: 300px; min-height: 41px;"><div class="silex-element-content normal">Rejoignez nous<br></div></a><div data-silex-type="html-element" class="editable-style silex-id-1563544962714-9 html-element silex-component" style=""><div class="silex-element-content">
+<ul class="share-buttons" id="id_1624149636224_143">
+  
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.silexlabs.org/&amp;t=Silex Labs non profit organization" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="https://www.silexlabs.org/assets/Facebook.png"></a></li>
+  
+  
+  <li><a href="https://twitter.com/intent/tweet?source=https://www.silexlabs.org/&amp;text=Silex Labs non profit organization:%20https://www.silexlabs.org/&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" src="https://www.silexlabs.org/assets/Twitter.png"></a></li>
+  
+  
+  
+  
+  
+  
+  
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.silexlabs.org/&amp;title=Silex Labs non profit organization&amp;summary=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.&amp;source=https://www.silexlabs.org/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://www.silexlabs.org/assets/LinkedIn.png"></a></li>
+  
+  
+  
+  
+  <li><a href="mailto:?subject=Silex Labs non profit organization&amp;body=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.:%20https://www.silexlabs.org/" target="_blank" title="Send email"><img alt="Send by email" src="https://www.silexlabs.org/assets/Email.png"></a></li>
+  
+</ul>
+
+<style type="text/css">#id_1624149636224_143.share-buttons {list-style: none; padding: 0;}#id_1624149636224_143.share-buttons li {display: inline;}#id_1624149636224_143.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1563554584898-11 html-element hide-on-mobile bg-shadow" style=""><div class="silex-element-content">
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v7.0&amp;appId=242623139095821" nonce="0Dnd4VdO" type="text/javascript"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/silexlabs/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+</div></div></div><div data-silex-type="html-element" class="editable-style silex-id-1564088083884-1 html-element hide-on-mobile max-height bg-shadow" style=""><div class="silex-element-content">
+
+
+<a class="twitter-timeline" href="https://twitter.com/silexlabs?ref_src=twsrc%5Etfw"></a>
+<script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></div></div></div>
+  </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width bg-shadow" style="">
+
+          <div class="editable-style silex-id-1442914737143-3 text-element style-footer" data-silex-type="text-element" style="">
+              <div class="silex-element-content normal"><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a><a href="https://pages.github.com/">, </a>hosted on Github pages<a href="https://jekyllrb.com/"><br></a></p><p><a href="https://jekyllrb.com/"></a></p></div>
+          </div>
+      </div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544667829-6 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563544667707-5 container-element silex-element-content website-width"></div></section></body></html>

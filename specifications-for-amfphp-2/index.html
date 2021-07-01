@@ -1,0 +1,345 @@
+<!doctype html><html class="" lang=""><head>
+  <meta charset="UTF-8">
+  <!-- generator meta tag -->
+  <!-- leave this for stats and Silex version check -->
+  <meta name="generator" content="Silex v2.2.12">
+  <!-- End of generator meta tag -->
+  <script type="text/javascript" src="https://www.silexlabs.org/js/jquery.js"></script>
+  
+  
+  <script type="text/javascript" src="https://www.silexlabs.org/js/front-end.js"></script>
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/normalize.css">
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/front-end.css">
+
+  
+  <script type="text/javascript" class="silex-script"></script>
+  
+  <title>Specifications for AMFPHP 2</title>
+  
+
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="og:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:title" content="Specifications for AMFPHP 2"><meta name="og:title" content="Specifications for AMFPHP 2"><meta name="twitter:site" content="@silexlabs"><link href="https://www.silexlabs.org/css/favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><meta name="og:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><script src="https://www.silexlabs.org/js/script.js" type="text/javascript"></script><link href="https://www.silexlabs.org/css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime silex-published" data-silex-type="container-element" style="" data-current-page="page-post">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563543778332-2 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563543778136-1 container-element silex-element-content website-width" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" style=""><a href="https://www.silexlabs.org/" data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" style=""><img src="https://www.silexlabs.org/assets/silexlabs.org_.2015.png" class=""></a><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" style=""><div class="silex-element-content normal">
+
+  <ul>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/">Accueil</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/events">Evènements</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/silexlabs">A propos</a>
+  </li>
+
+</ul>
+
+
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1564093276656-2 html-element" style=""><div class="silex-element-content"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N48MBGD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544245802-4 section-element hide-on-mobile page-index paged-element page-page page-posts page-post page-404 paged-element-visible"><div data-silex-type="container-element" class="editable-style silex-id-1563544245599-3 container-element silex-element-content website-width bg-shadow-top" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-page-posts page-page-post page-page-404 page-page paged-element page-posts page-post page-404 page-tags paged-element-visible" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width bg-shadow" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563563640945-15 text-element silex-component style-post page-page-postaaa page-page-post page-post paged-element page-page paged-element-visible" style=""><div class="silex-element-content normal">
+
+  <article>
+  <h1>Specifications for AMFPHP 2</h1><div class="post-date">14 October 2010</div>
+  <p><h1 id="technical-specifications-for-amfphp-20">Technical Specifications for AMFPHP 2.0</h1>
+
+<p>This document details the different classes that are contained in AMFPHP 2.0.</p>
+
+<p>It builds on the following documents :</p>
+
+<p><a href="../../../../../2010/08/amfphp-2-0-roadmap/">https://www.silexlabs.org/2010/08/amfphp-2-0-roadmap/</a></p>
+
+<dl>
+  <dt>design goals</dt>
+  <dd>
+    <ul>
+      <li>to be compatible as much as possible with the existing system, so that users can update their systems painlessly</li>
+      <li>to be modular to decentralize development. Actions and Fillters as they exist now are to be done away now as nearly no one understands them. They will be replaced by plugins.</li>
+      <li>The integration of amfphp within larger projects should no longer be an issue. The distribution will be made so that it functions as a gateway as before, but it should be flexible to just use the distribution as a library.</li>
+      <li>The core should be as lean as possible. This means deserializing, routing to a class function, serializing, and that’s it. All the other functionality users might want should be pushed towards plugins.</li>
+      <li>To be compatible with the latest and greatest in PHP, while staying compatible with PHP 5. Support for PHP 4 will be dropped.</li>
+      <li>Performance. AMFPHP is fast, let’s try to keep it that way.</li>
+      <li>Of course fix up the bugs that are in AMFPHP 1.9. PHP 5.3 compatibilty issues, date encoding, Iexternalizable, etc.</li>
+    </ul>
+  </dd>
+</dl>
+
+<p>Please feel free to disagree in the comments!</p>
+
+<h2 id="the-plan">The Plan</h2>
+
+<p>The following milestones are
+planned:</p>
+<ul>
+  <li>an amf library with unit tests</li>
+  <li>a barebones amfphp setup with just deserialization, service routing, and serialization</li>
+  <li>the minimal plugins to be functional. The priority here is support for charsets and security, but we’re open to lobbying.</li>
+</ul>
+
+<h2 id="file-structure">File Structure</h2>
+
+<p>Here is the file structure, with classes in italics :</p>
+
+<p>trunk -&gt; amfphp. Contains the main distribution code</p>
+
+<p>Tests. The tests</p>
+
+<p>plugins : the plugin repository</p>
+
+<p>amfphp -&gt; core</p>
+
+<p>plugins : installed plugins</p>
+
+<p>gateway.php</p>
+
+<p>core -&gt; common</p>
+
+<p>amf</p>
+
+<p><em>Gateway</em></p>
+
+<p><em>Context</em></p>
+
+<p><em>PluginManager</em>(defined elsewhere)</p>
+
+<p><em>HookManager</em>(defined elsewhere)</p>
+
+<p>common -&gt; <em>IDeserializer</em></p>
+
+<p><em>ISerializer</em></p>
+
+<h3 id="iservicerouter">IServiceRouter</h3>
+
+<p><em>IExceptionHandler</em></p>
+
+<h3 id="defaultservicerouter">DefaultServiceRouter</h3>
+
+<p>amf -&gt; <em>AmfDeserializer</em></p>
+
+<p><em>AmfSerializer</em></p>
+
+<p><em>AmfExceptionHandler</em></p>
+
+<p>→ services folder where the developer puts service classes</p>
+
+<h2 id="class-details">Class Details</h2>
+
+<h3 id="gateway">Gateway</h3>
+
+<p>the gateway is at gateway.php, whose only job is to instantiate the actual gateway class, eventually tweak its parameters the necessary inits, and call its « init » and « execute» functions, and then echo its response. This is quite like the actual setup, except that it should be much simpler because of plugins, and that because the response is not necessarily output in the Gateway class, AMFPHP can be more easily integrated into other platforms.</p>
+
+<p>some pseudo code for the gateway class</p>
+
+<p>function init(){<br />
+try{<br />
+loadHookManager()<br />
+loadCore()<br />
+loadPlugins()<br />
+initContext()<br />
+loop steps in context with a hook before and after<br />
+}catch{<br />
+handleException()<br />
+}<br />
+}</p>
+
+<p>function execute(){<br />
+try{<br />
+deserialize()</p>
+
+<p>routeService()</p>
+
+<p>serialize()<br />
+}catch{<br />
+handleException()<br />
+}<br />
+}</p>
+
+<p>Hooks will be added at various steps in the process so that plugins can interact with the main code and data when needed.</p>
+
+<h3 id="context">Context</h3>
+
+<p>Contains the data being manipulated in its various formats and flavours, as well as pointers to the various classes that will be called during the process. Is meant to be remoting protocol agnostic, i.e. work just as well for amf as for json or xml.</p>
+
+<p>This is initialized by the gateway, and can be tweaked by the plugins as needed. For all purposes the context could be a singleton, but it is safer to attach it to the gateway.</p>
+
+<ul>
+  <li>requestHeaders</li>
+  <li>requestBody</li>
+  <li>getParams (optional, this might not be a good idea)</li>
+  <li>serviceName</li>
+  <li>serviceFunction</li>
+  <li>functionCallParameters</li>
+  <li>functionCallReturnValue</li>
+  <li>responseHeaders</li>
+  <li>responseBody</li>
+  <li>deserializer : IDeserializer</li>
+  <li>serviceRouter : IServiceRouter</li>
+  <li>serializer : Iserializer</li>
+  <li>exceptionHandler : IexceptionHandler</li>
+  <li>pluginData (an array to hold any persistent plugin data)</li>
+</ul>
+
+<h3 id="ideserializer">IDeserializer</h3>
+
+<p>Interface for classes that deserialize AMFPHP data.</p>
+
+<ul>
+  <li>function deserialize (context :Context)</li>
+</ul>
+
+<h3 id="iserializer">ISerializer</h3>
+
+<p>Interface for classes that serialize AMFPHP data.</p>
+
+<ul>
+  <li>function serialize (context :Context)</li>
+</ul>
+
+<h3 id="iservicerouter-1">IServiceRouter</h3>
+
+<p>Interface for routing services</p>
+
+<ul>
+  <li>function route (context :Context)</li>
+</ul>
+
+<h3 id="defaultservicerouter-1">DefaultServiceRouter</h3>
+
+<p>The default implementation for routing a call to a service.</p>
+
+<h3 id="amfdeserializer-amfserializer-amfexceptionhandler">AmfDeserializer, AmfSerializer, AmfExceptionHandler</h3>
+
+<p>The implementations of IDeserializer, ISerializer, and IexceptionHandler for AMF remoting.</p>
+
+<h2 id="plans-for-plugins">Plans for Plugins</h2>
+
+<p>The system described above is a bare bones amf remoting system. To be useful to most people though, it will need to be enhanced with some of the following plugins. This is not meant to be full specifications, rather some ideas on how the functionality could be built into plugins and how these plugins would interact with the main system.</p>
+
+<h3 id="authentication">Authentication</h3>
+
+<p>Looks for a static « authentication » descriptor on the service class, containing the roles needed by the user to access the service and/or its functions. The roles would be defined and stored in a session. As such would need to intervene just before the class instantiation in the service router. An API would be available in the services to manipulate the user roles.</p>
+
+<h3 id="cache">Cache</h3>
+
+<p>Ideally this would be remoting protocol agnostic, so it would intervene between deserialization and service routing. The actual cache data would be manipulated through an API in the service code.</p>
+
+<h3 id="security">Security</h3>
+
+<p>In its most basic form security is just about blocking requests coming from other domains. This can be done before deserialization.</p>
+
+<h3 id="custom-vo-value-object-mapping">Custom VO (Value-Object) mapping</h3>
+
+<p>Can be done after deserialization and after serialization</p>
+
+<h3 id="charsets">Charsets</h3>
+
+<p>Can be done after deserialization and after serialization</p>
+
+<h3 id="logging">Logging</h3>
+
+<p>Can be done at any point, really, but it would be most helpful to log exceptions and the like.</p>
+
+<h3 id="jsonxml-rpchaxe-remotingphp-amf-extension">JSON/XML-RPC/Haxe Remoting/PHP amf extension</h3>
+
+<p>These would look at the data type and replace the deserializer and serializer on the context.</p>
+
+<h3 id="service-browser">Service Browser</h3>
+
+<p>The existing service browser can be refactored as a plugin</p>
+
+<h3 id="server-compatibility-test-suite">Server compatibility test suite</h3>
+
+<p>A plugin to generate a report on whether or not the server configuration is compatible with AMFPHP, and if not to try to provide some helpful remarks on how to fix it</p>
+</p>
+  
+</article>
+
+
+</div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1595517439711-1" style=""><a href="https://www.silexlabs.org/join" data-silex-type="text-element" class="editable-style silex-id-1563544847465-8 text-element style-button-green" style="width: 300px; min-height: 41px;"><div class="silex-element-content normal">Rejoignez nous<br></div></a><div data-silex-type="html-element" class="editable-style silex-id-1563544962714-9 html-element silex-component" style=""><div class="silex-element-content">
+<ul class="share-buttons" id="id_1624149636224_143">
+  
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.silexlabs.org/&amp;t=Silex Labs non profit organization" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="https://www.silexlabs.org/assets/Facebook.png"></a></li>
+  
+  
+  <li><a href="https://twitter.com/intent/tweet?source=https://www.silexlabs.org/&amp;text=Silex Labs non profit organization:%20https://www.silexlabs.org/&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" src="https://www.silexlabs.org/assets/Twitter.png"></a></li>
+  
+  
+  
+  
+  
+  
+  
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.silexlabs.org/&amp;title=Silex Labs non profit organization&amp;summary=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.&amp;source=https://www.silexlabs.org/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://www.silexlabs.org/assets/LinkedIn.png"></a></li>
+  
+  
+  
+  
+  <li><a href="mailto:?subject=Silex Labs non profit organization&amp;body=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.:%20https://www.silexlabs.org/" target="_blank" title="Send email"><img alt="Send by email" src="https://www.silexlabs.org/assets/Email.png"></a></li>
+  
+</ul>
+
+<style type="text/css">#id_1624149636224_143.share-buttons {list-style: none; padding: 0;}#id_1624149636224_143.share-buttons li {display: inline;}#id_1624149636224_143.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1563554584898-11 html-element hide-on-mobile bg-shadow" style=""><div class="silex-element-content">
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v7.0&amp;appId=242623139095821" nonce="0Dnd4VdO" type="text/javascript"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/silexlabs/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+</div></div></div><div data-silex-type="html-element" class="editable-style silex-id-1564088083884-1 html-element hide-on-mobile max-height bg-shadow" style=""><div class="silex-element-content">
+
+
+<a class="twitter-timeline" href="https://twitter.com/silexlabs?ref_src=twsrc%5Etfw"></a>
+<script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></div></div></div>
+  </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width bg-shadow" style="">
+
+          <div class="editable-style silex-id-1442914737143-3 text-element style-footer" data-silex-type="text-element" style="">
+              <div class="silex-element-content normal"><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a><a href="https://pages.github.com/">, </a>hosted on Github pages<a href="https://jekyllrb.com/"><br></a></p><p><a href="https://jekyllrb.com/"></a></p></div>
+          </div>
+      </div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544667829-6 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563544667707-5 container-element silex-element-content website-width"></div></section></body></html>

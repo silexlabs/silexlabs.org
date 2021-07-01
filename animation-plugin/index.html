@@ -1,0 +1,342 @@
+<!doctype html><html class="" lang=""><head>
+  <meta charset="UTF-8">
+  <!-- generator meta tag -->
+  <!-- leave this for stats and Silex version check -->
+  <meta name="generator" content="Silex v2.2.12">
+  <!-- End of generator meta tag -->
+  <script type="text/javascript" src="https://www.silexlabs.org/js/jquery.js"></script>
+  
+  
+  <script type="text/javascript" src="https://www.silexlabs.org/js/front-end.js"></script>
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/normalize.css">
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/front-end.css">
+
+  
+  <script type="text/javascript" class="silex-script"></script>
+  
+  <title>Animation plugin</title>
+  
+
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="og:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:title" content="Animation plugin"><meta name="og:title" content="Animation plugin"><meta name="twitter:site" content="@silexlabs"><link href="https://www.silexlabs.org/css/favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><meta name="og:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><script src="https://www.silexlabs.org/js/script.js" type="text/javascript"></script><link href="https://www.silexlabs.org/css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime silex-published" data-silex-type="container-element" style="" data-current-page="page-post">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563543778332-2 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563543778136-1 container-element silex-element-content website-width" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" style=""><a href="https://www.silexlabs.org/" data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" style=""><img src="https://www.silexlabs.org/assets/silexlabs.org_.2015.png" class=""></a><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" style=""><div class="silex-element-content normal">
+
+  <ul>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/">Accueil</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/events">Evènements</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/silexlabs">A propos</a>
+  </li>
+
+</ul>
+
+
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1564093276656-2 html-element" style=""><div class="silex-element-content"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N48MBGD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544245802-4 section-element hide-on-mobile page-index paged-element page-page page-posts page-post page-404 paged-element-visible"><div data-silex-type="container-element" class="editable-style silex-id-1563544245599-3 container-element silex-element-content website-width bg-shadow-top" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-page-posts page-page-post page-page-404 page-page paged-element page-posts page-post page-404 page-tags paged-element-visible" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width bg-shadow" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563563640945-15 text-element silex-component style-post page-page-postaaa page-page-post page-post paged-element page-page paged-element-visible" style=""><div class="silex-element-content normal">
+
+  <article>
+  <h1>Animation plugin</h1><div class="post-date">06 January 2011</div>
+  <p><p><img src="/assets/plugin.png" alt="" title="plugin" /></p>
+
+<p>This is a plugin adding animation to Silex using actions. You need to install it and activate it for the whole server or for each publication in which you want to use it.</p>
+
+<h2 id="update-v11">Update v1.1</h2>
+
+<ul>
+  <li>A tween can be paused/stopped/resumed</li>
+  <li>All tweens can be paused/stopped/resumed at once</li>
+  <li>Adding an easing type to an animation is now done with only one parameter instead of two</li>
+  <li>Added modifiers for animation start and animation update (called each frame during animation)</li>
+  <li>An exemple publication is installed with the plugin. It is called “silextween” and demoes this plugin.</li>
+</ul>
+
+<h2 id="animating-a-component">Animating a component</h2>
+
+<dl>
+  <dt>To animate a component, we need to add a line in it’as actions. In this exemple we will move a component along it’s horizontal axis when clicked. Select a component, rename it “myComponent”, and copy the following line in the action panel</dt>
+  <dd><code class="language-plaintext highlighter-rouge">onRelease _global.silexTween.startTween:myComponent,_x,500,1</code></dd>
+</dl>
+
+<p>Click on the confirm button of the action panel and unselect the layer and component (using the unselect button at the bottom of the Page toolbox or the escape key). When you click on the component, he start moving until it’s x postion is equal to 500.</p>
+
+<h2 id="required-parameters-of-a-tween">Required Parameters of a tween</h2>
+
+<p>A tween is the programmatic name for an animation. When you want to tween a component, you always need to use the following
+function: 
+<code class="language-plaintext highlighter-rouge">_global.silexTween.startTween:</code></p>
+
+<dl>
+  <dt>This is the function telling the tween to plugin to start a tween. This function has the following parameters in order</dt>
+  <dd>
+    <ul>
+      <li>
+        <h3 id="name-of-the-component-to-tween">name of the component to tween</h3>
+      </li>
+    </ul>
+
+    <p>This is the name of the component you want to move as it appears in the component toolbox or in the properties toolbox.</p>
+  </dd>
+</dl>
+
+<ul>
+  <li>
+    <h3 id="name-of-the-property-to-tween">name of the property to tween</h3>
+
+    <p>This is name of the property you want to animate. For instance, if you want to move a component horizontally, you use “_x”, if you want to resize it’s width, you use “_width”. You can use any numerical property such as “_x”, “_y”, “_alpha”, “_width”, “_height”, “_rotation”…</p>
+  </li>
+  <li>
+    <h3 id="target-value-of-the-property">target value of the property</h3>
+
+    <p>This the value that the tweened property will have when the animation is complete. In the above exemple we see that the name of the property is “_x” and the target value is “500”. So at the end of the animation, the _x position of the component will be 500.</p>
+  </li>
+  <li>
+    <h3 id="duration-of-the-tween">Duration of the tween</h3>
+
+    <p>This is the duration of the tween in second. In the exemple it is “1”, so the animation will last for 1 seconds. You can use decimal values like “1.5”.</p>
+  </li>
+</ul>
+
+<h2 id="additionnal-parameters">Additionnal parameters</h2>
+
+<p>You can add the following optionnal parameters after the “Duration of the tween” parameter. If you don’t use those parameters, they will use default value.</p>
+
+<h3 id="name-of-the-type-of-easing">name of the type of easing</h3>
+
+<dl>
+  <dt>The easing type is the name of the animation effect to use. For instance you can add a bouncy effect to your animation by typing “easeInBounce”. Here is the list of all the available types of easing</dt>
+  <dd>
+    <ul>
+      <li>linear</li>
+      <li>easeInSine</li>
+      <li>easeOutSine</li>
+      <li>easeInOutSine</li>
+      <li>easeInQuad</li>
+      <li>easeOutQuad</li>
+      <li>easeInOutQuad</li>
+      <li>easeInCubic</li>
+      <li>easeOutCubic</li>
+      <li>easeInOutCubic</li>
+      <li>easeInQuart</li>
+      <li>easeOutQuart</li>
+      <li>easeInOutQuart</li>
+      <li>easeInQuint</li>
+      <li>easeOutQuint</li>
+      <li>easeInOutQuint</li>
+      <li>easeInExpo</li>
+      <li>easeOutExpo</li>
+      <li>easeInOutExpo</li>
+      <li>easeInCirc</li>
+      <li>easeOutCirc</li>
+      <li>easeInOutCirc</li>
+      <li>easeInElastic</li>
+      <li>easeOutElastic</li>
+      <li>easeInOutElastic</li>
+      <li>easeInBack</li>
+      <li>easeOutBack</li>
+      <li>easeInOutBack</li>
+      <li>easeInBounce</li>
+      <li>easeOutBounce</li>
+      <li>easeInOutBounce</li>
+    </ul>
+  </dd>
+</dl>
+
+<p>You can find more info <a href="http://hosted.zeh.com.br/tweener/docs/en-us/misc/transitions.html">here</a>. If you don’t use this parameter, it will use a default value, as we saw in the exemple animation at the beginning of the page.</p>
+
+<dl>
+  <dt>Here is an exemple of how to add a bouncy effect to the animation, which will ease at the beggining of the animation</dt>
+  <dd><code class="language-plaintext highlighter-rouge">onRelease _global.silexTween.startTween:myComponent,_x,500,1,easeInBounce</code></dd>
+</dl>
+
+<p><strong>warning :</strong> setting the easing type was done with two separate parameters in the previous version, you’ll need to update your actions if you want to use this new version</p>
+
+<h2 id="other-available-functions">Other available functions</h2>
+
+<h3 id="pausing-a-tween">Pausing a tween</h3>
+
+<p>This function allows to pause the execution of a given tween on a given component.</p>
+
+<blockquote>
+  <p>onRelease _global.silexTween.pauseTween:myComponent,_x</p>
+</blockquote>
+
+<p>If the property (in this exemple “_x”) is not specifyied, if will pause all the tweens currently running on the component specifyied in the first parameter.</p>
+
+<h3 id="pausing-all-tweens">Pausing all tweens</h3>
+
+<p>Pauses all currently running
+tweens:</p>
+<blockquote>
+  <p>onRelease _global.silexTween.pauseAllTweens</p>
+</blockquote>
+
+<h3 id="resuming-a-tween">Resuming a tween</h3>
+
+<p>Resumes a tween that has been paused.
+Usage:</p>
+<blockquote>
+  <p>onRelease _global.silexTween.playTween:myComponent,_x</p>
+</blockquote>
+
+<p>If the property (in this exemple “_x”) is not specifyied, if will resume all the tweens currently paused on the component specifyied in the first parameter.</p>
+
+<h3 id="resuming-all-paused-tweens">Resuming all paused tweens</h3>
+
+<p>Resumes all currently paused
+tweens:</p>
+<blockquote>
+  <p>onRelease _global.silexTween.playAllTweens</p>
+</blockquote>
+
+<h3 id="stoping-a-tween">Stoping a tween</h3>
+
+<p>This function removes definitively a given tween on a given component.</p>
+
+<blockquote>
+  <p>onRelease _global.silexTween.stopTween:myComponent,_x</p>
+</blockquote>
+
+<p>If the property (in this exemple “_x”) is not specifyied, if will remove all the tweens currently defined (running or paused) on the component specifyied in the first parameter.</p>
+
+<h3 id="stoping-all-tweens">Stoping all tweens</h3>
+
+<p>Removes all the
+tweens:</p>
+<blockquote>
+  <p>onRelease _global.silexTween.stopAllTweens</p>
+</blockquote>
+
+<h2 id="creating-an-animation-sequence">Creating an animation sequence</h2>
+
+<p>You can create a sequence of animation by using the “onAnimationComplete” modifier. The modifier is the first part of an action, the one defining the interaction to react to, like “onRelease”, “onRollOver”…</p>
+
+<h3 id="creating-a-return-animation">Creating a return animation</h3>
+
+<dl>
+  <dt>The “onAnimationComplete” modifier is called on the component when is animation is finished. In the above exemple, it is called when the component has arrived at it’s final x position at “500”. We will use this to move the component back to it’s original position when the animation is complete. Copy the 2 following actions</dt>
+  <dd>(you can overwrite the first action)</dd>
+</dl>
+
+<p><code class="language-plaintext highlighter-rouge">onRelease _global.silexTween.startTween:myComponent,_x,500,1,Bounce,easeIn</code><br />
+<code class="language-plaintext highlighter-rouge">onAnimationComplete _global.silexTween.startTween:myComponent,_x,0,1,Bounce,easeOut</code></p>
+
+<p>When you click on the component, he first goes to the “500” x coordinate, then when this animation is complete, he goes to “0” x coordinate.</p>
+
+<h3 id="creating-multiple-animation-sequence">Creating multiple animation sequence</h3>
+
+<p>We will now create a sequence of 3 animations. We will first move the x coordinnate of the component, then it’s y coordinnate, then both it’s width and height at the same time. We see here that we run into a limitation if we use the default “onAnimationComplete” modifier. If we only use it, the plugin won’t know the order of the animation to play. He will first move the component along it’s x axis, then he won’t know if he must move the component on it’s y axis or resize the width and height as both will be executed after the end of x animation ! In addition, in the previous exemple, the “onAnimationComplete” animation will be called indefinetly as it calls itself each time the animation ends.</p>
+
+<dl>
+  <dt>To solve those issues we will create custom “onAnimationComplete” modifier for each animation by adding a parameter to the startTween function. This parameter will be the name of the custom modifier. For instance, for the end of the x animation, we will add the parameter “onXAnimationComplete”, then we will use this modifier to trigger the next animation. Copy the following code to test the animation sequence</dt>
+  <dd><code class="language-plaintext highlighter-rouge">onRelease _global.silexTween.startTween:myComponent,_x,500,1,easeInBounce,onXAnimationComplete</code><br />
+<code class="language-plaintext highlighter-rouge">onXAnimationComplete _global.silexTween.startTween:myComponent,_y,300,1.5,easeOutBounce,onYAnimationComplete</code><br />
+<code class="language-plaintext highlighter-rouge">onYAnimationComplete _global.silexTween.startTween:myComponent,_width,200,2,easeInElastic</code><br />
+<code class="language-plaintext highlighter-rouge">onYAnimationComplete _global.silexTween.startTween:myComponent,_height,100,1,easeOutElastic</code></dd>
+</dl>
+
+<p>In this exemple we can see that the animation are executed in order, one at a time, or simultaneously (the width/height animation) with variying duration and easing effects.</p>
+
+<h2 id="additional-modifiers">Additional modifiers</h2>
+
+<dl>
+  <dt>There three more modifiers you can use when you create a tween and another parameter described in the paragraph below. There is “onAnimationStart”, called just before the tween animation begins, “onAnimationUpdate” called each frame during the tween, and “onAnimationCompleteBeforeStart” that can be called if the tweened component is already at the finishing position before the tween begins. Like the “onAnimationComplete” modifier you can either use the default modifier or create a custom one. The last parameter is the callbackTargetName, it can be used to change the component that will call the modifiers. By default the tweened component is the target, meaning that you must set the actions (“onAnimationComplete”, “onAnimationStart”…) on him. You can specifiy anther component’s name. It’s useful when you want for instance that the component which started the tween calls the modifier. The complete startTween function is here</dt>
+  <dd><code class="language-plaintext highlighter-rouge">onRelease _global.silexTween.startTween:myComponent,_x,500,1,easeInBounce,onXAnimationComplete,onXAnimationStart,onXAnimationUpdate,alternativeTargetName,onXAnimationCompleteBeforeStart</code></dd>
+</dl>
+</p>
+  
+</article>
+
+
+</div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1595517439711-1" style=""><a href="https://www.silexlabs.org/join" data-silex-type="text-element" class="editable-style silex-id-1563544847465-8 text-element style-button-green" style="width: 300px; min-height: 41px;"><div class="silex-element-content normal">Rejoignez nous<br></div></a><div data-silex-type="html-element" class="editable-style silex-id-1563544962714-9 html-element silex-component" style=""><div class="silex-element-content">
+<ul class="share-buttons" id="id_1624149636224_143">
+  
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.silexlabs.org/&amp;t=Silex Labs non profit organization" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="https://www.silexlabs.org/assets/Facebook.png"></a></li>
+  
+  
+  <li><a href="https://twitter.com/intent/tweet?source=https://www.silexlabs.org/&amp;text=Silex Labs non profit organization:%20https://www.silexlabs.org/&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" src="https://www.silexlabs.org/assets/Twitter.png"></a></li>
+  
+  
+  
+  
+  
+  
+  
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.silexlabs.org/&amp;title=Silex Labs non profit organization&amp;summary=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.&amp;source=https://www.silexlabs.org/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://www.silexlabs.org/assets/LinkedIn.png"></a></li>
+  
+  
+  
+  
+  <li><a href="mailto:?subject=Silex Labs non profit organization&amp;body=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.:%20https://www.silexlabs.org/" target="_blank" title="Send email"><img alt="Send by email" src="https://www.silexlabs.org/assets/Email.png"></a></li>
+  
+</ul>
+
+<style type="text/css">#id_1624149636224_143.share-buttons {list-style: none; padding: 0;}#id_1624149636224_143.share-buttons li {display: inline;}#id_1624149636224_143.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1563554584898-11 html-element hide-on-mobile bg-shadow" style=""><div class="silex-element-content">
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v7.0&amp;appId=242623139095821" nonce="0Dnd4VdO" type="text/javascript"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/silexlabs/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+</div></div></div><div data-silex-type="html-element" class="editable-style silex-id-1564088083884-1 html-element hide-on-mobile max-height bg-shadow" style=""><div class="silex-element-content">
+
+
+<a class="twitter-timeline" href="https://twitter.com/silexlabs?ref_src=twsrc%5Etfw"></a>
+<script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></div></div></div>
+  </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width bg-shadow" style="">
+
+          <div class="editable-style silex-id-1442914737143-3 text-element style-footer" data-silex-type="text-element" style="">
+              <div class="silex-element-content normal"><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a><a href="https://pages.github.com/">, </a>hosted on Github pages<a href="https://jekyllrb.com/"><br></a></p><p><a href="https://jekyllrb.com/"></a></p></div>
+          </div>
+      </div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544667829-6 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563544667707-5 container-element silex-element-content website-width"></div></section></body></html>

@@ -1,0 +1,270 @@
+<!doctype html><html class="" lang=""><head>
+  <meta charset="UTF-8">
+  <!-- generator meta tag -->
+  <!-- leave this for stats and Silex version check -->
+  <meta name="generator" content="Silex v2.2.12">
+  <!-- End of generator meta tag -->
+  <script type="text/javascript" src="https://www.silexlabs.org/js/jquery.js"></script>
+  
+  
+  <script type="text/javascript" src="https://www.silexlabs.org/js/front-end.js"></script>
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/normalize.css">
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/front-end.css">
+
+  
+  <script type="text/javascript" class="silex-script"></script>
+  
+  <title>Actions & Filters</title>
+  
+
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="og:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:title" content="Actions & Filters"><meta name="og:title" content="Actions & Filters"><meta name="twitter:site" content="@silexlabs"><link href="https://www.silexlabs.org/css/favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><meta name="og:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><script src="https://www.silexlabs.org/js/script.js" type="text/javascript"></script><link href="https://www.silexlabs.org/css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime silex-published" data-silex-type="container-element" style="" data-current-page="page-post">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563543778332-2 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563543778136-1 container-element silex-element-content website-width" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" style=""><a href="https://www.silexlabs.org/" data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" style=""><img src="https://www.silexlabs.org/assets/silexlabs.org_.2015.png" class=""></a><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" style=""><div class="silex-element-content normal">
+
+  <ul>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/">Accueil</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/events">Evènements</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/silexlabs">A propos</a>
+  </li>
+
+</ul>
+
+
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1564093276656-2 html-element" style=""><div class="silex-element-content"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N48MBGD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544245802-4 section-element hide-on-mobile page-index paged-element page-page page-posts page-post page-404 paged-element-visible"><div data-silex-type="container-element" class="editable-style silex-id-1563544245599-3 container-element silex-element-content website-width bg-shadow-top" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-page-posts page-page-post page-page-404 page-page paged-element page-posts page-post page-404 page-tags paged-element-visible" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width bg-shadow" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563563640945-15 text-element silex-component style-post page-page-postaaa page-page-post page-post paged-element page-page paged-element-visible" style=""><div class="silex-element-content normal">
+
+  <article>
+  <h1>Actions & Filters</h1><div class="post-date">12 October 2010</div>
+  <p><dl>
+  <dt><strong>This post is aimed at developers.</strong>  </dt>
+  <dt>As you certainly know, in order to unify development of SILEX, we are moving from a solution using JavaScript, ActionScript2, ActionScript3 and PHP to a solution using haXe targetting all these platforms.  </dt>
+  <dt>Since haXe provides no way of using references in PHP, we have to make some changes in our Hook system. In order to do that, we are now introducing a new system</dt>
+  <dd>Actions and Filters.<br />
+The following aims at explaining how this new system will work and how it will be articulated.</dd>
+</dl>
+
+<h1 id="the-issue">The issue</h1>
+
+<p>The hook system in SILEX works pretty well. The problem comes from the move to the haXe language.</p>
+
+<p>The fact is that the hook system makes an extensive use of references (giving parameters as references) to allow a hook to modify a parameter so that a new value may be used in place when resuming to normal flow.</p>
+
+<p>Although this system was working with pure PHP it is unusable in haXe because haXe does not support references.</p>
+
+<h1 id="the-solution">The solution</h1>
+
+<p>We are going to implement something that’s close to WordPress Actions &amp; Filters system.</p>
+
+<h2 id="actions">Actions</h2>
+
+<p>Actions will call registered handlers. These handlers will be able to do whatever they want to do (such as displaying a prompt to the user or logging something).<br />
+Also, in the future, we may add the possibility for action handlers to prevent the action from taking place.</p>
+
+<p>Filters</p>
+
+<p>Filters are to be used in order to modify some data. Those data could be strings or any other type of object. The filter is simply called with a set of parameters and returns the new value for the object to be filtered.</p>
+
+<p>Filter calls are chained which means that the third filter gets the modified value from the first and second filters.</p>
+
+<h2 id="several-filter-handlers">Several filter handlers</h2>
+
+<p>When several filter handlers are registered on the same filter, the first one gets the initial value and returns a new value. This new value is then passed to the second filter that returns a second new value. This second value gets passed to the third filter and so on. The applyFilter function (see below) will then only return the new value from the last filter.</p>
+
+<h1 id="implementation">Implementation</h1>
+
+<p>The implementation is pretty straightforward but there are something to account for before doing it.</p>
+
+<p>There are three
+cases:</p>
+<ol>
+  <li>An action/filter is dispatched from JS, it has to be relayed to the AS side.</li>
+  <li>An action/filter is dispatched from AS, it has to be relayed to the JS side.</li>
+  <li>An action/filter is dispatched from PHP, it will stay in PHP.</li>
+</ol>
+
+<p>So, to sum up
+things: when an action/filter is dispatched on the client side, it stays on the client side (but is dispatched across all platforms used on this side). When an action/filter is dispatched on the server side, it stays on the server side.</p>
+
+<h3 id="at-the-moment">At the moment</h3>
+
+<p>At the moment, we will stick to writing a class that would work on all platforms but without any communication between platforms. This will make it easier and will fit our needs. So, right now, an action/filter dispatched in JS will stay in JS and one dispatched in AS will stay in AS.</p>
+
+<p>Also, note that we do not plan to support communication between the client and the server sides.</p>
+
+<h1 id="the-class">The class</h1>
+
+<p>Only one class will be
+used: it will manage the dispatching of actions and filters. Here is the proposed signature for this
+class: 
+HookManager
+———–</p>
+
+<p>This class would be responsible of registering handlers for actions and dispatching them.</p>
+
+<h3 id="addactionhandler">addActionHandler</h3>
+
+<p>Action Handlers would take 1
+parameter:</p>
+<ul>
+  <li>An array of parameters.</li>
+</ul>
+
+<p>Handlers return either true or false (false to prevent the action from taking place if this is implemented in the future).</p>
+
+<p>The addActionHandler function takes the following
+parameters:</p>
+<ul>
+  <li>actionName the name of the action to link the handler with.</li>
+  <li>handler the handler to be added. If you are using this function from haXe, you can pass a function reference as you would normally do. If you are in PHP, you can pass your PHP function as you would do it with <a href="http://fr.php.net/manual/en/function.call-user-func-array.php">call_user_func_array</a>.</li>
+</ul>
+
+<h3 id="applyaction">applyAction</h3>
+
+<p>This method calls all action handlers who are registered to the specified action.</p>
+
+<ul>
+  <li>action is a string specifying the action.</li>
+  <li>parameters is an array of parameters that will be passed to the action handlers. You can either pass a PHP array or an haXe array.</li>
+</ul>
+
+<p>It returns true if the action took place or false if it was cancelled (if preventing action is to be implemented).</p>
+
+<h3 id="removeaction">removeAction</h3>
+
+<p>This function removes the action handler given as parameters from the list of handlers to be called for the action.</p>
+
+<h2 id="addfilterhandler">addFilterHandler</h2>
+
+<p>This function allows one to register an handler for a filter.</p>
+
+<p>Handlers take one parameter, which is the value to filter and return the value once filtered.</p>
+
+<p>This function takes two
+arguments:</p>
+<ul>
+  <li>filter is a string specifying the filter to link with.</li>
+  <li>handler is the handler to be added. Same remark than for addActionHandler.</li>
+</ul>
+
+<h3 id="applyfilter">applyFilter</h3>
+
+<p>This function takes the name of the filter to be dispatched and the value to be filtered as parameters and returns the value once filtered by all filters.</p>
+
+<h3 id="removefilter">removeFilter</h3>
+
+<p>This function removes the filter handler from the list of filter handlers to be called for the specified filter.</p>
+</p>
+  
+  <section class="tags">
+    <h2>Tags</h2>
+		<ul>
+      
+        
+        <li class="tag"><a href="https://www.silexlabs.org/tag/dev">dev</a></li>
+      
+        
+        <li class="tag"><a href="https://www.silexlabs.org/tag/haxe">Haxe</a></li>
+      
+        
+        <li class="tag"><a href="https://www.silexlabs.org/tag/hooks">hooks</a></li>
+      
+    </ul>
+  </section>
+  
+</article>
+
+
+</div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1595517439711-1" style=""><a href="https://www.silexlabs.org/join" data-silex-type="text-element" class="editable-style silex-id-1563544847465-8 text-element style-button-green" style="width: 300px; min-height: 41px;"><div class="silex-element-content normal">Rejoignez nous<br></div></a><div data-silex-type="html-element" class="editable-style silex-id-1563544962714-9 html-element silex-component" style=""><div class="silex-element-content">
+<ul class="share-buttons" id="id_1624149636224_143">
+  
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.silexlabs.org/&amp;t=Silex Labs non profit organization" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="https://www.silexlabs.org/assets/Facebook.png"></a></li>
+  
+  
+  <li><a href="https://twitter.com/intent/tweet?source=https://www.silexlabs.org/&amp;text=Silex Labs non profit organization:%20https://www.silexlabs.org/&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" src="https://www.silexlabs.org/assets/Twitter.png"></a></li>
+  
+  
+  
+  
+  
+  
+  
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.silexlabs.org/&amp;title=Silex Labs non profit organization&amp;summary=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.&amp;source=https://www.silexlabs.org/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://www.silexlabs.org/assets/LinkedIn.png"></a></li>
+  
+  
+  
+  
+  <li><a href="mailto:?subject=Silex Labs non profit organization&amp;body=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.:%20https://www.silexlabs.org/" target="_blank" title="Send email"><img alt="Send by email" src="https://www.silexlabs.org/assets/Email.png"></a></li>
+  
+</ul>
+
+<style type="text/css">#id_1624149636224_143.share-buttons {list-style: none; padding: 0;}#id_1624149636224_143.share-buttons li {display: inline;}#id_1624149636224_143.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1563554584898-11 html-element hide-on-mobile bg-shadow" style=""><div class="silex-element-content">
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v7.0&amp;appId=242623139095821" nonce="0Dnd4VdO" type="text/javascript"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/silexlabs/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+</div></div></div><div data-silex-type="html-element" class="editable-style silex-id-1564088083884-1 html-element hide-on-mobile max-height bg-shadow" style=""><div class="silex-element-content">
+
+
+<a class="twitter-timeline" href="https://twitter.com/silexlabs?ref_src=twsrc%5Etfw"></a>
+<script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></div></div></div>
+  </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width bg-shadow" style="">
+
+          <div class="editable-style silex-id-1442914737143-3 text-element style-footer" data-silex-type="text-element" style="">
+              <div class="silex-element-content normal"><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a><a href="https://pages.github.com/">, </a>hosted on Github pages<a href="https://jekyllrb.com/"><br></a></p><p><a href="https://jekyllrb.com/"></a></p></div>
+          </div>
+      </div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544667829-6 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563544667707-5 container-element silex-element-content website-width"></div></section></body></html>
