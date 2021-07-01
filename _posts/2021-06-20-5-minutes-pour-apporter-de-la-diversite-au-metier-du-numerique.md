@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 minutes pour apporter de la diversité au métier du numérique
-image: "/assets/benevolat.jpg"
+image: "/assets/reconversion-professionnelle-adulte.jpg"
 tags:
 - Bénévolat
 - Emploi
