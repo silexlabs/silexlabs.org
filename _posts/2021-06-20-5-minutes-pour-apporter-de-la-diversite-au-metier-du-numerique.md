@@ -10,7 +10,7 @@ tags:
 permalink: "/premiers-pas-nous-donner-5-minutes/"
 
 ---
-![Aider les personnes en reconversion professionnelle](/assets/reconversion-professionnelle-adulte.jpg)![](/assets/benevolat.jpg)
+![Aider les personnes en reconversion professionnelle](/assets/reconversion-professionnelle-adulte.jpg)
 
 Bonjour à tout.es
 
