@@ -1,0 +1,22 @@
+---
+layout: post
+title: Silex Labs en 2021
+image: "/assets/ee77edc0-07d1-45f3-a22e-918900ef3694.png"
+tags:
+- silexlabs
+permalink: Silex Labs en 2021
+
+---
+![](/assets/ee77edc0-07d1-45f3-a22e-918900ef3694.png)
+
+# Silex Labs en 2021
+
+Oui, ça fait longtemps qu'on ne vous donne plus de nouvelles de l'association Silex Labs qui agit pour la diversité dans les métiers du numérique depuis plus de 10 ans.
+
+> Si vous rencontrez des personnes attirées par le numérique et qui se posent des questions sur leur avenir, envoyez les nous ! Nous aidons aussi les personnes déjà formées qui ne trouvent pas de premier boulot.  Et bien entendu priorité aux minorités :) 
+
+## Nouveau site silex labs
+
+![](/assets/a4af651e-9261-9e13-da56-3ed367247c58.png)
+
+Un nouveau site Pour une nouvelle organisation  En 2020 nous avons dû arrêter les apéros qui étaient la pierre angulaire de notre organisation. Nous avons tout changer et finalement pour le mieux.    La nouvelle formule  Fini les ateliers, finies les discussions en groupe avec chaque personne en reconversion mais nous continuons à démystifier les métiers du numérique, à parler de leur projet de reconversion ou de formation avec celles et ceux qui en ont besoin. Nous continuons à chercher avec eux des opportunités qui leur permettront d'aller là où ils veulent aller.  La nouvelle formule a été éprouvée depuis plus d'un an, elle a permis d'aider Kevin, Maya, Emilie, Radoslav, Hachimi et Nadine à se trouver une place au soleil du numérique. Et Silex dans tout ça ?   L'aventure continue, de nombreux sites sont créés chaque mois avec l'instance Silex hébergée par Silex Labs, pas toujours glorieux mais ils sont rapides à charger :)  Le site de Silex Labs est en Silex évidemment. Contact   Rejoignez nous sur Twitter, Facebook, le chat officiel et même github. Nous vous attendons pour y discuter et y échanger sur le logiciel libre, l'actualité de l'opensource et Silex Labs. Venez nombreux !
