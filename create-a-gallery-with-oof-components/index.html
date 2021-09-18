@@ -1,0 +1,311 @@
+<!doctype html><html class="" lang=""><head>
+  <meta charset="UTF-8">
+  <!-- generator meta tag -->
+  <!-- leave this for stats and Silex version check -->
+  <meta name="generator" content="Silex v2.2.12">
+  <!-- End of generator meta tag -->
+  <script type="text/javascript" src="https://www.silexlabs.org/js/jquery.js"></script>
+  
+  
+  <script type="text/javascript" src="https://www.silexlabs.org/js/front-end.js"></script>
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/normalize.css">
+  <link rel="stylesheet" href="https://www.silexlabs.org/css/front-end.css">
+
+  
+  <script type="text/javascript" class="silex-script"></script>
+  
+  <title>Create a gallery with Oof components</title>
+  
+
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="og:description" content="Site silexlabs.org en Jekyll+Silex+Stastic"><meta name="twitter:title" content="Create a gallery with Oof components"><meta name="og:title" content="Create a gallery with Oof components"><meta name="twitter:site" content="@silexlabs"><link href="https://www.silexlabs.org/css/favicon.png" rel="shortcut icon"><meta name="twitter:card" content="summary"><meta name="twitter:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><meta name="og:image" content="https://silexlabs.org/assets/silexlabs-wwx.jpg"><script src="https://www.silexlabs.org/js/script.js" type="text/javascript"></script><link href="https://www.silexlabs.org/css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime silex-published" data-silex-type="container-element" style="" data-current-page="page-post">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563543778332-2 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563543778136-1 container-element silex-element-content website-width" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" style=""><a href="https://www.silexlabs.org/" data-silex-type="image-element" class="editable-style silex-id-1563543746145-0 image-element" style=""><img src="https://www.silexlabs.org/assets/silexlabs.org_.2015.png" class=""></a><div data-silex-type="text-element" class="editable-style silex-id-1564083497965-0 text-element silex-component style-nav" style=""><div class="silex-element-content normal">
+
+  <ul>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/">Accueil</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/events">Evènements</a>
+  </li>
+
+  <li>
+    
+    <a class="" href="https://www.silexlabs.org/silexlabs">A propos</a>
+  </li>
+
+</ul>
+
+
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1564093276656-2 html-element" style=""><div class="silex-element-content"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N48MBGD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544245802-4 section-element hide-on-mobile page-index paged-element page-page page-posts page-post page-404 paged-element-visible"><div data-silex-type="container-element" class="editable-style silex-id-1563544245599-3 container-element silex-element-content website-width bg-shadow-top" style=""></div></section><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-page-posts page-page-post page-page-404 page-page paged-element page-posts page-post page-404 page-tags paged-element-visible" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width bg-shadow" style=""><div data-silex-type="text-element" class="editable-style silex-id-1563563640945-15 text-element silex-component style-post page-page-postaaa page-page-post page-post paged-element page-page paged-element-visible" style=""><div class="silex-element-content normal">
+
+  <article>
+  <h1>Create a gallery with Oof components</h1><div class="post-date">17 February 2011</div>
+  <p><p>This tutorial will help you to create an image gallery in Silex with Oof components.</p>
+
+<p>You will find in this post  the different steps to get there. You will also find the <a href="https://www.silexlabs.org/wp-content/uploads/2011/02/gallery.zip">.zip of the images</a> that were used for this tutorial so that you can reproduce it on your Silex server.</p>
+
+<p>Good work !</p>
+
+<h3 id="pre-requisites">Pre-requisites</h3>
+
+<dl>
+  <dt>To do this tutorial you need</dt>
+  <dd>
+    <ul>
+      <li>full-sized images</li>
+      <li>the corresponding thumbnails</li>
+    </ul>
+  </dd>
+  <dt>For the sake of this tutorial we have choosed 4 images</dt>
+  <dd>image1.jpg ; image2.jpg ; image3.jpg and image4.jpg</dd>
+</dl>
+
+<p>Let’s go !</p>
+
+<ol>
+  <li>create a “gallery” directory in the “media” folder of your Silex server</li>
+  <li>in this “gallery” directory create a “full-sized” directory and a “thumb” directory</li>
+  <li>put your full-sized images in the “full-sized” directory and your thumb images in the “thumb directory”</li>
+</ol>
+
+<p><img src="/assets/your-gallery-directory.png" alt="" title="your-gallery-directory" /></p>
+
+<dl>
+  <dt>_**Note</dt>
+  <dd>your full-sized and thumb images must absolutely have the same name and the same extension ! Your images can be in .jpg, .png or .swf format**_</dd>
+</dl>
+
+<h3 id="step-1">Step 1</h3>
+<p>: Display the gallery thumbnail</p>
+
+<ul>
+  <li>
+    <dl>
+      <dt>Put 3 components on the stage from your library</dt>
+      <dd></dd>
+    </dl>
+    <ul>
+      <li>DataSelector (“Selecteur de données” in french)</li>
+      <li>ThumbList skin1 (“Liste de Miniatures” in french)</li>
+      <li>RssConnector (“Connecteur RSS” in french)</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/add_oof_components1.jpg" alt="" title="add_oof_components" /></p>
+
+<ul>
+  <li>Configure your components</li>
+</ul>
+
+<p><strong>- RssConnector :</strong></p>
+
+<dl>
+  <dt>There is two fields to configure</dt>
+  <dd>url base (“URL du fichier” in french) and name (“nom” in french).<br />
+For the url base edit this = «silex.rootUrl»cgi/scripts/rss_browse_folder.php?folder_path=media/gallery/thumb and for the name just put “connector”</dd>
+</dl>
+
+<p><img src="/assets/connector-properties1.png" alt="" title="connector-properties" /></p>
+
+<p><strong>- ThumbList :</strong></p>
+
+<p>For this component you only have to configure its name and named it “thumbList” and that’s all or almost !</p>
+
+<p><img src="/assets/thumblist-properties1.png" alt="" title="thumblist properties" /></p>
+
+<p>In fact, depending on the result that you want, you can change the visual parameters of your thumlist as the row height or the items per row, etc…</p>
+
+<p><img src="/assets/thumblist-visual-parameters.png" alt="" title="thumblist visual parameters" /></p>
+
+<p>Note that for a better display of your thumbnails, it’s better to uncheck the “resize image” box (“redimensionner images” in french) <a href="https://www.silexlabs.org/?attachment_id=1275"><img src="/assets/resize-image-box.png" alt="" title="resize image box" /></a></p>
+
+<p><strong>- DataSelector :</strong></p>
+
+<dl>
+  <dt>4 fields to configure</dt>
+  <dd>the “connector name”, the “list name”, the “icon field” and the “name”</dd>
+</dl>
+
+<p><img src="/assets/selector-properties.png" alt="" title="selector properties" /></p>
+
+<p><img src="/assets/selector-properties-2.png" alt="" title="selector properties 2" /></p>
+
+<dl>
+  <dt>Note</dt>
+  <dd>save the page, refresh and the thumbnails must appear…</dd>
+</dl>
+
+<p>Important ! to see your thumbnails correctly, you must configure accordingly the height and width of your thumblist component and the row height (“hauteur de cellule” in french). Note that you can display several images per line, for that you only have to put the wanted number in the “item per row” box (“éléments par ligne” in french)</p>
+
+<p><strong>Here is the result on our example :</strong></p>
+
+<p><img src="/assets/the-thumbnails-appear.png" alt="" title="the thumbnails appear" /></p>
+
+<h3 id="step-2">Step 2</h3>
+<p>: Display the full-sized images when click on thumbnails</p>
+
+<ul>
+  <li>Add the Image Display component.</li>
+</ul>
+
+<p><img src="/assets/add-image-display-component.jpg" alt="" title="add-image-display-component" /></p>
+
+<ul>
+  <li>Configure your Image Display component</li>
+</ul>
+
+<p>The only thing to change is the width and the height of your image display. Generally it is better to make them match with the width and the height of your full-sized images.</p>
+
+<p><img src="/assets/the-image-display-properties.png" alt="" title="the image display properties" /></p>
+
+<ul>
+  <li>
+    <p>Fill the “commands to execute on click” in the selector component</p>
+  </li>
+  <li>Select your selector</li>
+  <li>choose “commands to execute on click”</li>
+  <li>click on “edit”</li>
+  <li>click on the “+”</li>
+  <li>enter the following command = ImageDisplay.value=media/gallery/full-sized/«title»</li>
+  <li>click on “ok”</li>
+  <li>save and refresh your page</li>
+</ul>
+
+<p><img src="/assets/command-to-add-on-your-selector.png" alt="" title="command to add on your selector" />Your gallery is done !</p>
+
+<p><strong>Here is the result on our example :</strong></p>
+
+<p><strong><img src="/assets/gallery-image1.png" alt="" title="gallery image1" /> <img src="/assets/gallery-image21.png" alt="" title="gallery image2" /></strong></p>
+
+<p><strong><img src="/assets/gallery-image-3.png" alt="" title="gallery image 3" /></strong></p>
+
+<p><img src="/assets/gallery-image41.png" alt="" title="gallery image4" /></p>
+
+<h3 id="step-3-optional">Step 3 (optional)</h3>
+<p>: Load a first image automatically</p>
+
+<dl>
+  <dt>For this</dt>
+  <dd>
+    <ul>
+      <li>select your selector</li>
+      <li>open the “action” toolbox</li>
+      <li>enter the following action</li>
+    </ul>
+  </dd>
+  <dd>onResult selectedIndex=0
+    <ul>
+      <li>confirm</li>
+      <li>save and refresh</li>
+    </ul>
+  </dd>
+</dl>
+
+<p><img src="/assets/action-on-the-selector.png" alt="" title="action on the selector" /></p>
+
+<p>The first image of your gallery appears automatically without to have to click on its thumbnail !</p>
+
+<dl>
+  <dt>This tutorial is finished, but you can look at the other tutorials linked to this one</dt>
+  <dd>
+    <ul>
+      <li><a href="https://www.silexlabs.org/?p=1375">Turn your gallery into a slideshow</a></li>
+      <li><a href="https://www.silexlabs.org/?p=1336">Customize your thumblist</a></li>
+    </ul>
+  </dd>
+</dl>
+</p>
+  
+</article>
+
+
+</div></div><div data-silex-type="container-element" class="editable-style container-element silex-id-1595517439711-1" style=""><a href="https://www.silexlabs.org/join" data-silex-type="text-element" class="editable-style silex-id-1563544847465-8 text-element style-button-green" style="width: 300px; min-height: 41px;"><div class="silex-element-content normal">Rejoignez nous<br></div></a><div data-silex-type="html-element" class="editable-style silex-id-1563544962714-9 html-element silex-component" style=""><div class="silex-element-content">
+<ul class="share-buttons" id="id_1624149636224_143">
+  
+  <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.silexlabs.org/&amp;t=Silex Labs non profit organization" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="https://www.silexlabs.org/assets/Facebook.png"></a></li>
+  
+  
+  <li><a href="https://twitter.com/intent/tweet?source=https://www.silexlabs.org/&amp;text=Silex Labs non profit organization:%20https://www.silexlabs.org/&amp;via=silexlabs" target="_blank" title="Share on Twitter"><img alt="Twitt" src="https://www.silexlabs.org/assets/Twitter.png"></a></li>
+  
+  
+  
+  
+  
+  
+  
+  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.silexlabs.org/&amp;title=Silex Labs non profit organization&amp;summary=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.&amp;source=https://www.silexlabs.org/" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="https://www.silexlabs.org/assets/LinkedIn.png"></a></li>
+  
+  
+  
+  
+  <li><a href="mailto:?subject=Silex Labs non profit organization&amp;body=Silex Labs est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+
+Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.:%20https://www.silexlabs.org/" target="_blank" title="Send email"><img alt="Send by email" src="https://www.silexlabs.org/assets/Email.png"></a></li>
+  
+</ul>
+
+<style type="text/css">#id_1624149636224_143.share-buttons {list-style: none; padding: 0;}#id_1624149636224_143.share-buttons li {display: inline;}#id_1624149636224_143.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
+</div></div><div data-silex-type="html-element" class="editable-style silex-id-1563554584898-11 html-element hide-on-mobile bg-shadow" style=""><div class="silex-element-content">
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&amp;version=v7.0&amp;appId=242623139095821" nonce="0Dnd4VdO" type="text/javascript"></script>
+
+<div class="fb-page" data-href="https://www.facebook.com/silexlabs/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+</div></div></div><div data-silex-type="html-element" class="editable-style silex-id-1564088083884-1 html-element hide-on-mobile max-height bg-shadow" style=""><div class="silex-element-content">
+
+
+<a class="twitter-timeline" href="https://twitter.com/silexlabs?ref_src=twsrc%5Etfw"></a>
+<script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></div></div></div>
+  </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" style="">
+      <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width bg-shadow" style="">
+
+          <div class="editable-style silex-id-1442914737143-3 text-element style-footer" data-silex-type="text-element" style="">
+              <div class="silex-element-content normal"><p><a href="https://www.silex.me/">Powered by Silex</a>, <a href="https://stastic.net/">Stastic</a> <a href="https://jekyllrb.com/">and Jekyll</a><a href="https://pages.github.com/">, </a>hosted on Github pages<a href="https://jekyllrb.com/"><br></a></p><p><a href="https://jekyllrb.com/"></a></p></div>
+          </div>
+      </div>
+  </section><section data-silex-type="container-element" class="prevent-resizable container-element editable-style silex-id-1563544667829-6 section-element"><div data-silex-type="container-element" class="editable-style silex-id-1563544667707-5 container-element silex-element-content website-width"></div></section></body></html>
