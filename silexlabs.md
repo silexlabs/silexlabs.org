@@ -8,7 +8,7 @@ lang: fr
 ---
 ## Présentation de Silex Labs
 
-[Silex Labs](https://www.silexlabs.org/) est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant promotion des technologies libres et de la contribution.
+[Silex Labs](https://www.silexlabs.org/) est une association à but non lucratif reconnue d’intérêt général qui lutte depuis 2009 contre la fracture numérique, en faisant la promotion des technologies libres et de la contribution.
 
 Notre conviction : la contribution change la vie de celui qui contribue et améliore celle des autres.
 
