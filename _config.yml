@@ -24,7 +24,7 @@ exclude:
 
 
 # this fixes an issue in forestry preview server
-repository: lexoyo/silexlabs.org
+repository: silexlabs/silexlabs.org
 
 autopages:
   enabled: true
