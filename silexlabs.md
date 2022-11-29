@@ -16,7 +16,7 @@ Notre conviction : la contribution change la vie de celui qui contribue et amél
 
 ## ADHÉREZ À SILEX LABS
 
-En payant l’adhésion de 15€, vous deviendrez membre de Silex Labs pour l’année **2021**.
+En payant l’adhésion de 15€, vous deviendrez membre de Silex Labs pour l’année **2023**.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">
@@ -34,7 +34,7 @@ Avec les logiciels, méthodologies et langages libres, nous fournissons les conn
 
 ## NOS ACTIONS
 
-Silex Labs organise des ateliers sur des langages, des logiciels et des méthodologies qui couvrent un large spectre des métiers du numérique. Depuis 2013 ans nous avons organisé plus de 160 ateliers qui ont réunit plus de 2000 participants. ([Bilan 2013](https://www.silexlabs.org/bilan-2013-de-silex-labs/), [Bilan 2014,](https://www.silexlabs.org/bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs/)<span style="font-weight: 400;"> [Bilan 2015).](https://www.silexlabs.org/2015-bilan-dune-annee-bien-remplibre/)</span>
+Silex Labs organise des ateliers sur des langages, des logiciels et des méthodologies qui couvrent un large spectre des métiers du numérique. Depuis 2013 nous avons organisé plus de 160 ateliers qui ont réunit plus de 2000 participants. ([Bilan 2013](https://www.silexlabs.org/bilan-2013-de-silex-labs/), [Bilan 2014,](https://www.silexlabs.org/bilan-2014-les-chiffres-et-les-lettres-du-libre-de-silex-labs/)<span style="font-weight: 400;"> [Bilan 2015).](https://www.silexlabs.org/2015-bilan-dune-annee-bien-remplibre/)</span>
 
 En **2016,** Silex Labs a organisé 63 événements en Île-de-France, qui ont rassemblé 1113 participants pour initier et former des jeunes déscolarisés, des chômeurs, des étudiants, des professionnels et le grand public aux langages informatiques, logiciels et méthodologies du libre.
 
