@@ -8,11 +8,9 @@ tags:
 permalink: "/silex-v3-kickoff/"
 
 ---
-![Silex v3 in 2023](/assets/twamjiao.jpg "Silex v3 in 2023")
-
 This is an article about the future of [Silex](https://www.silex.me/ "Silex website builder") by [Alex Hoyau](https://lexoyo.me/ "Alex Hoyau"), the official maintainer of Silex since 2009
 
-# Silex v3 in 2023
+![Silex v3 in 2023](/assets/twamjiao.jpg "Silex v3 in 2023")
 
 Silex website builder v1 was released as open source in 2009 and download a million times, then Silex v2 in 2010 was made an online tool and a downloadable app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite with new tech, a new paradigm.
 
