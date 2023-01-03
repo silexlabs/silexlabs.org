@@ -1,3 +1,5 @@
+Now hosted on netlify, as GH pages build was stuck (2023-01)
+
 ```sh
 $ bundle exec jekyll serve
 ```
