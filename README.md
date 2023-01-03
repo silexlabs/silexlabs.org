@@ -1,3 +1,7 @@
+```sh
+$ bundle exec jekyll serve
+```
+
 colors:
 
 white
