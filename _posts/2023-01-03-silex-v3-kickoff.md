@@ -8,7 +8,9 @@ tags:
 permalink: "/silex-v3-kickoff/"
 
 ---
-> June 2021: This is an article about the future of [Silex](https://www.silex.me/ "Silex website builder") by [Alex Hoyau](https://lexoyo.me/ "Alex Hoyau"), the official maintainer of Silex since 2009
+![Silex v3 in 2023](/assets/twamjiao.jpg "Silex v3 in 2023")
+
+This is an article about the future of [Silex](https://www.silex.me/ "Silex website builder") by [Alex Hoyau](https://lexoyo.me/ "Alex Hoyau"), the official maintainer of Silex since 2009
 
 # Silex v3 in 2023
 
