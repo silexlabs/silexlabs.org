@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: Silex v3 in 2023
 image: "/assets/twamjiao.jpg"
 tags:
 - foss
