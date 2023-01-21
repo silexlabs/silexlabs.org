@@ -12,9 +12,9 @@ This is an article about the future of [Silex](https://www.silex.me/ "Silex webs
 
 ![Silex v3 in 2023](/assets/twamjiao.jpg "Silex v3 in 2023")
 
-Silex website builder v1 was released as open source in 2009 and download a million times, then Silex v2 in 2010 was made an online tool and a downloadable app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite with new tech, a new paradigm.
+Silex website builder v1 was released as open source in 2009, awarded and downloaded a million times, then Silex v2 in 2010 was an online (open source SaaS) tool as well as a desktop installable app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite with new tech, a new paradigm.
 
-Today I'm aiming at a free and open source alternative to Webflow, WordPress Elementor/Divi.
+Today I'm aiming at a free and open source alternative to Webflow and WordPress Elementor/Divi, way faster, hackable, self hosted.
 
 ## Silex v3: no-code meet static
 
