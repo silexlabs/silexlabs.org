@@ -1,8 +1,12 @@
 ---
 layout: post
-title: La diversité dans les métiers du numérique, pourquoi et comment
-image: ''
-tags: []
+title: La diversité dans les métiers du numérique, pourquoi et comment ?
+image: "/assets/vz7aqug7.jpg"
+tags:
+- égalité des chances
+- bénévolat
+- emploi
+- silexlabs
 
 ---
 Les métiers du numérique sont souvent dominés par les passionnés de technologie, ce qui fait que les minorités sont sous-représentées. Cependant, ils offrent de nombreuses opportunités pour ceux qui savent les reconnaître. La demande est élevée et il existe des emplois pour tous les niveaux de compétences, toutes les origines, tous les genres et tous les objectifs professionnels.
