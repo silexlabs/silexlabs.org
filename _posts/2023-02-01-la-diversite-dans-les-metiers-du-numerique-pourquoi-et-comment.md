@@ -7,9 +7,12 @@ tags:
 - bénévolat
 - emploi
 - silexlabs
+permalink: "/la-diversite-dans-les-metiers-du-numerique/"
 
 ---
-Les métiers du numérique sont souvent dominés par les passionnés de technologie, ce qui fait que les minorités sont sous-représentées. Cependant, ils offrent de nombreuses opportunités pour ceux qui savent les reconnaître. La demande est élevée et il existe des emplois pour tous les niveaux de compétences, toutes les origines, tous les genres et tous les objectifs professionnels.
+Les métiers du numérique sont dominés par les passionnés de technologie, les minorités sont sous-représentées. Cependant, ils offrent de nombreuses opportunités pour ceux qui savent les reconnaître. La demande est élevée et il existe des emplois pour tous les niveaux de compétences, toutes les origines, tous les genres et tous les objectifs professionnels.
+
+![](/assets/vz7aqug7.jpg)
 
 ## Quels avantages à travailler dans le numérique ?
 
