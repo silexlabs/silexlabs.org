@@ -34,7 +34,7 @@ That is the plan, in that order.
 
 I am creating a small group of ambassadors. Here are the ambassadors goals:
 
-1. Become a Silex power user
+1. Become a Silex champion
 2. Make sure Silex becomes a useful no-code tool
 3. Grow the community and make Silex a sustainable open source project
 
