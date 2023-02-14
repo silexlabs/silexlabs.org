@@ -8,7 +8,7 @@ tags:
 permalink: "/silex-v3-kickoff/"
 
 ---
-Silex website builder next version aims  bridging the gap between no-code, static tech and free software, [subscribe to the newsletter and be part of it](https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&source=silexlabs.org "silex newsletter ")
+Silex website builder next version aims at bridging the gap between no-code, static tech and free software, [subscribe to the newsletter and be part of it](https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&source=silexlabs.org "silex newsletter ")
 
 This is an article about the future of [Silex](https://www.silex.me/ "Silex website builder") by [Alex Hoyau](https://lexoyo.me/ "Alex Hoyau"), the official maintainer of Silex since 2009
 
