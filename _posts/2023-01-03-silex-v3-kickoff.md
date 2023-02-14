@@ -14,7 +14,7 @@ This is an article about the future of [Silex](https://www.silex.me/ "Silex webs
 
 ![Silex v3 in 2023](/assets/twamjiao.jpg "Silex v3 in 2023")
 
-[Silex website builder](https://www.silex.me/ "Silex free and open source website builder since 2009") v1 was [released as open source in 2009](https://www.silexlabs.org/silex-v1-5-3-comet-est-sortie/), awarded and downloaded a million times, then [Silex v2 in 2010 was an online (open source SaaS) tool](https://www.silexlabs.org/silex-v2-createur-de-site-web-attendiez/ "Silex v2 changes") as well as a desktop installable app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite with new tech, a new paradigm.
+[Silex website builder](https://www.silex.me/ "Silex free and open source website builder since 2009") v1 was [released as open source in 2009](https://en.m.wikipedia.org/wiki/Silex_website_builder), awarded and downloaded a million times, then [Silex v2 in 2010 was an online (open source SaaS) tool](https://www.silexlabs.org/silex-v2-createur-de-site-web-attendiez/ "Silex v2 changes") as well as a desktop installable app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite with new tech, a new paradigm.
 
 Today I'm aiming at a free and open source alternative to Webflow and WordPress Elementor/Divi, and it will be **hackable, self hosted, producing websites that are faster to load, greener, better at SEO.**
 
