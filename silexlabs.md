@@ -57,10 +57,12 @@ Deux permanents en poste sont chargés de la communication et de l’organisatio
 
 Beaucoup de nos événements sont gratuits, mais si vous souhaitez avoir accès à l’ensemble des ateliers et nous soutenir, vous pouvez adhérer à l’association (cotisation annuelle de 15€) ou faire une donation plus importante si vous le souhaitez (vos dons sont déductibles de vos impôts à 66%).
 
-<br/><br/><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="h_dden" value="_s-xclick">
-<input name="hosted_button_id" type="hidden" value="VY5MXUNYUDVKA">
-<input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">
-</form>_<br/><br/>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input name="cmd" type="h_dden" value="_s-xclick">
+  <input name="hosted_button_id" type="hidden" value="VY5MXUNYUDVKA">
+  <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">
+
+</form>
 
 ## RESTONS CONNECTÉS
 
@@ -114,12 +116,12 @@ If you want to change the world, contribute and show others how good it is to co
 
 You can make a donation too, we will use it to organize workshops:
 
-<br/><br/><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="52STZCKSQ5SWA">
 
 <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_paynowCC_LG.gif" type="image"> <input alt="PayPal, le réflexe sécurité pour payer en ligne" name="submit" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" type="image">
 
-</form><br/><br/>
+</form>
 
 ***
 
