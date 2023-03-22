@@ -18,6 +18,14 @@ formId: "e2c8d021-73e0-4cbd-8bdd-23000027fa53"
 });
 </script>
 
+## Supportez les
+
+Pour recevoir un CV de personne qui cherche un premier poste dans le numérique, inscrivez vous a cette liste
+
+<iframe id="hs-form-iframe-0" class="hs-form-iframe" title="Form 0" scrolling="no" style="position: static; border: medium none; display: block; overflow: hidden; width: 100%; height: 501px;" src="https://mail-list.silexlabs.org/subscription/pEGsnoWxVJ?locale=fr-FR" width="100%" height="501"></iframe>
+
+## Supportez nous
+
 Voici les autres moyens de nous rejoindre
 
 1. [Venez à notre rencontre sur le chat framateam](https://framateam.org/signup_email?id=x1ay4zdjdffh5j67xzkfsofpyw), ou contactez nous par mail à contact \[à\] silexlabs.org
