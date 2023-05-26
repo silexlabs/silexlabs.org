@@ -5,6 +5,7 @@ image: "/assets/twamjiao.jpg"
 tags:
 - foss
 - silex
+- v3
 permalink: "/silex-v3-kickoff/"
 
 ---
