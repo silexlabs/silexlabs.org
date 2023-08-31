@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silex Road Map for 2023: free software ❤ no-code ❤ JAMStack/Composable/static"
+title: "Silex Road Map for 2023: Free Software ❤ No-Code ❤ Tech (JAMStack/Composable/static, Headless CMS, APIs)"
 image: "/assets/twamjiao.jpg"
 tags:
 - foss
