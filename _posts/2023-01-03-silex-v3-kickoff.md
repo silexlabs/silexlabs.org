@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Silex v3 in 2023
+title: "Silex Road Map for 2023: free software ❤ no-code ❤ JAMStack/Composable/static"
 image: "/assets/twamjiao.jpg"
 tags:
 - foss
