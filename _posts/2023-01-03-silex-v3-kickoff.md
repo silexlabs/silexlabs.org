@@ -19,11 +19,11 @@ This is an article about the future of [Silex](https://www.silex.me/ "Silex webs
 
 Today I'm aiming at a free and open source alternative to Webflow and WordPress Elementor/Divi, and it will be **hackable, self hosted, producing websites that are faster to load, greener, better at SEO.**
 
-## Silex v3: no-code meet static
+## No-code meet static, Silex v3 road map
 
 I have been the developer behind all versions, I wrote 99% of the code and I have hold the vision from the start - and 2009 was before Wix, before no-code.
 
-Today I envision Silex as the bridge between 2 worlds: **no-code** and [**JAMStack (static)**](https://jamstack.org/ "JAMStack technology") / Composable architecture. It will offer as a free and open source software all the key features of Webflow with these components:
+Today I envision Silex as the bridge between 2 worlds: **no-code** and [**JAMStack (static)**](https://jamstack.org/ "JAMStack technology") / Composable architecture. It will offer as a free and open source software all the key features of Webflow with these components, each one being a step in Silex development, this is as close as I can get to a **road map**:
 
 1. A drag and drop web design tool, showing all the CSS features in a class-based style manager - that is the no-code part and it will be based on the [GrapesJS](https://grapesjs.com/ "Grapes JS web builder framework") framework. This part is today's Silex v2 scope, and will still be useful by itself for smaller simpler websites
 2. An integration with any [headless CMS](https://jamstack.org/headless-cms/ "Headless CMS") - such as [Directus](https://directus.io/ "headless cms directus") or [Strapi](https://strapi.io/ "Strapi headless cms"), to visually design your website with real data. More generally import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...). For this I considere using [Contentlayer](https://github.com/contentlayerdev/contentlayer "contentlayer"). This includes collection pages, loops/repeaters, dynamic properties
