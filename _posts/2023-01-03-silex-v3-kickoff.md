@@ -43,7 +43,7 @@ Please apply for a seat at the new ambassador program: email me or ping me [in t
 
 ## Motivations
 
-I'm a fan of no-code in general and Webflow in particular, I admit it ! But their pricing is a bit off and I want to be able to make sites with **static / JAMStack technology**
+I'm a fan of no-code in general and Webflow in particular, I admit it ! But their pricing is a bit off and I want to be able to make sites with **static / JAMStack technology / Composable architecture**
 
 I also like being able to **host websites and the app** on my (green) server and have the code of my sites versioned with git.
 
