@@ -9,7 +9,7 @@ tags:
 permalink: "/silex-v3-kickoff/"
 
 ---
-Silex website builder next version aims at bridging the gap between no-code, static tech and free software, [subscribe to the newsletter and be part of it](https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&source=silexlabs.org "silex newsletter ")
+Silex website builder next version aims at bridging the gap between no-code, static tech and free software, [subscribe to the newsletter and be part of it](https://short.silex.me/news_en "silex newsletter ")
 
 This is an article about the future of [Silex](https://www.silex.me/ "Silex website builder") by [Alex Hoyau](https://lexoyo.me/ "Alex Hoyau"), the official maintainer of Silex since 2009
 
@@ -26,7 +26,7 @@ I have been the developer behind all versions, I wrote 99% of the code and I hav
 Today I envision Silex as the bridge between 2 worlds: **no-code** and [**JAMStack (static)**](https://jamstack.org/ "JAMStack technology") / Composable architecture. It will offer as a free and open source software all the key features of Webflow with these components, each one being a step in Silex development, this is as close as I can get to a **road map**:
 
 1. A drag and drop web design tool, showing all the CSS features in a class-based style manager - that is the no-code part and it will be based on the [GrapesJS](https://grapesjs.com/ "Grapes JS web builder framework") framework. This part is today's Silex v2 scope, and will still be useful by itself for smaller simpler websites
-2. An integration with any [headless CMS](https://jamstack.org/headless-cms/ "Headless CMS") - such as [Directus](https://directus.io/ "headless cms directus") or [Strapi](https://strapi.io/ "Strapi headless cms"), to visually design your website with real data. More generally import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...). For this I considere using [Contentlayer](https://github.com/contentlayerdev/contentlayer "contentlayer"). This includes collection pages, loops/repeaters, dynamic properties
+2. An integration with any [headless CMS](https://jamstack.org/headless-cms/ "Headless CMS") - such as WordPress or [Strapi](https://strapi.io/ "Strapi headless cms"), to visually design your website with real data. More generally import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...). This includes collection pages, loops/repeaters, dynamic properties
 3. Integration with [static site generators](https://jamstack.org/generators/ "Static site generators"): components which transparently generate snipets of templates [(ejs](https://ejs.co/ "EJS template"), [liquidjs](https://liquidjs.com/ "Liquidjs templates"), [twig](https://twig.symfony.com/ "twig templates"), ...) so that we can create Jekyll or [eleventy](https://www.11ty.dev/ "Eleventy SSG") layouts
 
 That is the plan, in that order.
@@ -39,7 +39,7 @@ I am creating a small group of ambassadors. Here are the ambassadors goals:
 2. Make sure Silex becomes a useful no-code tool
 3. Grow the community and make Silex a sustainable open source project
 
-Please apply for a seat at the new ambassador program: email me or ping me [in the forums](https://github.com/silexlabs/Silex/discussions "Silex forums")
+Please apply for a seat at the new ambassador program: email me or ping me [in the forums](https://short.silex.me/community "Silex forums") or [in the chat](https://short.silex.me/chat "Silex chat")
 
 ## Motivations
 
@@ -59,7 +59,7 @@ My other motivations
 
 * [Silex Labs](https://www.silexlabs.org/ "Silex Labs organization") or other NGOs need free tools
 * [Internet 2000](https://internet2000.net/ "Green websites") need a self hostable hackable tool to create green websites
-* No code has serious **alternatives for everything but Webflow**:
+* No code has serious **alternatives for everything but Webflow** (unfortunately most of them are open core, which is the freemium of open source):
   * Bubble has [Appsmith](https://alternativeto.net/software/appsmith/about/)
   * Airtable has [NocoDB](https://alternativeto.net/software/nocodb/about/)
   * Notion has [AppFlowy](https://alternativeto.net/software/appflowy/about/)
